@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/annotation
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/annotation/package-info.java
+END
+DirtiesContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/annotation/DirtiesContext.java
+END
+Timed.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/annotation/Timed.java
+END
+Commit.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/annotation/Commit.java
+END
+ProfileValueUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/annotation/ProfileValueUtils.java
+END
+ProfileValueSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/annotation/ProfileValueSource.java
+END
+SystemProfileValueSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/annotation/SystemProfileValueSource.java
+END
+TestAnnotationUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/annotation/TestAnnotationUtils.java
+END
+ProfileValueSourceConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/annotation/ProfileValueSourceConfiguration.java
+END
+IfProfileValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/annotation/IfProfileValue.java
+END
+Repeat.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/annotation/Repeat.java
+END
+Rollback.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/annotation/Rollback.java
+END

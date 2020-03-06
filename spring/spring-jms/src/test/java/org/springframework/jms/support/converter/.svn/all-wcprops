@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/test/java/org/springframework/jms/support/converter
+END
+MarshallingMessageConverterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/test/java/org/springframework/jms/support/converter/MarshallingMessageConverterTests.java
+END
+MappingJackson2MessageConverterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/test/java/org/springframework/jms/support/converter/MappingJackson2MessageConverterTests.java
+END
+MessagingMessageConverterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/test/java/org/springframework/jms/support/converter/MessagingMessageConverterTests.java
+END

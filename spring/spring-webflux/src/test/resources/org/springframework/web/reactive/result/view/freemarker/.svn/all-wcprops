@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/resources/org/springframework/web/reactive/result/view/freemarker
+END
+test-macro.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/resources/org/springframework/web/reactive/result/view/freemarker/test-macro.ftl
+END
+test.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/resources/org/springframework/web/reactive/result/view/freemarker/test.ftl
+END

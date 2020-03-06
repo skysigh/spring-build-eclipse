@@ -1,0 +1,54 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-oxm/build/classes/java/main/org/springframework/oxm/jibx
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+JibxMarshaller.class
+file
+
+
+
+
+2020-03-06T03:51:21.757000Z
+d2ed29c911690853e14a95bc18ae0071
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+
+package-info.class
+file
+
+
+
+
+2020-03-06T03:51:21.775000Z
+da81f13a7f304be07ee33fcd5693c896
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+

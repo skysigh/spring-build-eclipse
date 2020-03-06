@@ -1,0 +1,76 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-beans
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+.classpath
+file
+
+
+
+
+2020-03-06T03:44:45.747000Z
+dca79ec9ad95871d89a65f548c8d5cbd
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+.project
+file
+
+
+
+
+2020-03-06T03:44:45.763000Z
+11bb800c6facec4367f98d8a6873e665
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+.settings
+dir
+
+bin
+dir
+
+build
+dir
+
+spring-beans.gradle
+file
+
+
+
+
+2020-03-06T03:45:22.183000Z
+fcb93c979dae1609b9feb067ae3f58af
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+src
+dir
+

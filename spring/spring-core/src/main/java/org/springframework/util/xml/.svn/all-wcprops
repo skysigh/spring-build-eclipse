@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/xml
+END
+StaxStreamXMLReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/xml/StaxStreamXMLReader.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/xml/package-info.java
+END
+XmlValidationModeDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/xml/XmlValidationModeDetector.java
+END
+StaxResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/xml/StaxResult.java
+END
+ListBasedXMLEventReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/xml/ListBasedXMLEventReader.java
+END
+XMLEventStreamReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/xml/XMLEventStreamReader.java
+END
+StaxSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/xml/StaxSource.java
+END
+StaxStreamHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/xml/StaxStreamHandler.java
+END
+AbstractXMLStreamReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/xml/AbstractXMLStreamReader.java
+END
+AbstractXMLEventReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/xml/AbstractXMLEventReader.java
+END
+SimpleNamespaceContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/xml/SimpleNamespaceContext.java
+END
+DomUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/xml/DomUtils.java
+END
+AbstractStaxHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/xml/AbstractStaxHandler.java
+END
+AbstractStaxXMLReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/xml/AbstractStaxXMLReader.java
+END
+XMLEventStreamWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/xml/XMLEventStreamWriter.java
+END
+SimpleSaxErrorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/xml/SimpleSaxErrorHandler.java
+END
+AbstractXMLReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/xml/AbstractXMLReader.java
+END
+StaxUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/xml/StaxUtils.java
+END
+SimpleTransformErrorListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/xml/SimpleTransformErrorListener.java
+END
+StaxEventHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/xml/StaxEventHandler.java
+END
+DomContentHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/xml/DomContentHandler.java
+END
+StaxEventXMLReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/xml/StaxEventXMLReader.java
+END
+TransformerUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/xml/TransformerUtils.java
+END

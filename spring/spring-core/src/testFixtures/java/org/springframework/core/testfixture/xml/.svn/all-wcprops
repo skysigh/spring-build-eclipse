@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/testFixtures/java/org/springframework/core/testfixture/xml
+END
+XmlContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/testFixtures/java/org/springframework/core/testfixture/xml/XmlContent.java
+END
+XmlContentAssert.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/testFixtures/java/org/springframework/core/testfixture/xml/XmlContentAssert.java
+END

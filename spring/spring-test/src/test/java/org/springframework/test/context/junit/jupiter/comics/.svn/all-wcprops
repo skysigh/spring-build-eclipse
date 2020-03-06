@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit/jupiter/comics
+END
+Dog.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit/jupiter/comics/Dog.java
+END
+Cat.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit/jupiter/comics/Cat.java
+END
+Character.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit/jupiter/comics/Character.java
+END
+Person.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit/jupiter/comics/Person.java
+END

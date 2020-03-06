@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/io/buffer
+END
+NettyDataBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/io/buffer/NettyDataBuffer.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/io/buffer/package-info.java
+END
+LimitedDataBufferList.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/io/buffer/LimitedDataBufferList.java
+END
+NettyDataBufferFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/io/buffer/NettyDataBufferFactory.java
+END
+DataBufferFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/io/buffer/DataBufferFactory.java
+END
+DataBufferLimitException.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/io/buffer/DataBufferLimitException.java
+END
+PooledDataBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/io/buffer/PooledDataBuffer.java
+END
+DataBufferUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/io/buffer/DataBufferUtils.java
+END
+DefaultDataBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/io/buffer/DefaultDataBuffer.java
+END
+DataBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/io/buffer/DataBuffer.java
+END
+DefaultDataBufferFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/io/buffer/DefaultDataBufferFactory.java
+END
+DataBufferWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/io/buffer/DataBufferWrapper.java
+END

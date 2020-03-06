@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/test/java/org/springframework/web/socket/server/standard
+END
+SpringConfiguratorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/test/java/org/springframework/web/socket/server/standard/SpringConfiguratorTests.java
+END
+ServerEndpointRegistrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/test/java/org/springframework/web/socket/server/standard/ServerEndpointRegistrationTests.java
+END
+ServerEndpointExporterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/test/java/org/springframework/web/socket/server/standard/ServerEndpointExporterTests.java
+END

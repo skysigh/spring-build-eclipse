@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/testFixtures/java/org/springframework/context/testfixture/jndi
+END
+SimpleNamingContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/testFixtures/java/org/springframework/context/testfixture/jndi/SimpleNamingContext.java
+END
+ExpectedLookupTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/testFixtures/java/org/springframework/context/testfixture/jndi/ExpectedLookupTemplate.java
+END
+SimpleNamingContextBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/testFixtures/java/org/springframework/context/testfixture/jndi/SimpleNamingContextBuilder.java
+END

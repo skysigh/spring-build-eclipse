@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/resources/org/springframework/web/servlet/resource/test/foo-bar
+END
+foo-bar.css
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/resources/org/springframework/web/servlet/resource/test/foo-bar/foo-bar.css
+END

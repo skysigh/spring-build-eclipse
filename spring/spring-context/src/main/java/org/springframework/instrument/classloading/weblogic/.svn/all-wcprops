@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/instrument/classloading/weblogic
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/instrument/classloading/weblogic/package-info.java
+END
+WebLogicLoadTimeWeaver.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/instrument/classloading/weblogic/WebLogicLoadTimeWeaver.java
+END
+WebLogicClassLoaderAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/instrument/classloading/weblogic/WebLogicClassLoaderAdapter.java
+END
+WebLogicClassPreProcessorAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/instrument/classloading/weblogic/WebLogicClassPreProcessorAdapter.java
+END

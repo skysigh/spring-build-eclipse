@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/main/java/org/springframework/scheduling/quartz
+END
+SchedulerContextAware.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/main/java/org/springframework/scheduling/quartz/SchedulerContextAware.java
+END
+SimpleThreadPoolTaskExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/main/java/org/springframework/scheduling/quartz/SimpleThreadPoolTaskExecutor.java
+END
+SpringBeanJobFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/main/java/org/springframework/scheduling/quartz/SpringBeanJobFactory.java
+END
+JobDetailFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/main/java/org/springframework/scheduling/quartz/JobDetailFactoryBean.java
+END
+QuartzJobBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/main/java/org/springframework/scheduling/quartz/QuartzJobBean.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/main/java/org/springframework/scheduling/quartz/package-info.java
+END
+AdaptableJobFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/main/java/org/springframework/scheduling/quartz/AdaptableJobFactory.java
+END
+JobMethodInvocationFailedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/main/java/org/springframework/scheduling/quartz/JobMethodInvocationFailedException.java
+END
+SchedulerFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/main/java/org/springframework/scheduling/quartz/SchedulerFactoryBean.java
+END
+CronTriggerFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/main/java/org/springframework/scheduling/quartz/CronTriggerFactoryBean.java
+END
+LocalTaskExecutorThreadPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/main/java/org/springframework/scheduling/quartz/LocalTaskExecutorThreadPool.java
+END
+SimpleTriggerFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/main/java/org/springframework/scheduling/quartz/SimpleTriggerFactoryBean.java
+END
+DelegatingJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/main/java/org/springframework/scheduling/quartz/DelegatingJob.java
+END
+MethodInvokingJobDetailFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/main/java/org/springframework/scheduling/quartz/MethodInvokingJobDetailFactoryBean.java
+END
+SchedulerAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/main/java/org/springframework/scheduling/quartz/SchedulerAccessor.java
+END
+SchedulerAccessorBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/main/java/org/springframework/scheduling/quartz/SchedulerAccessorBean.java
+END
+LocalDataSourceJobStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/main/java/org/springframework/scheduling/quartz/LocalDataSourceJobStore.java
+END
+ResourceLoaderClassLoadHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/main/java/org/springframework/scheduling/quartz/ResourceLoaderClassLoadHelper.java
+END

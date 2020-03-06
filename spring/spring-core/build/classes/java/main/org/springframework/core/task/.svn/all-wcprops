@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/task
+END
+TaskTimeoutException.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/task/TaskTimeoutException.class
+END
+SimpleAsyncTaskExecutor.class
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/task/SimpleAsyncTaskExecutor.class
+END
+TaskRejectedException.class
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/task/TaskRejectedException.class
+END
+AsyncListenableTaskExecutor.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/task/AsyncListenableTaskExecutor.class
+END
+AsyncTaskExecutor.class
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/task/AsyncTaskExecutor.class
+END
+TaskDecorator.class
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/task/TaskDecorator.class
+END
+SimpleAsyncTaskExecutor$ConcurrencyThrottleAdapter.class
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/task/SimpleAsyncTaskExecutor$ConcurrencyThrottleAdapter.class
+END
+package-info.class
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/task/package-info.class
+END
+TaskExecutor.class
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/task/TaskExecutor.class
+END
+SyncTaskExecutor.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/task/SyncTaskExecutor.class
+END
+SimpleAsyncTaskExecutor$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/task/SimpleAsyncTaskExecutor$1.class
+END
+SimpleAsyncTaskExecutor$ConcurrencyThrottlingRunnable.class
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/task/SimpleAsyncTaskExecutor$ConcurrencyThrottlingRunnable.class
+END

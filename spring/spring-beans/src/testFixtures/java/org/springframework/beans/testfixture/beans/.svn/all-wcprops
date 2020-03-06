@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/testFixtures/java/org/springframework/beans/testfixture/beans
+END
+CollectingReaderEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/testFixtures/java/org/springframework/beans/testfixture/beans/CollectingReaderEventListener.java
+END
+Employee.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/testFixtures/java/org/springframework/beans/testfixture/beans/Employee.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/testFixtures/java/org/springframework/beans/testfixture/beans/package-info.java
+END
+GenericIntegerBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/testFixtures/java/org/springframework/beans/testfixture/beans/GenericIntegerBean.java
+END
+AnnotatedBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/testFixtures/java/org/springframework/beans/testfixture/beans/AnnotatedBean.java
+END
+NestedTestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/testFixtures/java/org/springframework/beans/testfixture/beans/NestedTestBean.java
+END
+DependenciesBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/testFixtures/java/org/springframework/beans/testfixture/beans/DependenciesBean.java
+END
+CountingTestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/testFixtures/java/org/springframework/beans/testfixture/beans/CountingTestBean.java
+END
+Colour.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/testFixtures/java/org/springframework/beans/testfixture/beans/Colour.java
+END
+GenericBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/testFixtures/java/org/springframework/beans/testfixture/beans/GenericBean.java
+END
+DummyBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/testFixtures/java/org/springframework/beans/testfixture/beans/DummyBean.java
+END
+NumberTestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/testFixtures/java/org/springframework/beans/testfixture/beans/NumberTestBean.java
+END
+ITestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/testFixtures/java/org/springframework/beans/testfixture/beans/ITestBean.java
+END
+INestedTestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/testFixtures/java/org/springframework/beans/testfixture/beans/INestedTestBean.java
+END
+GenericSetOfIntegerBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/testFixtures/java/org/springframework/beans/testfixture/beans/GenericSetOfIntegerBean.java
+END
+LifecycleBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/testFixtures/java/org/springframework/beans/testfixture/beans/LifecycleBean.java
+END
+IOther.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/testFixtures/java/org/springframework/beans/testfixture/beans/IOther.java
+END
+MustBeInitialized.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/testFixtures/java/org/springframework/beans/testfixture/beans/MustBeInitialized.java
+END
+CustomEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/testFixtures/java/org/springframework/beans/testfixture/beans/CustomEnum.java
+END
+SerializablePerson.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/testFixtures/java/org/springframework/beans/testfixture/beans/SerializablePerson.java
+END
+TestAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/testFixtures/java/org/springframework/beans/testfixture/beans/TestAnnotation.java
+END
+FactoryMethods.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/testFixtures/java/org/springframework/beans/testfixture/beans/FactoryMethods.java
+END
+Pet.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/testFixtures/java/org/springframework/beans/testfixture/beans/Pet.java
+END
+Person.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/testFixtures/java/org/springframework/beans/testfixture/beans/Person.java
+END
+TestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/testFixtures/java/org/springframework/beans/testfixture/beans/TestBean.java
+END
+AgeHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/testFixtures/java/org/springframework/beans/testfixture/beans/AgeHolder.java
+END
+IndexedTestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/testFixtures/java/org/springframework/beans/testfixture/beans/IndexedTestBean.java
+END
+DerivedTestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/testFixtures/java/org/springframework/beans/testfixture/beans/DerivedTestBean.java
+END
+BooleanTestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/testFixtures/java/org/springframework/beans/testfixture/beans/BooleanTestBean.java
+END
+DummyFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/testFixtures/java/org/springframework/beans/testfixture/beans/DummyFactory.java
+END
+HasMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/testFixtures/java/org/springframework/beans/testfixture/beans/HasMap.java
+END
+PackageLevelVisibleBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/testFixtures/java/org/springframework/beans/testfixture/beans/PackageLevelVisibleBean.java
+END
+SideEffectBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/testFixtures/java/org/springframework/beans/testfixture/beans/SideEffectBean.java
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/jmx/export/metadata
+END
+JmxAttributeSource.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/jmx/export/metadata/JmxAttributeSource.class
+END
+JmxMetadataUtils.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/jmx/export/metadata/JmxMetadataUtils.class
+END
+ManagedResource.class
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/jmx/export/metadata/ManagedResource.class
+END
+AbstractJmxAttribute.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/jmx/export/metadata/AbstractJmxAttribute.class
+END
+ManagedNotification.class
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/jmx/export/metadata/ManagedNotification.class
+END
+InvalidMetadataException.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/jmx/export/metadata/InvalidMetadataException.class
+END
+ManagedOperationParameter.class
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/jmx/export/metadata/ManagedOperationParameter.class
+END
+ManagedOperation.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/jmx/export/metadata/ManagedOperation.class
+END
+ManagedAttribute.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/jmx/export/metadata/ManagedAttribute.class
+END
+ManagedMetric.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/jmx/export/metadata/ManagedMetric.class
+END
+package-info.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/jmx/export/metadata/package-info.class
+END

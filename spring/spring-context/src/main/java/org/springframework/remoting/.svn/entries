@@ -1,0 +1,121 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-context/src/main/java/org/springframework/remoting
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+RemoteAccessException.java
+file
+
+
+
+
+2020-03-06T03:47:23.082000Z
+a8e3386ea8047564f910024aeaa1e342
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+RemoteConnectFailureException.java
+file
+
+
+
+
+2020-03-06T03:47:23.095000Z
+03ae25d126c63209a139c42db174cc87
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+RemoteInvocationFailureException.java
+file
+
+
+
+
+2020-03-06T03:47:23.106000Z
+2cc514cb1aee5b7954258d3749f37c87
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+RemoteLookupFailureException.java
+file
+
+
+
+
+2020-03-06T03:47:23.116000Z
+0c48882cba6a2142986f1dc68c4caeaf
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+RemoteProxyFailureException.java
+file
+
+
+
+
+2020-03-06T03:47:23.127000Z
+099110646711618351a6456fd771a79c
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+RemoteTimeoutException.java
+file
+
+
+
+
+2020-03-06T03:47:23.139000Z
+c99a7b93f768103dd04e6cd9d0123752
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+package-info.java
+file
+
+
+
+
+2020-03-06T03:47:23.149000Z
+1e5214e748b6c0a298d426e7582202c2
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+rmi
+dir
+
+soap
+dir
+
+support
+dir
+

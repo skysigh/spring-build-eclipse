@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/scheduling
+END
+SchedulingAwareRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/scheduling/SchedulingAwareRunnable.java
+END
+Trigger.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/scheduling/Trigger.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/scheduling/package-info.java
+END
+TaskScheduler.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/scheduling/TaskScheduler.java
+END
+SchedulingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/scheduling/SchedulingException.java
+END
+SchedulingTaskExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/scheduling/SchedulingTaskExecutor.java
+END
+TriggerContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/scheduling/TriggerContext.java
+END

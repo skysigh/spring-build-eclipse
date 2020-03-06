@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/web
+END
+WebTestConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/web/WebTestConfiguration.java
+END
+AbstractBasicWacTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/web/AbstractBasicWacTests.java
+END
+JUnit4SpringContextWebTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/web/JUnit4SpringContextWebTests.java
+END
+ServletTestExecutionListenerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/web/ServletTestExecutionListenerTests.java
+END
+ServletContextAwareBeanWacTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/web/ServletContextAwareBeanWacTests.java
+END
+AnnotationConfigWebContextLoaderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/web/AnnotationConfigWebContextLoaderTests.java
+END
+ServletTestExecutionListenerJUnitIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/web/ServletTestExecutionListenerJUnitIntegrationTests.java
+END
+GenericXmlWebContextLoaderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/web/GenericXmlWebContextLoaderTests.java
+END
+BasicGroovyWacTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/web/BasicGroovyWacTests.java
+END
+BasicAnnotationConfigWacTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/web/BasicAnnotationConfigWacTests.java
+END
+RequestAndSessionScopedBeansWacTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/web/RequestAndSessionScopedBeansWacTests.java
+END
+BasicXmlWacTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/web/BasicXmlWacTests.java
+END
+MetaAnnotationConfigWacTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/web/MetaAnnotationConfigWacTests.java
+END
+WebAppConfigurationBootstrapWithTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/web/WebAppConfigurationBootstrapWithTests.java
+END
+ServletContextAwareBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/web/ServletContextAwareBean.java
+END

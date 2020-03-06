@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/test/resources/org/springframework/cache/jcache/config
+END
+jCacheNamespaceDriven-resolver.xml
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/test/resources/org/springframework/cache/jcache/config/jCacheNamespaceDriven-resolver.xml
+END
+jCacheNamespaceDriven.xml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/test/resources/org/springframework/cache/jcache/config/jCacheNamespaceDriven.xml
+END
+jCacheStandaloneConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/test/resources/org/springframework/cache/jcache/config/jCacheStandaloneConfig.xml
+END

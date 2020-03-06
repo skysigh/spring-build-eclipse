@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/src/main/java/org/springframework/expression/spel
+END
+SpelCompilerMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/src/main/java/org/springframework/expression/spel/SpelCompilerMode.java
+END
+CodeFlow.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/src/main/java/org/springframework/expression/spel/CodeFlow.java
+END
+SpelNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/src/main/java/org/springframework/expression/spel/SpelNode.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/src/main/java/org/springframework/expression/spel/package-info.java
+END
+CompilablePropertyAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/src/main/java/org/springframework/expression/spel/CompilablePropertyAccessor.java
+END
+SpelParserConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/src/main/java/org/springframework/expression/spel/SpelParserConfiguration.java
+END
+CompiledExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/src/main/java/org/springframework/expression/spel/CompiledExpression.java
+END
+SpelParseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/src/main/java/org/springframework/expression/spel/SpelParseException.java
+END
+SpelEvaluationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/src/main/java/org/springframework/expression/spel/SpelEvaluationException.java
+END
+ExpressionState.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/src/main/java/org/springframework/expression/spel/ExpressionState.java
+END
+SpelMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/src/main/java/org/springframework/expression/spel/SpelMessage.java
+END
+InternalParseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/src/main/java/org/springframework/expression/spel/InternalParseException.java
+END

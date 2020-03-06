@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/web/reactive/server/samples
+END
+XmlContentTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/web/reactive/server/samples/XmlContentTests.java
+END
+ExchangeMutatorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/web/reactive/server/samples/ExchangeMutatorTests.java
+END
+JsonContentTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/web/reactive/server/samples/JsonContentTests.java
+END
+ResponseEntityTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/web/reactive/server/samples/ResponseEntityTests.java
+END
+HeaderAndCookieTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/web/reactive/server/samples/HeaderAndCookieTests.java
+END
+ErrorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/web/reactive/server/samples/ErrorTests.java
+END
+Person.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/web/reactive/server/samples/Person.java
+END

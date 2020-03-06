@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/instrument/classloading
+END
+ReflectiveLoadTimeWeaverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/instrument/classloading/ReflectiveLoadTimeWeaverTests.java
+END
+ResourceOverridingShadowingClassLoaderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/instrument/classloading/ResourceOverridingShadowingClassLoaderTests.java
+END
+InstrumentableClassLoaderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/instrument/classloading/InstrumentableClassLoaderTests.java
+END

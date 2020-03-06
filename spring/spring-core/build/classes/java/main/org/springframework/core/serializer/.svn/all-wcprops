@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/serializer
+END
+DefaultSerializer.class
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/serializer/DefaultSerializer.class
+END
+DefaultDeserializer.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/serializer/DefaultDeserializer.class
+END
+Serializer.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/serializer/Serializer.class
+END
+Deserializer.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/serializer/Deserializer.class
+END
+package-info.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/serializer/package-info.class
+END

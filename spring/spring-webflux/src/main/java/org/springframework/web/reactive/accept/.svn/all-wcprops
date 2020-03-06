@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/main/java/org/springframework/web/reactive/accept
+END
+FixedContentTypeResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/main/java/org/springframework/web/reactive/accept/FixedContentTypeResolver.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/main/java/org/springframework/web/reactive/accept/package-info.java
+END
+RequestedContentTypeResolverBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/main/java/org/springframework/web/reactive/accept/RequestedContentTypeResolverBuilder.java
+END
+RequestedContentTypeResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/main/java/org/springframework/web/reactive/accept/RequestedContentTypeResolver.java
+END
+HeaderContentTypeResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/main/java/org/springframework/web/reactive/accept/HeaderContentTypeResolver.java
+END
+ParameterContentTypeResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/main/java/org/springframework/web/reactive/accept/ParameterContentTypeResolver.java
+END

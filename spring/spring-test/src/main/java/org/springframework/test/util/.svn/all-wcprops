@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/util
+END
+XpathExpectationsHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/util/XpathExpectationsHelper.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/util/package-info.java
+END
+MetaAnnotationUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/util/MetaAnnotationUtils.java
+END
+ReflectionTestUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/util/ReflectionTestUtils.java
+END
+JsonExpectationsHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/util/JsonExpectationsHelper.java
+END
+XmlExpectationsHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/util/XmlExpectationsHelper.java
+END
+JsonPathExpectationsHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/util/JsonPathExpectationsHelper.java
+END
+AssertionErrors.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/util/AssertionErrors.java
+END
+AopTestUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/util/AopTestUtils.java
+END

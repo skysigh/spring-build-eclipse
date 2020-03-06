@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/cache
+END
+MethodLevelDirtiesContextTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/cache/MethodLevelDirtiesContextTests.java
+END
+ClassLevelDirtiesContextTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/cache/ClassLevelDirtiesContextTests.java
+END
+SpringExtensionContextCacheTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/cache/SpringExtensionContextCacheTests.java
+END
+ContextCacheTestUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/cache/ContextCacheTestUtils.java
+END
+ContextCacheUtilsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/cache/ContextCacheUtilsTests.java
+END
+ClassLevelDirtiesContextTestNGTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/cache/ClassLevelDirtiesContextTestNGTests.java
+END
+ContextCacheTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/cache/ContextCacheTests.java
+END
+LruContextCacheTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/cache/LruContextCacheTests.java
+END

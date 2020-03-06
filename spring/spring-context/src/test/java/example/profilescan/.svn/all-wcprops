@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/example/profilescan
+END
+DevComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/example/profilescan/DevComponent.java
+END
+SomeAbstractClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/example/profilescan/SomeAbstractClass.java
+END
+ProfileMetaAnnotatedComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/example/profilescan/ProfileMetaAnnotatedComponent.java
+END
+ProfileAnnotatedComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/example/profilescan/ProfileAnnotatedComponent.java
+END

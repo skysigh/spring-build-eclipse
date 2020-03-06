@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/adapter/standard
+END
+StandardWebSocketHandlerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/adapter/standard/StandardWebSocketHandlerAdapter.java
+END
+StandardToWebSocketExtensionAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/adapter/standard/StandardToWebSocketExtensionAdapter.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/adapter/standard/package-info.java
+END
+ConvertingEncoderDecoderSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/adapter/standard/ConvertingEncoderDecoderSupport.java
+END
+StandardWebSocketSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/adapter/standard/StandardWebSocketSession.java
+END
+WebSocketToStandardExtensionAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/adapter/standard/WebSocketToStandardExtensionAdapter.java
+END

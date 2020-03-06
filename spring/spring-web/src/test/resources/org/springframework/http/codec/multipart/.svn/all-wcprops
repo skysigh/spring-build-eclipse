@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/resources/org/springframework/http/codec/multipart
+END
+firefox.multipart
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/resources/org/springframework/http/codec/multipart/firefox.multipart
+END
+part-no-end-boundary.multipart
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/resources/org/springframework/http/codec/multipart/part-no-end-boundary.multipart
+END
+chrome.multipart
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/resources/org/springframework/http/codec/multipart/chrome.multipart
+END
+invalid.multipart
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/resources/org/springframework/http/codec/multipart/invalid.multipart
+END
+safari.multipart
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/resources/org/springframework/http/codec/multipart/safari.multipart
+END
+part-no-header.multipart
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/resources/org/springframework/http/codec/multipart/part-no-header.multipart
+END

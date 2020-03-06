@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/serviceloader
+END
+ServiceFactoryBean.class
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/serviceloader/ServiceFactoryBean.class
+END
+ServiceListFactoryBean.class
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/serviceloader/ServiceListFactoryBean.class
+END
+ServiceLoaderFactoryBean.class
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/serviceloader/ServiceLoaderFactoryBean.class
+END
+AbstractServiceLoaderBasedFactoryBean.class
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/serviceloader/AbstractServiceLoaderBasedFactoryBean.class
+END
+package-info.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/serviceloader/package-info.class
+END

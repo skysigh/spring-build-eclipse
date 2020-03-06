@@ -1,0 +1,109 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-tx/src/main/java/org/springframework/jca/cci
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+CannotCreateRecordException.java
+file
+
+
+
+
+2020-03-06T03:52:58.332000Z
+7fc5393e91b60532749acec6b57603f8
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+CannotGetCciConnectionException.java
+file
+
+
+
+
+2020-03-06T03:52:58.345000Z
+8f6520ed8f4fadfbeeedef30deea087a
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+CciOperationNotSupportedException.java
+file
+
+
+
+
+2020-03-06T03:52:58.358000Z
+c5b08669338b9359e6be8e0e391b1109
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+InvalidResultSetAccessException.java
+file
+
+
+
+
+2020-03-06T03:52:58.369000Z
+9dea80145ce7b24504f6dcfba1448116
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+RecordTypeNotSupportedException.java
+file
+
+
+
+
+2020-03-06T03:52:58.380000Z
+4b3cacaf3e8816b63a5026ddfe8c02be
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+connection
+dir
+
+core
+dir
+
+object
+dir
+
+package-info.java
+file
+
+
+
+
+2020-03-06T03:52:59.395000Z
+bfb9d9d0a102dbb32bc88469dfda1819
+2020-03-06T03:35:38.538472Z
+1
+wck
+

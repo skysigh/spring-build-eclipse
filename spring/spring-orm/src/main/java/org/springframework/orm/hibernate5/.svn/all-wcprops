@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/main/java/org/springframework/orm/hibernate5
+END
+LocalSessionFactoryBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/main/java/org/springframework/orm/hibernate5/LocalSessionFactoryBuilder.java
+END
+HibernateCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/main/java/org/springframework/orm/hibernate5/HibernateCallback.java
+END
+HibernateSystemException.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/main/java/org/springframework/orm/hibernate5/HibernateSystemException.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/main/java/org/springframework/orm/hibernate5/package-info.java
+END
+HibernateObjectRetrievalFailureException.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/main/java/org/springframework/orm/hibernate5/HibernateObjectRetrievalFailureException.java
+END
+SessionFactoryUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/main/java/org/springframework/orm/hibernate5/SessionFactoryUtils.java
+END
+HibernateOperations.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/main/java/org/springframework/orm/hibernate5/HibernateOperations.java
+END
+HibernateOptimisticLockingFailureException.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/main/java/org/springframework/orm/hibernate5/HibernateOptimisticLockingFailureException.java
+END
+SpringFlushSynchronization.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/main/java/org/springframework/orm/hibernate5/SpringFlushSynchronization.java
+END
+HibernateQueryException.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/main/java/org/springframework/orm/hibernate5/HibernateQueryException.java
+END
+SessionHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/main/java/org/springframework/orm/hibernate5/SessionHolder.java
+END
+SpringJtaSessionContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/main/java/org/springframework/orm/hibernate5/SpringJtaSessionContext.java
+END
+SpringSessionContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/main/java/org/springframework/orm/hibernate5/SpringSessionContext.java
+END
+SpringSessionSynchronization.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/main/java/org/springframework/orm/hibernate5/SpringSessionSynchronization.java
+END
+HibernateExceptionTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/main/java/org/springframework/orm/hibernate5/HibernateExceptionTranslator.java
+END
+LocalSessionFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/main/java/org/springframework/orm/hibernate5/LocalSessionFactoryBean.java
+END
+ConfigurableJtaPlatform.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/main/java/org/springframework/orm/hibernate5/ConfigurableJtaPlatform.java
+END
+HibernateTransactionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/main/java/org/springframework/orm/hibernate5/HibernateTransactionManager.java
+END
+HibernateJdbcException.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/main/java/org/springframework/orm/hibernate5/HibernateJdbcException.java
+END
+HibernateTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/main/java/org/springframework/orm/hibernate5/HibernateTemplate.java
+END
+SpringBeanContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/main/java/org/springframework/orm/hibernate5/SpringBeanContainer.java
+END

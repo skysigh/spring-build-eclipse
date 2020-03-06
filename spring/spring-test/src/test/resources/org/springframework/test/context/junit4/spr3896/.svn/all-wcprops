@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/resources/org/springframework/test/context/junit4/spr3896
+END
+BeanOverridingDefaultLocationsInheritedTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/resources/org/springframework/test/context/junit4/spr3896/BeanOverridingDefaultLocationsInheritedTests-context.xml
+END
+DefaultLocationsBaseTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/resources/org/springframework/test/context/junit4/spr3896/DefaultLocationsBaseTests-context.xml
+END
+DefaultLocationsInheritedTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/resources/org/springframework/test/context/junit4/spr3896/DefaultLocationsInheritedTests-context.xml
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/cache/config
+END
+CacheAdviceParser$Props.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/cache/config/CacheAdviceParser$Props.class
+END
+CacheManagementConfigUtils.class
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/cache/config/CacheManagementConfigUtils.class
+END
+CacheNamespaceHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/cache/config/CacheNamespaceHandler.class
+END
+AnnotationDrivenCacheBeanDefinitionParser$JCacheCachingConfigurer.class
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/cache/config/AnnotationDrivenCacheBeanDefinitionParser$JCacheCachingConfigurer.class
+END
+CacheAdviceParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/cache/config/CacheAdviceParser.class
+END
+AnnotationDrivenCacheBeanDefinitionParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/cache/config/AnnotationDrivenCacheBeanDefinitionParser.class
+END
+AnnotationDrivenCacheBeanDefinitionParser$SpringCachingConfigurer.class
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/cache/config/AnnotationDrivenCacheBeanDefinitionParser$SpringCachingConfigurer.class
+END
+package-info.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/cache/config/package-info.class
+END

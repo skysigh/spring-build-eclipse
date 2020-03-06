@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/protobuf
+END
+MsgOrBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/protobuf/MsgOrBuilder.java
+END
+OuterSample.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/protobuf/OuterSample.java
+END
+SecondMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/protobuf/SecondMsg.java
+END
+Msg.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/protobuf/Msg.java
+END
+SecondMsgOrBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/protobuf/SecondMsgOrBuilder.java
+END

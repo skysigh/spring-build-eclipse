@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/componentscan/simple
+END
+SimpleComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/componentscan/simple/SimpleComponent.java
+END
+ClassWithNestedComponents.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/componentscan/simple/ClassWithNestedComponents.java
+END

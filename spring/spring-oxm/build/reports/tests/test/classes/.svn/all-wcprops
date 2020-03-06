@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/springcode/!svn/ver/1/spring-framework/spring-oxm/build/reports/tests/test/classes
+END
+org.springframework.oxm.jaxb.Jaxb2UnmarshallerTests.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-oxm/build/reports/tests/test/classes/org.springframework.oxm.jaxb.Jaxb2UnmarshallerTests.html
+END
+org.springframework.oxm.jibx.JibxMarshallerTests.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-oxm/build/reports/tests/test/classes/org.springframework.oxm.jibx.JibxMarshallerTests.html
+END
+org.springframework.oxm.xstream.XStreamUnmarshallerTests.html
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-oxm/build/reports/tests/test/classes/org.springframework.oxm.xstream.XStreamUnmarshallerTests.html
+END
+org.springframework.oxm.jibx.JibxUnmarshallerTests.html
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-oxm/build/reports/tests/test/classes/org.springframework.oxm.jibx.JibxUnmarshallerTests.html
+END
+org.springframework.oxm.xstream.XStreamMarshallerTests.html
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-oxm/build/reports/tests/test/classes/org.springframework.oxm.xstream.XStreamMarshallerTests.html
+END
+org.springframework.oxm.jaxb.Jaxb2MarshallerTests.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-oxm/build/reports/tests/test/classes/org.springframework.oxm.jaxb.Jaxb2MarshallerTests.html
+END
+org.springframework.oxm.config.OxmNamespaceHandlerTests.html
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-oxm/build/reports/tests/test/classes/org.springframework.oxm.config.OxmNamespaceHandlerTests.html
+END

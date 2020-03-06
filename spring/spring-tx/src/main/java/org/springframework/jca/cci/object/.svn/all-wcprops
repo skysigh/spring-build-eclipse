@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/jca/cci/object
+END
+MappingCommAreaOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/jca/cci/object/MappingCommAreaOperation.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/jca/cci/object/package-info.java
+END
+EisOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/jca/cci/object/EisOperation.java
+END
+SimpleRecordOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/jca/cci/object/SimpleRecordOperation.java
+END
+MappingRecordOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/jca/cci/object/MappingRecordOperation.java
+END

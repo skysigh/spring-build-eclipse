@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/server/handler
+END
+FilteringWebHandlerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/server/handler/FilteringWebHandlerTests.java
+END
+ExceptionHandlingWebHandlerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/server/handler/ExceptionHandlingWebHandlerTests.java
+END
+ResponseStatusExceptionHandlerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/server/handler/ResponseStatusExceptionHandlerTests.java
+END

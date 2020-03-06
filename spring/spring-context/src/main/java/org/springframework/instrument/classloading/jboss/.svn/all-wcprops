@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/instrument/classloading/jboss
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/instrument/classloading/jboss/package-info.java
+END
+JBossLoadTimeWeaver.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/instrument/classloading/jboss/JBossLoadTimeWeaver.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/test/java/org/springframework/messaging/handler/annotation/reactive
+END
+HeadersMethodArgumentResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/test/java/org/springframework/messaging/handler/annotation/reactive/HeadersMethodArgumentResolverTests.java
+END
+PayloadMethodArgumentResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/test/java/org/springframework/messaging/handler/annotation/reactive/PayloadMethodArgumentResolverTests.java
+END
+MessageMappingMessageHandlerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/test/java/org/springframework/messaging/handler/annotation/reactive/MessageMappingMessageHandlerTests.java
+END
+DestinationVariableMethodArgumentResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/test/java/org/springframework/messaging/handler/annotation/reactive/DestinationVariableMethodArgumentResolverTests.java
+END
+HeaderMethodArgumentResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/test/java/org/springframework/messaging/handler/annotation/reactive/HeaderMethodArgumentResolverTests.java
+END

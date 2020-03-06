@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/target
+END
+AbstractLazyCreationTargetSource.class
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/target/AbstractLazyCreationTargetSource.class
+END
+AbstractBeanFactoryBasedTargetSource.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/target/AbstractBeanFactoryBasedTargetSource.class
+END
+EmptyTargetSource.class
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/target/EmptyTargetSource.class
+END
+SimpleBeanTargetSource.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/target/SimpleBeanTargetSource.class
+END
+CommonsPool2TargetSource.class
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/target/CommonsPool2TargetSource.class
+END
+HotSwappableTargetSource.class
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/target/HotSwappableTargetSource.class
+END
+ThreadLocalTargetSourceStats.class
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/target/ThreadLocalTargetSourceStats.class
+END
+ThreadLocalTargetSource.class
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/target/ThreadLocalTargetSource.class
+END
+AbstractPrototypeBasedTargetSource.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/target/AbstractPrototypeBasedTargetSource.class
+END
+PrototypeTargetSource.class
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/target/PrototypeTargetSource.class
+END
+AbstractPoolingTargetSource.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/target/AbstractPoolingTargetSource.class
+END
+PoolingConfig.class
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/target/PoolingConfig.class
+END
+LazyInitTargetSource.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/target/LazyInitTargetSource.class
+END
+SingletonTargetSource.class
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/target/SingletonTargetSource.class
+END

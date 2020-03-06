@@ -1,0 +1,79 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-context/src/test/java/org/springframework/format/number
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+CurrencyStyleFormatterTests.java
+file
+
+
+
+
+2020-03-06T03:47:37.152000Z
+eea990bebde89d895e993734fe41eacc
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+NumberFormattingTests.java
+file
+
+
+
+
+2020-03-06T03:47:37.165000Z
+53e89f1ff560b27a1d4632990805ad4c
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+NumberStyleFormatterTests.java
+file
+
+
+
+
+2020-03-06T03:47:37.183000Z
+8f132e092f272e4797eb935c2dae5a44
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+PercentStyleFormatterTests.java
+file
+
+
+
+
+2020-03-06T03:47:37.195000Z
+5ad2054d3b51125c6d014d305d3a13e0
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+money
+dir
+

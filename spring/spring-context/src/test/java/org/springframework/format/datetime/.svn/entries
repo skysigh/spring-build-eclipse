@@ -1,0 +1,58 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-context/src/test/java/org/springframework/format/datetime
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+DateFormatterTests.java
+file
+
+
+
+
+2020-03-06T03:47:36.837000Z
+063e0f95f36a574933d6afd20e9072a4
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+DateFormattingTests.java
+file
+
+
+
+
+2020-03-06T03:47:36.853000Z
+cf11064468da91919e206e2174c2116b
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+joda
+dir
+
+standard
+dir
+

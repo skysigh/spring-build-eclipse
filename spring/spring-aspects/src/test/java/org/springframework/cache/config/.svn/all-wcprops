@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/src/test/java/org/springframework/cache/config
+END
+CacheableService.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/src/test/java/org/springframework/cache/config/CacheableService.java
+END
+AnnotatedClassCacheableService.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/src/test/java/org/springframework/cache/config/AnnotatedClassCacheableService.java
+END
+AnnotatedJCacheableService.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/src/test/java/org/springframework/cache/config/AnnotatedJCacheableService.java
+END
+TestEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/src/test/java/org/springframework/cache/config/TestEntity.java
+END
+DefaultCacheableService.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/src/test/java/org/springframework/cache/config/DefaultCacheableService.java
+END

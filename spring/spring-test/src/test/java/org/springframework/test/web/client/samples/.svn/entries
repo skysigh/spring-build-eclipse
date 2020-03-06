@@ -1,0 +1,67 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-test/src/test/java/org/springframework/test/web/client/samples
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+MockMvcClientHttpRequestFactoryTests.java
+file
+
+
+
+
+2020-03-06T03:52:36.880000Z
+e52a9e8f40190ce5d8802fdcea7ccc87
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+SampleAsyncTests.java
+file
+
+
+
+
+2020-03-06T03:52:36.895000Z
+dabbf2e58b404d0727e95864c99fdb9e
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+SampleTests.java
+file
+
+
+
+
+2020-03-06T03:52:36.909000Z
+110ca2f1f60a56f220238021161faf09
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+matchers
+dir
+

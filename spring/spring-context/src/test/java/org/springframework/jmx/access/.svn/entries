@@ -1,0 +1,52 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-context/src/test/java/org/springframework/jmx/access
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+MBeanClientInterceptorTests.java
+file
+
+
+
+
+2020-03-06T03:47:37.634000Z
+2b6c76db0ecfc53125ebb2a205c0c2b7
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+RemoteMBeanClientInterceptorTests.java
+file
+
+
+
+
+2020-03-06T03:47:37.650000Z
+c7d2aabb49842ef49e746e39e2637580
+2020-03-06T03:35:38.538472Z
+1
+wck
+

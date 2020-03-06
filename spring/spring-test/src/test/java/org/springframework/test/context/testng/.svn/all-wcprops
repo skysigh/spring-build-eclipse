@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/testng
+END
+DirtiesContextTransactionalTestNGSpringContextTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/testng/DirtiesContextTransactionalTestNGSpringContextTests.java
+END
+AnnotationConfigTestNGSpringContextTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/testng/AnnotationConfigTestNGSpringContextTests.java
+END
+AnnotationConfigTransactionalTestNGSpringContextTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/testng/AnnotationConfigTransactionalTestNGSpringContextTests.java
+END
+ConcreteTransactionalTestNGSpringContextTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/testng/ConcreteTransactionalTestNGSpringContextTests.java
+END
+TrackingTestNGTestListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/testng/TrackingTestNGTestListener.java
+END
+TimedTransactionalTestNGSpringContextTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/testng/TimedTransactionalTestNGSpringContextTests.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/method
+END
+HandlerTypePredicateTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/method/HandlerTypePredicateTests.java
+END
+ControllerAdviceBeanTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/method/ControllerAdviceBeanTests.java
+END

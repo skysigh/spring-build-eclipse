@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/main/java/org/springframework/web/reactive/socket
+END
+HandshakeInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/main/java/org/springframework/web/reactive/socket/HandshakeInfo.java
+END
+WebSocketHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/main/java/org/springframework/web/reactive/socket/WebSocketHandler.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/main/java/org/springframework/web/reactive/socket/package-info.java
+END
+CloseStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/main/java/org/springframework/web/reactive/socket/CloseStatus.java
+END
+WebSocketMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/main/java/org/springframework/web/reactive/socket/WebSocketMessage.java
+END
+WebSocketSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/main/java/org/springframework/web/reactive/socket/WebSocketSession.java
+END

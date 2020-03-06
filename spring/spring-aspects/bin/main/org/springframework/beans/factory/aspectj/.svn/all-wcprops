@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/main/org/springframework/beans/factory/aspectj
+END
+AbstractDependencyInjectionAspect.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/main/org/springframework/beans/factory/aspectj/AbstractDependencyInjectionAspect.class
+END
+AbstractInterfaceDrivenDependencyInjectionAspect$ConfigurableDeserializationSupport.class
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/main/org/springframework/beans/factory/aspectj/AbstractInterfaceDrivenDependencyInjectionAspect$ConfigurableDeserializationSupport.class
+END
+GenericInterfaceDrivenDependencyInjectionAspect.class
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/main/org/springframework/beans/factory/aspectj/GenericInterfaceDrivenDependencyInjectionAspect.class
+END
+ConfigurableObject.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/main/org/springframework/beans/factory/aspectj/ConfigurableObject.class
+END
+AbstractInterfaceDrivenDependencyInjectionAspect.class
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/main/org/springframework/beans/factory/aspectj/AbstractInterfaceDrivenDependencyInjectionAspect.class
+END
+AnnotationBeanConfigurerAspect.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/main/org/springframework/beans/factory/aspectj/AnnotationBeanConfigurerAspect.class
+END

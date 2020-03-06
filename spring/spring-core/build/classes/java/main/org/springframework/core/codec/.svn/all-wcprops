@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/codec
+END
+AbstractDataBufferDecoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/codec/AbstractDataBufferDecoder.class
+END
+Decoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/codec/Decoder.class
+END
+Hints.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/codec/Hints.class
+END
+DecodingException.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/codec/DecodingException.class
+END
+ByteArrayEncoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/codec/ByteArrayEncoder.class
+END
+package-info.class
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/codec/package-info.class
+END
+StringDecoder$LimitChecker.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/codec/StringDecoder$LimitChecker.class
+END
+EncodingException.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/codec/EncodingException.class
+END
+ResourceEncoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/codec/ResourceEncoder.class
+END
+AbstractEncoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/codec/AbstractEncoder.class
+END
+DataBufferDecoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/codec/DataBufferDecoder.class
+END
+CodecException.class
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/codec/CodecException.class
+END
+StringDecoder$EndFrameBuffer.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/codec/StringDecoder$EndFrameBuffer.class
+END
+StringDecoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/codec/StringDecoder.class
+END
+ByteArrayDecoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/codec/ByteArrayDecoder.class
+END
+CharSequenceEncoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/codec/CharSequenceEncoder.class
+END
+ByteBufferDecoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/codec/ByteBufferDecoder.class
+END
+Encoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/codec/Encoder.class
+END
+ResourceDecoder$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/codec/ResourceDecoder$2.class
+END
+AbstractSingleValueEncoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/codec/AbstractSingleValueEncoder.class
+END
+AbstractDecoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/codec/AbstractDecoder.class
+END
+ByteBufferEncoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/codec/ByteBufferEncoder.class
+END
+ResourceRegionEncoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/codec/ResourceRegionEncoder.class
+END
+ResourceDecoder$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/codec/ResourceDecoder$1.class
+END
+DataBufferEncoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/codec/DataBufferEncoder.class
+END
+ResourceDecoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/codec/ResourceDecoder.class
+END

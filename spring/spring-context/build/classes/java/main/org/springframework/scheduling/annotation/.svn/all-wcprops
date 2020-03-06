@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/scheduling/annotation
+END
+AsyncAnnotationBeanPostProcessor.class
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/scheduling/annotation/AsyncAnnotationBeanPostProcessor.class
+END
+Schedules.class
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/scheduling/annotation/Schedules.class
+END
+SchedulingConfigurer.class
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/scheduling/annotation/SchedulingConfigurer.class
+END
+AnnotationAsyncExecutionInterceptor.class
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/scheduling/annotation/AnnotationAsyncExecutionInterceptor.class
+END
+ScheduledAnnotationBeanPostProcessor.class
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/scheduling/annotation/ScheduledAnnotationBeanPostProcessor.class
+END
+AsyncAnnotationAdvisor.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/scheduling/annotation/AsyncAnnotationAdvisor.class
+END
+AsyncConfigurationSelector.class
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/scheduling/annotation/AsyncConfigurationSelector.class
+END
+AbstractAsyncConfiguration.class
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/scheduling/annotation/AbstractAsyncConfiguration.class
+END
+ProxyAsyncConfiguration.class
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/scheduling/annotation/ProxyAsyncConfiguration.class
+END
+package-info.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/scheduling/annotation/package-info.class
+END
+Async.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/scheduling/annotation/Async.class
+END
+AsyncConfigurerSupport.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/scheduling/annotation/AsyncConfigurerSupport.class
+END
+SchedulingConfiguration.class
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/scheduling/annotation/SchedulingConfiguration.class
+END
+EnableScheduling.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/scheduling/annotation/EnableScheduling.class
+END
+AsyncResult.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/scheduling/annotation/AsyncResult.class
+END
+AsyncConfigurationSelector$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/scheduling/annotation/AsyncConfigurationSelector$1.class
+END
+EnableAsync.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/scheduling/annotation/EnableAsync.class
+END
+AsyncConfigurer.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/scheduling/annotation/AsyncConfigurer.class
+END
+Scheduled.class
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/scheduling/annotation/Scheduled.class
+END

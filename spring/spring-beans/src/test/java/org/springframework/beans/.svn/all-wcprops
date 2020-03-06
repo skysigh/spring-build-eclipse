@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/test/java/org/springframework/beans
+END
+AbstractPropertyAccessorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/test/java/org/springframework/beans/AbstractPropertyAccessorTests.java
+END
+BeanWrapperGenericsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/test/java/org/springframework/beans/BeanWrapperGenericsTests.java
+END
+BeanUtilsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/test/java/org/springframework/beans/BeanUtilsTests.java
+END
+ConcurrentBeanWrapperTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/test/java/org/springframework/beans/ConcurrentBeanWrapperTests.java
+END
+DirectFieldAccessorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/test/java/org/springframework/beans/DirectFieldAccessorTests.java
+END
+ExtendedBeanInfoTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/test/java/org/springframework/beans/ExtendedBeanInfoTests.java
+END
+PropertyMatchesTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/test/java/org/springframework/beans/PropertyMatchesTests.java
+END
+CachedIntrospectionResultsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/test/java/org/springframework/beans/CachedIntrospectionResultsTests.java
+END
+MutablePropertyValuesTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/test/java/org/springframework/beans/MutablePropertyValuesTests.java
+END
+PropertyAccessorUtilsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/test/java/org/springframework/beans/PropertyAccessorUtilsTests.java
+END
+AbstractPropertyValuesTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/test/java/org/springframework/beans/AbstractPropertyValuesTests.java
+END
+BeanWrapperAutoGrowingTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/test/java/org/springframework/beans/BeanWrapperAutoGrowingTests.java
+END
+BeanWrapperEnumTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/test/java/org/springframework/beans/BeanWrapperEnumTests.java
+END
+ExtendedBeanInfoFactoryTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/test/java/org/springframework/beans/ExtendedBeanInfoFactoryTests.java
+END
+BeanWrapperTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/test/java/org/springframework/beans/BeanWrapperTests.java
+END
+SimplePropertyDescriptorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/test/java/org/springframework/beans/SimplePropertyDescriptorTests.java
+END

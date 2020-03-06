@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/aop/framework
+END
+ProxyFactoryBeanTests-serialization.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/aop/framework/ProxyFactoryBeanTests-serialization.xml
+END
+ProxyFactoryBeanTests-targetsource.xml
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/aop/framework/ProxyFactoryBeanTests-targetsource.xml
+END
+ProxyFactoryBeanTests-throws-advice.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/aop/framework/ProxyFactoryBeanTests-throws-advice.xml
+END
+ProxyFactoryBeanTests-prototype.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/aop/framework/ProxyFactoryBeanTests-prototype.xml
+END
+ProxyFactoryBeanTests-invalid.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/aop/framework/ProxyFactoryBeanTests-invalid.xml
+END
+ProxyFactoryBeanTests-inner-bean-target.xml
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/aop/framework/ProxyFactoryBeanTests-inner-bean-target.xml
+END
+CglibProxyTests-with-dependency-checking.xml
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/aop/framework/CglibProxyTests-with-dependency-checking.xml
+END
+ProxyFactoryBeanTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/aop/framework/ProxyFactoryBeanTests-context.xml
+END
+ProxyFactoryBeanTests-frozen.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/aop/framework/ProxyFactoryBeanTests-frozen.xml
+END
+ProxyFactoryBeanTests-double-targetsource.xml
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/aop/framework/ProxyFactoryBeanTests-double-targetsource.xml
+END
+ObjenesisProxyTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/aop/framework/ObjenesisProxyTests-context.xml
+END
+ProxyFactoryBeanTests-autowiring.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/aop/framework/ProxyFactoryBeanTests-autowiring.xml
+END
+ProxyFactoryBeanTests-notlast-targetsource.xml
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/aop/framework/ProxyFactoryBeanTests-notlast-targetsource.xml
+END

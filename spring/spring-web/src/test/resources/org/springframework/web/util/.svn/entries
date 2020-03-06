@@ -1,0 +1,52 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-web/src/test/resources/org/springframework/web/util
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+HtmlCharacterEntityReferences.dtd
+file
+
+
+
+
+2020-03-06T03:54:08.998000Z
+8c05800e9e989b0090e32142d8ac37e0
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+testlog4j.properties
+file
+
+
+
+
+2020-03-06T03:54:09.020000Z
+6d38f514e8dea46a5b37d9cfd053730a
+2020-03-06T03:35:38.538472Z
+1
+wck
+

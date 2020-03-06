@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/jta
+END
+WebLogicJtaTransactionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/jta/WebLogicJtaTransactionManager.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/jta/package-info.java
+END
+UserTransactionAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/jta/UserTransactionAdapter.java
+END
+TransactionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/jta/TransactionFactory.java
+END
+JtaTransactionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/jta/JtaTransactionManager.java
+END
+SpringJtaSynchronizationAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/jta/SpringJtaSynchronizationAdapter.java
+END
+JtaTransactionObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/jta/JtaTransactionObject.java
+END
+WebSphereUowTransactionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/jta/WebSphereUowTransactionManager.java
+END
+JtaAfterCompletionSynchronization.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/jta/JtaAfterCompletionSynchronization.java
+END
+SimpleTransactionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/jta/SimpleTransactionFactory.java
+END
+ManagedTransactionAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/jta/ManagedTransactionAdapter.java
+END

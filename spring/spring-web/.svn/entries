@@ -1,0 +1,76 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-web
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+.classpath
+file
+
+
+
+
+2020-03-06T03:53:07.352000Z
+0b4225d9819351121c8c415ce8f17ea4
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+.project
+file
+
+
+
+
+2020-03-06T03:53:07.364000Z
+d9ffee70dc3853b8bde4f7a75ce47183
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+.settings
+dir
+
+bin
+dir
+
+build
+dir
+
+spring-web.gradle
+file
+
+
+
+
+2020-03-06T03:53:46.578000Z
+3663c9e932118e5019138ceb1d61ecfb
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+src
+dir
+

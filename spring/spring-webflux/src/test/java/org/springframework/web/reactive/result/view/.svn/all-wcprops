@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/result/view
+END
+DefaultRenderingBuilderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/result/view/DefaultRenderingBuilderTests.java
+END
+RequestContextTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/result/view/RequestContextTests.java
+END
+HttpMessageWriterViewTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/result/view/HttpMessageWriterViewTests.java
+END
+ZeroDemandResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/result/view/ZeroDemandResponse.java
+END
+LocaleContextResolverIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/result/view/LocaleContextResolverIntegrationTests.java
+END
+AbstractViewTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/result/view/AbstractViewTests.java
+END
+RedirectViewTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/result/view/RedirectViewTests.java
+END
+DummyMacroRequestContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/result/view/DummyMacroRequestContext.java
+END
+UrlBasedViewResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/result/view/UrlBasedViewResolverTests.java
+END
+ViewResolutionResultHandlerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/result/view/ViewResolutionResultHandlerTests.java
+END

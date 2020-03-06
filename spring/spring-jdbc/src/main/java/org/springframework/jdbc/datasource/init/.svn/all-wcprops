@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/datasource/init
+END
+UncategorizedScriptException.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/datasource/init/UncategorizedScriptException.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/datasource/init/package-info.java
+END
+ResourceDatabasePopulator.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/datasource/init/ResourceDatabasePopulator.java
+END
+CannotReadScriptException.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/datasource/init/CannotReadScriptException.java
+END
+ScriptException.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/datasource/init/ScriptException.java
+END
+ScriptUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/datasource/init/ScriptUtils.java
+END
+ScriptStatementFailedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/datasource/init/ScriptStatementFailedException.java
+END
+DataSourceInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/datasource/init/DataSourceInitializer.java
+END
+CompositeDatabasePopulator.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/datasource/init/CompositeDatabasePopulator.java
+END
+DatabasePopulator.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/datasource/init/DatabasePopulator.java
+END
+DatabasePopulatorUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/datasource/init/DatabasePopulatorUtils.java
+END
+ScriptParseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/datasource/init/ScriptParseException.java
+END

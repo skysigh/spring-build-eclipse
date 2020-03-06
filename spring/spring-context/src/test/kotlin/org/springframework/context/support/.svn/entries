@@ -1,0 +1,52 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-context/src/test/kotlin/org/springframework/context/support
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+BeanDefinitionDslTests.kt
+file
+
+
+
+
+2020-03-06T03:47:41.370000Z
+3ce3d4f6889e3ed6a9326aa0c2cb390f
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+GenericApplicationContextExtensionsTests.kt
+file
+
+
+
+
+2020-03-06T03:47:41.382000Z
+091ca64d7c3f1a612e40a3fe1b0dcc33
+2020-03-06T03:35:38.538472Z
+1
+wck
+

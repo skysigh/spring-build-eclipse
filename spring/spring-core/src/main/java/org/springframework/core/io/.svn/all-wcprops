@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/io
+END
+DescriptiveResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/io/DescriptiveResource.java
+END
+VfsUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/io/VfsUtils.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/io/package-info.java
+END
+FileSystemResourceLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/io/FileSystemResourceLoader.java
+END
+VfsResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/io/VfsResource.java
+END
+ContextResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/io/ContextResource.java
+END
+Resource.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/io/Resource.java
+END
+AbstractFileResolvingResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/io/AbstractFileResolvingResource.java
+END
+ByteArrayResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/io/ByteArrayResource.java
+END
+DefaultResourceLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/io/DefaultResourceLoader.java
+END
+ClassRelativeResourceLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/io/ClassRelativeResourceLoader.java
+END
+PathResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/io/PathResource.java
+END
+ProtocolResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/io/ProtocolResolver.java
+END
+UrlResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/io/UrlResource.java
+END
+ResourceEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/io/ResourceEditor.java
+END
+InputStreamSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/io/InputStreamSource.java
+END
+WritableResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/io/WritableResource.java
+END
+FileSystemResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/io/FileSystemResource.java
+END
+ResourceLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/io/ResourceLoader.java
+END
+FileUrlResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/io/FileUrlResource.java
+END
+AbstractResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/io/AbstractResource.java
+END
+ClassPathResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/io/ClassPathResource.java
+END
+InputStreamResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/io/InputStreamResource.java
+END

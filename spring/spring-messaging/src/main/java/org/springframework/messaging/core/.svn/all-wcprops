@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/core
+END
+AbstractMessageSendingTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/core/AbstractMessageSendingTemplate.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/core/package-info.java
+END
+AbstractMessageReceivingTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/core/AbstractMessageReceivingTemplate.java
+END
+CachingDestinationResolverProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/core/CachingDestinationResolverProxy.java
+END
+DestinationResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/core/DestinationResolver.java
+END
+DestinationResolutionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/core/DestinationResolutionException.java
+END
+MessagePostProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/core/MessagePostProcessor.java
+END
+MessageReceivingOperations.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/core/MessageReceivingOperations.java
+END
+AbstractDestinationResolvingMessagingTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/core/AbstractDestinationResolvingMessagingTemplate.java
+END
+DestinationResolvingMessageRequestReplyOperations.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/core/DestinationResolvingMessageRequestReplyOperations.java
+END
+GenericMessagingTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/core/GenericMessagingTemplate.java
+END
+MessageRequestReplyOperations.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/core/MessageRequestReplyOperations.java
+END
+DestinationResolvingMessageReceivingOperations.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/core/DestinationResolvingMessageReceivingOperations.java
+END
+AbstractMessagingTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/core/AbstractMessagingTemplate.java
+END
+MessageSendingOperations.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/core/MessageSendingOperations.java
+END
+DestinationResolvingMessageSendingOperations.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/core/DestinationResolvingMessageSendingOperations.java
+END
+BeanFactoryMessageChannelDestinationResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/core/BeanFactoryMessageChannelDestinationResolver.java
+END

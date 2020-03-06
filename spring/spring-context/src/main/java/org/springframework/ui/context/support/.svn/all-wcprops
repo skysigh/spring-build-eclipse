@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/ui/context/support
+END
+UiApplicationContextUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/ui/context/support/UiApplicationContextUtils.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/ui/context/support/package-info.java
+END
+DelegatingThemeSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/ui/context/support/DelegatingThemeSource.java
+END
+SimpleTheme.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/ui/context/support/SimpleTheme.java
+END
+ResourceBundleThemeSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/ui/context/support/ResourceBundleThemeSource.java
+END

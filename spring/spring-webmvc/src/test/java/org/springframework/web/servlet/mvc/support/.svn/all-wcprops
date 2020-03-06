@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/mvc/support
+END
+ParameterizableViewControllerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/mvc/support/ParameterizableViewControllerTests.java
+END
+RedirectAttributesModelMapTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/mvc/support/RedirectAttributesModelMapTests.java
+END
+DefaultHandlerExceptionResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/mvc/support/DefaultHandlerExceptionResolverTests.java
+END

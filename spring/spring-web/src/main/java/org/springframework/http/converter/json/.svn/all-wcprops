@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/converter/json
+END
+JsonbHttpMessageConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/converter/json/JsonbHttpMessageConverter.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/converter/json/package-info.java
+END
+SpringHandlerInstantiator.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/converter/json/SpringHandlerInstantiator.java
+END
+GsonBuilderUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/converter/json/GsonBuilderUtils.java
+END
+AbstractJackson2HttpMessageConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/converter/json/AbstractJackson2HttpMessageConverter.java
+END
+MappingJackson2HttpMessageConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/converter/json/MappingJackson2HttpMessageConverter.java
+END
+GsonFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/converter/json/GsonFactoryBean.java
+END
+GsonHttpMessageConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/converter/json/GsonHttpMessageConverter.java
+END
+AbstractJsonHttpMessageConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/converter/json/AbstractJsonHttpMessageConverter.java
+END
+MappingJacksonValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/converter/json/MappingJacksonValue.java
+END
+Jackson2ObjectMapperBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/converter/json/Jackson2ObjectMapperBuilder.java
+END
+MappingJacksonInputMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/converter/json/MappingJacksonInputMessage.java
+END
+Jackson2ObjectMapperFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/converter/json/Jackson2ObjectMapperFactoryBean.java
+END

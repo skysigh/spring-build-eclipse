@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/main/java/org/springframework/mail
+END
+MailParseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/main/java/org/springframework/mail/MailParseException.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/main/java/org/springframework/mail/package-info.java
+END
+MailSendException.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/main/java/org/springframework/mail/MailSendException.java
+END
+MailSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/main/java/org/springframework/mail/MailSender.java
+END
+MailPreparationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/main/java/org/springframework/mail/MailPreparationException.java
+END
+SimpleMailMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/main/java/org/springframework/mail/SimpleMailMessage.java
+END
+MailAuthenticationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/main/java/org/springframework/mail/MailAuthenticationException.java
+END
+MailException.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/main/java/org/springframework/mail/MailException.java
+END
+MailMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/main/java/org/springframework/mail/MailMessage.java
+END

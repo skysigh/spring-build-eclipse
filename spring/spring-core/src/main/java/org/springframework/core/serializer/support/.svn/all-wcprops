@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/serializer/support
+END
+SerializationFailedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/serializer/support/SerializationFailedException.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/serializer/support/package-info.java
+END
+DeserializingConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/serializer/support/DeserializingConverter.java
+END
+SerializingConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/serializer/support/SerializingConverter.java
+END
+SerializationDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/serializer/support/SerializationDelegate.java
+END

@@ -1,0 +1,40 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-beans/build/resources/test/org/springframework/beans/factory/annotation
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+CustomAutowireConfigurerTests-context.xml
+file
+
+
+
+
+2020-03-06T03:45:20.761000Z
+731876a503e39270a8b48abdce95583d
+2020-03-06T03:35:38.538472Z
+1
+wck
+

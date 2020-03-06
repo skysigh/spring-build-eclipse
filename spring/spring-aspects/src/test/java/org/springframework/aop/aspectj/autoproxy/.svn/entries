@@ -1,0 +1,52 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-aspects/src/test/java/org/springframework/aop/aspectj/autoproxy
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+AutoProxyWithCodeStyleAspectsTests.java
+file
+
+
+
+
+2020-03-06T03:44:43.791000Z
+299467b5a246d68c7f1ad1308417ad1a
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+CodeStyleAspect.aj
+file
+
+
+
+
+2020-03-06T03:44:43.805000Z
+11af55c5c50e8841a38e24c220b2d6c2
+2020-03-06T03:35:38.538472Z
+1
+wck
+

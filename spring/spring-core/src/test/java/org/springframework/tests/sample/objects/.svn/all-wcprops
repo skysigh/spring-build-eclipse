@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/tests/sample/objects
+END
+ITestObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/tests/sample/objects/ITestObject.java
+END
+TestObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/tests/sample/objects/TestObject.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/tests/sample/objects/package-info.java
+END
+GenericObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/tests/sample/objects/GenericObject.java
+END
+ITestInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/tests/sample/objects/ITestInterface.java
+END
+DerivedTestObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/tests/sample/objects/DerivedTestObject.java
+END

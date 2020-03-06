@@ -1,0 +1,40 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-webmvc/src/test/kotlin/org/springframework/web/servlet/view/script
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+ScriptTemplateWithBindingsExtensions.kt
+file
+
+
+
+
+2020-03-06T03:55:37.390000Z
+cfd4f3534e824da720dc1a9dd315c204
+2020-03-06T03:35:38.538472Z
+1
+wck
+

@@ -1,0 +1,94 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-test/src/main/java/org/springframework/test/context/junit4
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+AbstractJUnit4SpringContextTests.java
+file
+
+
+
+
+2020-03-06T03:52:22.403000Z
+f7eb8036a25cdf402ace8a19bbb9e365
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+AbstractTransactionalJUnit4SpringContextTests.java
+file
+
+
+
+
+2020-03-06T03:52:22.416000Z
+48ec712c5a6b1485a2dfcaa701247556
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+SpringJUnit4ClassRunner.java
+file
+
+
+
+
+2020-03-06T03:52:22.431000Z
+0bebd7d785d0ae6b86fb98e97b9ddadf
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+SpringRunner.java
+file
+
+
+
+
+2020-03-06T03:52:22.446000Z
+1950a497c57f056d574e6ea884155c25
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+package-info.java
+file
+
+
+
+
+2020-03-06T03:52:22.457000Z
+aeb22132711ca2057550605e353eaaac
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+rules
+dir
+
+statements
+dir
+

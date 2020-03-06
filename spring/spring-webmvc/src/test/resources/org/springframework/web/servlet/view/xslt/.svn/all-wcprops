@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/resources/org/springframework/web/servlet/view/xslt
+END
+sunnyDayExplicitRoot.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/resources/org/springframework/web/servlet/view/xslt/sunnyDayExplicitRoot.xsl
+END
+productsImport.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/resources/org/springframework/web/servlet/view/xslt/productsImport.xsl
+END
+productData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/resources/org/springframework/web/servlet/view/xslt/productData.xml
+END
+products.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/resources/org/springframework/web/servlet/view/xslt/products.xsl
+END
+firstWords.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/resources/org/springframework/web/servlet/view/xslt/firstWords.xsl
+END
+dummyData.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/resources/org/springframework/web/servlet/view/xslt/dummyData.xsl
+END
+sunnyDay.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/resources/org/springframework/web/servlet/view/xslt/sunnyDay.xsl
+END
+valid.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/resources/org/springframework/web/servlet/view/xslt/valid.xsl
+END
+errors.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/resources/org/springframework/web/servlet/view/xslt/errors.xsl
+END

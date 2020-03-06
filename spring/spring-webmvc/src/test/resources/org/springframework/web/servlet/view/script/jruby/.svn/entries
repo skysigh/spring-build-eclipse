@@ -1,0 +1,52 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-webmvc/src/test/resources/org/springframework/web/servlet/view/script/jruby
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+render.rb
+file
+
+
+
+
+2020-03-06T03:55:40.419000Z
+44a787c29c116090ff15ef9e7e076461
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+template.erb
+file
+
+
+
+
+2020-03-06T03:55:40.433000Z
+8c9e09e2a83a02f94bbf24df1fba52ed
+2020-03-06T03:35:38.538472Z
+1
+wck
+

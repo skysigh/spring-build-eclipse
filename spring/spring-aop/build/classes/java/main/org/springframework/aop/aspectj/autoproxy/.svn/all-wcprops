@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/aspectj/autoproxy
+END
+AspectJPrecedenceComparator.class
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/aspectj/autoproxy/AspectJPrecedenceComparator.class
+END
+AspectJAwareAdvisorAutoProxyCreator$PartiallyComparableAdvisorHolder.class
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/aspectj/autoproxy/AspectJAwareAdvisorAutoProxyCreator$PartiallyComparableAdvisorHolder.class
+END
+AspectJAwareAdvisorAutoProxyCreator.class
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/aspectj/autoproxy/AspectJAwareAdvisorAutoProxyCreator.class
+END
+package-info.class
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/aspectj/autoproxy/package-info.class
+END

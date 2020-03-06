@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/aop/aspectj/autoproxy/benchmark
+END
+BenchmarkTests-aspectj.xml
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/aop/aspectj/autoproxy/benchmark/BenchmarkTests-aspectj.xml
+END
+BenchmarkTests-springAop.xml
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/aop/aspectj/autoproxy/benchmark/BenchmarkTests-springAop.xml
+END

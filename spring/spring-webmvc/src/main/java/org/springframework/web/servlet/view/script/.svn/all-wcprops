@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/view/script
+END
+RenderingContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/view/script/RenderingContext.java
+END
+ScriptTemplateView.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/view/script/ScriptTemplateView.java
+END
+ScriptTemplateConfigurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/view/script/ScriptTemplateConfigurer.java
+END
+ScriptTemplateConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/view/script/ScriptTemplateConfig.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/view/script/package-info.java
+END
+ScriptTemplateViewResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/view/script/ScriptTemplateViewResolver.java
+END

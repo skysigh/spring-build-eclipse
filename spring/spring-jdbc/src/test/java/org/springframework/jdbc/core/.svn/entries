@@ -1,0 +1,136 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-jdbc/src/test/java/org/springframework/jdbc/core
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+AbstractRowMapperTests.java
+file
+
+
+
+
+2020-03-06T03:50:26.196000Z
+4b1764c1228bfea9838d81faa0d33014
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+BeanPropertyRowMapperTests.java
+file
+
+
+
+
+2020-03-06T03:50:26.216000Z
+0c71bd294c7e185cc611a088b64387a6
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+JdbcTemplateQueryTests.java
+file
+
+
+
+
+2020-03-06T03:50:26.231000Z
+f6698b8a889d933f828fe220ef3b0282
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+JdbcTemplateTests.java
+file
+
+
+
+
+2020-03-06T03:50:26.245000Z
+18211ffb2701a9c13146a096fbdf4f7c
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+RowMapperTests.java
+file
+
+
+
+
+2020-03-06T03:50:26.259000Z
+70ec1232e8990203c29f32d472d549e3
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+SimpleRowCountCallbackHandler.java
+file
+
+
+
+
+2020-03-06T03:50:26.270000Z
+271d73c61d684f9d306d4c449f1cb102
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+SingleColumnRowMapperTests.java
+file
+
+
+
+
+2020-03-06T03:50:26.281000Z
+0d13252fb1e688b62ed92fa54ebbb67f
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+StatementCreatorUtilsTests.java
+file
+
+
+
+
+2020-03-06T03:50:26.293000Z
+31ad5613e3ab4597c22cd8adc58b0993
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+namedparam
+dir
+
+simple
+dir
+
+support
+dir
+
+test
+dir
+

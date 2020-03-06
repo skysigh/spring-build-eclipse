@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/springcode/!svn/ver/1/spring-framework/spring-oxm/build/classes/java/main/org/springframework/oxm
+END
+ValidationFailureException.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-oxm/build/classes/java/main/org/springframework/oxm/ValidationFailureException.class
+END
+XmlMappingException.class
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-oxm/build/classes/java/main/org/springframework/oxm/XmlMappingException.class
+END
+GenericMarshaller.class
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-oxm/build/classes/java/main/org/springframework/oxm/GenericMarshaller.class
+END
+Marshaller.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/springcode/!svn/ver/1/spring-framework/spring-oxm/build/classes/java/main/org/springframework/oxm/Marshaller.class
+END
+Unmarshaller.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/springcode/!svn/ver/1/spring-framework/spring-oxm/build/classes/java/main/org/springframework/oxm/Unmarshaller.class
+END
+GenericUnmarshaller.class
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-oxm/build/classes/java/main/org/springframework/oxm/GenericUnmarshaller.class
+END
+UncategorizedMappingException.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-oxm/build/classes/java/main/org/springframework/oxm/UncategorizedMappingException.class
+END
+UnmarshallingFailureException.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-oxm/build/classes/java/main/org/springframework/oxm/UnmarshallingFailureException.class
+END
+MarshallingException.class
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-oxm/build/classes/java/main/org/springframework/oxm/MarshallingException.class
+END
+MarshallingFailureException.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-oxm/build/classes/java/main/org/springframework/oxm/MarshallingFailureException.class
+END
+package-info.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/springcode/!svn/ver/1/spring-framework/spring-oxm/build/classes/java/main/org/springframework/oxm/package-info.class
+END

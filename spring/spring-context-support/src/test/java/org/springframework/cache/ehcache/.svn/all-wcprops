@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/test/java/org/springframework/cache/ehcache
+END
+EhCacheCacheTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/test/java/org/springframework/cache/ehcache/EhCacheCacheTests.java
+END
+EhCacheSupportTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/test/java/org/springframework/cache/ehcache/EhCacheSupportTests.java
+END
+EhCacheCacheManagerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/test/java/org/springframework/cache/ehcache/EhCacheCacheManagerTests.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/context/cache
+END
+DefaultCacheAwareContextLoaderDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/context/cache/DefaultCacheAwareContextLoaderDelegate.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/context/cache/package-info.java
+END
+ContextCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/context/cache/ContextCache.java
+END
+ContextCacheUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/context/cache/ContextCacheUtils.java
+END
+DefaultContextCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/context/cache/DefaultContextCache.java
+END

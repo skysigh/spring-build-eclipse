@@ -1,0 +1,76 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-webmvc
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+.classpath
+file
+
+
+
+
+2020-03-06T03:54:47.950000Z
+658fe70370a97271d017f96c9861269a
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+.project
+file
+
+
+
+
+2020-03-06T03:54:47.962000Z
+7ea9e954b63d30a513d3583349570599
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+.settings
+dir
+
+bin
+dir
+
+build
+dir
+
+spring-webmvc.gradle
+file
+
+
+
+
+2020-03-06T03:55:23.043000Z
+5bc9d64b8aaf76d63e396f3f08aa6631
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+src
+dir
+

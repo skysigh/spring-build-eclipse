@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/test/java/org/springframework/beans/factory/support/security/support
+END
+FactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/test/java/org/springframework/beans/factory/support/security/support/FactoryBean.java
+END
+DestroyBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/test/java/org/springframework/beans/factory/support/security/support/DestroyBean.java
+END
+ConstructorBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/test/java/org/springframework/beans/factory/support/security/support/ConstructorBean.java
+END
+CustomCallbackBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/test/java/org/springframework/beans/factory/support/security/support/CustomCallbackBean.java
+END
+PropertyBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/test/java/org/springframework/beans/factory/support/security/support/PropertyBean.java
+END
+InitBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/test/java/org/springframework/beans/factory/support/security/support/InitBean.java
+END
+CustomFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/test/java/org/springframework/beans/factory/support/security/support/CustomFactoryBean.java
+END

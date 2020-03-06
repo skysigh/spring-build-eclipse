@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/datasource/lookup
+END
+AbstractRoutingDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/datasource/lookup/AbstractRoutingDataSource.java
+END
+BeanFactoryDataSourceLookup.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/datasource/lookup/BeanFactoryDataSourceLookup.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/datasource/lookup/package-info.java
+END
+DataSourceLookupFailureException.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/datasource/lookup/DataSourceLookupFailureException.java
+END
+DataSourceLookup.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/datasource/lookup/DataSourceLookup.java
+END
+IsolationLevelDataSourceRouter.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/datasource/lookup/IsolationLevelDataSourceRouter.java
+END
+JndiDataSourceLookup.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/datasource/lookup/JndiDataSourceLookup.java
+END
+SingleDataSourceLookup.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/datasource/lookup/SingleDataSourceLookup.java
+END
+MapDataSourceLookup.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/datasource/lookup/MapDataSourceLookup.java
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/lang
+END
+UsesJava7.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/lang/UsesJava7.java
+END
+UsesSunHttpServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/lang/UsesSunHttpServer.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/lang/package-info.java
+END
+NonNullApi.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/lang/NonNullApi.java
+END
+Nullable.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/lang/Nullable.java
+END
+NonNullFields.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/lang/NonNullFields.java
+END
+UsesSunMisc.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/lang/UsesSunMisc.java
+END
+UsesJava8.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/lang/UsesJava8.java
+END
+NonNull.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/lang/NonNull.java
+END

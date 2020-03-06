@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/mvc/condition
+END
+ParamsRequestConditionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/mvc/condition/ParamsRequestConditionTests.java
+END
+RequestConditionHolderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/mvc/condition/RequestConditionHolderTests.java
+END
+CompositeRequestConditionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/mvc/condition/CompositeRequestConditionTests.java
+END
+PatternsRequestConditionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/mvc/condition/PatternsRequestConditionTests.java
+END
+HeadersRequestConditionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/mvc/condition/HeadersRequestConditionTests.java
+END
+ConsumesRequestConditionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/mvc/condition/ConsumesRequestConditionTests.java
+END
+RequestMethodsRequestConditionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/mvc/condition/RequestMethodsRequestConditionTests.java
+END
+ProducesRequestConditionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/mvc/condition/ProducesRequestConditionTests.java
+END

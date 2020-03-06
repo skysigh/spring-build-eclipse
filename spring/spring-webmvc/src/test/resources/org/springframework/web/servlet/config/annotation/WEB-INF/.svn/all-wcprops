@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/resources/org/springframework/web/servlet/config/annotation/WEB-INF
+END
+index.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/resources/org/springframework/web/servlet/config/annotation/WEB-INF/index.jsp
+END
+index.vm
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/resources/org/springframework/web/servlet/config/annotation/WEB-INF/index.vm
+END
+index.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/resources/org/springframework/web/servlet/config/annotation/WEB-INF/index.tpl
+END
+tiles.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/resources/org/springframework/web/servlet/config/annotation/WEB-INF/tiles.xml
+END
+index.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/resources/org/springframework/web/servlet/config/annotation/WEB-INF/index.ftl
+END

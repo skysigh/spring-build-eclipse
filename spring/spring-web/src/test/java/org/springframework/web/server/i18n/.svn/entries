@@ -1,0 +1,52 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-web/src/test/java/org/springframework/web/server/i18n
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+AcceptHeaderLocaleContextResolverTests.java
+file
+
+
+
+
+2020-03-06T03:54:06.556000Z
+6b4b8d2b6713c04451c82cb07969f591
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+FixedLocaleContextResolverTests.java
+file
+
+
+
+
+2020-03-06T03:54:06.574000Z
+e6b7e91e303b818297a5c37c0dec4158
+2020-03-06T03:35:38.538472Z
+1
+wck
+

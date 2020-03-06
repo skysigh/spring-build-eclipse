@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/format/datetime/standard
+END
+DateTimeFormatterFactoryBeanTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/format/datetime/standard/DateTimeFormatterFactoryBeanTests.java
+END
+DateTimeFormattingTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/format/datetime/standard/DateTimeFormattingTests.java
+END
+InstantFormatterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/format/datetime/standard/InstantFormatterTests.java
+END
+DateTimeFormatterFactoryTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/format/datetime/standard/DateTimeFormatterFactoryTests.java
+END

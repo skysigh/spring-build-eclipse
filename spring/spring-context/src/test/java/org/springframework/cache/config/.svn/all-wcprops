@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/cache/config
+END
+EnableCachingTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/cache/config/EnableCachingTests.java
+END
+ExpressionCachingIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/cache/config/ExpressionCachingIntegrationTests.java
+END
+CacheAdviceNamespaceTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/cache/config/CacheAdviceNamespaceTests.java
+END
+CacheAdviceParserTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/cache/config/CacheAdviceParserTests.java
+END
+AnnotationNamespaceDrivenTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/cache/config/AnnotationNamespaceDrivenTests.java
+END
+AnnotationDrivenCacheConfigTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/cache/config/AnnotationDrivenCacheConfigTests.java
+END
+EnableCachingIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/cache/config/EnableCachingIntegrationTests.java
+END
+CustomInterceptorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/cache/config/CustomInterceptorTests.java
+END

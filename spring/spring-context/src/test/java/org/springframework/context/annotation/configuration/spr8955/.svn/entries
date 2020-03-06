@@ -1,0 +1,52 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/configuration/spr8955
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+Spr8955Parent.java
+file
+
+
+
+
+2020-03-06T03:47:33.339000Z
+fd04c057da2e3672057a91092ec2089e
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+Spr8955Tests.java
+file
+
+
+
+
+2020-03-06T03:47:33.350000Z
+b5cb142eb3d77b997218505596c806d5
+2020-03-06T03:35:38.538472Z
+1
+wck
+

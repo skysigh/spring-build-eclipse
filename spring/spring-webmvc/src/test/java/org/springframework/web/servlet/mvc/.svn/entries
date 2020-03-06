@@ -1,0 +1,88 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/mvc
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+ControllerTests.java
+file
+
+
+
+
+2020-03-06T03:55:33.000000Z
+0404d1ea8920f7d913f88000564500e8
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+ParameterizableViewControllerTests.java
+file
+
+
+
+
+2020-03-06T03:55:33.021000Z
+66f06d426a445122104e0b849364d9ad
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+UrlFilenameViewControllerTests.java
+file
+
+
+
+
+2020-03-06T03:55:33.033000Z
+b389b300ed77385f5801ffbaa3cf94a2
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+WebContentInterceptorTests.java
+file
+
+
+
+
+2020-03-06T03:55:33.045000Z
+bc510bd51da6f4ff9ca0ab7629263d45
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+annotation
+dir
+
+condition
+dir
+
+method
+dir
+
+support
+dir
+

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/testFixtures/java/org/springframework/web/testfixture/http/server/reactive/bootstrap
+END
+ReactorHttpServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/testFixtures/java/org/springframework/web/testfixture/http/server/reactive/bootstrap/ReactorHttpServer.java
+END
+TomcatHttpServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/testFixtures/java/org/springframework/web/testfixture/http/server/reactive/bootstrap/TomcatHttpServer.java
+END
+HttpServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/testFixtures/java/org/springframework/web/testfixture/http/server/reactive/bootstrap/HttpServer.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/testFixtures/java/org/springframework/web/testfixture/http/server/reactive/bootstrap/package-info.java
+END
+AbstractHttpHandlerIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/testFixtures/java/org/springframework/web/testfixture/http/server/reactive/bootstrap/AbstractHttpHandlerIntegrationTests.java
+END
+JettyHttpServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/testFixtures/java/org/springframework/web/testfixture/http/server/reactive/bootstrap/JettyHttpServer.java
+END
+ReactorHttpsServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/testFixtures/java/org/springframework/web/testfixture/http/server/reactive/bootstrap/ReactorHttpsServer.java
+END
+AbstractHttpServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/testFixtures/java/org/springframework/web/testfixture/http/server/reactive/bootstrap/AbstractHttpServer.java
+END
+UndertowHttpServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/testFixtures/java/org/springframework/web/testfixture/http/server/reactive/bootstrap/UndertowHttpServer.java
+END

@@ -1,0 +1,311 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/package-info.java
+END
+AlternativeJdkIdGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/AlternativeJdkIdGenerator.java
+END
+FileSystemUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/FileSystemUtils.java
+END
+SerializationUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/SerializationUtils.java
+END
+MethodInvoker.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/MethodInvoker.java
+END
+CompositeIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/CompositeIterator.java
+END
+PathMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/PathMatcher.java
+END
+NumberUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/NumberUtils.java
+END
+RouteMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/RouteMatcher.java
+END
+StopWatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/StopWatch.java
+END
+AutoPopulatingList.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/AutoPopulatingList.java
+END
+CollectionUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/CollectionUtils.java
+END
+SimpleIdGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/SimpleIdGenerator.java
+END
+IdGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/IdGenerator.java
+END
+MimeType.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/MimeType.java
+END
+UpdateMessageDigestInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/UpdateMessageDigestInputStream.java
+END
+ClassUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/ClassUtils.java
+END
+DigestUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/DigestUtils.java
+END
+ConcurrentReferenceHashMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/ConcurrentReferenceHashMap.java
+END
+MimeTypeUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/MimeTypeUtils.java
+END
+SocketUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/SocketUtils.java
+END
+StringUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/StringUtils.java
+END
+ErrorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/ErrorHandler.java
+END
+CommonsLogWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/CommonsLogWriter.java
+END
+ExceptionTypeFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/ExceptionTypeFilter.java
+END
+JdkIdGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/JdkIdGenerator.java
+END
+SimpleRouteMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/SimpleRouteMatcher.java
+END
+TypeUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/TypeUtils.java
+END
+AntPathMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/AntPathMatcher.java
+END
+ConcurrencyThrottleSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/ConcurrencyThrottleSupport.java
+END
+DefaultPropertiesPersister.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/DefaultPropertiesPersister.java
+END
+ReflectionUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/ReflectionUtils.java
+END
+ObjectUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/ObjectUtils.java
+END
+StreamUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/StreamUtils.java
+END
+MultiValueMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/MultiValueMap.java
+END
+PropertiesPersister.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/PropertiesPersister.java
+END
+PatternMatchUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/PatternMatchUtils.java
+END
+CustomizableThreadCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/CustomizableThreadCreator.java
+END
+Base64Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/Base64Utils.java
+END
+StringValueResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/StringValueResolver.java
+END
+LinkedMultiValueMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/LinkedMultiValueMap.java
+END
+SystemPropertyUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/SystemPropertyUtils.java
+END
+LinkedCaseInsensitiveMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/LinkedCaseInsensitiveMap.java
+END
+PropertyPlaceholderHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/PropertyPlaceholderHelper.java
+END
+ResizableByteArrayOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/ResizableByteArrayOutputStream.java
+END
+InstanceFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/InstanceFilter.java
+END
+ResourceUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/ResourceUtils.java
+END
+InvalidMimeTypeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/InvalidMimeTypeException.java
+END
+Assert.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/Assert.java
+END
+FastByteArrayOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/FastByteArrayOutputStream.java
+END
+FileCopyUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/FileCopyUtils.java
+END

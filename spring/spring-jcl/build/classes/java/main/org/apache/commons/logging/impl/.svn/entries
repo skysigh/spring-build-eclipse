@@ -1,0 +1,54 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-jcl/build/classes/java/main/org/apache/commons/logging/impl
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+NoOpLog.class
+file
+
+
+
+
+2020-03-06T03:50:01.888000Z
+4f0f6a92843e821b70147afacfca9bde
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+
+SimpleLog.class
+file
+
+
+
+
+2020-03-06T03:50:01.906000Z
+4e8fae22f3205e640ed8d59833c82da8
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+

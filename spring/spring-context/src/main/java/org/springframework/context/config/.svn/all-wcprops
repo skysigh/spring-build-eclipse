@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/config
+END
+SpringConfiguredBeanDefinitionParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/config/SpringConfiguredBeanDefinitionParser.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/config/package-info.java
+END
+ContextNamespaceHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/config/ContextNamespaceHandler.java
+END
+AbstractPropertyLoadingBeanDefinitionParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/config/AbstractPropertyLoadingBeanDefinitionParser.java
+END
+LoadTimeWeaverBeanDefinitionParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/config/LoadTimeWeaverBeanDefinitionParser.java
+END
+MBeanServerBeanDefinitionParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/config/MBeanServerBeanDefinitionParser.java
+END
+PropertyPlaceholderBeanDefinitionParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/config/PropertyPlaceholderBeanDefinitionParser.java
+END
+MBeanExportBeanDefinitionParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/config/MBeanExportBeanDefinitionParser.java
+END
+PropertyOverrideBeanDefinitionParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/config/PropertyOverrideBeanDefinitionParser.java
+END

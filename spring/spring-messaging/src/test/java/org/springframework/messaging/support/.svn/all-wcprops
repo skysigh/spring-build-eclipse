@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/test/java/org/springframework/messaging/support
+END
+ErrorMessageTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/test/java/org/springframework/messaging/support/ErrorMessageTests.java
+END
+ExecutorSubscribableChannelTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/test/java/org/springframework/messaging/support/ExecutorSubscribableChannelTests.java
+END
+NativeMessageHeaderAccessorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/test/java/org/springframework/messaging/support/NativeMessageHeaderAccessorTests.java
+END
+ChannelInterceptorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/test/java/org/springframework/messaging/support/ChannelInterceptorTests.java
+END
+MessageBuilderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/test/java/org/springframework/messaging/support/MessageBuilderTests.java
+END
+MessageHeaderAccessorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/test/java/org/springframework/messaging/support/MessageHeaderAccessorTests.java
+END

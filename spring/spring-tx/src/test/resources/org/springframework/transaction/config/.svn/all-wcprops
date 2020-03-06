@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/test/resources/org/springframework/transaction/config
+END
+annotationDrivenProxyTargetClassTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/test/resources/org/springframework/transaction/config/annotationDrivenProxyTargetClassTests.xml
+END
+annotationDrivenConfigurationClassTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/test/resources/org/springframework/transaction/config/annotationDrivenConfigurationClassTests.xml
+END

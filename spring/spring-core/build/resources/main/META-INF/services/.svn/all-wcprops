@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/resources/main/META-INF/services
+END
+reactor.blockhound.integration.BlockHoundIntegration
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/resources/main/META-INF/services/reactor.blockhound.integration.BlockHoundIntegration
+END

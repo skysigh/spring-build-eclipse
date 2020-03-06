@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/springcode/!svn/ver/1/spring-framework/spring-oxm/src/test/java/org/springframework/oxm/xstream
+END
+Flight.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/springcode/!svn/ver/1/spring-framework/spring-oxm/src/test/java/org/springframework/oxm/xstream/Flight.java
+END
+Flights.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/springcode/!svn/ver/1/spring-framework/spring-oxm/src/test/java/org/springframework/oxm/xstream/Flights.java
+END
+FlightSubclass.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/springcode/!svn/ver/1/spring-framework/spring-oxm/src/test/java/org/springframework/oxm/xstream/FlightSubclass.java
+END
+XStreamMarshallerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-oxm/src/test/java/org/springframework/oxm/xstream/XStreamMarshallerTests.java
+END
+XStreamUnmarshallerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-oxm/src/test/java/org/springframework/oxm/xstream/XStreamUnmarshallerTests.java
+END

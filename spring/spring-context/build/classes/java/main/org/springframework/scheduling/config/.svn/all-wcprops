@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/scheduling/config
+END
+CronTask.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/scheduling/config/CronTask.class
+END
+ScheduledTaskRegistrar.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/scheduling/config/ScheduledTaskRegistrar.class
+END
+Task.class
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/scheduling/config/Task.class
+END
+ScheduledTaskHolder.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/scheduling/config/ScheduledTaskHolder.class
+END
+TaskExecutorFactoryBean.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/scheduling/config/TaskExecutorFactoryBean.class
+END
+ExecutorBeanDefinitionParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/scheduling/config/ExecutorBeanDefinitionParser.class
+END
+FixedRateTask.class
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/scheduling/config/FixedRateTask.class
+END
+TaskNamespaceHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/scheduling/config/TaskNamespaceHandler.class
+END
+ContextLifecycleScheduledTaskRegistrar.class
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/scheduling/config/ContextLifecycleScheduledTaskRegistrar.class
+END
+package-info.class
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/scheduling/config/package-info.class
+END
+IntervalTask.class
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/scheduling/config/IntervalTask.class
+END
+ScheduledTask.class
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/scheduling/config/ScheduledTask.class
+END
+FixedDelayTask.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/scheduling/config/FixedDelayTask.class
+END
+AnnotationDrivenBeanDefinitionParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/scheduling/config/AnnotationDrivenBeanDefinitionParser.class
+END
+ScheduledTasksBeanDefinitionParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/scheduling/config/ScheduledTasksBeanDefinitionParser.class
+END
+TriggerTask.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/scheduling/config/TriggerTask.class
+END
+SchedulerBeanDefinitionParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/scheduling/config/SchedulerBeanDefinitionParser.class
+END
+TaskManagementConfigUtils.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/scheduling/config/TaskManagementConfigUtils.class
+END

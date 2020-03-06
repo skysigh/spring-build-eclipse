@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/jmx/export/naming
+END
+MetadataNamingStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/jmx/export/naming/MetadataNamingStrategy.java
+END
+SelfNaming.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/jmx/export/naming/SelfNaming.java
+END
+KeyNamingStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/jmx/export/naming/KeyNamingStrategy.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/jmx/export/naming/package-info.java
+END
+IdentityNamingStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/jmx/export/naming/IdentityNamingStrategy.java
+END
+ObjectNamingStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/jmx/export/naming/ObjectNamingStrategy.java
+END

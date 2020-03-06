@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/test/java/org/springframework/jms/listener/adapter
+END
+MessageContentsDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/test/java/org/springframework/jms/listener/adapter/MessageContentsDelegate.java
+END
+MessageDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/test/java/org/springframework/jms/listener/adapter/MessageDelegate.java
+END
+ResponsiveJmsTextMessageReturningMessageDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/test/java/org/springframework/jms/listener/adapter/ResponsiveJmsTextMessageReturningMessageDelegate.java
+END
+ResponsiveMessageDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/test/java/org/springframework/jms/listener/adapter/ResponsiveMessageDelegate.java
+END
+MessagingMessageListenerAdapterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/test/java/org/springframework/jms/listener/adapter/MessagingMessageListenerAdapterTests.java
+END
+JmsResponseTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/test/java/org/springframework/jms/listener/adapter/JmsResponseTests.java
+END
+StubMessageListenerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/test/java/org/springframework/jms/listener/adapter/StubMessageListenerAdapter.java
+END
+MessageListenerAdapterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/test/java/org/springframework/jms/listener/adapter/MessageListenerAdapterTests.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/main/org/springframework/transaction/aspectj
+END
+AnnotationTransactionAspect.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/main/org/springframework/transaction/aspectj/AnnotationTransactionAspect.class
+END
+AbstractTransactionAspect.class
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/main/org/springframework/transaction/aspectj/AbstractTransactionAspect.class
+END
+AspectJTransactionManagementConfiguration.class
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/main/org/springframework/transaction/aspectj/AspectJTransactionManagementConfiguration.class
+END
+AbstractTransactionAspect$Rethrower$1CheckedExceptionRethrower.class
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/main/org/springframework/transaction/aspectj/AbstractTransactionAspect$Rethrower$1CheckedExceptionRethrower.class
+END
+AbstractTransactionAspect$AbstractTransactionAspect$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/main/org/springframework/transaction/aspectj/AbstractTransactionAspect$AbstractTransactionAspect$1.class
+END
+JtaAnnotationTransactionAspect.class
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/main/org/springframework/transaction/aspectj/JtaAnnotationTransactionAspect.class
+END
+AspectJJtaTransactionManagementConfiguration.class
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/main/org/springframework/transaction/aspectj/AspectJJtaTransactionManagementConfiguration.class
+END
+AbstractTransactionAspect$Rethrower.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/main/org/springframework/transaction/aspectj/AbstractTransactionAspect$Rethrower.class
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/web/servlet/result
+END
+HeaderResultMatchersTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/web/servlet/result/HeaderResultMatchersTests.java
+END
+JsonPathResultMatchersTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/web/servlet/result/JsonPathResultMatchersTests.java
+END
+XpathResultMatchersTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/web/servlet/result/XpathResultMatchersTests.java
+END
+StatusResultMatchersTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/web/servlet/result/StatusResultMatchersTests.java
+END
+MockMvcResultMatchersTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/web/servlet/result/MockMvcResultMatchersTests.java
+END
+PrintingResultHandlerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/web/servlet/result/PrintingResultHandlerTests.java
+END
+ContentResultMatchersTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/web/servlet/result/ContentResultMatchersTests.java
+END
+FlashAttributeResultMatchersTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/web/servlet/result/FlashAttributeResultMatchersTests.java
+END
+ModelResultMatchersTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/web/servlet/result/ModelResultMatchersTests.java
+END

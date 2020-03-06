@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop
+END
+AfterReturningAdvice.class
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/AfterReturningAdvice.class
+END
+MethodBeforeAdvice.class
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/MethodBeforeAdvice.class
+END
+AopInvocationException.class
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/AopInvocationException.class
+END
+RawTargetAccess.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/RawTargetAccess.class
+END
+BeforeAdvice.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/BeforeAdvice.class
+END
+Pointcut.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/Pointcut.class
+END
+ClassFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/ClassFilter.class
+END
+IntroductionAwareMethodMatcher.class
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/IntroductionAwareMethodMatcher.class
+END
+TargetSource.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/TargetSource.class
+END
+ProxyMethodInvocation.class
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/ProxyMethodInvocation.class
+END
+package-info.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/package-info.class
+END
+IntroductionInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/IntroductionInfo.class
+END
+Advisor.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/Advisor.class
+END
+TruePointcut.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/TruePointcut.class
+END
+ThrowsAdvice.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/ThrowsAdvice.class
+END
+IntroductionInterceptor.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/IntroductionInterceptor.class
+END
+TrueClassFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/TrueClassFilter.class
+END
+MethodMatcher.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/MethodMatcher.class
+END
+PointcutAdvisor.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/PointcutAdvisor.class
+END
+DynamicIntroductionAdvice.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/DynamicIntroductionAdvice.class
+END
+AfterAdvice.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/AfterAdvice.class
+END
+TargetClassAware.class
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/TargetClassAware.class
+END
+IntroductionAdvisor.class
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/IntroductionAdvisor.class
+END
+SpringProxy.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/SpringProxy.class
+END
+Advisor$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/Advisor$1.class
+END
+TrueMethodMatcher.class
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/TrueMethodMatcher.class
+END

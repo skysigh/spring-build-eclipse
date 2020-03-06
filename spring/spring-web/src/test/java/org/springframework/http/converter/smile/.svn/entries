@@ -1,0 +1,40 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-web/src/test/java/org/springframework/http/converter/smile
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+MappingJackson2SmileHttpMessageConverterTests.java
+file
+
+
+
+
+2020-03-06T03:54:02.610000Z
+5e7d33c9849cfe042d54e9ffcb6a9459
+2020-03-06T03:35:38.538472Z
+1
+wck
+

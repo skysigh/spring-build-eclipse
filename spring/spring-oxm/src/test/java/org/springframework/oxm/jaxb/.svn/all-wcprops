@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/springcode/!svn/ver/1/spring-framework/spring-oxm/src/test/java/org/springframework/oxm/jaxb
+END
+Airplane.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/springcode/!svn/ver/1/spring-framework/spring-oxm/src/test/java/org/springframework/oxm/jaxb/Airplane.java
+END
+BinaryObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/springcode/!svn/ver/1/spring-framework/spring-oxm/src/test/java/org/springframework/oxm/jaxb/BinaryObject.java
+END
+Jaxb2UnmarshallerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/springcode/!svn/ver/1/spring-framework/spring-oxm/src/test/java/org/springframework/oxm/jaxb/Jaxb2UnmarshallerTests.java
+END
+Primitives.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/springcode/!svn/ver/1/spring-framework/spring-oxm/src/test/java/org/springframework/oxm/jaxb/Primitives.java
+END
+StandardClasses.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/springcode/!svn/ver/1/spring-framework/spring-oxm/src/test/java/org/springframework/oxm/jaxb/StandardClasses.java
+END
+XmlRegObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/springcode/!svn/ver/1/spring-framework/spring-oxm/src/test/java/org/springframework/oxm/jaxb/XmlRegObjectFactory.java
+END
+Jaxb2MarshallerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/springcode/!svn/ver/1/spring-framework/spring-oxm/src/test/java/org/springframework/oxm/jaxb/Jaxb2MarshallerTests.java
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/env
+END
+MergedPropertiesFilesOverriddenByInlinedPropertiesTestPropertySourceTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/env/MergedPropertiesFilesOverriddenByInlinedPropertiesTestPropertySourceTests.java
+END
+SystemPropertyOverridePropertiesFileTestPropertySourceTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/env/SystemPropertyOverridePropertiesFileTestPropertySourceTests.java
+END
+AbstractExplicitPropertiesFileTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/env/AbstractExplicitPropertiesFileTests.java
+END
+ExtendedDefaultPropertiesFileDetectionTestPropertySourceTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/env/ExtendedDefaultPropertiesFileDetectionTestPropertySourceTests.java
+END
+MergedPropertiesFilesTestPropertySourceTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/env/MergedPropertiesFilesTestPropertySourceTests.java
+END
+InlinedPropertiesOverridePropertiesFilesTestPropertySourceTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/env/InlinedPropertiesOverridePropertiesFilesTestPropertySourceTests.java
+END
+ExplicitPropertiesFileTestPropertySourceTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/env/ExplicitPropertiesFileTestPropertySourceTests.java
+END
+DefaultPropertiesFileDetectionTestPropertySourceTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/env/DefaultPropertiesFileDetectionTestPropertySourceTests.java
+END
+InheritedRelativePathPropertiesFileTestPropertySourceTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/env/InheritedRelativePathPropertiesFileTestPropertySourceTests.java
+END
+ExplicitPropertiesFileInClasspathTestPropertySourceTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/env/ExplicitPropertiesFileInClasspathTestPropertySourceTests.java
+END
+ApplicationPropertyOverridesPropertiesFileTestPropertySourceTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/env/ApplicationPropertyOverridesPropertiesFileTestPropertySourceTests.java
+END
+InlinedPropertiesTestPropertySourceTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/env/InlinedPropertiesTestPropertySourceTests.java
+END
+TestPropertySourceTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/env/TestPropertySourceTestSuite.java
+END

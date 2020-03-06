@@ -1,0 +1,52 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit4/nested
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+NestedTestsWithSpringRulesTests.java
+file
+
+
+
+
+2020-03-06T03:52:32.487000Z
+f7f0f1830b3cb7a1e129f6e012ee2c1b
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+SpringRuleConfigurer.java
+file
+
+
+
+
+2020-03-06T03:52:32.501000Z
+61159dfce354451c2753ee8235895158
+2020-03-06T03:35:38.538472Z
+1
+wck
+

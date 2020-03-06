@@ -1,0 +1,52 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-beans/src/test/resources/org/springframework/beans/factory/support/security
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+callbacks.xml
+file
+
+
+
+
+2020-03-06T03:45:32.226000Z
+81e2136de28050016bb76f6192a6ce91
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+policy.all
+file
+
+
+
+
+2020-03-06T03:45:32.239000Z
+ec83a5c0928d717ab550badddde65876
+2020-03-06T03:35:38.538472Z
+1
+wck
+

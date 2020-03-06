@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/src/test/java/org/springframework/beans/factory/aspectj
+END
+XmlBeanConfigurerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/src/test/java/org/springframework/beans/factory/aspectj/XmlBeanConfigurerTests.java
+END
+SpringConfiguredWithAutoProxyingTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/src/test/java/org/springframework/beans/factory/aspectj/SpringConfiguredWithAutoProxyingTests.java
+END
+ShouldBeConfiguredBySpring.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/src/test/java/org/springframework/beans/factory/aspectj/ShouldBeConfiguredBySpring.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/build/resources/test/org/springframework/test/context/env/repeatable
+END
+first.properties
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/build/resources/test/org/springframework/test/context/env/repeatable/first.properties
+END
+local.properties
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/build/resources/test/org/springframework/test/context/env/repeatable/local.properties
+END
+second.properties
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/build/resources/test/org/springframework/test/context/env/repeatable/second.properties
+END
+DefaultPropertiesFileDetectionRepeatedTestPropertySourceTests.properties
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/build/resources/test/org/springframework/test/context/env/repeatable/DefaultPropertiesFileDetectionRepeatedTestPropertySourceTests.properties
+END
+meta.properties
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/build/resources/test/org/springframework/test/context/env/repeatable/meta.properties
+END

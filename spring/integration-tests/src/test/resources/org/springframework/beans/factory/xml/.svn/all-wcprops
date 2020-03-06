@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/springcode/!svn/ver/1/spring-framework/integration-tests/src/test/resources/org/springframework/beans/factory/xml
+END
+component-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/integration-tests/src/test/resources/org/springframework/beans/factory/xml/component-config.xml
+END
+component.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/integration-tests/src/test/resources/org/springframework/beans/factory/xml/component.xsd
+END

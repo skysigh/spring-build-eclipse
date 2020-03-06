@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/resource
+END
+VersionPathStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/resource/VersionPathStrategy.java
+END
+TransformedResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/resource/TransformedResource.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/resource/package-info.java
+END
+ResourceResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/resource/ResourceResolver.java
+END
+EncodedResourceResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/resource/EncodedResourceResolver.java
+END
+VersionResourceResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/resource/VersionResourceResolver.java
+END
+DefaultResourceTransformerChain.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/resource/DefaultResourceTransformerChain.java
+END
+ResourceResolverChain.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/resource/ResourceResolverChain.java
+END
+ContentVersionStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/resource/ContentVersionStrategy.java
+END
+CachingResourceTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/resource/CachingResourceTransformer.java
+END
+VersionStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/resource/VersionStrategy.java
+END
+WebJarsResourceResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/resource/WebJarsResourceResolver.java
+END
+DefaultResourceResolverChain.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/resource/DefaultResourceResolverChain.java
+END
+PathResourceResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/resource/PathResourceResolver.java
+END
+ResourceUrlProviderExposingInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/resource/ResourceUrlProviderExposingInterceptor.java
+END
+HttpResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/resource/HttpResource.java
+END
+ResourceHttpRequestHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/resource/ResourceHttpRequestHandler.java
+END
+CachingResourceResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/resource/CachingResourceResolver.java
+END
+AbstractResourceResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/resource/AbstractResourceResolver.java
+END
+ResourceTransformerChain.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/resource/ResourceTransformerChain.java
+END
+AbstractVersionStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/resource/AbstractVersionStrategy.java
+END
+ResourceTransformerSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/resource/ResourceTransformerSupport.java
+END
+DefaultServletHttpRequestHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/resource/DefaultServletHttpRequestHandler.java
+END
+FixedVersionStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/resource/FixedVersionStrategy.java
+END
+ResourceUrlEncodingFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/resource/ResourceUrlEncodingFilter.java
+END
+GzipResourceResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/resource/GzipResourceResolver.java
+END
+CssLinkResourceTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/resource/CssLinkResourceTransformer.java
+END
+AppCacheManifestTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/resource/AppCacheManifestTransformer.java
+END
+ResourceTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/resource/ResourceTransformer.java
+END
+ResourceUrlProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/resource/ResourceUrlProvider.java
+END

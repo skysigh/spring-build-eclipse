@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/instrument/classloading
+END
+InstrumentationLoadTimeWeaver.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/instrument/classloading/InstrumentationLoadTimeWeaver.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/instrument/classloading/package-info.java
+END
+ShadowingClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/instrument/classloading/ShadowingClassLoader.java
+END
+WeavingTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/instrument/classloading/WeavingTransformer.java
+END
+LoadTimeWeaver.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/instrument/classloading/LoadTimeWeaver.java
+END
+ReflectiveLoadTimeWeaver.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/instrument/classloading/ReflectiveLoadTimeWeaver.java
+END
+ResourceOverridingShadowingClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/instrument/classloading/ResourceOverridingShadowingClassLoader.java
+END
+SimpleInstrumentableClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/instrument/classloading/SimpleInstrumentableClassLoader.java
+END
+SimpleThrowawayClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/instrument/classloading/SimpleThrowawayClassLoader.java
+END
+SimpleLoadTimeWeaver.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/instrument/classloading/SimpleLoadTimeWeaver.java
+END

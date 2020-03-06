@@ -1,0 +1,301 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-core/src/test/java/org/springframework/core
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+AttributeAccessorSupportTests.java
+file
+
+
+
+
+2020-03-06T03:49:34.223000Z
+6d9d7862e170aead8744bb5cb4761895
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+BridgeMethodResolverTests.java
+file
+
+
+
+
+2020-03-06T03:49:34.237000Z
+3bd13d387786129fd549bfd4e39f59f9
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+CollectionFactoryTests.java
+file
+
+
+
+
+2020-03-06T03:49:34.249000Z
+f8822796b158e840beeca627bf97cb4a
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+ConstantsTests.java
+file
+
+
+
+
+2020-03-06T03:49:34.260000Z
+29e7e23bd1fd25404bf396289c2a7c6b
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+ConventionsTests.java
+file
+
+
+
+
+2020-03-06T03:49:34.272000Z
+6a7f4ba1c64916052b6489e60a502dcd
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+ExceptionDepthComparatorTests.java
+file
+
+
+
+
+2020-03-06T03:49:34.282000Z
+125c1843291f4a43729fd263a51f6eab
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+GenericTypeResolverTests.java
+file
+
+
+
+
+2020-03-06T03:49:34.294000Z
+e41dd046b289a544f786aef9dd92e697
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+LocalVariableTableParameterNameDiscovererTests.java
+file
+
+
+
+
+2020-03-06T03:49:34.305000Z
+82db11b5e74a228b95749af7dfb4031d
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+MethodParameterTests.java
+file
+
+
+
+
+2020-03-06T03:49:34.317000Z
+e1998b491d3763c54ea3ebfd9d262ad0
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+NestedExceptionTests.java
+file
+
+
+
+
+2020-03-06T03:49:34.328000Z
+615b3a1f9381d84f488041288e3ba1e6
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+OrderComparatorTests.java
+file
+
+
+
+
+2020-03-06T03:49:34.339000Z
+b733dc6f22f560a3cddfb07357fcbcb7
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+ParameterizedTypeReferenceTests.java
+file
+
+
+
+
+2020-03-06T03:49:34.350000Z
+b7a8458b87f7121abccab080667c47e7
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+PrioritizedParameterNameDiscovererTests.java
+file
+
+
+
+
+2020-03-06T03:49:34.361000Z
+4a64371fabf4b41847b0b726a505207b
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+ReactiveAdapterRegistryTests.java
+file
+
+
+
+
+2020-03-06T03:49:34.372000Z
+79b613242b1c3f21deedaa01c5229bcf
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+ResolvableTypeTests.java
+file
+
+
+
+
+2020-03-06T03:49:34.384000Z
+5ce4014f791d00f8ad416a700f0ac316
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+SerializableTypeWrapperTests.java
+file
+
+
+
+
+2020-03-06T03:49:34.395000Z
+cef527eddf5482723de1b3ba8b0944e3
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+SimpleAliasRegistryTests.java
+file
+
+
+
+
+2020-03-06T03:49:34.406000Z
+e3d06954d66d3390a6c627251187f283
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+SortedPropertiesTests.java
+file
+
+
+
+
+2020-03-06T03:49:34.416000Z
+4d6f0d487747abcf75801f9be35215cf
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+SpringCoreBlockHoundIntegrationTests.java
+file
+
+
+
+
+2020-03-06T03:49:34.428000Z
+39c02d71f5352296f6804611b39ece41
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+StandardReflectionParameterNameDiscoverTests.java
+file
+
+
+
+
+2020-03-06T03:49:34.439000Z
+3037799cbd4327d240d9d6f53d70ecc4
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+annotation
+dir
+
+codec
+dir
+
+convert
+dir
+
+env
+dir
+
+io
+dir
+
+log
+dir
+
+serializer
+dir
+
+style
+dir
+
+task
+dir
+
+testfixture
+dir
+
+type
+dir
+

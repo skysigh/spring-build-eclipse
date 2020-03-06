@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/framework/adapter
+END
+AdvisorAdapterRegistrationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/framework/adapter/AdvisorAdapterRegistrationManager.java
+END
+UnknownAdviceTypeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/framework/adapter/UnknownAdviceTypeException.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/framework/adapter/package-info.java
+END
+MethodBeforeAdviceAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/framework/adapter/MethodBeforeAdviceAdapter.java
+END
+AdvisorAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/framework/adapter/AdvisorAdapter.java
+END
+DefaultAdvisorAdapterRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/framework/adapter/DefaultAdvisorAdapterRegistry.java
+END
+GlobalAdvisorAdapterRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/framework/adapter/GlobalAdvisorAdapterRegistry.java
+END
+ThrowsAdviceInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/framework/adapter/ThrowsAdviceInterceptor.java
+END
+AfterReturningAdviceInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/framework/adapter/AfterReturningAdviceInterceptor.java
+END
+AdvisorAdapterRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/framework/adapter/AdvisorAdapterRegistry.java
+END
+AfterReturningAdviceAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/framework/adapter/AfterReturningAdviceAdapter.java
+END
+MethodBeforeAdviceInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/framework/adapter/MethodBeforeAdviceInterceptor.java
+END
+ThrowsAdviceAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/framework/adapter/ThrowsAdviceAdapter.java
+END

@@ -1,0 +1,52 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-test/src/test/java/org/springframework/test/context/testng/web
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+ServletTestExecutionListenerTestNGIntegrationTests.java
+file
+
+
+
+
+2020-03-06T03:52:35.302000Z
+89a07f84abc2f2dc3e3022dfd98649fa
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+TestNGSpringContextWebTests.java
+file
+
+
+
+
+2020-03-06T03:52:35.315000Z
+8fe9ad640b607647638a8e72f2dd81cb
+2020-03-06T03:35:38.538472Z
+1
+wck
+

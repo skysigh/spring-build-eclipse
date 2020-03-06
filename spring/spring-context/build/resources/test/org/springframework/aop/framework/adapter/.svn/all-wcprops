@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/aop/framework/adapter
+END
+AdvisorAdapterRegistrationTests-without-bpp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/aop/framework/adapter/AdvisorAdapterRegistrationTests-without-bpp.xml
+END
+AdvisorAdapterRegistrationTests-with-bpp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/aop/framework/adapter/AdvisorAdapterRegistrationTests-with-bpp.xml
+END

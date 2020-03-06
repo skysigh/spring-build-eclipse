@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/springcode/!svn/ver/1/spring-framework/src/docs/asciidoc/languages
+END
+groovy.adoc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/springcode/!svn/ver/1/spring-framework/src/docs/asciidoc/languages/groovy.adoc
+END
+dynamic-languages.adoc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/springcode/!svn/ver/1/spring-framework/src/docs/asciidoc/languages/dynamic-languages.adoc
+END
+kotlin.adoc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/springcode/!svn/ver/1/spring-framework/src/docs/asciidoc/languages/kotlin.adoc
+END

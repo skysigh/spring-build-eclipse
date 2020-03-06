@@ -1,0 +1,40 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-context-support/src/test/resources/org/springframework/mail/javamail
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+test.mime.types
+file
+
+
+
+
+2020-03-06T03:48:10.828000Z
+16a31d7b9d36530bcefe7ed86f9a15da
+2020-03-06T03:35:38.538472Z
+1
+wck
+

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/remoting
+END
+RemoteAccessException.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/remoting/RemoteAccessException.java
+END
+RemoteProxyFailureException.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/remoting/RemoteProxyFailureException.java
+END
+RemoteConnectFailureException.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/remoting/RemoteConnectFailureException.java
+END
+RemoteLookupFailureException.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/remoting/RemoteLookupFailureException.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/remoting/package-info.java
+END
+RemoteTimeoutException.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/remoting/RemoteTimeoutException.java
+END
+RemoteInvocationFailureException.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/remoting/RemoteInvocationFailureException.java
+END

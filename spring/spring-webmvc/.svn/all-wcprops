@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/.classpath
+END
+spring-webmvc.gradle
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/spring-webmvc.gradle
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/.project
+END

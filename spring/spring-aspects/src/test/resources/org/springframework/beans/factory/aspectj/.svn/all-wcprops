@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/src/test/resources/org/springframework/beans/factory/aspectj
+END
+beanConfigurerTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/src/test/resources/org/springframework/beans/factory/aspectj/beanConfigurerTests.xml
+END
+beanConfigurerTests-beans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/src/test/resources/org/springframework/beans/factory/aspectj/beanConfigurerTests-beans.xml
+END
+springConfigured.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/src/test/resources/org/springframework/beans/factory/aspectj/springConfigured.xml
+END

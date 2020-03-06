@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/cache/aspectj
+END
+JCacheAspectJJavaConfigTests$EnableCachingConfig.class
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/cache/aspectj/JCacheAspectJJavaConfigTests$EnableCachingConfig.class
+END
+JCacheAspectJNamespaceConfigTests.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/cache/aspectj/JCacheAspectJNamespaceConfigTests.class
+END
+AspectJEnableCachingIsolatedTests$MultiCacheManagerConfig.class
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/cache/aspectj/AspectJEnableCachingIsolatedTests$MultiCacheManagerConfig.class
+END
+AspectJEnableCachingIsolatedTests$SingleCacheManagerConfig.class
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/cache/aspectj/AspectJEnableCachingIsolatedTests$SingleCacheManagerConfig.class
+END
+AspectJEnableCachingTests.class
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/cache/aspectj/AspectJEnableCachingTests.class
+END
+AbstractCacheAnnotationTests.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/cache/aspectj/AbstractCacheAnnotationTests.class
+END
+AspectJEnableCachingIsolatedTests$EmptyConfig.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/cache/aspectj/AspectJEnableCachingIsolatedTests$EmptyConfig.class
+END
+AspectJEnableCachingIsolatedTests$EnableCachingConfig.class
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/cache/aspectj/AspectJEnableCachingIsolatedTests$EnableCachingConfig.class
+END
+AspectJEnableCachingIsolatedTests.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/cache/aspectj/AspectJEnableCachingIsolatedTests.class
+END
+AspectJCacheAnnotationTests.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/cache/aspectj/AspectJCacheAnnotationTests.class
+END
+JCacheAspectJJavaConfigTests.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/cache/aspectj/JCacheAspectJJavaConfigTests.class
+END
+AspectJEnableCachingIsolatedTests$MultiCacheManagerConfigurer.class
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/cache/aspectj/AspectJEnableCachingIsolatedTests$MultiCacheManagerConfigurer.class
+END
+AspectJEnableCachingTests$EnableCachingConfig.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/cache/aspectj/AspectJEnableCachingTests$EnableCachingConfig.class
+END
+AspectJEnableCachingIsolatedTests$FullCachingConfig.class
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/cache/aspectj/AspectJEnableCachingIsolatedTests$FullCachingConfig.class
+END
+AspectJEnableCachingIsolatedTests$EmptyConfigSupportConfig.class
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/cache/aspectj/AspectJEnableCachingIsolatedTests$EmptyConfigSupportConfig.class
+END

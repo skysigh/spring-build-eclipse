@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/client
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/client/package-info.java
+END
+ResponseErrorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/client/ResponseErrorHandler.java
+END
+HttpClientErrorException.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/client/HttpClientErrorException.java
+END
+RestClientException.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/client/RestClientException.java
+END
+ExtractingResponseErrorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/client/ExtractingResponseErrorHandler.java
+END
+RestOperations.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/client/RestOperations.java
+END
+MessageBodyClientHttpResponseWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/client/MessageBodyClientHttpResponseWrapper.java
+END
+RestTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/client/RestTemplate.java
+END
+HttpStatusCodeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/client/HttpStatusCodeException.java
+END
+ResourceAccessException.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/client/ResourceAccessException.java
+END
+RestClientResponseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/client/RestClientResponseException.java
+END
+DefaultResponseErrorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/client/DefaultResponseErrorHandler.java
+END
+UnknownHttpStatusCodeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/client/UnknownHttpStatusCodeException.java
+END
+HttpServerErrorException.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/client/HttpServerErrorException.java
+END
+AsyncRestOperations.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/client/AsyncRestOperations.java
+END
+HttpMessageConverterExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/client/HttpMessageConverterExtractor.java
+END
+ResponseExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/client/ResponseExtractor.java
+END
+AsyncRestTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/client/AsyncRestTemplate.java
+END
+RequestCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/client/RequestCallback.java
+END
+AsyncRequestCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/client/AsyncRequestCallback.java
+END

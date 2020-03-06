@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/main/java/org/springframework/jms/listener/adapter
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/main/java/org/springframework/jms/listener/adapter/package-info.java
+END
+MessageListenerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/main/java/org/springframework/jms/listener/adapter/MessageListenerAdapter.java
+END
+ListenerExecutionFailedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/main/java/org/springframework/jms/listener/adapter/ListenerExecutionFailedException.java
+END
+MessagingMessageListenerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/main/java/org/springframework/jms/listener/adapter/MessagingMessageListenerAdapter.java
+END
+ReplyFailureException.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/main/java/org/springframework/jms/listener/adapter/ReplyFailureException.java
+END
+JmsResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/main/java/org/springframework/jms/listener/adapter/JmsResponse.java
+END
+AbstractAdaptableMessageListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/main/java/org/springframework/jms/listener/adapter/AbstractAdaptableMessageListener.java
+END

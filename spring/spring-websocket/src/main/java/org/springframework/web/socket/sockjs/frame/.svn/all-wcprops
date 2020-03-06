@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/sockjs/frame
+END
+AbstractSockJsMessageCodec.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/sockjs/frame/AbstractSockJsMessageCodec.java
+END
+SockJsFrameFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/sockjs/frame/SockJsFrameFormat.java
+END
+SockJsFrameType.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/sockjs/frame/SockJsFrameType.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/sockjs/frame/package-info.java
+END
+SockJsFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/sockjs/frame/SockJsFrame.java
+END
+Jackson2SockJsMessageCodec.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/sockjs/frame/Jackson2SockJsMessageCodec.java
+END
+DefaultSockJsFrameFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/sockjs/frame/DefaultSockJsFrameFormat.java
+END
+SockJsMessageCodec.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/sockjs/frame/SockJsMessageCodec.java
+END

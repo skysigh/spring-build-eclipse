@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/type
+END
+AnnotationMetadataTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/type/AnnotationMetadataTests.java
+END
+StandardMethodMetadataTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/type/StandardMethodMetadataTests.java
+END
+AbstractClassMetadataMemberClassTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/type/AbstractClassMetadataMemberClassTests.java
+END
+AspectJTypeFilterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/type/AspectJTypeFilterTests.java
+END
+AssignableTypeFilterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/type/AssignableTypeFilterTests.java
+END
+Scope.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/type/Scope.java
+END
+ClassloadingAssertions.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/type/ClassloadingAssertions.java
+END
+AbstractAnnotationMetadataTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/type/AbstractAnnotationMetadataTests.java
+END
+TestAutowired.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/type/TestAutowired.java
+END
+StandardAnnotationMetadataTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/type/StandardAnnotationMetadataTests.java
+END
+StandardClassMetadataMemberClassTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/type/StandardClassMetadataMemberClassTests.java
+END
+AbstractMethodMetadataTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/type/AbstractMethodMetadataTests.java
+END
+InheritedAnnotationsAnnotationMetadataTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/type/InheritedAnnotationsAnnotationMetadataTests.java
+END
+CachingMetadataReaderLeakTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/type/CachingMetadataReaderLeakTests.java
+END
+TestQualifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/type/TestQualifier.java
+END
+AnnotationTypeFilterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/type/AnnotationTypeFilterTests.java
+END

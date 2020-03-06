@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/resources/org/springframework/web/reactive/resource/testalternatepath
+END
+baz.css
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/resources/org/springframework/web/reactive/resource/testalternatepath/baz.css
+END
+bar.css
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/resources/org/springframework/web/reactive/resource/testalternatepath/bar.css
+END

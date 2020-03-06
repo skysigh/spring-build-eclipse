@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/event
+END
+LifecycleEventTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/event/LifecycleEventTests.java
+END
+GenericApplicationListenerAdapterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/event/GenericApplicationListenerAdapterTests.java
+END
+PayloadApplicationEventTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/event/PayloadApplicationEventTests.java
+END
+AbstractApplicationEventListenerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/event/AbstractApplicationEventListenerTests.java
+END
+EventPublicationInterceptorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/event/EventPublicationInterceptorTests.java
+END
+ApplicationContextEventTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/event/ApplicationContextEventTests.java
+END
+AnnotationDrivenEventListenerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/event/AnnotationDrivenEventListenerTests.java
+END
+ApplicationListenerMethodAdapterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/event/ApplicationListenerMethodAdapterTests.java
+END

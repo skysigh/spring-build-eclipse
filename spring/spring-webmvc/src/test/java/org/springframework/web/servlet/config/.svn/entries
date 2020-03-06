@@ -1,0 +1,55 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/config
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+AnnotationDrivenBeanDefinitionParserTests.java
+file
+
+
+
+
+2020-03-06T03:55:31.983000Z
+20922ca2050143e34daa73f98db7f23e
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+MvcNamespaceTests.java
+file
+
+
+
+
+2020-03-06T03:55:32.006000Z
+47e538bd652b1470cad95a6469bfbb30
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+annotation
+dir
+

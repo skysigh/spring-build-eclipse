@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/client/match
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/client/match/package-info.java
+END
+JsonPathRequestMatchers.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/client/match/JsonPathRequestMatchers.java
+END
+MockRestRequestMatchers.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/client/match/MockRestRequestMatchers.java
+END
+XpathRequestMatchers.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/client/match/XpathRequestMatchers.java
+END
+ContentRequestMatchers.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/client/match/ContentRequestMatchers.java
+END

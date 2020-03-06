@@ -1,0 +1,52 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-jdbc/src/test/java/org/springframework/jdbc/config
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+InitializeDatabaseIntegrationTests.java
+file
+
+
+
+
+2020-03-06T03:50:26.091000Z
+9bc2d25b1803c16018972fa0c5ff4ac6
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+JdbcNamespaceIntegrationTests.java
+file
+
+
+
+
+2020-03-06T03:50:26.111000Z
+0db619b4c01b22e657536d3296b71fe2
+2020-03-06T03:35:38.538472Z
+1
+wck
+

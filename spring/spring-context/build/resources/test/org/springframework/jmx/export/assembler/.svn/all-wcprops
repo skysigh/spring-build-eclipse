@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/jmx/export/assembler
+END
+methodExclusionAssemblerCombo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/jmx/export/assembler/methodExclusionAssemblerCombo.xml
+END
+interfaceAssemblerCustom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/jmx/export/assembler/interfaceAssemblerCustom.xml
+END
+methodNameAssemblerMapped.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/jmx/export/assembler/methodNameAssemblerMapped.xml
+END
+metadata-autodetect.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/jmx/export/assembler/metadata-autodetect.xml
+END
+methodNameAssembler.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/jmx/export/assembler/methodNameAssembler.xml
+END
+interfaceAssembler.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/jmx/export/assembler/interfaceAssembler.xml
+END
+methodExclusionAssemblerMapped.xml
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/jmx/export/assembler/methodExclusionAssemblerMapped.xml
+END
+reflectiveAssembler.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/jmx/export/assembler/reflectiveAssembler.xml
+END
+methodExclusionAssembler.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/jmx/export/assembler/methodExclusionAssembler.xml
+END
+methodExclusionAssemblerNotMapped.xml
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/jmx/export/assembler/methodExclusionAssemblerNotMapped.xml
+END
+metadataAssembler.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/jmx/export/assembler/metadataAssembler.xml
+END
+interfaceAssemblerMapped.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/jmx/export/assembler/interfaceAssemblerMapped.xml
+END

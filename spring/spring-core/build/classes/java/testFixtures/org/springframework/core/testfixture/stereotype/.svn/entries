@@ -1,0 +1,54 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-core/build/classes/java/testFixtures/org/springframework/core/testfixture/stereotype
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+Component.class
+file
+
+
+
+
+2020-03-06T03:49:17.609000Z
+f76c8199c6b4fd57f3a050f38069f1a1
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+
+Indexed.class
+file
+
+
+
+
+2020-03-06T03:49:17.622000Z
+08a9c650200e50e42259c9da4a1c72a7
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+

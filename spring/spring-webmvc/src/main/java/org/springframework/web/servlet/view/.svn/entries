@@ -1,0 +1,259 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/view
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+AbstractCachingViewResolver.java
+file
+
+
+
+
+2020-03-06T03:55:28.750000Z
+9abe406d926fd351c1fbf00eae3d0e6b
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+AbstractTemplateView.java
+file
+
+
+
+
+2020-03-06T03:55:28.765000Z
+ba0d8a118f051392a85a4697235fae61
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+AbstractTemplateViewResolver.java
+file
+
+
+
+
+2020-03-06T03:55:28.778000Z
+eb45cb06f2dbcb07d438fa4403cbcc00
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+AbstractUrlBasedView.java
+file
+
+
+
+
+2020-03-06T03:55:28.791000Z
+2f5dcd7b932fe296760f176d1b12e3a2
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+AbstractView.java
+file
+
+
+
+
+2020-03-06T03:55:28.803000Z
+0e486fc33edea25c9a552a3cf971b09b
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+BeanNameViewResolver.java
+file
+
+
+
+
+2020-03-06T03:55:28.814000Z
+179838aa247c9447d86b547fa854c168
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+ContentNegotiatingViewResolver.java
+file
+
+
+
+
+2020-03-06T03:55:28.827000Z
+369fe2dab7bd87717e61073e797961e7
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+DefaultRequestToViewNameTranslator.java
+file
+
+
+
+
+2020-03-06T03:55:28.842000Z
+84a102563c8dde18f290b4123e31476b
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+InternalResourceView.java
+file
+
+
+
+
+2020-03-06T03:55:28.855000Z
+81dc9812c7117392314ce47c19d1ed6c
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+InternalResourceViewResolver.java
+file
+
+
+
+
+2020-03-06T03:55:28.867000Z
+b8f6a59b1edf9879409f0719ef38e712
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+JstlView.java
+file
+
+
+
+
+2020-03-06T03:55:28.878000Z
+16dba1c30b34c611e36925bfd82ee453
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+RedirectView.java
+file
+
+
+
+
+2020-03-06T03:55:28.890000Z
+cf01858af5ed25684f564661a27971dc
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+ResourceBundleViewResolver.java
+file
+
+
+
+
+2020-03-06T03:55:28.906000Z
+4676ee428c19e340ded47c2e6f0c0e17
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+UrlBasedViewResolver.java
+file
+
+
+
+
+2020-03-06T03:55:28.920000Z
+ff8b27d475bf08208c0cfdb4155fe9b7
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+ViewResolverComposite.java
+file
+
+
+
+
+2020-03-06T03:55:28.933000Z
+d160b16f94ddc952b501f4b7f35cb59b
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+XmlViewResolver.java
+file
+
+
+
+
+2020-03-06T03:55:28.946000Z
+2986379967a22010daa94c4412af2da8
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+document
+dir
+
+feed
+dir
+
+freemarker
+dir
+
+groovy
+dir
+
+json
+dir
+
+package-info.java
+file
+
+
+
+
+2020-03-06T03:55:29.509000Z
+c8005ea6e2454747183cce3b7be88f79
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+script
+dir
+
+tiles3
+dir
+
+xml
+dir
+
+xslt
+dir
+

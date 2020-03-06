@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/main/java/org/springframework/web/reactive/config
+END
+ResourceChainRegistration.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/main/java/org/springframework/web/reactive/config/ResourceChainRegistration.java
+END
+ViewResolverRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/main/java/org/springframework/web/reactive/config/ViewResolverRegistry.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/main/java/org/springframework/web/reactive/config/package-info.java
+END
+ResourceHandlerRegistration.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/main/java/org/springframework/web/reactive/config/ResourceHandlerRegistration.java
+END
+WebFluxConfigurationSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/main/java/org/springframework/web/reactive/config/WebFluxConfigurationSupport.java
+END
+WebFluxConfigurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/main/java/org/springframework/web/reactive/config/WebFluxConfigurer.java
+END
+WebFluxConfigurerComposite.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/main/java/org/springframework/web/reactive/config/WebFluxConfigurerComposite.java
+END
+DelegatingWebFluxConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/main/java/org/springframework/web/reactive/config/DelegatingWebFluxConfiguration.java
+END
+EnableWebFlux.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/main/java/org/springframework/web/reactive/config/EnableWebFlux.java
+END
+CorsRegistration.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/main/java/org/springframework/web/reactive/config/CorsRegistration.java
+END
+UrlBasedViewResolverRegistration.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/main/java/org/springframework/web/reactive/config/UrlBasedViewResolverRegistration.java
+END
+CorsRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/main/java/org/springframework/web/reactive/config/CorsRegistry.java
+END
+ResourceHandlerRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/main/java/org/springframework/web/reactive/config/ResourceHandlerRegistry.java
+END
+PathMatchConfigurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/main/java/org/springframework/web/reactive/config/PathMatchConfigurer.java
+END

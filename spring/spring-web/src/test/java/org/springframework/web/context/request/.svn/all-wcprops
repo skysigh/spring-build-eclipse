@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/context/request
+END
+WebApplicationContextScopeTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/context/request/WebApplicationContextScopeTests.java
+END
+RequestScopeTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/context/request/RequestScopeTests.java
+END
+RequestScopedProxyTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/context/request/RequestScopedProxyTests.java
+END
+ServletWebRequestTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/context/request/ServletWebRequestTests.java
+END
+RequestContextListenerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/context/request/RequestContextListenerTests.java
+END
+SessionScopeTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/context/request/SessionScopeTests.java
+END
+RequestAndSessionScopedBeanTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/context/request/RequestAndSessionScopedBeanTests.java
+END
+ServletRequestAttributesTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/context/request/ServletRequestAttributesTests.java
+END
+ServletWebRequestHttpMethodsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/context/request/ServletWebRequestHttpMethodsTests.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/main/java/org/springframework/scheduling/commonj
+END
+DelegatingWork.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/main/java/org/springframework/scheduling/commonj/DelegatingWork.java
+END
+ScheduledTimerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/main/java/org/springframework/scheduling/commonj/ScheduledTimerListener.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/main/java/org/springframework/scheduling/commonj/package-info.java
+END
+TimerManagerAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/main/java/org/springframework/scheduling/commonj/TimerManagerAccessor.java
+END
+TimerManagerFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/main/java/org/springframework/scheduling/commonj/TimerManagerFactoryBean.java
+END
+WorkManagerTaskExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/main/java/org/springframework/scheduling/commonj/WorkManagerTaskExecutor.java
+END
+DelegatingTimerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/main/java/org/springframework/scheduling/commonj/DelegatingTimerListener.java
+END
+TimerManagerTaskScheduler.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/main/java/org/springframework/scheduling/commonj/TimerManagerTaskScheduler.java
+END

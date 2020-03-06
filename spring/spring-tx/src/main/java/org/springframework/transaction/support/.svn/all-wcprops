@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/support
+END
+ResourceHolderSynchronization.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/support/ResourceHolderSynchronization.java
+END
+TransactionOperations.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/support/TransactionOperations.java
+END
+AbstractPlatformTransactionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/support/AbstractPlatformTransactionManager.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/support/package-info.java
+END
+ResourceHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/support/ResourceHolder.java
+END
+SmartTransactionObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/support/SmartTransactionObject.java
+END
+WithoutTransactionOperations.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/support/WithoutTransactionOperations.java
+END
+SimpleTransactionStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/support/SimpleTransactionStatus.java
+END
+ResourceTransactionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/support/ResourceTransactionManager.java
+END
+ResourceHolderSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/support/ResourceHolderSupport.java
+END
+SimpleTransactionScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/support/SimpleTransactionScope.java
+END
+DelegatingTransactionDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/support/DelegatingTransactionDefinition.java
+END
+CallbackPreferringPlatformTransactionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/support/CallbackPreferringPlatformTransactionManager.java
+END
+TransactionCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/support/TransactionCallback.java
+END
+DefaultTransactionStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/support/DefaultTransactionStatus.java
+END
+TransactionSynchronizationUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/support/TransactionSynchronizationUtils.java
+END
+TransactionSynchronization.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/support/TransactionSynchronization.java
+END
+DefaultTransactionDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/support/DefaultTransactionDefinition.java
+END
+ResourceTransactionDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/support/ResourceTransactionDefinition.java
+END
+AbstractTransactionStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/support/AbstractTransactionStatus.java
+END
+TransactionTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/support/TransactionTemplate.java
+END
+TransactionCallbackWithoutResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/support/TransactionCallbackWithoutResult.java
+END
+TransactionSynchronizationAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/support/TransactionSynchronizationAdapter.java
+END
+TransactionSynchronizationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/support/TransactionSynchronizationManager.java
+END

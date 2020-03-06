@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/converter
+END
+BufferedImageHttpMessageConverterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/converter/BufferedImageHttpMessageConverterTests.java
+END
+StringHttpMessageConverterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/converter/StringHttpMessageConverterTests.java
+END
+ResourceHttpMessageConverterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/converter/ResourceHttpMessageConverterTests.java
+END
+HttpMessageConverterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/converter/HttpMessageConverterTests.java
+END
+ResourceRegionHttpMessageConverterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/converter/ResourceRegionHttpMessageConverterTests.java
+END
+ObjectToStringHttpMessageConverterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/converter/ObjectToStringHttpMessageConverterTests.java
+END
+ByteArrayHttpMessageConverterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/converter/ByteArrayHttpMessageConverterTests.java
+END
+FormHttpMessageConverterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/converter/FormHttpMessageConverterTests.java
+END

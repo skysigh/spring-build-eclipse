@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/context
+END
+XmlWebApplicationContextTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/context/XmlWebApplicationContextTests.java
+END
+ContextLoaderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/context/ContextLoaderTests.java
+END
+ServletContextAwareProcessorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/context/ServletContextAwareProcessorTests.java
+END
+ServletConfigAwareBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/context/ServletConfigAwareBean.java
+END
+ServletContextAwareBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/context/ServletContextAwareBean.java
+END

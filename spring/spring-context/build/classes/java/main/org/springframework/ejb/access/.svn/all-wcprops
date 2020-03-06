@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/ejb/access
+END
+SimpleRemoteStatelessSessionProxyFactoryBean.class
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/ejb/access/SimpleRemoteStatelessSessionProxyFactoryBean.class
+END
+AbstractSlsbInvokerInterceptor.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/ejb/access/AbstractSlsbInvokerInterceptor.class
+END
+LocalStatelessSessionProxyFactoryBean.class
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/ejb/access/LocalStatelessSessionProxyFactoryBean.class
+END
+EjbAccessException.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/ejb/access/EjbAccessException.class
+END
+LocalSlsbInvokerInterceptor.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/ejb/access/LocalSlsbInvokerInterceptor.class
+END
+SimpleRemoteSlsbInvokerInterceptor.class
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/ejb/access/SimpleRemoteSlsbInvokerInterceptor.class
+END
+AbstractRemoteSlsbInvokerInterceptor.class
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/ejb/access/AbstractRemoteSlsbInvokerInterceptor.class
+END
+package-info.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/ejb/access/package-info.class
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/jmx/export/assembler
+END
+AbstractReflectiveMBeanInfoAssembler.class
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/jmx/export/assembler/AbstractReflectiveMBeanInfoAssembler.class
+END
+MBeanInfoAssembler.class
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/jmx/export/assembler/MBeanInfoAssembler.class
+END
+AbstractConfigurableMBeanInfoAssembler.class
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/jmx/export/assembler/AbstractConfigurableMBeanInfoAssembler.class
+END
+AutodetectCapableMBeanInfoAssembler.class
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/jmx/export/assembler/AutodetectCapableMBeanInfoAssembler.class
+END
+SimpleReflectiveMBeanInfoAssembler.class
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/jmx/export/assembler/SimpleReflectiveMBeanInfoAssembler.class
+END
+InterfaceBasedMBeanInfoAssembler.class
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/jmx/export/assembler/InterfaceBasedMBeanInfoAssembler.class
+END
+MethodNameBasedMBeanInfoAssembler.class
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/jmx/export/assembler/MethodNameBasedMBeanInfoAssembler.class
+END
+AbstractMBeanInfoAssembler.class
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/jmx/export/assembler/AbstractMBeanInfoAssembler.class
+END
+MethodExclusionMBeanInfoAssembler.class
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/jmx/export/assembler/MethodExclusionMBeanInfoAssembler.class
+END
+MetadataMBeanInfoAssembler.class
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/jmx/export/assembler/MetadataMBeanInfoAssembler.class
+END
+package-info.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/jmx/export/assembler/package-info.class
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/converter/cbor
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/converter/cbor/package-info.java
+END
+MappingJackson2CborHttpMessageConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/converter/cbor/MappingJackson2CborHttpMessageConverter.java
+END

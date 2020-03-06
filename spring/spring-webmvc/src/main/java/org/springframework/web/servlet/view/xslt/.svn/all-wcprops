@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/view/xslt
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/view/xslt/package-info.java
+END
+XsltViewResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/view/xslt/XsltViewResolver.java
+END
+XsltView.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/view/xslt/XsltView.java
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/codec
+END
+DataBufferEncoderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/codec/DataBufferEncoderTests.java
+END
+ByteBufferDecoderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/codec/ByteBufferDecoderTests.java
+END
+ByteArrayEncoderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/codec/ByteArrayEncoderTests.java
+END
+CharSequenceEncoderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/codec/CharSequenceEncoderTests.java
+END
+ByteBufferEncoderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/codec/ByteBufferEncoderTests.java
+END
+StringDecoderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/codec/StringDecoderTests.java
+END
+ResourceEncoderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/codec/ResourceEncoderTests.java
+END
+ByteArrayDecoderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/codec/ByteArrayDecoderTests.java
+END
+DataBufferDecoderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/codec/DataBufferDecoderTests.java
+END
+ResourceDecoderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/codec/ResourceDecoderTests.java
+END
+ResourceRegionEncoderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/codec/ResourceRegionEncoderTests.java
+END

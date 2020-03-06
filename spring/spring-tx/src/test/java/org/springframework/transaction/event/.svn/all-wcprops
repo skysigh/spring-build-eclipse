@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/test/java/org/springframework/transaction/event
+END
+TransactionalEventListenerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/test/java/org/springframework/transaction/event/TransactionalEventListenerTests.java
+END
+ApplicationListenerMethodTransactionalAdapterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/test/java/org/springframework/transaction/event/ApplicationListenerMethodTransactionalAdapterTests.java
+END

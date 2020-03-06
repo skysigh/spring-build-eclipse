@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/test/java/org/springframework/dao/annotation
+END
+PersistenceExceptionTranslationAdvisorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/test/java/org/springframework/dao/annotation/PersistenceExceptionTranslationAdvisorTests.java
+END
+PersistenceExceptionTranslationInterceptorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/test/java/org/springframework/dao/annotation/PersistenceExceptionTranslationInterceptorTests.java
+END
+PersistenceExceptionTranslationPostProcessorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/test/java/org/springframework/dao/annotation/PersistenceExceptionTranslationPostProcessorTests.java
+END

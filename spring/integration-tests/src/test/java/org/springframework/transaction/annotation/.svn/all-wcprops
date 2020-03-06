@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/springcode/!svn/ver/1/spring-framework/integration-tests/src/test/java/org/springframework/transaction/annotation
+END
+ProxyAnnotationDiscoveryTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/integration-tests/src/test/java/org/springframework/transaction/annotation/ProxyAnnotationDiscoveryTests.java
+END
+EnableTransactionManagementIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/springcode/!svn/ver/1/spring-framework/integration-tests/src/test/java/org/springframework/transaction/annotation/EnableTransactionManagementIntegrationTests.java
+END

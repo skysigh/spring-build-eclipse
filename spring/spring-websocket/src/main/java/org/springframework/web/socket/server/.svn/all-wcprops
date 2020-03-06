@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/server
+END
+HandshakeInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/server/HandshakeInterceptor.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/server/package-info.java
+END
+HandshakeFailureException.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/server/HandshakeFailureException.java
+END
+HandshakeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/server/HandshakeHandler.java
+END
+RequestUpgradeStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/server/RequestUpgradeStrategy.java
+END

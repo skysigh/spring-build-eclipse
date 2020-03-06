@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/cache/interceptor
+END
+CachePutEvaluationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/cache/interceptor/CachePutEvaluationTests.java
+END
+CacheErrorHandlerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/cache/interceptor/CacheErrorHandlerTests.java
+END
+SimpleKeyGeneratorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/cache/interceptor/SimpleKeyGeneratorTests.java
+END
+CacheResolverCustomizationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/cache/interceptor/CacheResolverCustomizationTests.java
+END
+CacheProxyFactoryBeanTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/cache/interceptor/CacheProxyFactoryBeanTests.java
+END
+CacheSyncFailureTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/cache/interceptor/CacheSyncFailureTests.java
+END
+ExpressionEvaluatorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/cache/interceptor/ExpressionEvaluatorTests.java
+END

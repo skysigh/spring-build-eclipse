@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/context/support
+END
+XmlWebApplicationContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/context/support/XmlWebApplicationContext.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/context/support/package-info.java
+END
+AbstractRefreshableWebApplicationContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/context/support/AbstractRefreshableWebApplicationContext.java
+END
+ContextExposingHttpServletRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/context/support/ContextExposingHttpServletRequest.java
+END
+ServletContextResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/context/support/ServletContextResource.java
+END
+WebApplicationContextUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/context/support/WebApplicationContextUtils.java
+END
+WebApplicationObjectSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/context/support/WebApplicationObjectSupport.java
+END
+LiveBeansViewServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/context/support/LiveBeansViewServlet.java
+END
+RequestHandledEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/context/support/RequestHandledEvent.java
+END
+GenericWebApplicationContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/context/support/GenericWebApplicationContext.java
+END
+ServletRequestHandledEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/context/support/ServletRequestHandledEvent.java
+END
+ServletContextLiveBeansView.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/context/support/ServletContextLiveBeansView.java
+END
+SpringBeanAutowiringSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/context/support/SpringBeanAutowiringSupport.java
+END
+ServletContextAttributeExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/context/support/ServletContextAttributeExporter.java
+END
+ServletContextResourceLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/context/support/ServletContextResourceLoader.java
+END
+HttpRequestHandlerServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/context/support/HttpRequestHandlerServlet.java
+END
+ServletContextScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/context/support/ServletContextScope.java
+END
+ServletConfigPropertySource.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/context/support/ServletConfigPropertySource.java
+END
+StaticWebApplicationContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/context/support/StaticWebApplicationContext.java
+END
+GroovyWebApplicationContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/context/support/GroovyWebApplicationContext.java
+END
+ServletContextPropertySource.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/context/support/ServletContextPropertySource.java
+END
+ServletContextAttributeFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/context/support/ServletContextAttributeFactoryBean.java
+END
+ServletContextParameterFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/context/support/ServletContextParameterFactoryBean.java
+END
+StandardServletEnvironment.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/context/support/StandardServletEnvironment.java
+END
+AnnotationConfigWebApplicationContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/context/support/AnnotationConfigWebApplicationContext.java
+END
+ServletContextAwareProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/context/support/ServletContextAwareProcessor.java
+END
+ServletContextResourcePatternResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/context/support/ServletContextResourcePatternResolver.java
+END

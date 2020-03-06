@@ -1,0 +1,52 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-context/build/resources/test/org/springframework/context/index
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+empty-spring.components
+file
+
+
+
+
+2020-03-06T03:47:10.838000Z
+b9d3063b867230ecf6b4149077cda81a
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+spring.components
+file
+
+
+
+
+2020-03-06T03:47:10.849000Z
+0a3ab2bbd315a77ebdc3e8fde1f45db0
+2020-03-06T03:35:38.538472Z
+1
+wck
+

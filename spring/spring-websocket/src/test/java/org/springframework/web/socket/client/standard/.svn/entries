@@ -1,0 +1,40 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-websocket/src/test/java/org/springframework/web/socket/client/standard
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+StandardWebSocketClientTests.java
+file
+
+
+
+
+2020-03-06T03:56:00.681000Z
+d22891ceeaaa2072e49723af8b0dba62
+2020-03-06T03:35:38.538472Z
+1
+wck
+

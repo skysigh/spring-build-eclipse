@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/test/java/org/springframework/aop/aspectj/annotation
+END
+AspectJPointcutAdvisorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/test/java/org/springframework/aop/aspectj/annotation/AspectJPointcutAdvisorTests.java
+END
+ArgumentBindingTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/test/java/org/springframework/aop/aspectj/annotation/ArgumentBindingTests.java
+END
+AspectMetadataTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/test/java/org/springframework/aop/aspectj/annotation/AspectMetadataTests.java
+END
+AbstractAspectJAdvisorFactoryTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/test/java/org/springframework/aop/aspectj/annotation/AbstractAspectJAdvisorFactoryTests.java
+END
+AspectProxyFactoryTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/test/java/org/springframework/aop/aspectj/annotation/AspectProxyFactoryTests.java
+END
+ReflectiveAspectJAdvisorFactoryTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/test/java/org/springframework/aop/aspectj/annotation/ReflectiveAspectJAdvisorFactoryTests.java
+END

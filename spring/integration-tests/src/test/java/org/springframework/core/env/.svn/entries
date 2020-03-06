@@ -1,0 +1,58 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/integration-tests/src/test/java/org/springframework/core/env
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+EnvironmentSystemIntegrationTests.java
+file
+
+
+
+
+2020-03-06T03:44:06.148000Z
+f68ebe20fff3a22369cba084f9edeb5b
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+PropertyPlaceholderConfigurerEnvironmentIntegrationTests.java
+file
+
+
+
+
+2020-03-06T03:44:06.163000Z
+a94d2a738510986b6490de53383b8c3c
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+scan1
+dir
+
+scan2
+dir
+

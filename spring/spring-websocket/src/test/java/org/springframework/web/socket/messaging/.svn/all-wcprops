@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/test/java/org/springframework/web/socket/messaging
+END
+StompSubProtocolErrorHandlerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/test/java/org/springframework/web/socket/messaging/StompSubProtocolErrorHandlerTests.java
+END
+StompTextMessageBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/test/java/org/springframework/web/socket/messaging/StompTextMessageBuilder.java
+END
+WebSocketStompClientIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/test/java/org/springframework/web/socket/messaging/WebSocketStompClientIntegrationTests.java
+END
+StompSubProtocolHandlerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/test/java/org/springframework/web/socket/messaging/StompSubProtocolHandlerTests.java
+END
+DefaultSimpUserRegistryTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/test/java/org/springframework/web/socket/messaging/DefaultSimpUserRegistryTests.java
+END
+SubProtocolWebSocketHandlerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/test/java/org/springframework/web/socket/messaging/SubProtocolWebSocketHandlerTests.java
+END
+WebSocketAnnotationMethodMessageHandlerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/test/java/org/springframework/web/socket/messaging/WebSocketAnnotationMethodMessageHandlerTests.java
+END
+WebSocketStompClientTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/test/java/org/springframework/web/socket/messaging/WebSocketStompClientTests.java
+END
+StompWebSocketIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/test/java/org/springframework/web/socket/messaging/StompWebSocketIntegrationTests.java
+END

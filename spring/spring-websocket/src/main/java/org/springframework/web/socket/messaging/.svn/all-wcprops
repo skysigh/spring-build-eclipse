@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/messaging
+END
+StompSubProtocolErrorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/messaging/StompSubProtocolErrorHandler.java
+END
+SessionSubscribeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/messaging/SessionSubscribeEvent.java
+END
+DefaultSimpUserRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/messaging/DefaultSimpUserRegistry.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/messaging/package-info.java
+END
+SubProtocolErrorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/messaging/SubProtocolErrorHandler.java
+END
+SubProtocolHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/messaging/SubProtocolHandler.java
+END
+SessionConnectedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/messaging/SessionConnectedEvent.java
+END
+SessionConnectEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/messaging/SessionConnectEvent.java
+END
+AbstractSubProtocolEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/messaging/AbstractSubProtocolEvent.java
+END
+SubProtocolWebSocketHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/messaging/SubProtocolWebSocketHandler.java
+END
+SessionUnsubscribeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/messaging/SessionUnsubscribeEvent.java
+END
+WebSocketAnnotationMethodMessageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/messaging/WebSocketAnnotationMethodMessageHandler.java
+END
+SessionDisconnectEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/messaging/SessionDisconnectEvent.java
+END
+WebSocketStompClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/messaging/WebSocketStompClient.java
+END
+StompSubProtocolHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/messaging/StompSubProtocolHandler.java
+END

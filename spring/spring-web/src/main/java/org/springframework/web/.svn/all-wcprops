@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web
+END
+HttpRequestHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/HttpRequestHandler.java
+END
+SpringServletContainerInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/SpringServletContainerInitializer.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/package-info.java
+END
+HttpRequestMethodNotSupportedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/HttpRequestMethodNotSupportedException.java
+END
+HttpMediaTypeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/HttpMediaTypeException.java
+END
+HttpMediaTypeNotAcceptableException.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/HttpMediaTypeNotAcceptableException.java
+END
+HttpMediaTypeNotSupportedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/HttpMediaTypeNotSupportedException.java
+END
+HttpSessionRequiredException.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/HttpSessionRequiredException.java
+END
+WebApplicationInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/WebApplicationInitializer.java
+END

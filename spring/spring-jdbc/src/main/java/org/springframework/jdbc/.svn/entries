@@ -1,0 +1,151 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+BadSqlGrammarException.java
+file
+
+
+
+
+2020-03-06T03:50:20.569000Z
+ea1db6221de95141302c8ce0bae0a1a4
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+CannotGetJdbcConnectionException.java
+file
+
+
+
+
+2020-03-06T03:50:20.582000Z
+0dcbe4a4d20ae501c59eb1e9082358e9
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+IncorrectResultSetColumnCountException.java
+file
+
+
+
+
+2020-03-06T03:50:20.593000Z
+545627a4b10cebd5bc00f16b61cbc2b2
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+InvalidResultSetAccessException.java
+file
+
+
+
+
+2020-03-06T03:50:20.605000Z
+db3aed4c66a5029aef543af8adf597f7
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+JdbcUpdateAffectedIncorrectNumberOfRowsException.java
+file
+
+
+
+
+2020-03-06T03:50:20.616000Z
+696dcf49c3d61148eda3a8d206911721
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+LobRetrievalFailureException.java
+file
+
+
+
+
+2020-03-06T03:50:20.626000Z
+7b9d4d7e46d6a573c37de6b40c61644e
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+SQLWarningException.java
+file
+
+
+
+
+2020-03-06T03:50:20.636000Z
+b79ff5de0d6aba8d8ac0de7e1e5d1346
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+UncategorizedSQLException.java
+file
+
+
+
+
+2020-03-06T03:50:20.647000Z
+3b46da0c8327d1e9d19a07cd403c2c08
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+config
+dir
+
+core
+dir
+
+datasource
+dir
+
+object
+dir
+
+package-info.java
+file
+
+
+
+
+2020-03-06T03:50:23.724000Z
+57f13a4fb0689b8e7592dbdfa1292812
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+support
+dir
+

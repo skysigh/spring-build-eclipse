@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/log
+END
+LogFormatUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/log/LogFormatUtils.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/log/package-info.java
+END
+LogDelegateFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/log/LogDelegateFactory.java
+END
+CompositeLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/log/CompositeLog.java
+END
+LogMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/log/LogMessage.java
+END
+LogAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/log/LogAccessor.java
+END

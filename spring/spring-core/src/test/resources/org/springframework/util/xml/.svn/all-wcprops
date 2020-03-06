@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/resources/org/springframework/util/xml
+END
+dtdWithMultipleComments.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/resources/org/springframework/util/xml/dtdWithMultipleComments.xml
+END
+testContentHandler.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/resources/org/springframework/util/xml/testContentHandler.xml
+END
+testLexicalHandler.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/resources/org/springframework/util/xml/testLexicalHandler.xml
+END
+dtdWithLeadingComment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/resources/org/springframework/util/xml/dtdWithLeadingComment.xml
+END
+dtdWithCommentOnNextLine.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/resources/org/springframework/util/xml/dtdWithCommentOnNextLine.xml
+END
+dtdWithTrailingComment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/resources/org/springframework/util/xml/dtdWithTrailingComment.xml
+END

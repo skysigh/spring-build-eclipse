@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/remoting/support
+END
+SimpleHttpServerFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/remoting/support/SimpleHttpServerFactoryBean.java
+END
+RemoteInvocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/remoting/support/RemoteInvocation.java
+END
+RemoteInvocationUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/remoting/support/RemoteInvocationUtils.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/remoting/support/package-info.java
+END
+RemoteInvocationFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/remoting/support/RemoteInvocationFactory.java
+END
+DefaultRemoteInvocationExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/remoting/support/DefaultRemoteInvocationExecutor.java
+END
+RemoteInvocationBasedExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/remoting/support/RemoteInvocationBasedExporter.java
+END
+RemoteInvocationBasedAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/remoting/support/RemoteInvocationBasedAccessor.java
+END
+RemotingSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/remoting/support/RemotingSupport.java
+END
+RemoteInvocationTraceInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/remoting/support/RemoteInvocationTraceInterceptor.java
+END
+RemoteInvocationResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/remoting/support/RemoteInvocationResult.java
+END
+UrlBasedRemoteAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/remoting/support/UrlBasedRemoteAccessor.java
+END
+RemoteAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/remoting/support/RemoteAccessor.java
+END
+DefaultRemoteInvocationFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/remoting/support/DefaultRemoteInvocationFactory.java
+END
+RemoteInvocationExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/remoting/support/RemoteInvocationExecutor.java
+END
+RemoteExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/remoting/support/RemoteExporter.java
+END

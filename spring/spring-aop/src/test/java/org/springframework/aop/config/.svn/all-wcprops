@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/test/java/org/springframework/aop/config
+END
+AopNamespaceHandlerPointcutErrorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/test/java/org/springframework/aop/config/AopNamespaceHandlerPointcutErrorTests.java
+END
+AopNamespaceHandlerEventTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/test/java/org/springframework/aop/config/AopNamespaceHandlerEventTests.java
+END
+TopLevelAopTagTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/test/java/org/springframework/aop/config/TopLevelAopTagTests.java
+END

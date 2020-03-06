@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/ejb/config
+END
+JeeNamespaceHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/ejb/config/JeeNamespaceHandler.class
+END
+AbstractJndiLocatingBeanDefinitionParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/ejb/config/AbstractJndiLocatingBeanDefinitionParser.class
+END
+LocalStatelessSessionBeanDefinitionParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/ejb/config/LocalStatelessSessionBeanDefinitionParser.class
+END
+RemoteStatelessSessionBeanDefinitionParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/ejb/config/RemoteStatelessSessionBeanDefinitionParser.class
+END
+JndiLookupBeanDefinitionParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/ejb/config/JndiLookupBeanDefinitionParser.class
+END
+package-info.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/ejb/config/package-info.class
+END

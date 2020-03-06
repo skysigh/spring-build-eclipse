@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/view/xml
+END
+MarshallingView.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/view/xml/MarshallingView.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/view/xml/package-info.java
+END
+MappingJackson2XmlView.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/view/xml/MappingJackson2XmlView.java
+END

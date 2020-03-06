@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/example/scannable
+END
+FooService.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/example/scannable/FooService.java
+END
+CustomAnnotations.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/example/scannable/CustomAnnotations.java
+END
+PackageMarker.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/example/scannable/PackageMarker.java
+END
+CustomComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/example/scannable/CustomComponent.java
+END
+NamedStubDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/example/scannable/NamedStubDao.java
+END
+CustomStereotype.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/example/scannable/CustomStereotype.java
+END
+FooServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/example/scannable/FooServiceImpl.java
+END
+NamedComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/example/scannable/NamedComponent.java
+END
+ServiceInvocationCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/example/scannable/ServiceInvocationCounter.java
+END
+AutowiredQualifierFooService.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/example/scannable/AutowiredQualifierFooService.java
+END
+StubFooDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/example/scannable/StubFooDao.java
+END
+ScopedProxyTestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/example/scannable/ScopedProxyTestBean.java
+END
+FooDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/example/scannable/FooDao.java
+END
+CustomAspectStereotype.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/example/scannable/CustomAspectStereotype.java
+END
+DefaultNamedComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/example/scannable/DefaultNamedComponent.java
+END
+MessageBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/example/scannable/MessageBean.java
+END

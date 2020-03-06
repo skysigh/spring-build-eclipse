@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/sockjs
+END
+SockJsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/sockjs/SockJsException.java
+END
+SockJsMessageDeliveryException.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/sockjs/SockJsMessageDeliveryException.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/sockjs/package-info.java
+END
+SockJsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/sockjs/SockJsService.java
+END
+SockJsTransportFailureException.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/sockjs/SockJsTransportFailureException.java
+END

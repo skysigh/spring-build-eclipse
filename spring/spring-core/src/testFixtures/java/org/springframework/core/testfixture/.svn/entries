@@ -1,0 +1,118 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-core/src/testFixtures/java/org/springframework/core/testfixture
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+Assume.java
+file
+
+
+
+
+2020-03-06T03:49:39.500000Z
+8e34543fa257f28e4ebd1e22f5f6b7b6
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+EnabledForTestGroups.java
+file
+
+
+
+
+2020-03-06T03:49:39.513000Z
+fb2ce504c7c7104e7164311f5d985906
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+JavaUtilLoggingConfigurer.java
+file
+
+
+
+
+2020-03-06T03:49:39.524000Z
+76f1f312f35ae72437b4fb68e16fbeec
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+TestGroup.java
+file
+
+
+
+
+2020-03-06T03:49:39.535000Z
+2915d0fb655c28920b2a9fc62e147b4f
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+TestGroupsCondition.java
+file
+
+
+
+
+2020-03-06T03:49:39.547000Z
+e4ef0f15a5da1f79ba08917d982b7a3b
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+TimeStamped.java
+file
+
+
+
+
+2020-03-06T03:49:39.559000Z
+250669d1c6cbc36f84a125515b23bee4
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+codec
+dir
+
+env
+dir
+
+io
+dir
+
+security
+dir
+
+stereotype
+dir
+
+xml
+dir
+

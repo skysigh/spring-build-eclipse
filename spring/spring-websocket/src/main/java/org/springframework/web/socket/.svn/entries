@@ -1,0 +1,205 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+AbstractWebSocketMessage.java
+file
+
+
+
+
+2020-03-06T03:55:53.494000Z
+e099aeff296ff4db77ebbc8c404ef4ed
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+BinaryMessage.java
+file
+
+
+
+
+2020-03-06T03:55:53.507000Z
+be858d5f8b6c4fdf2effd2f937f0cdf7
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+CloseStatus.java
+file
+
+
+
+
+2020-03-06T03:55:53.519000Z
+1ba3fb047ead0df0f253d133d43afa19
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+PingMessage.java
+file
+
+
+
+
+2020-03-06T03:55:53.532000Z
+7f5e0cd441b713c14bf1a1e8008ac831
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+PongMessage.java
+file
+
+
+
+
+2020-03-06T03:55:53.543000Z
+b05e66eac3831417dffc250bf5b30b93
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+SubProtocolCapable.java
+file
+
+
+
+
+2020-03-06T03:55:53.554000Z
+db19d790f5aa537f46731a29557b9eb2
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+TextMessage.java
+file
+
+
+
+
+2020-03-06T03:55:53.564000Z
+4cde57aa016cb2216d88fba8812f5120
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+WebSocketExtension.java
+file
+
+
+
+
+2020-03-06T03:55:53.575000Z
+723fc5be62c55752093e6269b4c1e3c3
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+WebSocketHandler.java
+file
+
+
+
+
+2020-03-06T03:55:53.589000Z
+23aab32d90e294d7554e9c017871b5be
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+WebSocketHttpHeaders.java
+file
+
+
+
+
+2020-03-06T03:55:53.600000Z
+15ce9179018f112cd2e81aea42afa734
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+WebSocketMessage.java
+file
+
+
+
+
+2020-03-06T03:55:53.613000Z
+ecd256cd17313e7cf7c55fdb85ec4556
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+WebSocketSession.java
+file
+
+
+
+
+2020-03-06T03:55:53.623000Z
+6f68c950a25245ae246809ae51eb0ffd
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+adapter
+dir
+
+client
+dir
+
+config
+dir
+
+handler
+dir
+
+messaging
+dir
+
+package-info.java
+file
+
+
+
+
+2020-03-06T03:55:56.493000Z
+7c9e0b5a896abfec88552a5aca28a343
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+server
+dir
+
+sockjs
+dir
+

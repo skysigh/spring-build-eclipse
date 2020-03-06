@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/build/resources/test/org/springframework/orm/jpa/domain
+END
+persistence-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/build/resources/test/org/springframework/orm/jpa/domain/persistence-context.xml
+END
+persistence.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/build/resources/test/org/springframework/orm/jpa/domain/persistence.xml
+END
+spring.components
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/build/resources/test/org/springframework/orm/jpa/domain/spring.components
+END
+persistence-multi.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/build/resources/test/org/springframework/orm/jpa/domain/persistence-multi.xml
+END

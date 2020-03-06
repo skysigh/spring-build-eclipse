@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/jca/cci
+END
+CannotGetCciConnectionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/jca/cci/CannotGetCciConnectionException.java
+END
+CannotCreateRecordException.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/jca/cci/CannotCreateRecordException.java
+END
+InvalidResultSetAccessException.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/jca/cci/InvalidResultSetAccessException.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/jca/cci/package-info.java
+END
+CciOperationNotSupportedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/jca/cci/CciOperationNotSupportedException.java
+END
+RecordTypeNotSupportedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/jca/cci/RecordTypeNotSupportedException.java
+END

@@ -1,0 +1,178 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-oxm/src/main/java/org/springframework/oxm
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+GenericMarshaller.java
+file
+
+
+
+
+2020-03-06T03:51:30.299000Z
+e719e36c183d03c618b28a7d5c916502
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+GenericUnmarshaller.java
+file
+
+
+
+
+2020-03-06T03:51:30.313000Z
+8f0416fae766bb837b819f4a98373aee
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+Marshaller.java
+file
+
+
+
+
+2020-03-06T03:51:30.325000Z
+5da5098517e91afa5f80700476db3f17
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+MarshallingException.java
+file
+
+
+
+
+2020-03-06T03:51:30.337000Z
+735a6a0972697fc223b81d7d6a0d4eb4
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+MarshallingFailureException.java
+file
+
+
+
+
+2020-03-06T03:51:30.347000Z
+cba8c690476be9b6a2f20aaae1049e97
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+UncategorizedMappingException.java
+file
+
+
+
+
+2020-03-06T03:51:30.359000Z
+e2ded0dd4ead8399536c305888837847
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+Unmarshaller.java
+file
+
+
+
+
+2020-03-06T03:51:30.370000Z
+c7e4f615f7ed14fa2760420ae4eeaf0c
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+UnmarshallingFailureException.java
+file
+
+
+
+
+2020-03-06T03:51:30.381000Z
+0d221751dd34d3353dea82d68da41c8e
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+ValidationFailureException.java
+file
+
+
+
+
+2020-03-06T03:51:30.392000Z
+b2f854fe03edb8fc500c9c5bda089876
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+XmlMappingException.java
+file
+
+
+
+
+2020-03-06T03:51:30.404000Z
+2bc092a1551429301569e8b068dd84f9
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+config
+dir
+
+jaxb
+dir
+
+jibx
+dir
+
+mime
+dir
+
+package-info.java
+file
+
+
+
+
+2020-03-06T03:51:30.898000Z
+c02974193ab4a865e222618ea58e84a4
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+support
+dir
+
+xstream
+dir
+

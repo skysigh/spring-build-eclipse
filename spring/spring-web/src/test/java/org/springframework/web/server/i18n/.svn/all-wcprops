@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/server/i18n
+END
+FixedLocaleContextResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/server/i18n/FixedLocaleContextResolverTests.java
+END
+AcceptHeaderLocaleContextResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/server/i18n/AcceptHeaderLocaleContextResolverTests.java
+END

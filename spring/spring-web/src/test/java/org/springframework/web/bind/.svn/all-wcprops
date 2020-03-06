@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/bind
+END
+EscapedErrorsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/bind/EscapedErrorsTests.java
+END
+ServletRequestDataBinderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/bind/ServletRequestDataBinderTests.java
+END
+ServletRequestUtilsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/bind/ServletRequestUtilsTests.java
+END

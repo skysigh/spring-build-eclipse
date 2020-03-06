@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc
+END
+CannotGetJdbcConnectionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/CannotGetJdbcConnectionException.java
+END
+LobRetrievalFailureException.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/LobRetrievalFailureException.java
+END
+InvalidResultSetAccessException.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/InvalidResultSetAccessException.java
+END
+UncategorizedSQLException.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/UncategorizedSQLException.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/package-info.java
+END
+BadSqlGrammarException.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/BadSqlGrammarException.java
+END
+SQLWarningException.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/SQLWarningException.java
+END
+IncorrectResultSetColumnCountException.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/IncorrectResultSetColumnCountException.java
+END
+JdbcUpdateAffectedIncorrectNumberOfRowsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/JdbcUpdateAffectedIncorrectNumberOfRowsException.java
+END

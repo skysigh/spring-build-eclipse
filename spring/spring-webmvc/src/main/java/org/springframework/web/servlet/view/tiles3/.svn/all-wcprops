@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/view/tiles3
+END
+TilesView.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/view/tiles3/TilesView.java
+END
+AbstractSpringPreparerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/view/tiles3/AbstractSpringPreparerFactory.java
+END
+TilesConfigurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/view/tiles3/TilesConfigurer.java
+END
+SpringWildcardServletTilesApplicationContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/view/tiles3/SpringWildcardServletTilesApplicationContext.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/view/tiles3/package-info.java
+END
+SpringBeanPreparerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/view/tiles3/SpringBeanPreparerFactory.java
+END
+TilesViewResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/view/tiles3/TilesViewResolver.java
+END
+SimpleSpringPreparerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/view/tiles3/SimpleSpringPreparerFactory.java
+END
+SpringLocaleResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/main/java/org/springframework/web/servlet/view/tiles3/SpringLocaleResolver.java
+END

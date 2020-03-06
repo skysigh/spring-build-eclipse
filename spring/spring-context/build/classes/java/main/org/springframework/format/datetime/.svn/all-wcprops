@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime
+END
+DateFormatter.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/DateFormatter.class
+END
+DateFormatterRegistrar$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/DateFormatterRegistrar$1.class
+END
+DateFormatterRegistrar$LongToDateConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/DateFormatterRegistrar$LongToDateConverter.class
+END
+DateFormatterRegistrar$CalendarToDateConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/DateFormatterRegistrar$CalendarToDateConverter.class
+END
+DateTimeFormatAnnotationFormatterFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/DateTimeFormatAnnotationFormatterFactory.class
+END
+DateFormatterRegistrar.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/DateFormatterRegistrar.class
+END
+DateFormatterRegistrar$CalendarToLongConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/DateFormatterRegistrar$CalendarToLongConverter.class
+END
+DateFormatterRegistrar$LongToCalendarConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/DateFormatterRegistrar$LongToCalendarConverter.class
+END
+DateFormatterRegistrar$DateToLongConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/DateFormatterRegistrar$DateToLongConverter.class
+END
+DateFormatterRegistrar$DateToCalendarConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/DateFormatterRegistrar$DateToCalendarConverter.class
+END
+package-info.class
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/package-info.class
+END

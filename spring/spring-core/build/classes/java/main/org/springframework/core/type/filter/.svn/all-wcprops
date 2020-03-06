@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/type/filter
+END
+AnnotationTypeFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/type/filter/AnnotationTypeFilter.class
+END
+TypeFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/type/filter/TypeFilter.class
+END
+AbstractClassTestingTypeFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/type/filter/AbstractClassTestingTypeFilter.class
+END
+RegexPatternTypeFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/type/filter/RegexPatternTypeFilter.class
+END
+AspectJTypeFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/type/filter/AspectJTypeFilter.class
+END
+AbstractTypeHierarchyTraversingFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/type/filter/AbstractTypeHierarchyTraversingFilter.class
+END
+AssignableTypeFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/type/filter/AssignableTypeFilter.class
+END
+package-info.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/type/filter/package-info.class
+END

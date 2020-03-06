@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/test/resources/org/springframework/jms/annotation
+END
+annotation-driven-default-container-factory.xml
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/test/resources/org/springframework/jms/annotation/annotation-driven-default-container-factory.xml
+END
+jms-listener.properties
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/test/resources/org/springframework/jms/annotation/jms-listener.properties
+END
+annotation-driven-jms-listeners.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/test/resources/org/springframework/jms/annotation/annotation-driven-jms-listeners.xml
+END
+annotation-driven-custom-handler-method-factory.xml
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/test/resources/org/springframework/jms/annotation/annotation-driven-custom-handler-method-factory.xml
+END
+annotation-driven-custom-registry.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/test/resources/org/springframework/jms/annotation/annotation-driven-custom-registry.xml
+END
+annotation-driven-custom-container-factory.xml
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/test/resources/org/springframework/jms/annotation/annotation-driven-custom-container-factory.xml
+END
+annotation-driven-sample-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/test/resources/org/springframework/jms/annotation/annotation-driven-sample-config.xml
+END
+annotation-driven-full-configurable-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/test/resources/org/springframework/jms/annotation/annotation-driven-full-configurable-config.xml
+END
+annotation-driven-jms-listener-repeatable.xml
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/test/resources/org/springframework/jms/annotation/annotation-driven-jms-listener-repeatable.xml
+END
+annotation-driven-full-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/test/resources/org/springframework/jms/annotation/annotation-driven-full-config.xml
+END

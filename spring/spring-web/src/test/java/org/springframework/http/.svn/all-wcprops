@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http
+END
+HttpEntityTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/HttpEntityTests.java
+END
+HttpHeadersTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/HttpHeadersTests.java
+END
+ResponseEntityTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/ResponseEntityTests.java
+END
+HttpRangeTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/HttpRangeTests.java
+END
+MediaTypeFactoryTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/MediaTypeFactoryTests.java
+END
+MockHttpOutputMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/MockHttpOutputMessage.java
+END
+ResponseCookieTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/ResponseCookieTests.java
+END
+MockHttpInputMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/MockHttpInputMessage.java
+END
+ContentDispositionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/ContentDispositionTests.java
+END
+RequestEntityTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/RequestEntityTests.java
+END
+HttpStatusTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/HttpStatusTests.java
+END
+CacheControlTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/CacheControlTests.java
+END
+MediaTypeTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/MediaTypeTests.java
+END

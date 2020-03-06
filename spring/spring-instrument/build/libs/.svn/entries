@@ -1,0 +1,54 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-instrument/build/libs
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+spring-instrument-5.2.5.BUILD-SNAPSHOT-test-fixtures.jar
+file
+
+
+
+
+2020-03-06T03:49:59.961000Z
+b61ca531bed53e6300b31629a8612e43
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+
+spring-instrument-5.2.5.BUILD-SNAPSHOT.jar
+file
+
+
+
+
+2020-03-06T03:49:59.978000Z
+680ade3b29be44ad4570dd21aae71c6d
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+

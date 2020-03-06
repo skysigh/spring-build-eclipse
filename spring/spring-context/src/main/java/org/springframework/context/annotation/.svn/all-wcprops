@@ -1,0 +1,419 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation
+END
+AdviceModeImportSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/AdviceModeImportSelector.java
+END
+AnnotationConfigApplicationContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/AnnotationConfigApplicationContext.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/package-info.java
+END
+Primary.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/Primary.java
+END
+ContextAnnotationAutowireCandidateResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/ContextAnnotationAutowireCandidateResolver.java
+END
+ConfigurationMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/ConfigurationMethod.java
+END
+FullyQualifiedAnnotationBeanNameGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/FullyQualifiedAnnotationBeanNameGenerator.java
+END
+ScopedProxyMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/ScopedProxyMode.java
+END
+ParserStrategyUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/ParserStrategyUtils.java
+END
+ConfigurationClassEnhancer.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/ConfigurationClassEnhancer.java
+END
+DependsOn.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/DependsOn.java
+END
+ConfigurationClassParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/ConfigurationClassParser.java
+END
+EnableLoadTimeWeaving.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/EnableLoadTimeWeaving.java
+END
+ProfileCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/ProfileCondition.java
+END
+ConfigurationClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/ConfigurationClass.java
+END
+ConfigurationCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/ConfigurationCondition.java
+END
+ImportSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/ImportSelector.java
+END
+PropertySource.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/PropertySource.java
+END
+Configuration.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/Configuration.java
+END
+ConfigurationClassUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/ConfigurationClassUtils.java
+END
+Bean.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/Bean.java
+END
+ComponentScans.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/ComponentScans.java
+END
+AutoProxyRegistrar.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/AutoProxyRegistrar.java
+END
+Scope.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/Scope.java
+END
+LoadTimeWeavingConfigurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/LoadTimeWeavingConfigurer.java
+END
+AnnotatedBeanDefinitionReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/AnnotatedBeanDefinitionReader.java
+END
+ImportAware.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/ImportAware.java
+END
+Description.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/Description.java
+END
+Lazy.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/Lazy.java
+END
+ComponentScanBeanDefinitionParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/ComponentScanBeanDefinitionParser.java
+END
+AnnotationConfigBeanDefinitionParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/AnnotationConfigBeanDefinitionParser.java
+END
+ClassPathScanningCandidateComponentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/ClassPathScanningCandidateComponentProvider.java
+END
+Role.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/Role.java
+END
+AnnotationConfigUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/AnnotationConfigUtils.java
+END
+ConflictingBeanDefinitionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/ConflictingBeanDefinitionException.java
+END
+Conditional.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/Conditional.java
+END
+ConfigurationClassPostProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/ConfigurationClassPostProcessor.java
+END
+EnableMBeanExport.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/EnableMBeanExport.java
+END
+ImportRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/ImportRegistry.java
+END
+ConfigurationClassBeanDefinitionReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/ConfigurationClassBeanDefinitionReader.java
+END
+FilterType.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/FilterType.java
+END
+AspectJAutoProxyRegistrar.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/AspectJAutoProxyRegistrar.java
+END
+DeferredImportSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/DeferredImportSelector.java
+END
+CommonAnnotationBeanPostProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/CommonAnnotationBeanPostProcessor.java
+END
+MBeanExportConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/MBeanExportConfiguration.java
+END
+PropertySources.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/PropertySources.java
+END
+Jsr330ScopeMetadataResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/Jsr330ScopeMetadataResolver.java
+END
+EnableAspectJAutoProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/EnableAspectJAutoProxy.java
+END
+ScopeMetadataResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/ScopeMetadataResolver.java
+END
+ConditionContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/ConditionContext.java
+END
+ComponentScanAnnotationParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/ComponentScanAnnotationParser.java
+END
+AnnotationScopeMetadataResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/AnnotationScopeMetadataResolver.java
+END
+Profile.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/Profile.java
+END
+BeanMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/BeanMethod.java
+END
+ScopeMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/ScopeMetadata.java
+END
+AdviceMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/AdviceMode.java
+END
+AnnotationBeanNameGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/AnnotationBeanNameGenerator.java
+END
+Import.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/Import.java
+END
+ScannedGenericBeanDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/ScannedGenericBeanDefinition.java
+END
+ImportBeanDefinitionRegistrar.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/ImportBeanDefinitionRegistrar.java
+END
+ScopedProxyCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/ScopedProxyCreator.java
+END
+ClassPathBeanDefinitionScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/ClassPathBeanDefinitionScanner.java
+END
+ComponentScan.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/ComponentScan.java
+END
+ConditionEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/ConditionEvaluator.java
+END
+Condition.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/Condition.java
+END
+BeanAnnotationHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/BeanAnnotationHelper.java
+END
+AnnotationConfigRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/AnnotationConfigRegistry.java
+END
+ImportResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/ImportResource.java
+END
+LoadTimeWeavingConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/LoadTimeWeavingConfiguration.java
+END

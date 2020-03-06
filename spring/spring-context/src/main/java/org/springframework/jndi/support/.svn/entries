@@ -1,0 +1,52 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-context/src/main/java/org/springframework/jndi/support
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+SimpleJndiBeanFactory.java
+file
+
+
+
+
+2020-03-06T03:47:22.954000Z
+24ee515d896b29084ffff2c56c976a81
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+package-info.java
+file
+
+
+
+
+2020-03-06T03:47:22.969000Z
+a90fb4914e46f9f6479992c10a4431a7
+2020-03-06T03:35:38.538472Z
+1
+wck
+

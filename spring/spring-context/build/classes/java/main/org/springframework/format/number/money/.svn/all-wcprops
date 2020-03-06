@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/number/money
+END
+Jsr354NumberFormatAnnotationFormatterFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/number/money/Jsr354NumberFormatAnnotationFormatterFactory.class
+END
+Jsr354NumberFormatAnnotationFormatterFactory$PatternDecoratingFormatter.class
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/number/money/Jsr354NumberFormatAnnotationFormatterFactory$PatternDecoratingFormatter.class
+END
+MonetaryAmountFormatter.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/number/money/MonetaryAmountFormatter.class
+END
+CurrencyUnitFormatter.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/number/money/CurrencyUnitFormatter.class
+END
+Jsr354NumberFormatAnnotationFormatterFactory$NumberDecoratingFormatter.class
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/number/money/Jsr354NumberFormatAnnotationFormatterFactory$NumberDecoratingFormatter.class
+END
+package-info.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/number/money/package-info.class
+END

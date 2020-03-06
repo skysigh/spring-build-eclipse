@@ -1,0 +1,52 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-web/src/main/java/org/springframework/http/converter/cbor
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+MappingJackson2CborHttpMessageConverter.java
+file
+
+
+
+
+2020-03-06T03:53:49.720000Z
+f959abd06dc3dc637f5182a30b3d0075
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+package-info.java
+file
+
+
+
+
+2020-03-06T03:53:49.741000Z
+4bc4329b8daa753e80d5c571e3ade8f7
+2020-03-06T03:35:38.538472Z
+1
+wck
+

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/util/pattern
+END
+PathPatternTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/util/pattern/PathPatternTests.java
+END
+PathPatternParserTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/util/pattern/PathPatternParserTests.java
+END
+PathPatternRouteMatcherTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/util/pattern/PathPatternRouteMatcherTests.java
+END

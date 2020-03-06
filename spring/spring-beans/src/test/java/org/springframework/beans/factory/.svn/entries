@@ -1,0 +1,121 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-beans/src/test/java/org/springframework/beans/factory
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+BeanFactoryUtilsTests.java
+file
+
+
+
+
+2020-03-06T03:45:28.857000Z
+400ce2e1c5b6362ad6cc9810d72f7a81
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+ConcurrentBeanFactoryTests.java
+file
+
+
+
+
+2020-03-06T03:45:28.874000Z
+01162308db8514ef79bdc26b7639a2d4
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+DefaultListableBeanFactoryTests.java
+file
+
+
+
+
+2020-03-06T03:45:28.889000Z
+6e4467109b3a153806e4dc7f8492dd3e
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+FactoryBeanLookupTests.java
+file
+
+
+
+
+2020-03-06T03:45:28.901000Z
+bd2444008385af2d043178fada79827c
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+FactoryBeanTests.java
+file
+
+
+
+
+2020-03-06T03:45:28.913000Z
+ee19c06a72006e40d0eb5c979658e00f
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+Spr5475Tests.java
+file
+
+
+
+
+2020-03-06T03:45:28.927000Z
+b22d2604f9a82ac4a00d9dc6a895e268
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+annotation
+dir
+
+config
+dir
+
+parsing
+dir
+
+serviceloader
+dir
+
+support
+dir
+
+wiring
+dir
+
+xml
+dir
+

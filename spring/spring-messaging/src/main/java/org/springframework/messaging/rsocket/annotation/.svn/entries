@@ -1,0 +1,55 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/rsocket/annotation
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+ConnectMapping.java
+file
+
+
+
+
+2020-03-06T03:51:01.992000Z
+81d5fdf606b54b9711356082e06535e3
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+package-info.java
+file
+
+
+
+
+2020-03-06T03:51:02.012000Z
+81fbea1fffc5b0b4662e07f652a60ea1
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+support
+dir
+

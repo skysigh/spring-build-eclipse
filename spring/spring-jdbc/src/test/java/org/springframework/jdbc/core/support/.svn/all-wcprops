@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/test/java/org/springframework/jdbc/core/support
+END
+LobSupportTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/test/java/org/springframework/jdbc/core/support/LobSupportTests.java
+END
+JdbcDaoSupportTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/test/java/org/springframework/jdbc/core/support/JdbcDaoSupportTests.java
+END
+JdbcBeanDefinitionReaderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/test/java/org/springframework/jdbc/core/support/JdbcBeanDefinitionReaderTests.java
+END
+SqlLobValueTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/test/java/org/springframework/jdbc/core/support/SqlLobValueTests.java
+END

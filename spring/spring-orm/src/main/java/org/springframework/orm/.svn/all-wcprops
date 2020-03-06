@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/main/java/org/springframework/orm
+END
+ObjectRetrievalFailureException.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/main/java/org/springframework/orm/ObjectRetrievalFailureException.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/main/java/org/springframework/orm/package-info.java
+END
+ObjectOptimisticLockingFailureException.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/main/java/org/springframework/orm/ObjectOptimisticLockingFailureException.java
+END

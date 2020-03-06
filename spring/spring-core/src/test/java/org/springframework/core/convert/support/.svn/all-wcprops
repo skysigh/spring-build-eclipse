@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/convert/support
+END
+MapToMapConverterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/convert/support/MapToMapConverterTests.java
+END
+CollectionToCollectionConverterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/convert/support/CollectionToCollectionConverterTests.java
+END
+GenericConversionServiceTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/convert/support/GenericConversionServiceTests.java
+END
+ByteBufferConverterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/convert/support/ByteBufferConverterTests.java
+END
+StreamConverterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/convert/support/StreamConverterTests.java
+END

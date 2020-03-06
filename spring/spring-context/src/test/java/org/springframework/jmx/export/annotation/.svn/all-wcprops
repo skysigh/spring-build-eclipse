@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/jmx/export/annotation
+END
+AnotherAnnotationTestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/jmx/export/annotation/AnotherAnnotationTestBean.java
+END
+AnnotationLazyInitMBeanTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/jmx/export/annotation/AnnotationLazyInitMBeanTests.java
+END
+JmxUtilsAnnotationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/jmx/export/annotation/JmxUtilsAnnotationTests.java
+END
+AnnotationTestBeanFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/jmx/export/annotation/AnnotationTestBeanFactory.java
+END
+AnnotationTestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/jmx/export/annotation/AnnotationTestBean.java
+END
+AnotherAnnotationTestBeanImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/jmx/export/annotation/AnotherAnnotationTestBeanImpl.java
+END
+EnableMBeanExportConfigurationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/jmx/export/annotation/EnableMBeanExportConfigurationTests.java
+END
+AnnotationMetadataAssemblerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/jmx/export/annotation/AnnotationMetadataAssemblerTests.java
+END
+IAnnotationTestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/jmx/export/annotation/IAnnotationTestBean.java
+END
+AnnotationTestSubBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/jmx/export/annotation/AnnotationTestSubBean.java
+END
+FactoryCreatedAnnotationTestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/jmx/export/annotation/FactoryCreatedAnnotationTestBean.java
+END

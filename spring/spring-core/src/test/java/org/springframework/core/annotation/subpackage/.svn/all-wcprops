@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/annotation/subpackage
+END
+NonPublicAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/annotation/subpackage/NonPublicAnnotation.java
+END
+NonPublicAnnotatedClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/annotation/subpackage/NonPublicAnnotatedClass.java
+END
+NonPublicAliasedAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/annotation/subpackage/NonPublicAliasedAnnotation.java
+END
+NonPublicAliasedAnnotatedClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/annotation/subpackage/NonPublicAliasedAnnotatedClass.java
+END

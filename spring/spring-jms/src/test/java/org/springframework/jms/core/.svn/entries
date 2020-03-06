@@ -1,0 +1,79 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-jms/src/test/java/org/springframework/jms/core
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+JmsMessagingTemplateTests.java
+file
+
+
+
+
+2020-03-06T03:50:43.754000Z
+1234dbd0168a894312a35a2b9483651a
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+JmsTemplateJtaTests.java
+file
+
+
+
+
+2020-03-06T03:50:43.776000Z
+40b59ddd432c8c5b5b78c0978cb3ee64
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+JmsTemplateTests.java
+file
+
+
+
+
+2020-03-06T03:50:43.788000Z
+5fe20d8f545439c608d229b05ad95772
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+JmsTemplateTransactedTests.java
+file
+
+
+
+
+2020-03-06T03:50:43.800000Z
+242886501243431a685b5665b8939ab3
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+support
+dir
+

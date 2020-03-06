@@ -1,0 +1,76 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-context/build/classes/java/main/org/springframework/jmx
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+JmxException.class
+file
+
+
+
+
+2020-03-06T03:46:57.175000Z
+a6ad7a30f270dcb3be5ead245ab9bc7c
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+
+MBeanServerNotFoundException.class
+file
+
+
+
+
+2020-03-06T03:46:57.189000Z
+3630a49bf7a960ad2a93f053f4f931c5
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+
+access
+dir
+
+export
+dir
+
+package-info.class
+file
+
+
+
+
+2020-03-06T03:46:58.643000Z
+2cc0da8f462947ef6bbccf5e044c058d
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+
+support
+dir
+

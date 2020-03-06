@@ -1,0 +1,181 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-messaging/src/main/java/org/springframework/messaging
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+Message.java
+file
+
+
+
+
+2020-03-06T03:50:59.739000Z
+246a2f285f18ab259e4d2f229bca8766
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+MessageChannel.java
+file
+
+
+
+
+2020-03-06T03:50:59.752000Z
+0de5854d75fee1f8db30d4722262a65d
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+MessageDeliveryException.java
+file
+
+
+
+
+2020-03-06T03:50:59.764000Z
+284a8d388e317a0460b541ca0efb3800
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+MessageHandler.java
+file
+
+
+
+
+2020-03-06T03:50:59.775000Z
+4672d171ba4ce238bd945e208a45559d
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+MessageHandlingException.java
+file
+
+
+
+
+2020-03-06T03:50:59.786000Z
+ff821ed1eccea075f46c45c10c10d3a5
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+MessageHeaders.java
+file
+
+
+
+
+2020-03-06T03:50:59.797000Z
+4dc7bef299bc049c6825178b2b7d0d74
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+MessagingException.java
+file
+
+
+
+
+2020-03-06T03:50:59.811000Z
+ca290dc9f852914f1b381d9f4a4c4dc2
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+PollableChannel.java
+file
+
+
+
+
+2020-03-06T03:50:59.824000Z
+e5dee411922b60adbf57c60954c0b6ac
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+ReactiveMessageHandler.java
+file
+
+
+
+
+2020-03-06T03:50:59.834000Z
+b59ac8bc985bf9f083c8f06d89f3e868
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+SubscribableChannel.java
+file
+
+
+
+
+2020-03-06T03:50:59.845000Z
+c54478999f62170d6aaec9a91fc97f1b
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+converter
+dir
+
+core
+dir
+
+handler
+dir
+
+package-info.java
+file
+
+
+
+
+2020-03-06T03:51:01.800000Z
+76857596dbef15973da9b6598f0125c7
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+rsocket
+dir
+
+simp
+dir
+
+support
+dir
+
+tcp
+dir
+

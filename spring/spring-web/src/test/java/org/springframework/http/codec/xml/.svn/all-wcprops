@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/codec/xml
+END
+Jaxb2XmlDecoderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/codec/xml/Jaxb2XmlDecoderTests.java
+END
+Jaxb2XmlEncoderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/codec/xml/Jaxb2XmlEncoderTests.java
+END
+XmlEventDecoderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/codec/xml/XmlEventDecoderTests.java
+END

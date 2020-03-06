@@ -1,0 +1,70 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/function
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+BodyExtractorsTests.java
+file
+
+
+
+
+2020-03-06T03:54:41.966000Z
+05a5962ebec2ffe057370204cd401320
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+BodyInsertersTests.java
+file
+
+
+
+
+2020-03-06T03:54:41.982000Z
+2d30f6e23d4329ad6679e70d8af9efd5
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+MultipartIntegrationTests.java
+file
+
+
+
+
+2020-03-06T03:54:41.997000Z
+8fad76c2611c338c1fbad2af467e71af
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+client
+dir
+
+server
+dir
+

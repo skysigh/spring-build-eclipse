@@ -1,0 +1,79 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-context/src/main/java/org/springframework/cache
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+Cache.java
+file
+
+
+
+
+2020-03-06T03:47:13.548000Z
+e36b123db16aae65312a6edd3e74bfb7
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+CacheManager.java
+file
+
+
+
+
+2020-03-06T03:47:13.567000Z
+10b2d6cc28aeab73ccb5f6fd0e066f57
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+annotation
+dir
+
+concurrent
+dir
+
+config
+dir
+
+interceptor
+dir
+
+package-info.java
+file
+
+
+
+
+2020-03-06T03:47:14.540000Z
+71e916129c2bb4782d13aefa78a24087
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+support
+dir
+

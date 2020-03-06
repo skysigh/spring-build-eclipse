@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/test/java/org/springframework/orm/jpa/domain
+END
+PersonListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/test/java/org/springframework/orm/jpa/domain/PersonListener.java
+END
+DriversLicense.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/test/java/org/springframework/orm/jpa/domain/DriversLicense.java
+END
+Person.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/test/java/org/springframework/orm/jpa/domain/Person.java
+END

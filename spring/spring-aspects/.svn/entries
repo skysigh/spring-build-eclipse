@@ -1,0 +1,76 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-aspects
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+.classpath
+file
+
+
+
+
+2020-03-06T03:44:36.113000Z
+ce158f6609c9c2b1b28ae1dac293ca7b
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+.project
+file
+
+
+
+
+2020-03-06T03:44:36.125000Z
+9f4173b35872e1d7bb4ac2acde76f3e1
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+.settings
+dir
+
+bin
+dir
+
+build
+dir
+
+spring-aspects.gradle
+file
+
+
+
+
+2020-03-06T03:44:42.522000Z
+c699a1b8c0a7d10bf59ee541cfaedbcf
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+src
+dir
+

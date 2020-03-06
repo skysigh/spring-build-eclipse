@@ -1,0 +1,131 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-context/build/classes/java/main/org/springframework/format
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+AnnotationFormatterFactory.class
+file
+
+
+
+
+2020-03-06T03:46:53.687000Z
+2fa2ae3c043e73ec516bf96e8ce6a502
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+
+Formatter.class
+file
+
+
+
+
+2020-03-06T03:46:53.700000Z
+5b586b77178cc823efa0df845f3ef22b
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+
+FormatterRegistrar.class
+file
+
+
+
+
+2020-03-06T03:46:53.712000Z
+e919ca08802b2a4dae1f3787c2f05b41
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+
+FormatterRegistry.class
+file
+
+
+
+
+2020-03-06T03:46:53.724000Z
+5af48396f1a62e4adebaf8a518c5dbdc
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+
+Parser.class
+file
+
+
+
+
+2020-03-06T03:46:53.736000Z
+824b0a79ca6c1f92728c84684044cb5b
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+
+Printer.class
+file
+
+
+
+
+2020-03-06T03:46:53.747000Z
+f8150b7a1208d997da3755165c3aca04
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+
+annotation
+dir
+
+datetime
+dir
+
+number
+dir
+
+package-info.class
+file
+
+
+
+
+2020-03-06T03:46:55.955000Z
+fcae06fa9e0dd723252f448d2f76f33f
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+
+support
+dir
+

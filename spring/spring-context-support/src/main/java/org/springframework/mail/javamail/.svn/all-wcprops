@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/main/java/org/springframework/mail/javamail
+END
+ConfigurableMimeFileTypeMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/main/java/org/springframework/mail/javamail/ConfigurableMimeFileTypeMap.java
+END
+MimeMessagePreparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/main/java/org/springframework/mail/javamail/MimeMessagePreparator.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/main/java/org/springframework/mail/javamail/package-info.java
+END
+JavaMailSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/main/java/org/springframework/mail/javamail/JavaMailSender.java
+END
+InternetAddressEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/main/java/org/springframework/mail/javamail/InternetAddressEditor.java
+END
+JavaMailSenderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/main/java/org/springframework/mail/javamail/JavaMailSenderImpl.java
+END
+MimeMailMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/main/java/org/springframework/mail/javamail/MimeMailMessage.java
+END
+MimeMessageHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/main/java/org/springframework/mail/javamail/MimeMessageHelper.java
+END
+SmartMimeMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/main/java/org/springframework/mail/javamail/SmartMimeMessage.java
+END

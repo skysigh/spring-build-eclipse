@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/src/main/java/org/springframework/scheduling/aspectj
+END
+AbstractAsyncExecutionAspect.aj
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/src/main/java/org/springframework/scheduling/aspectj/AbstractAsyncExecutionAspect.aj
+END
+AspectJAsyncConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/src/main/java/org/springframework/scheduling/aspectj/AspectJAsyncConfiguration.java
+END
+AnnotationAsyncExecutionAspect.aj
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/src/main/java/org/springframework/scheduling/aspectj/AnnotationAsyncExecutionAspect.aj
+END

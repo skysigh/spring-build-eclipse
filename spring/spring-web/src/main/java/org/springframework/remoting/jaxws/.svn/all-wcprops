@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/remoting/jaxws
+END
+JaxWsSoapFaultException.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/remoting/jaxws/JaxWsSoapFaultException.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/remoting/jaxws/package-info.java
+END
+LocalJaxWsServiceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/remoting/jaxws/LocalJaxWsServiceFactory.java
+END
+JaxWsPortClientInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/remoting/jaxws/JaxWsPortClientInterceptor.java
+END
+SimpleJaxWsServiceExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/remoting/jaxws/SimpleJaxWsServiceExporter.java
+END
+LocalJaxWsServiceFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/remoting/jaxws/LocalJaxWsServiceFactoryBean.java
+END
+SimpleHttpServerJaxWsServiceExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/remoting/jaxws/SimpleHttpServerJaxWsServiceExporter.java
+END
+AbstractJaxWsServiceExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/remoting/jaxws/AbstractJaxWsServiceExporter.java
+END
+JaxWsPortProxyFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/remoting/jaxws/JaxWsPortProxyFactoryBean.java
+END

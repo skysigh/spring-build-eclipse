@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/backoff
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/backoff/package-info.java
+END
+ExponentialBackOff.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/backoff/ExponentialBackOff.java
+END
+FixedBackOff.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/backoff/FixedBackOff.java
+END
+BackOff.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/backoff/BackOff.java
+END
+BackOffExecution.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/backoff/BackOffExecution.java
+END

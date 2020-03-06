@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/context/junit4
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/context/junit4/package-info.java
+END
+SpringJUnit4ClassRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/context/junit4/SpringJUnit4ClassRunner.java
+END
+AbstractTransactionalJUnit4SpringContextTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/context/junit4/AbstractTransactionalJUnit4SpringContextTests.java
+END
+SpringRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/context/junit4/SpringRunner.java
+END
+AbstractJUnit4SpringContextTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/context/junit4/AbstractJUnit4SpringContextTests.java
+END

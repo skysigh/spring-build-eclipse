@@ -1,0 +1,55 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-websocket/src/test/java/org/springframework/web/socket/config
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+HandlersBeanDefinitionParserTests.java
+file
+
+
+
+
+2020-03-06T03:56:00.758000Z
+b00de806f9f9868eea87ecd78a4546f4
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+MessageBrokerBeanDefinitionParserTests.java
+file
+
+
+
+
+2020-03-06T03:56:00.774000Z
+ca60c1146c6fe4a7716ab607c04a63c4
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+annotation
+dir
+

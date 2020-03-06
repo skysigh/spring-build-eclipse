@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/joda
+END
+JodaTimeConverters$DateTimeToInstantConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/joda/JodaTimeConverters$DateTimeToInstantConverter.class
+END
+DateTimeParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/joda/DateTimeParser.class
+END
+YearMonthFormatter.class
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/joda/YearMonthFormatter.class
+END
+LocalTimeParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/joda/LocalTimeParser.class
+END
+JodaTimeConverters$DateTimeToLocalTimeConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/joda/JodaTimeConverters$DateTimeToLocalTimeConverter.class
+END
+JodaTimeConverters$LocalDateTimeToLocalDateConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/joda/JodaTimeConverters$LocalDateTimeToLocalDateConverter.class
+END
+JodaTimeConverters$DateTimeToLocalDateTimeConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/joda/JodaTimeConverters$DateTimeToLocalDateTimeConverter.class
+END
+MonthDayFormatter.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/joda/MonthDayFormatter.class
+END
+package-info.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/joda/package-info.class
+END
+JodaTimeContextHolder.class
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/joda/JodaTimeContextHolder.class
+END
+JodaTimeConverters$DateTimeToDateMidnightConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/joda/JodaTimeConverters$DateTimeToDateMidnightConverter.class
+END
+MillisecondInstantPrinter.class
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/joda/MillisecondInstantPrinter.class
+END
+JodaTimeConverters$DateTimeToCalendarConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/joda/JodaTimeConverters$DateTimeToCalendarConverter.class
+END
+JodaTimeConverters$DateTimeToLongConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/joda/JodaTimeConverters$DateTimeToLongConverter.class
+END
+ReadablePartialPrinter.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/joda/ReadablePartialPrinter.class
+END
+JodaTimeConverters.class
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/joda/JodaTimeConverters.class
+END
+JodaTimeConverters$DateTimeToMutableDateTimeConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/joda/JodaTimeConverters$DateTimeToMutableDateTimeConverter.class
+END
+DateTimeFormatterFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/joda/DateTimeFormatterFactory.class
+END
+LocalDateTimeParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/joda/LocalDateTimeParser.class
+END
+JodaTimeConverters$DateToReadableInstantConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/joda/JodaTimeConverters$DateToReadableInstantConverter.class
+END
+PeriodFormatter.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/joda/PeriodFormatter.class
+END
+DateTimeFormatterFactory$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/joda/DateTimeFormatterFactory$1.class
+END
+ReadableInstantPrinter.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/joda/ReadableInstantPrinter.class
+END
+JodaTimeFormatterRegistrar.class
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/joda/JodaTimeFormatterRegistrar.class
+END
+JodaDateTimeFormatAnnotationFormatterFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/joda/JodaDateTimeFormatAnnotationFormatterFactory.class
+END
+JodaTimeConverters$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/joda/JodaTimeConverters$1.class
+END
+JodaTimeConverters$DateTimeToDateConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/joda/JodaTimeConverters$DateTimeToDateConverter.class
+END
+JodaTimeFormatterRegistrar$Type.class
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/joda/JodaTimeFormatterRegistrar$Type.class
+END
+DurationFormatter.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/joda/DurationFormatter.class
+END
+JodaTimeConverters$CalendarToReadableInstantConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/joda/JodaTimeConverters$CalendarToReadableInstantConverter.class
+END
+JodaTimeConverters$LongToReadableInstantConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/joda/JodaTimeConverters$LongToReadableInstantConverter.class
+END
+DateTimeFormatterFactoryBean.class
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/joda/DateTimeFormatterFactoryBean.class
+END
+JodaTimeFormatterRegistrar$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/joda/JodaTimeFormatterRegistrar$1.class
+END
+LocalDateParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/joda/LocalDateParser.class
+END
+JodaTimeConverters$DateTimeToLocalDateConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/joda/JodaTimeConverters$DateTimeToLocalDateConverter.class
+END
+JodaTimeConverters$LocalDateTimeToLocalTimeConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/joda/JodaTimeConverters$LocalDateTimeToLocalTimeConverter.class
+END
+JodaTimeContext.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/joda/JodaTimeContext.class
+END

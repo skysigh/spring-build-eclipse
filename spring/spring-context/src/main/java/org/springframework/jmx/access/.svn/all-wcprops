@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/jmx/access
+END
+InvalidInvocationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/jmx/access/InvalidInvocationException.java
+END
+NotificationListenerRegistrar.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/jmx/access/NotificationListenerRegistrar.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/jmx/access/package-info.java
+END
+ConnectorDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/jmx/access/ConnectorDelegate.java
+END
+MBeanConnectFailureException.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/jmx/access/MBeanConnectFailureException.java
+END
+MBeanProxyFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/jmx/access/MBeanProxyFactoryBean.java
+END
+MBeanInfoRetrievalException.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/jmx/access/MBeanInfoRetrievalException.java
+END
+InvocationFailureException.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/jmx/access/InvocationFailureException.java
+END
+MBeanClientInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/jmx/access/MBeanClientInterceptor.java
+END

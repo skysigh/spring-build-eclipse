@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation4
+END
+SimpleBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation4/SimpleBean.java
+END
+DependencyBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation4/DependencyBean.java
+END
+FactoryMethodComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation4/FactoryMethodComponent.java
+END

@@ -1,0 +1,41 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-beans/build/libs
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+spring-beans-5.2.5.BUILD-SNAPSHOT.jar
+file
+
+
+
+
+2020-03-06T03:45:19.940000Z
+77c5f279da704c062e6e1b59b0997b76
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+

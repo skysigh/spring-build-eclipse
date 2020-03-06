@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/simp
+END
+SimpSessionScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/simp/SimpSessionScope.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/simp/package-info.java
+END
+SimpAttributesContextHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/simp/SimpAttributesContextHolder.java
+END
+SimpLogging.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/simp/SimpLogging.java
+END
+SimpMessageSendingOperations.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/simp/SimpMessageSendingOperations.java
+END
+SimpMessageMappingInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/simp/SimpMessageMappingInfo.java
+END
+SimpMessageHeaderAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/simp/SimpMessageHeaderAccessor.java
+END
+SimpMessageType.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/simp/SimpMessageType.java
+END
+SimpAttributes.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/simp/SimpAttributes.java
+END
+SimpMessageTypeMessageCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/simp/SimpMessageTypeMessageCondition.java
+END
+SimpMessagingTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/simp/SimpMessagingTemplate.java
+END

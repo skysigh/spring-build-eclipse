@@ -1,0 +1,79 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-web/src/test/java/org/springframework/http/server
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+DefaultPathContainerTests.java
+file
+
+
+
+
+2020-03-06T03:54:02.878000Z
+2561b7a2cac906d3b070618ae183f67c
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+DefaultRequestPathTests.java
+file
+
+
+
+
+2020-03-06T03:54:02.894000Z
+6168a773f453678bbb2c7a24c59e35a6
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+ServletServerHttpRequestTests.java
+file
+
+
+
+
+2020-03-06T03:54:02.910000Z
+56d50ec3c676cb293318911db84e09c0
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+ServletServerHttpResponseTests.java
+file
+
+
+
+
+2020-03-06T03:54:02.924000Z
+a317067f1e628fce944bfa4386616429
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+reactive
+dir
+

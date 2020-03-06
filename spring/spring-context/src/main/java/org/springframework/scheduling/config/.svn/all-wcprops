@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/scheduling/config
+END
+TaskNamespaceHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/scheduling/config/TaskNamespaceHandler.java
+END
+FixedDelayTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/scheduling/config/FixedDelayTask.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/scheduling/config/package-info.java
+END
+SchedulerBeanDefinitionParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/scheduling/config/SchedulerBeanDefinitionParser.java
+END
+ContextLifecycleScheduledTaskRegistrar.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/scheduling/config/ContextLifecycleScheduledTaskRegistrar.java
+END
+TaskExecutorFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/scheduling/config/TaskExecutorFactoryBean.java
+END
+ScheduledTaskRegistrar.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/scheduling/config/ScheduledTaskRegistrar.java
+END
+Task.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/scheduling/config/Task.java
+END
+IntervalTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/scheduling/config/IntervalTask.java
+END
+ScheduledTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/scheduling/config/ScheduledTask.java
+END
+ScheduledTaskHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/scheduling/config/ScheduledTaskHolder.java
+END
+ScheduledTasksBeanDefinitionParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/scheduling/config/ScheduledTasksBeanDefinitionParser.java
+END
+ExecutorBeanDefinitionParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/scheduling/config/ExecutorBeanDefinitionParser.java
+END
+TaskManagementConfigUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/scheduling/config/TaskManagementConfigUtils.java
+END
+AnnotationDrivenBeanDefinitionParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/scheduling/config/AnnotationDrivenBeanDefinitionParser.java
+END
+CronTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/scheduling/config/CronTask.java
+END
+FixedRateTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/scheduling/config/FixedRateTask.java
+END
+TriggerTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/scheduling/config/TriggerTask.java
+END

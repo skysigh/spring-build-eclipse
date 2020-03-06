@@ -1,0 +1,82 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-core/src/test/java/org/springframework/core/io
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+ClassPathResourceTests.java
+file
+
+
+
+
+2020-03-06T03:49:35.703000Z
+9e004d967ac113e51f3a1e60f286fd40
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+PathResourceTests.java
+file
+
+
+
+
+2020-03-06T03:49:35.719000Z
+3e9ad6545efe21d88164a5d8b06b7c0d
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+ResourceEditorTests.java
+file
+
+
+
+
+2020-03-06T03:49:35.732000Z
+e60306918018830bc3ad1e12c0a75411
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+ResourceTests.java
+file
+
+
+
+
+2020-03-06T03:49:35.744000Z
+12cd8c14a5eca5d73fbc2802e9da7f8c
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+buffer
+dir
+
+support
+dir
+

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/web/servlet/samples/spr
+END
+CustomRequestAttributesRequestContextHolderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/web/servlet/samples/spr/CustomRequestAttributesRequestContextHolderTests.java
+END
+EncodedUriTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/web/servlet/samples/spr/EncodedUriTests.java
+END
+HttpOptionsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/web/servlet/samples/spr/HttpOptionsTests.java
+END
+MockMvcBuilderMethodChainTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/web/servlet/samples/spr/MockMvcBuilderMethodChainTests.java
+END
+FormContentTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/web/servlet/samples/spr/FormContentTests.java
+END
+ControllerAdviceIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/web/servlet/samples/spr/ControllerAdviceIntegrationTests.java
+END
+RequestContextHolderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/web/servlet/samples/spr/RequestContextHolderTests.java
+END

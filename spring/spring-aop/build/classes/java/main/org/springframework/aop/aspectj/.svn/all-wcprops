@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/aspectj
+END
+InstantiationModelAwarePointcutAdvisor.class
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/aspectj/InstantiationModelAwarePointcutAdvisor.class
+END
+AspectJAopUtils.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/aspectj/AspectJAopUtils.class
+END
+AspectJAfterThrowingAdvice.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/aspectj/AspectJAfterThrowingAdvice.class
+END
+TypePatternClassFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/aspectj/TypePatternClassFilter.class
+END
+AspectJAdviceParameterNameDiscoverer.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/aspectj/AspectJAdviceParameterNameDiscoverer.class
+END
+AspectJPointcutAdvisor.class
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/aspectj/AspectJPointcutAdvisor.class
+END
+AbstractAspectJAdvice.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/aspectj/AbstractAspectJAdvice.class
+END
+AspectJExpressionPointcut.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/aspectj/AspectJExpressionPointcut.class
+END
+RuntimeTestWalker$TargetInstanceOfResidueTestVisitor.class
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/aspectj/RuntimeTestWalker$TargetInstanceOfResidueTestVisitor.class
+END
+MethodInvocationProceedingJoinPoint$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/aspectj/MethodInvocationProceedingJoinPoint$1.class
+END
+DeclareParentsAdvisor.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/aspectj/DeclareParentsAdvisor.class
+END
+package-info.class
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/aspectj/package-info.class
+END
+AspectInstanceFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/aspectj/AspectInstanceFactory.class
+END
+AspectJExpressionPointcutAdvisor.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/aspectj/AspectJExpressionPointcutAdvisor.class
+END
+SimpleAspectInstanceFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/aspectj/SimpleAspectInstanceFactory.class
+END
+AspectJExpressionPointcut$BeanPointcutDesignatorHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/aspectj/AspectJExpressionPointcut$BeanPointcutDesignatorHandler.class
+END
+AspectJExpressionPointcut$DefensiveShadowMatch.class
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/aspectj/AspectJExpressionPointcut$DefensiveShadowMatch.class
+END
+AspectJExpressionPointcut$BeanContextMatcher.class
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/aspectj/AspectJExpressionPointcut$BeanContextMatcher.class
+END
+AspectJAfterAdvice.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/aspectj/AspectJAfterAdvice.class
+END
+RuntimeTestWalker$InstanceOfResidueTestVisitor.class
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/aspectj/RuntimeTestWalker$InstanceOfResidueTestVisitor.class
+END
+AspectJAfterReturningAdvice.class
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/aspectj/AspectJAfterReturningAdvice.class
+END
+AspectJAroundAdvice.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/aspectj/AspectJAroundAdvice.class
+END
+AspectJProxyUtils.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/aspectj/AspectJProxyUtils.class
+END
+MethodInvocationProceedingJoinPoint$MethodSignatureImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/aspectj/MethodInvocationProceedingJoinPoint$MethodSignatureImpl.class
+END
+RuntimeTestWalker.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/aspectj/RuntimeTestWalker.class
+END
+AspectJExpressionPointcut$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/aspectj/AspectJExpressionPointcut$1.class
+END
+RuntimeTestWalker$TestVisitorAdapter.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/aspectj/RuntimeTestWalker$TestVisitorAdapter.class
+END
+RuntimeTestWalker$SubtypeSensitiveVarTypeTestVisitor.class
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/aspectj/RuntimeTestWalker$SubtypeSensitiveVarTypeTestVisitor.class
+END
+MethodInvocationProceedingJoinPoint$SourceLocationImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/aspectj/MethodInvocationProceedingJoinPoint$SourceLocationImpl.class
+END
+AspectJAdviceParameterNameDiscoverer$PointcutBody.class
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/aspectj/AspectJAdviceParameterNameDiscoverer$PointcutBody.class
+END
+AspectJWeaverMessageHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/aspectj/AspectJWeaverMessageHandler.class
+END
+MethodInvocationProceedingJoinPoint.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/aspectj/MethodInvocationProceedingJoinPoint.class
+END
+AbstractAspectJAdvice$AdviceExcludingMethodMatcher.class
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/aspectj/AbstractAspectJAdvice$AdviceExcludingMethodMatcher.class
+END
+SingletonAspectInstanceFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/aspectj/SingletonAspectInstanceFactory.class
+END
+AspectJAdviceParameterNameDiscoverer$AmbiguousBindingException.class
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/aspectj/AspectJAdviceParameterNameDiscoverer$AmbiguousBindingException.class
+END
+AspectJMethodBeforeAdvice.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/aspectj/AspectJMethodBeforeAdvice.class
+END
+AspectJPrecedenceInformation.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/aspectj/AspectJPrecedenceInformation.class
+END
+RuntimeTestWalker$ThisInstanceOfResidueTestVisitor.class
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/aspectj/RuntimeTestWalker$ThisInstanceOfResidueTestVisitor.class
+END
+RuntimeTestWalker$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/aspectj/RuntimeTestWalker$1.class
+END

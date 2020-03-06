@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/cors
+END
+CorsUtilsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/cors/CorsUtilsTests.java
+END
+DefaultCorsProcessorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/cors/DefaultCorsProcessorTests.java
+END
+UrlBasedCorsConfigurationSourceTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/cors/UrlBasedCorsConfigurationSourceTests.java
+END
+CorsConfigurationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/cors/CorsConfigurationTests.java
+END

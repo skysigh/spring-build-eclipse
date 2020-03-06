@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/.classpath
+END
+spring-websocket.gradle
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/spring-websocket.gradle
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/.project
+END

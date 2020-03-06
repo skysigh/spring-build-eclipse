@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/jca/cci/connection
+END
+ConnectionHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/jca/cci/connection/ConnectionHolder.java
+END
+ConnectionSpecConnectionFactoryAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/jca/cci/connection/ConnectionSpecConnectionFactoryAdapter.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/jca/cci/connection/package-info.java
+END
+NotSupportedRecordFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/jca/cci/connection/NotSupportedRecordFactory.java
+END
+DelegatingConnectionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/jca/cci/connection/DelegatingConnectionFactory.java
+END
+TransactionAwareConnectionFactoryProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/jca/cci/connection/TransactionAwareConnectionFactoryProxy.java
+END
+SingleConnectionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/jca/cci/connection/SingleConnectionFactory.java
+END
+CciLocalTransactionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/jca/cci/connection/CciLocalTransactionManager.java
+END
+ConnectionFactoryUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/jca/cci/connection/ConnectionFactoryUtils.java
+END

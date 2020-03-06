@@ -1,0 +1,67 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/simp/annotation
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+SendToUser.java
+file
+
+
+
+
+2020-03-06T03:51:02.527000Z
+039d0054a18334a155c630f76c6fd914
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+SubscribeMapping.java
+file
+
+
+
+
+2020-03-06T03:51:02.541000Z
+afddd3634d89fedc5c186160a8480ec8
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+package-info.java
+file
+
+
+
+
+2020-03-06T03:51:02.554000Z
+bbd6cc8b5adab30a85d6a7d2dce3b6f6
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+support
+dir
+

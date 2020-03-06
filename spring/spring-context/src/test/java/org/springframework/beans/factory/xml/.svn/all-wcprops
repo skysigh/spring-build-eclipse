@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/beans/factory/xml
+END
+XmlBeanFactoryTestTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/beans/factory/xml/XmlBeanFactoryTestTypes.java
+END
+LookupMethodWrappedByCglibProxyTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/beans/factory/xml/LookupMethodWrappedByCglibProxyTests.java
+END
+QualifierAnnotationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/beans/factory/xml/QualifierAnnotationTests.java
+END
+SimplePropertyNamespaceHandlerWithExpressionLanguageTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/beans/factory/xml/SimplePropertyNamespaceHandlerWithExpressionLanguageTests.java
+END
+XmlBeanFactoryTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/beans/factory/xml/XmlBeanFactoryTests.java
+END

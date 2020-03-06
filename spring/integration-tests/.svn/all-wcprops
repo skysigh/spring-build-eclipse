@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/springcode/!svn/ver/1/spring-framework/integration-tests
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/springcode/!svn/ver/1/spring-framework/integration-tests/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/springcode/!svn/ver/1/spring-framework/integration-tests/.project
+END
+integration-tests.gradle
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/springcode/!svn/ver/1/spring-framework/integration-tests/integration-tests.gradle
+END

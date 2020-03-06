@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/bind
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/bind/package-info.java
+END
+ServletRequestBindingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/bind/ServletRequestBindingException.java
+END
+MissingServletRequestParameterException.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/bind/MissingServletRequestParameterException.java
+END
+MissingRequestHeaderException.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/bind/MissingRequestHeaderException.java
+END
+ServletRequestDataBinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/bind/ServletRequestDataBinder.java
+END
+MissingMatrixVariableException.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/bind/MissingMatrixVariableException.java
+END
+UnsatisfiedServletRequestParameterException.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/bind/UnsatisfiedServletRequestParameterException.java
+END
+ServletRequestParameterPropertyValues.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/bind/ServletRequestParameterPropertyValues.java
+END
+WebDataBinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/bind/WebDataBinder.java
+END
+MissingRequestCookieException.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/bind/MissingRequestCookieException.java
+END
+ServletRequestUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/bind/ServletRequestUtils.java
+END
+MissingPathVariableException.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/bind/MissingPathVariableException.java
+END
+EscapedErrors.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/bind/EscapedErrors.java
+END
+MethodArgumentNotValidException.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/bind/MethodArgumentNotValidException.java
+END

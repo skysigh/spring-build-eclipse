@@ -1,0 +1,43 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit4/orm/service
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+PersonService.java
+file
+
+
+
+
+2020-03-06T03:52:32.797000Z
+ca05c0cad3cccbd2f0084b2df152eed2
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+impl
+dir
+

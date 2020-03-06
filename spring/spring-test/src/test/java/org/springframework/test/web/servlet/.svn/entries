@@ -1,0 +1,79 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-test/src/test/java/org/springframework/test/web/servlet
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+DefaultMvcResultTests.java
+file
+
+
+
+
+2020-03-06T03:52:37.597000Z
+498d71ae087a7e99afd6deb4f331562b
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+MockMvcReuseTests.java
+file
+
+
+
+
+2020-03-06T03:52:37.609000Z
+ecd5e8fe313280e1da24a444e9eaea1b
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+StubMvcResult.java
+file
+
+
+
+
+2020-03-06T03:52:37.622000Z
+fc3c2711089bf28375cd5cfc1c26586b
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+htmlunit
+dir
+
+request
+dir
+
+result
+dir
+
+samples
+dir
+
+setup
+dir
+

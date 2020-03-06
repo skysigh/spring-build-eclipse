@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/support
+END
+FormattingConversionServiceFactoryBean.class
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/support/FormattingConversionServiceFactoryBean.class
+END
+FormattingConversionService$AnnotationParserConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/support/FormattingConversionService$AnnotationParserConverter.class
+END
+FormattingConversionService$ParserConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/support/FormattingConversionService$ParserConverter.class
+END
+FormattingConversionService$AnnotationPrinterConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/support/FormattingConversionService$AnnotationPrinterConverter.class
+END
+FormattingConversionService.class
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/support/FormattingConversionService.class
+END
+DefaultFormattingConversionService.class
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/support/DefaultFormattingConversionService.class
+END
+FormattingConversionService$PrinterConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/support/FormattingConversionService$PrinterConverter.class
+END
+FormattingConversionService$AnnotationConverterKey.class
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/support/FormattingConversionService$AnnotationConverterKey.class
+END
+FormatterPropertyEditorAdapter.class
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/support/FormatterPropertyEditorAdapter.class
+END
+package-info.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/support/package-info.class
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/test/java/org/springframework/messaging/handler/annotation/support
+END
+AnnotationExceptionHandlerMethodResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/test/java/org/springframework/messaging/handler/annotation/support/AnnotationExceptionHandlerMethodResolverTests.java
+END
+HeadersMethodArgumentResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/test/java/org/springframework/messaging/handler/annotation/support/HeadersMethodArgumentResolverTests.java
+END
+PayloadMethodArgumentResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/test/java/org/springframework/messaging/handler/annotation/support/PayloadMethodArgumentResolverTests.java
+END
+DefaultMessageHandlerMethodFactoryTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/test/java/org/springframework/messaging/handler/annotation/support/DefaultMessageHandlerMethodFactoryTests.java
+END
+MessageMethodArgumentResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/test/java/org/springframework/messaging/handler/annotation/support/MessageMethodArgumentResolverTests.java
+END
+DestinationVariableMethodArgumentResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/test/java/org/springframework/messaging/handler/annotation/support/DestinationVariableMethodArgumentResolverTests.java
+END
+HeaderMethodArgumentResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/test/java/org/springframework/messaging/handler/annotation/support/HeaderMethodArgumentResolverTests.java
+END

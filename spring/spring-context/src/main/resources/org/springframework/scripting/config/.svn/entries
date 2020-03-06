@@ -1,0 +1,53 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-context/src/main/resources/org/springframework/scripting/config
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+spring-lang.gif
+file
+
+
+
+
+2020-03-06T03:47:27.928000Z
+15412657d22b1fd190dc00743e2ffc5f
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+
+spring-lang.xsd
+file
+
+
+
+
+2020-03-06T03:47:27.938000Z
+54cb3b9c007cb6eaf022b7cf7c3fee3a
+2020-03-06T03:35:38.538472Z
+1
+wck
+

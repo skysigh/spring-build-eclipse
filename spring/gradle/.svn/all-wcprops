@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/springcode/!svn/ver/1/spring-framework/gradle
+END
+custom-java-home.gradle
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/springcode/!svn/ver/1/spring-framework/gradle/custom-java-home.gradle
+END
+build-cache-settings.gradle
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/springcode/!svn/ver/1/spring-framework/gradle/build-cache-settings.gradle
+END
+build-scan-user-data.gradle
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/springcode/!svn/ver/1/spring-framework/gradle/build-scan-user-data.gradle
+END
+publications.gradle
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/springcode/!svn/ver/1/spring-framework/gradle/publications.gradle
+END
+docs.gradle
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/springcode/!svn/ver/1/spring-framework/gradle/docs.gradle
+END
+ide.gradle
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/springcode/!svn/ver/1/spring-framework/gradle/ide.gradle
+END
+spring-module.gradle
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/springcode/!svn/ver/1/spring-framework/gradle/spring-module.gradle
+END

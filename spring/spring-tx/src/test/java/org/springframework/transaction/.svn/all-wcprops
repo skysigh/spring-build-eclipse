@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/test/java/org/springframework/transaction
+END
+MockCallbackPreferringTransactionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/test/java/org/springframework/transaction/MockCallbackPreferringTransactionManager.java
+END
+MockJtaTransaction.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/test/java/org/springframework/transaction/MockJtaTransaction.java
+END
+TxNamespaceHandlerEventTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/test/java/org/springframework/transaction/TxNamespaceHandlerEventTests.java
+END
+TransactionSupportTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/test/java/org/springframework/transaction/TransactionSupportTests.java
+END
+JndiJtaTransactionManagerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/test/java/org/springframework/transaction/JndiJtaTransactionManagerTests.java
+END
+TestTransactionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/test/java/org/springframework/transaction/TestTransactionManager.java
+END
+JtaTransactionManagerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/test/java/org/springframework/transaction/JtaTransactionManagerTests.java
+END
+TxNamespaceHandlerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/test/java/org/springframework/transaction/TxNamespaceHandlerTests.java
+END

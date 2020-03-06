@@ -1,0 +1,52 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-jms/src/test/java/org/springframework/jca
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+StubActivationSpec.java
+file
+
+
+
+
+2020-03-06T03:50:43.105000Z
+f5b99d2498284e92605c7363600b858f
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+StubResourceAdapter.java
+file
+
+
+
+
+2020-03-06T03:50:43.121000Z
+116678a615eeeaf6b4e83b8055b4f1f9
+2020-03-06T03:35:38.538472Z
+1
+wck
+

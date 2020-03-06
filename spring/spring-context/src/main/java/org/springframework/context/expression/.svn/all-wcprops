@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/expression
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/expression/package-info.java
+END
+MapAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/expression/MapAccessor.java
+END
+AnnotatedElementKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/expression/AnnotatedElementKey.java
+END
+EnvironmentAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/expression/EnvironmentAccessor.java
+END
+BeanFactoryAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/expression/BeanFactoryAccessor.java
+END
+MethodBasedEvaluationContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/expression/MethodBasedEvaluationContext.java
+END
+BeanFactoryResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/expression/BeanFactoryResolver.java
+END
+StandardBeanExpressionResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/expression/StandardBeanExpressionResolver.java
+END
+BeanExpressionContextAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/expression/BeanExpressionContextAccessor.java
+END
+CachedExpressionEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/context/expression/CachedExpressionEvaluator.java
+END

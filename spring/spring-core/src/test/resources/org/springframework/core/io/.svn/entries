@@ -1,0 +1,58 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-core/src/test/resources/org/springframework/core/io
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+buffer
+dir
+
+example.properties
+file
+
+
+
+
+2020-03-06T03:49:38.995000Z
+14a7f05778753dec84782c623292a5f2
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+example.xml
+file
+
+
+
+
+2020-03-06T03:49:39.005000Z
+2e519db6d50573888ed9f5826fb28522
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+support
+dir
+

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/test/java/org/springframework/web/socket/adapter/jetty
+END
+JettyWebSocketSessionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/test/java/org/springframework/web/socket/adapter/jetty/JettyWebSocketSessionTests.java
+END
+JettyWebSocketHandlerAdapterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/test/java/org/springframework/web/socket/adapter/jetty/JettyWebSocketHandlerAdapterTests.java
+END

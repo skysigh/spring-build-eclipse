@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/instrument/classloading/glassfish
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/instrument/classloading/glassfish/package-info.java
+END
+GlassFishLoadTimeWeaver.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/instrument/classloading/glassfish/GlassFishLoadTimeWeaver.java
+END

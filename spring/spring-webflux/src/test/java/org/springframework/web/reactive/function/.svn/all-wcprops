@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/function
+END
+MultipartIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/function/MultipartIntegrationTests.java
+END
+BodyInsertersTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/function/BodyInsertersTests.java
+END
+BodyExtractorsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/function/BodyExtractorsTests.java
+END

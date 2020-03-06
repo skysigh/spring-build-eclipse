@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/support
+END
+AnnotationConfigDispatcherServletInitializerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/support/AnnotationConfigDispatcherServletInitializerTests.java
+END
+RequestContextTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/support/RequestContextTests.java
+END
+WebContentGeneratorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/support/WebContentGeneratorTests.java
+END
+MockFilterRegistration.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/support/MockFilterRegistration.java
+END
+ServletUriComponentsBuilderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/support/ServletUriComponentsBuilderTests.java
+END
+RequestDataValueProcessorWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/support/RequestDataValueProcessorWrapper.java
+END
+FlashMapManagerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/support/FlashMapManagerTests.java
+END
+MockServletRegistration.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/support/MockServletRegistration.java
+END
+DispatcherServletInitializerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/support/DispatcherServletInitializerTests.java
+END

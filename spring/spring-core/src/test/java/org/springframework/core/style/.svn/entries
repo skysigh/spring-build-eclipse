@@ -1,0 +1,52 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-core/src/test/java/org/springframework/core/style
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+DefaultValueStylerTests.java
+file
+
+
+
+
+2020-03-06T03:49:36.267000Z
+733c917c5560837cf93272d16fd5386d
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+ToStringCreatorTests.java
+file
+
+
+
+
+2020-03-06T03:49:36.279000Z
+10e20dadfa7912f7ba3259a887cbccf4
+2020-03-06T03:35:38.538472Z
+1
+wck
+

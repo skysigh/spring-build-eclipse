@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/main/java/org/springframework/cache/caffeine
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/main/java/org/springframework/cache/caffeine/package-info.java
+END
+CaffeineCacheManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/main/java/org/springframework/cache/caffeine/CaffeineCacheManager.java
+END
+CaffeineCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/main/java/org/springframework/cache/caffeine/CaffeineCache.java
+END

@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/propertyeditors
+END
+PropertiesEditor.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/propertyeditors/PropertiesEditor.class
+END
+ReaderEditor.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/propertyeditors/ReaderEditor.class
+END
+PathEditor.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/propertyeditors/PathEditor.class
+END
+CharsetEditor.class
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/propertyeditors/CharsetEditor.class
+END
+CustomMapEditor.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/propertyeditors/CustomMapEditor.class
+END
+CurrencyEditor.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/propertyeditors/CurrencyEditor.class
+END
+URIEditor.class
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/propertyeditors/URIEditor.class
+END
+CustomBooleanEditor.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/propertyeditors/CustomBooleanEditor.class
+END
+CustomNumberEditor.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/propertyeditors/CustomNumberEditor.class
+END
+package-info.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/propertyeditors/package-info.class
+END
+ResourceBundleEditor.class
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/propertyeditors/ResourceBundleEditor.class
+END
+InputStreamEditor.class
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/propertyeditors/InputStreamEditor.class
+END
+URLEditor.class
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/propertyeditors/URLEditor.class
+END
+PatternEditor.class
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/propertyeditors/PatternEditor.class
+END
+CustomCollectionEditor.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/propertyeditors/CustomCollectionEditor.class
+END
+ZoneIdEditor.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/propertyeditors/ZoneIdEditor.class
+END
+InputSourceEditor.class
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/propertyeditors/InputSourceEditor.class
+END
+StringArrayPropertyEditor.class
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/propertyeditors/StringArrayPropertyEditor.class
+END
+CharacterEditor.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/propertyeditors/CharacterEditor.class
+END
+CharArrayPropertyEditor.class
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/propertyeditors/CharArrayPropertyEditor.class
+END
+ByteArrayPropertyEditor.class
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/propertyeditors/ByteArrayPropertyEditor.class
+END
+StringTrimmerEditor.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/propertyeditors/StringTrimmerEditor.class
+END
+UUIDEditor.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/propertyeditors/UUIDEditor.class
+END
+ClassEditor.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/propertyeditors/ClassEditor.class
+END
+CustomDateEditor.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/propertyeditors/CustomDateEditor.class
+END
+ClassArrayEditor.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/propertyeditors/ClassArrayEditor.class
+END
+FileEditor.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/propertyeditors/FileEditor.class
+END
+LocaleEditor.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/propertyeditors/LocaleEditor.class
+END
+TimeZoneEditor.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/propertyeditors/TimeZoneEditor.class
+END

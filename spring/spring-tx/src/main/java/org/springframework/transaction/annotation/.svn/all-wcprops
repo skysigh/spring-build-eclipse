@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/annotation
+END
+TransactionManagementConfigurationSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/annotation/TransactionManagementConfigurationSelector.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/annotation/package-info.java
+END
+AnnotationTransactionAttributeSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/annotation/AnnotationTransactionAttributeSource.java
+END
+JtaTransactionAnnotationParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/annotation/JtaTransactionAnnotationParser.java
+END
+AbstractTransactionManagementConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/annotation/AbstractTransactionManagementConfiguration.java
+END
+Propagation.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/annotation/Propagation.java
+END
+TransactionAnnotationParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/annotation/TransactionAnnotationParser.java
+END
+EnableTransactionManagement.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/annotation/EnableTransactionManagement.java
+END
+Ejb3TransactionAnnotationParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/annotation/Ejb3TransactionAnnotationParser.java
+END
+SpringTransactionAnnotationParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/annotation/SpringTransactionAnnotationParser.java
+END
+Isolation.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/annotation/Isolation.java
+END
+TransactionManagementConfigurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/annotation/TransactionManagementConfigurer.java
+END
+ProxyTransactionManagementConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/annotation/ProxyTransactionManagementConfiguration.java
+END
+Transactional.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/annotation/Transactional.java
+END

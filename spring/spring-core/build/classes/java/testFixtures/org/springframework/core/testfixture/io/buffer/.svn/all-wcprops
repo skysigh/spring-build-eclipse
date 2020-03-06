@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/testFixtures/org/springframework/core/testfixture/io/buffer
+END
+AbstractDataBufferAllocatingTests$ParameterizedDataBufferAllocatingTest.class
+K 25
+svn:wc:ra_dav:version-url
+V 212
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/testFixtures/org/springframework/core/testfixture/io/buffer/AbstractDataBufferAllocatingTests$ParameterizedDataBufferAllocatingTest.class
+END
+LeakAwareDataBufferFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/testFixtures/org/springframework/core/testfixture/io/buffer/LeakAwareDataBufferFactory.class
+END
+DataBufferTestUtils.class
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/testFixtures/org/springframework/core/testfixture/io/buffer/DataBufferTestUtils.class
+END
+AbstractLeakCheckingTests.class
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/testFixtures/org/springframework/core/testfixture/io/buffer/AbstractLeakCheckingTests.class
+END
+AbstractDataBufferAllocatingTests.class
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/testFixtures/org/springframework/core/testfixture/io/buffer/AbstractDataBufferAllocatingTests.class
+END
+LeakAwareDataBuffer.class
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/testFixtures/org/springframework/core/testfixture/io/buffer/LeakAwareDataBuffer.class
+END

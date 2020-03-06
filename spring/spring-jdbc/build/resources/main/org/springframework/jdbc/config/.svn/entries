@@ -1,0 +1,53 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-jdbc/build/resources/main/org/springframework/jdbc/config
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+spring-jdbc.gif
+file
+
+
+
+
+2020-03-06T03:50:19.065000Z
+2e3a8552f4b8ebf7f41ecfb3d3c3c51e
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+
+spring-jdbc.xsd
+file
+
+
+
+
+2020-03-06T03:50:19.078000Z
+7f9cd17f92223b9b7930083311a54b7c
+2020-03-06T03:35:38.538472Z
+1
+wck
+

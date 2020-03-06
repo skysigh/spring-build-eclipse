@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/springcode/!svn/ver/1/spring-framework/spring-jcl/src/main/java/org/apache/commons/logging
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/springcode/!svn/ver/1/spring-framework/spring-jcl/src/main/java/org/apache/commons/logging/package-info.java
+END
+Log.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/springcode/!svn/ver/1/spring-framework/spring-jcl/src/main/java/org/apache/commons/logging/Log.java
+END
+LogFactoryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/springcode/!svn/ver/1/spring-framework/spring-jcl/src/main/java/org/apache/commons/logging/LogFactoryService.java
+END
+LogFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/springcode/!svn/ver/1/spring-framework/spring-jcl/src/main/java/org/apache/commons/logging/LogFactory.java
+END
+LogAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/springcode/!svn/ver/1/spring-framework/spring-jcl/src/main/java/org/apache/commons/logging/LogAdapter.java
+END

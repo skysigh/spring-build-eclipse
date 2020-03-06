@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/server
+END
+ServletServerHttpRequestTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/server/ServletServerHttpRequestTests.java
+END
+DefaultPathContainerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/server/DefaultPathContainerTests.java
+END
+DefaultRequestPathTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/server/DefaultRequestPathTests.java
+END
+ServletServerHttpResponseTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/server/ServletServerHttpResponseTests.java
+END

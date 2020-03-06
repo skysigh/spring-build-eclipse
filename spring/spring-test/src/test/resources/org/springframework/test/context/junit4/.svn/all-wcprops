@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/resources/org/springframework/test/context/junit4
+END
+ConcreteTransactionalJUnit4SpringContextTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/resources/org/springframework/test/context/junit4/ConcreteTransactionalJUnit4SpringContextTests-context.xml
+END
+PropertiesBasedSpringJUnit4ClassRunnerAppCtxTests-context.properties
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/resources/org/springframework/test/context/junit4/PropertiesBasedSpringJUnit4ClassRunnerAppCtxTests-context.properties
+END
+FailingBeforeAndAfterMethodsTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/resources/org/springframework/test/context/junit4/FailingBeforeAndAfterMethodsTests-context.xml
+END
+SpringJUnit4ClassRunnerAppCtxTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/resources/org/springframework/test/context/junit4/SpringJUnit4ClassRunnerAppCtxTests-context.xml
+END
+MultipleResourcesSpringJUnit4ClassRunnerAppCtxTests-context1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/resources/org/springframework/test/context/junit4/MultipleResourcesSpringJUnit4ClassRunnerAppCtxTests-context1.xml
+END
+transactionalTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/resources/org/springframework/test/context/junit4/transactionalTests-context.xml
+END
+MultipleResourcesSpringJUnit4ClassRunnerAppCtxTests-context2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/resources/org/springframework/test/context/junit4/MultipleResourcesSpringJUnit4ClassRunnerAppCtxTests-context2.xml
+END
+MultipleResourcesSpringJUnit4ClassRunnerAppCtxTests-context3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/resources/org/springframework/test/context/junit4/MultipleResourcesSpringJUnit4ClassRunnerAppCtxTests-context3.xml
+END
+ParameterizedDependencyInjectionTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/resources/org/springframework/test/context/junit4/ParameterizedDependencyInjectionTests-context.xml
+END

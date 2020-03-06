@@ -1,0 +1,55 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-core/src/testFixtures/java/org/springframework/core/testfixture/io
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+ResourceTestUtils.java
+file
+
+
+
+
+2020-03-06T03:49:39.741000Z
+22043ac2459619a5d9e9199f47cf3e5e
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+SerializationTestUtils.java
+file
+
+
+
+
+2020-03-06T03:49:39.759000Z
+fdc1cb7ed5e9fa6264514d2059f2bcaf
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+buffer
+dir
+

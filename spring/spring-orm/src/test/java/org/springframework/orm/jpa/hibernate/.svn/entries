@@ -1,0 +1,79 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-orm/src/test/java/org/springframework/orm/jpa/hibernate
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+HibernateEntityManagerFactoryIntegrationTests.java
+file
+
+
+
+
+2020-03-06T03:51:17.248000Z
+98b3918eadc1eca56fe807cf3141d22a
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+HibernateMultiEntityManagerFactoryIntegrationTests.java
+file
+
+
+
+
+2020-03-06T03:51:17.263000Z
+21a3b282bacaf4070c92ccaa1e5e6e5a
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+HibernateNativeEntityManagerFactoryIntegrationTests.java
+file
+
+
+
+
+2020-03-06T03:51:17.281000Z
+83057a3a828dd7de5868a6912d55132e
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+HibernateNativeEntityManagerFactorySpringBeanContainerIntegrationTests.java
+file
+
+
+
+
+2020-03-06T03:51:17.294000Z
+d0fc1d887cd3a8573249125e5edcac02
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+beans
+dir
+

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/remoting/httpinvoker
+END
+HttpInvokerProxyFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/remoting/httpinvoker/HttpInvokerProxyFactoryBean.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/remoting/httpinvoker/package-info.java
+END
+HttpComponentsHttpInvokerRequestExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/remoting/httpinvoker/HttpComponentsHttpInvokerRequestExecutor.java
+END
+HttpInvokerClientConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/remoting/httpinvoker/HttpInvokerClientConfiguration.java
+END
+SimpleHttpInvokerRequestExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/remoting/httpinvoker/SimpleHttpInvokerRequestExecutor.java
+END
+AbstractHttpInvokerRequestExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/remoting/httpinvoker/AbstractHttpInvokerRequestExecutor.java
+END
+HttpInvokerRequestExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/remoting/httpinvoker/HttpInvokerRequestExecutor.java
+END
+HttpInvokerClientInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/remoting/httpinvoker/HttpInvokerClientInterceptor.java
+END
+HttpInvokerServiceExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/remoting/httpinvoker/HttpInvokerServiceExporter.java
+END
+SimpleHttpInvokerServiceExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/remoting/httpinvoker/SimpleHttpInvokerServiceExporter.java
+END

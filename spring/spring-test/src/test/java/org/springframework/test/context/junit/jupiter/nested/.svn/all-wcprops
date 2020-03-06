@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit/jupiter/nested
+END
+NestedTestsWithSqlScriptsAndJUnitJupiterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit/jupiter/nested/NestedTestsWithSqlScriptsAndJUnitJupiterTests.java
+END
+NestedTestsWithConstructorInjectionWithSpringAndJUnitJupiterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit/jupiter/nested/NestedTestsWithConstructorInjectionWithSpringAndJUnitJupiterTests.java
+END
+NestedTestsWithSpringAndJUnitJupiterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit/jupiter/nested/NestedTestsWithSpringAndJUnitJupiterTests.java
+END

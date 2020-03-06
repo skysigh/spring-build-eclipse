@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/codec/json
+END
+Jackson2SmileEncoderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/codec/json/Jackson2SmileEncoderTests.java
+END
+Jackson2JsonDecoderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/codec/json/Jackson2JsonDecoderTests.java
+END
+Jackson2TokenizerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/codec/json/Jackson2TokenizerTests.java
+END
+JacksonViewBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/codec/json/JacksonViewBean.java
+END
+Jackson2JsonEncoderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/codec/json/Jackson2JsonEncoderTests.java
+END
+Jackson2SmileDecoderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/codec/json/Jackson2SmileDecoderTests.java
+END

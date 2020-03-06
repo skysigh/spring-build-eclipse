@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/springcode/!svn/ver/1/spring-framework/spring-oxm/build/classes/java/main/org/springframework/oxm/jaxb
+END
+ClassPathJaxb2TypeScanner.class
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-oxm/build/classes/java/main/org/springframework/oxm/jaxb/ClassPathJaxb2TypeScanner.class
+END
+Jaxb2Marshaller$Jaxb2AttachmentMarshaller.class
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-oxm/build/classes/java/main/org/springframework/oxm/jaxb/Jaxb2Marshaller$Jaxb2AttachmentMarshaller.class
+END
+Jaxb2Marshaller$Jaxb2AttachmentUnmarshaller.class
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/springcode/!svn/ver/1/spring-framework/spring-oxm/build/classes/java/main/org/springframework/oxm/jaxb/Jaxb2Marshaller$Jaxb2AttachmentUnmarshaller.class
+END
+Jaxb2Marshaller.class
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-oxm/build/classes/java/main/org/springframework/oxm/jaxb/Jaxb2Marshaller.class
+END
+Jaxb2Marshaller$ByteArrayDataSource.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-oxm/build/classes/java/main/org/springframework/oxm/jaxb/Jaxb2Marshaller$ByteArrayDataSource.class
+END
+package-info.class
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-oxm/build/classes/java/main/org/springframework/oxm/jaxb/package-info.class
+END

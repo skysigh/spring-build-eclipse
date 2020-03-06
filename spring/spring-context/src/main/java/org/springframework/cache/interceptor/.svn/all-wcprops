@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/cache/interceptor
+END
+NameMatchCacheOperationSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/cache/interceptor/NameMatchCacheOperationSource.java
+END
+CacheProxyFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/cache/interceptor/CacheProxyFactoryBean.java
+END
+CacheOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/cache/interceptor/CacheOperation.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/cache/interceptor/package-info.java
+END
+CompositeCacheOperationSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/cache/interceptor/CompositeCacheOperationSource.java
+END
+AbstractFallbackCacheOperationSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/cache/interceptor/AbstractFallbackCacheOperationSource.java
+END
+CacheEvictOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/cache/interceptor/CacheEvictOperation.java
+END
+CacheOperationSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/cache/interceptor/CacheOperationSource.java
+END
+SimpleCacheErrorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/cache/interceptor/SimpleCacheErrorHandler.java
+END
+CachePutOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/cache/interceptor/CachePutOperation.java
+END
+SimpleKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/cache/interceptor/SimpleKey.java
+END
+CacheOperationInvocationContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/cache/interceptor/CacheOperationInvocationContext.java
+END
+VariableNotAvailableException.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/cache/interceptor/VariableNotAvailableException.java
+END
+CacheOperationExpressionEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/cache/interceptor/CacheOperationExpressionEvaluator.java
+END
+BasicOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/cache/interceptor/BasicOperation.java
+END
+CacheInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/cache/interceptor/CacheInterceptor.java
+END
+AbstractCacheInvoker.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/cache/interceptor/AbstractCacheInvoker.java
+END
+CacheErrorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/cache/interceptor/CacheErrorHandler.java
+END
+AbstractCacheResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/cache/interceptor/AbstractCacheResolver.java
+END
+CacheOperationInvoker.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/cache/interceptor/CacheOperationInvoker.java
+END
+NamedCacheResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/cache/interceptor/NamedCacheResolver.java
+END
+CacheEvaluationContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/cache/interceptor/CacheEvaluationContext.java
+END
+CacheOperationSourcePointcut.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/cache/interceptor/CacheOperationSourcePointcut.java
+END
+CacheAspectSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/cache/interceptor/CacheAspectSupport.java
+END
+CacheResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/cache/interceptor/CacheResolver.java
+END
+SimpleCacheResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/cache/interceptor/SimpleCacheResolver.java
+END
+CacheableOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/cache/interceptor/CacheableOperation.java
+END
+KeyGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/cache/interceptor/KeyGenerator.java
+END
+CacheExpressionRootObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/cache/interceptor/CacheExpressionRootObject.java
+END
+SimpleKeyGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/cache/interceptor/SimpleKeyGenerator.java
+END
+BeanFactoryCacheOperationSourceAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/cache/interceptor/BeanFactoryCacheOperationSourceAdvisor.java
+END

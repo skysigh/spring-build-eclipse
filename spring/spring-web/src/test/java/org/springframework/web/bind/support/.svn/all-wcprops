@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/bind/support
+END
+WebRequestDataBinderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/bind/support/WebRequestDataBinderTests.java
+END
+WebRequestDataBinderIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/bind/support/WebRequestDataBinderIntegrationTests.java
+END
+WebExchangeDataBinderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/bind/support/WebExchangeDataBinderTests.java
+END

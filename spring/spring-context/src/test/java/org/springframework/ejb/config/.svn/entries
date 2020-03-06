@@ -1,0 +1,52 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-context/src/test/java/org/springframework/ejb/config
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+JeeNamespaceHandlerEventTests.java
+file
+
+
+
+
+2020-03-06T03:47:36.727000Z
+f68599a61bb83b37d74420acfa140848
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+JeeNamespaceHandlerTests.java
+file
+
+
+
+
+2020-03-06T03:47:36.740000Z
+fdc2a99dc945a2e4dd308a2ac0639242
+2020-03-06T03:35:38.538472Z
+1
+wck
+

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/core/namedparam
+END
+SqlParameterSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/core/namedparam/SqlParameterSource.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/core/namedparam/package-info.java
+END
+AbstractSqlParameterSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/core/namedparam/AbstractSqlParameterSource.java
+END
+EmptySqlParameterSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/core/namedparam/EmptySqlParameterSource.java
+END
+NamedParameterJdbcOperations.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/core/namedparam/NamedParameterJdbcOperations.java
+END
+NamedParameterUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/core/namedparam/NamedParameterUtils.java
+END
+BeanPropertySqlParameterSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/core/namedparam/BeanPropertySqlParameterSource.java
+END
+NamedParameterJdbcDaoSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/core/namedparam/NamedParameterJdbcDaoSupport.java
+END
+NamedParameterJdbcTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/core/namedparam/NamedParameterJdbcTemplate.java
+END
+SqlParameterSourceUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/core/namedparam/SqlParameterSourceUtils.java
+END
+MapSqlParameterSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/core/namedparam/MapSqlParameterSource.java
+END
+NamedParameterBatchUpdateUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/core/namedparam/NamedParameterBatchUpdateUtils.java
+END
+ParsedSql.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/core/namedparam/ParsedSql.java
+END

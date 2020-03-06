@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/jmx/support
+END
+MBeanServerConnectionFactoryBean$JMXConnectorLazyInitTargetSource.class
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/jmx/support/MBeanServerConnectionFactoryBean$JMXConnectorLazyInitTargetSource.class
+END
+MBeanServerFactoryBean.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/jmx/support/MBeanServerFactoryBean.class
+END
+JmxUtils.class
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/jmx/support/JmxUtils.class
+END
+NotificationListenerHolder.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/jmx/support/NotificationListenerHolder.class
+END
+ConnectorServerFactoryBean$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/jmx/support/ConnectorServerFactoryBean$1.class
+END
+package-info.class
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/jmx/support/package-info.class
+END
+ObjectNameManager.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/jmx/support/ObjectNameManager.class
+END
+MetricType.class
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/jmx/support/MetricType.class
+END
+MBeanRegistrationSupport.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/jmx/support/MBeanRegistrationSupport.class
+END
+MBeanServerConnectionFactoryBean$MBeanServerConnectionLazyInitTargetSource.class
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/jmx/support/MBeanServerConnectionFactoryBean$MBeanServerConnectionLazyInitTargetSource.class
+END
+WebSphereMBeanServerFactoryBean.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/jmx/support/WebSphereMBeanServerFactoryBean.class
+END
+ConnectorServerFactoryBean.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/jmx/support/ConnectorServerFactoryBean.class
+END
+MBeanServerConnectionFactoryBean.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/jmx/support/MBeanServerConnectionFactoryBean.class
+END
+RegistrationPolicy.class
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/jmx/support/RegistrationPolicy.class
+END
+MBeanServerConnectionFactoryBean$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/jmx/support/MBeanServerConnectionFactoryBean$1.class
+END

@@ -1,0 +1,145 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-tx/src/test/java/org/springframework/transaction
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+JndiJtaTransactionManagerTests.java
+file
+
+
+
+
+2020-03-06T03:53:05.220000Z
+78c878b0085bf706b8e2c496e70c71fa
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+JtaTransactionManagerTests.java
+file
+
+
+
+
+2020-03-06T03:53:05.235000Z
+95a2c163e78f831080b2d2ea1611eab8
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+MockCallbackPreferringTransactionManager.java
+file
+
+
+
+
+2020-03-06T03:53:05.255000Z
+c0a5de340b2074a9c3f138ad0a0eb27a
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+MockJtaTransaction.java
+file
+
+
+
+
+2020-03-06T03:53:05.266000Z
+a7235197027ddb3c0676dab7725267f5
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+TestTransactionManager.java
+file
+
+
+
+
+2020-03-06T03:53:05.278000Z
+365e0b6d8b28a10526aeee0731569c05
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+TransactionSupportTests.java
+file
+
+
+
+
+2020-03-06T03:53:05.290000Z
+d05a75bd1353f5d50c0f5bc16edbc61a
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+TxNamespaceHandlerEventTests.java
+file
+
+
+
+
+2020-03-06T03:53:05.302000Z
+03e2f76a90e50cb539ca476d4cb96c68
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+TxNamespaceHandlerTests.java
+file
+
+
+
+
+2020-03-06T03:53:05.312000Z
+5a0d653df5a5cf42f33b4695d11cd645
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+annotation
+dir
+
+config
+dir
+
+event
+dir
+
+interceptor
+dir
+
+jta
+dir
+
+reactive
+dir
+
+support
+dir
+

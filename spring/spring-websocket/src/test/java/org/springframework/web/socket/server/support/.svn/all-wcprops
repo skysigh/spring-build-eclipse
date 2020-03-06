@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/test/java/org/springframework/web/socket/server/support
+END
+HttpSessionHandshakeInterceptorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/test/java/org/springframework/web/socket/server/support/HttpSessionHandshakeInterceptorTests.java
+END
+OriginHandshakeInterceptorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/test/java/org/springframework/web/socket/server/support/OriginHandshakeInterceptorTests.java
+END
+HandshakeInterceptorChainTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/test/java/org/springframework/web/socket/server/support/HandshakeInterceptorChainTests.java
+END
+WebSocketHttpRequestHandlerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/test/java/org/springframework/web/socket/server/support/WebSocketHttpRequestHandlerTests.java
+END

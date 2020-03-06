@@ -1,0 +1,82 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-jms/src/test/java/org/springframework/jms/support
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+JmsAccessorTests.java
+file
+
+
+
+
+2020-03-06T03:50:44.369000Z
+224fd2df4494e9d31741f631e769cd4a
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+JmsMessageHeaderAccessorTests.java
+file
+
+
+
+
+2020-03-06T03:50:44.381000Z
+79ca0a381fbfa16d52e92c07743c954e
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+SimpleJmsHeaderMapperTests.java
+file
+
+
+
+
+2020-03-06T03:50:44.394000Z
+d62b7a08f47921ebea96fe002b96766b
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+SimpleMessageConverterTests.java
+file
+
+
+
+
+2020-03-06T03:50:44.410000Z
+0356e6ba595da996b6f2256131cf0c3a
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+converter
+dir
+
+destination
+dir
+

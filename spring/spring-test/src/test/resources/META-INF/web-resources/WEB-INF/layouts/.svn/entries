@@ -1,0 +1,52 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-test/src/test/resources/META-INF/web-resources/WEB-INF/layouts
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+standardLayout.jsp
+file
+
+
+
+
+2020-03-06T03:52:39.856000Z
+939b669d4e162c2c2ceac7fb606e2c5b
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+tiles.xml
+file
+
+
+
+
+2020-03-06T03:52:39.874000Z
+d47a26035444226768bd3243fcd40896
+2020-03-06T03:35:38.538472Z
+1
+wck
+

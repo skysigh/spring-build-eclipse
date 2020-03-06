@@ -1,0 +1,55 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-websocket/bin/test
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+.gitignore
+file
+
+
+
+
+2020-03-06T03:55:47.110000Z
+d41d8cd98f00b204e9800998ecf8427e
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+log4j2-test.xml
+file
+
+
+
+
+2020-03-06T03:55:47.115000Z
+35108d12906e864f8aec2cc7d6f9dfa2
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+org
+dir
+

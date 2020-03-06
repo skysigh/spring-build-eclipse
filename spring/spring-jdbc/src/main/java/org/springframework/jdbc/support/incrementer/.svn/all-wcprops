@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/support/incrementer
+END
+SybaseMaxValueIncrementer.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/support/incrementer/SybaseMaxValueIncrementer.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/support/incrementer/package-info.java
+END
+DB2SequenceMaxValueIncrementer.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/support/incrementer/DB2SequenceMaxValueIncrementer.java
+END
+MySQLMaxValueIncrementer.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/support/incrementer/MySQLMaxValueIncrementer.java
+END
+SqlServerMaxValueIncrementer.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/support/incrementer/SqlServerMaxValueIncrementer.java
+END
+DB2MainframeSequenceMaxValueIncrementer.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/support/incrementer/DB2MainframeSequenceMaxValueIncrementer.java
+END
+SybaseAnywhereMaxValueIncrementer.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/support/incrementer/SybaseAnywhereMaxValueIncrementer.java
+END
+OracleSequenceMaxValueIncrementer.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/support/incrementer/OracleSequenceMaxValueIncrementer.java
+END
+H2SequenceMaxValueIncrementer.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/support/incrementer/H2SequenceMaxValueIncrementer.java
+END
+HsqlSequenceMaxValueIncrementer.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/support/incrementer/HsqlSequenceMaxValueIncrementer.java
+END
+AbstractIdentityColumnMaxValueIncrementer.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/support/incrementer/AbstractIdentityColumnMaxValueIncrementer.java
+END
+Db2LuwMaxValueIncrementer.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/support/incrementer/Db2LuwMaxValueIncrementer.java
+END
+Db2MainframeMaxValueIncrementer.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/support/incrementer/Db2MainframeMaxValueIncrementer.java
+END
+DerbyMaxValueIncrementer.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/support/incrementer/DerbyMaxValueIncrementer.java
+END
+HsqlMaxValueIncrementer.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/support/incrementer/HsqlMaxValueIncrementer.java
+END
+HanaSequenceMaxValueIncrementer.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/support/incrementer/HanaSequenceMaxValueIncrementer.java
+END
+PostgresSequenceMaxValueIncrementer.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/support/incrementer/PostgresSequenceMaxValueIncrementer.java
+END
+PostgreSQLSequenceMaxValueIncrementer.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/support/incrementer/PostgreSQLSequenceMaxValueIncrementer.java
+END
+AbstractSequenceMaxValueIncrementer.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/support/incrementer/AbstractSequenceMaxValueIncrementer.java
+END
+DataFieldMaxValueIncrementer.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/support/incrementer/DataFieldMaxValueIncrementer.java
+END
+AbstractColumnMaxValueIncrementer.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/support/incrementer/AbstractColumnMaxValueIncrementer.java
+END
+AbstractDataFieldMaxValueIncrementer.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/support/incrementer/AbstractDataFieldMaxValueIncrementer.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/testFixtures/org/springframework/core/testfixture/env
+END
+EnvironmentTestUtils.class
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/testFixtures/org/springframework/core/testfixture/env/EnvironmentTestUtils.class
+END
+MockPropertySource.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/testFixtures/org/springframework/core/testfixture/env/MockPropertySource.class
+END

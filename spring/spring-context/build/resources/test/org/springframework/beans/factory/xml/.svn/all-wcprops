@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/beans/factory/xml
+END
+XmlBeanFactoryTests-invalidOverridesNoSuchMethod.xml
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/beans/factory/xml/XmlBeanFactoryTests-invalidOverridesNoSuchMethod.xml
+END
+simplePropertyNamespaceHandlerWithExpressionLanguageTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/beans/factory/xml/simplePropertyNamespaceHandlerWithExpressionLanguageTests.xml
+END
+XmlBeanFactoryTests-depCargInner.xml
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/beans/factory/xml/XmlBeanFactoryTests-depCargInner.xml
+END
+XmlBeanFactoryTests-reftypes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/beans/factory/xml/XmlBeanFactoryTests-reftypes.xml
+END
+XmlBeanFactoryTests-defaultLazyInit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/beans/factory/xml/XmlBeanFactoryTests-defaultLazyInit.xml
+END
+XmlBeanFactoryTests-child.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/beans/factory/xml/XmlBeanFactoryTests-child.xml
+END
+XmlBeanFactoryTests-initializers.xml
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/beans/factory/xml/XmlBeanFactoryTests-initializers.xml
+END
+XmlBeanFactoryTests-constructorArg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/beans/factory/xml/XmlBeanFactoryTests-constructorArg.xml
+END
+QualifierAnnotationTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/beans/factory/xml/QualifierAnnotationTests-context.xml
+END
+XmlBeanFactoryTests-testWithDuplicateNameInAlias.xml
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/beans/factory/xml/XmlBeanFactoryTests-testWithDuplicateNameInAlias.xml
+END
+XmlBeanFactoryTests-depCargAutowire.xml
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/beans/factory/xml/XmlBeanFactoryTests-depCargAutowire.xml
+END
+XmlBeanFactoryTests-depPropInner.xml
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/beans/factory/xml/XmlBeanFactoryTests-depPropInner.xml
+END
+XmlBeanFactoryTests-overrides.xml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/beans/factory/xml/XmlBeanFactoryTests-overrides.xml
+END
+XmlBeanFactoryTests-defaultAutowire.xml
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/beans/factory/xml/XmlBeanFactoryTests-defaultAutowire.xml
+END
+XmlBeanFactoryTests-depMaterializeThis.xml
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/beans/factory/xml/XmlBeanFactoryTests-depMaterializeThis.xml
+END
+XmlBeanFactoryTests-depPropAutowireByType.xml
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/beans/factory/xml/XmlBeanFactoryTests-depPropAutowireByType.xml
+END
+XmlBeanFactoryTests-depDependsOn.xml
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/beans/factory/xml/XmlBeanFactoryTests-depDependsOn.xml
+END
+XmlBeanFactoryTests-depDependsOnInner.xml
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/beans/factory/xml/XmlBeanFactoryTests-depDependsOnInner.xml
+END
+XmlBeanFactoryTests-noSuchFactoryMethod.xml
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/beans/factory/xml/XmlBeanFactoryTests-noSuchFactoryMethod.xml
+END
+test.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/beans/factory/xml/test.properties
+END
+XmlBeanFactoryTests-delegationOverrides.xml
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/beans/factory/xml/XmlBeanFactoryTests-delegationOverrides.xml
+END
+XmlBeanFactoryTests-collections.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/beans/factory/xml/XmlBeanFactoryTests-collections.xml
+END
+XmlBeanFactoryTests-resourceImport.xml
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/beans/factory/xml/XmlBeanFactoryTests-resourceImport.xml
+END
+XmlBeanFactoryTests-testWithDuplicateNames.xml
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/beans/factory/xml/XmlBeanFactoryTests-testWithDuplicateNames.xml
+END
+XmlBeanFactoryTests-depCarg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/beans/factory/xml/XmlBeanFactoryTests-depCarg.xml
+END
+XmlBeanFactoryTests-recursiveImport.xml
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/beans/factory/xml/XmlBeanFactoryTests-recursiveImport.xml
+END
+XmlBeanFactoryTests-autowire.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/beans/factory/xml/XmlBeanFactoryTests-autowire.xml
+END
+XmlBeanFactoryTests-parent.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/beans/factory/xml/XmlBeanFactoryTests-parent.xml
+END
+XmlBeanFactoryTests-complexFactoryCircle.xml
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/beans/factory/xml/XmlBeanFactoryTests-complexFactoryCircle.xml
+END
+LookupMethodWrappedByCglibProxyTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/beans/factory/xml/LookupMethodWrappedByCglibProxyTests-context.xml
+END
+XmlBeanFactoryTests-depPropInTheMiddle.xml
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/beans/factory/xml/XmlBeanFactoryTests-depPropInTheMiddle.xml
+END
+XmlBeanFactoryTests-constructorOverrides.xml
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/beans/factory/xml/XmlBeanFactoryTests-constructorOverrides.xml
+END
+XmlBeanFactoryTests-invalid.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/beans/factory/xml/XmlBeanFactoryTests-invalid.xml
+END
+XmlBeanFactoryTests-depPropAutowireByName.xml
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/beans/factory/xml/XmlBeanFactoryTests-depPropAutowireByName.xml
+END
+XmlBeanFactoryTests-depProp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/beans/factory/xml/XmlBeanFactoryTests-depProp.xml
+END
+XmlBeanFactoryTests-localCollectionsUsingXsd.xml
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/beans/factory/xml/XmlBeanFactoryTests-localCollectionsUsingXsd.xml
+END
+XmlBeanFactoryTests-factoryCircle.xml
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/beans/factory/xml/XmlBeanFactoryTests-factoryCircle.xml
+END
+XmlBeanFactoryTests-classNotFound.xml
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/beans/factory/xml/XmlBeanFactoryTests-classNotFound.xml
+END
+XmlBeanFactoryTests-resource.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/beans/factory/xml/XmlBeanFactoryTests-resource.xml
+END

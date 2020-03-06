@@ -1,0 +1,229 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-jms/src/main/java/org/springframework/jms
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+IllegalStateException.java
+file
+
+
+
+
+2020-03-06T03:50:39.626000Z
+7ae016beae461f99648bd87d9bc83e18
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+InvalidClientIDException.java
+file
+
+
+
+
+2020-03-06T03:50:39.641000Z
+1e7e42318b1547aa57b5c341ccd90089
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+InvalidDestinationException.java
+file
+
+
+
+
+2020-03-06T03:50:39.652000Z
+8c235d25d78584f4f4cf01e3dd35462d
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+InvalidSelectorException.java
+file
+
+
+
+
+2020-03-06T03:50:39.663000Z
+48abc41d47643ace7631e9d766e1fe36
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+JmsException.java
+file
+
+
+
+
+2020-03-06T03:50:39.674000Z
+bb1403b2bfb5471a8f88351bcb4e941a
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+JmsSecurityException.java
+file
+
+
+
+
+2020-03-06T03:50:39.687000Z
+b5acdcfad04d941ae814934f3e59c569
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+MessageEOFException.java
+file
+
+
+
+
+2020-03-06T03:50:39.697000Z
+a992296a010fe671d6742ec7333534cf
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+MessageFormatException.java
+file
+
+
+
+
+2020-03-06T03:50:39.707000Z
+e5e1ece6757fd48a16904ab6cf461781
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+MessageNotReadableException.java
+file
+
+
+
+
+2020-03-06T03:50:39.718000Z
+45d566d04ddb2f25ca54521d1cbfd84e
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+MessageNotWriteableException.java
+file
+
+
+
+
+2020-03-06T03:50:39.729000Z
+520197b7798236deabba169f55d3bb83
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+ResourceAllocationException.java
+file
+
+
+
+
+2020-03-06T03:50:39.740000Z
+9d6c1f1d35155dbfb75ce393be78ad9c
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+TransactionInProgressException.java
+file
+
+
+
+
+2020-03-06T03:50:39.752000Z
+8e920d1b434c01f2c78a9f3fb5ac8330
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+TransactionRolledBackException.java
+file
+
+
+
+
+2020-03-06T03:50:39.764000Z
+0df2a66904d234afaf49f6d8fb9203ea
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+UncategorizedJmsException.java
+file
+
+
+
+
+2020-03-06T03:50:39.776000Z
+6c3500d110d2fc2b4c816245f5f9658f
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+annotation
+dir
+
+config
+dir
+
+connection
+dir
+
+core
+dir
+
+listener
+dir
+
+package-info.java
+file
+
+
+
+
+2020-03-06T03:50:41.755000Z
+d97a5f75a89e9930f25edc5a3ea35144
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+remoting
+dir
+
+support
+dir
+

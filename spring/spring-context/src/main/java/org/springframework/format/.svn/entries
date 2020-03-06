@@ -1,0 +1,124 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-context/src/main/java/org/springframework/format
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+AnnotationFormatterFactory.java
+file
+
+
+
+
+2020-03-06T03:47:18.273000Z
+558290d9ef65178fb852cb6aef69f2c6
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+Formatter.java
+file
+
+
+
+
+2020-03-06T03:47:18.285000Z
+150f67d41c5da6d2ab1df59d60f1342f
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+FormatterRegistrar.java
+file
+
+
+
+
+2020-03-06T03:47:18.296000Z
+cdf44ea7e9dd68f556c893bef5c6dfcf
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+FormatterRegistry.java
+file
+
+
+
+
+2020-03-06T03:47:18.306000Z
+b766fc1b0021fa46e34ee7bf1708e10d
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+Parser.java
+file
+
+
+
+
+2020-03-06T03:47:18.317000Z
+155f516114e48189068e2b733feee81d
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+Printer.java
+file
+
+
+
+
+2020-03-06T03:47:18.327000Z
+07bb533c9aea7ac197c9efbe6583324c
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+annotation
+dir
+
+datetime
+dir
+
+number
+dir
+
+package-info.java
+file
+
+
+
+
+2020-03-06T03:47:19.324000Z
+eb392504888a3d3eb74acbe056c8d18c
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+support
+dir
+

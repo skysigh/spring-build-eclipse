@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/resources/org/springframework/test/context/groovy
+END
+context.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/resources/org/springframework/test/context/groovy/context.groovy
+END
+contextB.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/resources/org/springframework/test/context/groovy/contextB.xml
+END
+contextA.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/resources/org/springframework/test/context/groovy/contextA.groovy
+END
+DefaultScriptDetectionGroovySpringContextTestsContext.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/resources/org/springframework/test/context/groovy/DefaultScriptDetectionGroovySpringContextTestsContext.groovy
+END
+DefaultScriptDetectionXmlSupersedesGroovySpringContextTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/resources/org/springframework/test/context/groovy/DefaultScriptDetectionXmlSupersedesGroovySpringContextTests-context.xml
+END
+DefaultScriptDetectionXmlSupersedesGroovySpringContextTestsContext.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/resources/org/springframework/test/context/groovy/DefaultScriptDetectionXmlSupersedesGroovySpringContextTestsContext.groovy
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/codec/protobuf
+END
+ProtobufDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/codec/protobuf/ProtobufDecoder.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/codec/protobuf/package-info.java
+END
+ProtobufCodecSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/codec/protobuf/ProtobufCodecSupport.java
+END
+ProtobufEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/codec/protobuf/ProtobufEncoder.java
+END
+ProtobufHttpMessageWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/codec/protobuf/ProtobufHttpMessageWriter.java
+END

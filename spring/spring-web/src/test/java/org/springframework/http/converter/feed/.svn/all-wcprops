@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/converter/feed
+END
+AtomFeedHttpMessageConverterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/converter/feed/AtomFeedHttpMessageConverterTests.java
+END
+RssChannelHttpMessageConverterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/converter/feed/RssChannelHttpMessageConverterTests.java
+END

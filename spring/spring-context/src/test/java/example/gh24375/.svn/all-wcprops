@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/example/gh24375
+END
+NestedAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/example/gh24375/NestedAnnotation.java
+END
+EnclosingAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/example/gh24375/EnclosingAnnotation.java
+END
+AnnotatedComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/example/gh24375/AnnotatedComponent.java
+END

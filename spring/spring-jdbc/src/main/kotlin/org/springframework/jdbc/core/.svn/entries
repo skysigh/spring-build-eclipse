@@ -1,0 +1,43 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-jdbc/src/main/kotlin/org/springframework/jdbc/core
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+JdbcOperationsExtensions.kt
+file
+
+
+
+
+2020-03-06T03:50:25.273000Z
+0429c953583b6a612642e4993cccfdc1
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+namedparam
+dir
+

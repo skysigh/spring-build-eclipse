@@ -1,0 +1,52 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-tx/src/test/java/org/springframework/transaction/support
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+JtaTransactionManagerSerializationTests.java
+file
+
+
+
+
+2020-03-06T03:53:06.151000Z
+cbedc9b004e49669ce400e55289a932b
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+SimpleTransactionScopeTests.java
+file
+
+
+
+
+2020-03-06T03:53:06.166000Z
+1fc52e007eb7bdd21b7a505b4646a847
+2020-03-06T03:35:38.538472Z
+1
+wck
+

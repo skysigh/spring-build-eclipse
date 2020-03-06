@@ -1,0 +1,52 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/server/jetty
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+JettyRequestUpgradeStrategy.java
+file
+
+
+
+
+2020-03-06T03:55:56.791000Z
+525a6ebdfd726c8f81d15c64d42c344b
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+package-info.java
+file
+
+
+
+
+2020-03-06T03:55:56.973000Z
+9b5c4b04898f989617fd22188df724a9
+2020-03-06T03:35:38.538472Z
+1
+wck
+

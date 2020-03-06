@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/test/java/org/springframework/cache/transaction
+END
+AbstractTransactionSupportingCacheManagerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/test/java/org/springframework/cache/transaction/AbstractTransactionSupportingCacheManagerTests.java
+END
+TransactionAwareCacheDecoratorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/test/java/org/springframework/cache/transaction/TransactionAwareCacheDecoratorTests.java
+END

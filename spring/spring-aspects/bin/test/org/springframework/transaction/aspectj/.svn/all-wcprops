@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/transaction/aspectj
+END
+ClassWithPrivateAnnotatedMember$AjcClosure1.class
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/transaction/aspectj/ClassWithPrivateAnnotatedMember$AjcClosure1.class
+END
+MethodAnnotationOnClassWithNoInterface$AjcClosure1.class
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/transaction/aspectj/MethodAnnotationOnClassWithNoInterface$AjcClosure1.class
+END
+ClassWithPrivateAnnotatedMember.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/transaction/aspectj/ClassWithPrivateAnnotatedMember.class
+END
+TransactionAspectTests$ImplementsAnnotatedInterface.class
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/transaction/aspectj/TransactionAspectTests$ImplementsAnnotatedInterface.class
+END
+TransactionalAnnotationOnlyOnClassWithNoInterface.class
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/transaction/aspectj/TransactionalAnnotationOnlyOnClassWithNoInterface.class
+END
+ClassWithProtectedAnnotatedMember$AjcClosure1.class
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/transaction/aspectj/ClassWithProtectedAnnotatedMember$AjcClosure1.class
+END
+TransactionAspectTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/transaction/aspectj/TransactionAspectTests-context.xml
+END
+MethodAnnotationOnClassWithNoInterface.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/transaction/aspectj/MethodAnnotationOnClassWithNoInterface.class
+END
+JtaTransactionAspectsTests$JtaAnnotationProtectedAnnotatedMember$AjcClosure1.class
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/transaction/aspectj/JtaTransactionAspectsTests$JtaAnnotationProtectedAnnotatedMember$AjcClosure1.class
+END
+TransactionAspectTests$SubclassOfClassWithTransactionalAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/transaction/aspectj/TransactionAspectTests$SubclassOfClassWithTransactionalAnnotation.class
+END
+JtaTransactionAspectsTests.class
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/transaction/aspectj/JtaTransactionAspectsTests.class
+END
+JtaTransactionAspectsTests$JtaAnnotationPrivateAnnotatedMember.class
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/transaction/aspectj/JtaTransactionAspectsTests$JtaAnnotationPrivateAnnotatedMember.class
+END
+TransactionAspectTests$SubclassOfClassWithTransactionalMethodAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/transaction/aspectj/TransactionAspectTests$SubclassOfClassWithTransactionalMethodAnnotation.class
+END
+JtaTransactionAspectsTests$JtaAnnotationPublicAnnotatedMember$AjcClosure1.class
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/transaction/aspectj/JtaTransactionAspectsTests$JtaAnnotationPublicAnnotatedMember$AjcClosure1.class
+END
+JtaTransactionAspectsTests$JtaAnnotationPrivateAnnotatedMember$AjcClosure1.class
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/transaction/aspectj/JtaTransactionAspectsTests$JtaAnnotationPrivateAnnotatedMember$AjcClosure1.class
+END
+JtaTransactionAspectsTests$JtaAnnotationPublicAnnotatedMember.class
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/transaction/aspectj/JtaTransactionAspectsTests$JtaAnnotationPublicAnnotatedMember.class
+END
+TransactionalAnnotationOnlyOnClassWithNoInterface$AjcClosure1.class
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/transaction/aspectj/TransactionalAnnotationOnlyOnClassWithNoInterface$AjcClosure1.class
+END
+TransactionAspectTests$TransactionOperationCallback.class
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/transaction/aspectj/TransactionAspectTests$TransactionOperationCallback.class
+END
+ITransactional.class
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/transaction/aspectj/ITransactional.class
+END
+TransactionAspectTests$NotTransactional.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/transaction/aspectj/TransactionAspectTests$NotTransactional.class
+END
+JtaTransactionAspectsTests$JtaAnnotationProtectedAnnotatedMember.class
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/transaction/aspectj/JtaTransactionAspectsTests$JtaAnnotationProtectedAnnotatedMember.class
+END
+ClassWithProtectedAnnotatedMember.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/transaction/aspectj/ClassWithProtectedAnnotatedMember.class
+END
+JtaTransactionAspectsTests$Config.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/transaction/aspectj/JtaTransactionAspectsTests$Config.class
+END
+TransactionAspectTests.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/transaction/aspectj/TransactionAspectTests.class
+END

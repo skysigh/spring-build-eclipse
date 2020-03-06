@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/test/java/org/springframework/dao/support
+END
+DataAccessUtilsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/test/java/org/springframework/dao/support/DataAccessUtilsTests.java
+END
+ChainedPersistenceExceptionTranslatorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/test/java/org/springframework/dao/support/ChainedPersistenceExceptionTranslatorTests.java
+END

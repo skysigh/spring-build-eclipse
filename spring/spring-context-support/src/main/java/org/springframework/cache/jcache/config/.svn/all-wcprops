@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/main/java/org/springframework/cache/jcache/config
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/main/java/org/springframework/cache/jcache/config/package-info.java
+END
+JCacheConfigurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/main/java/org/springframework/cache/jcache/config/JCacheConfigurer.java
+END
+ProxyJCacheConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/main/java/org/springframework/cache/jcache/config/ProxyJCacheConfiguration.java
+END
+AbstractJCacheConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/main/java/org/springframework/cache/jcache/config/AbstractJCacheConfiguration.java
+END
+JCacheConfigurerSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/main/java/org/springframework/cache/jcache/config/JCacheConfigurerSupport.java
+END

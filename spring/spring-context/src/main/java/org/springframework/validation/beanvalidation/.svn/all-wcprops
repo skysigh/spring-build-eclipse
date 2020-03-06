@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/validation/beanvalidation
+END
+LocalValidatorFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/validation/beanvalidation/LocalValidatorFactoryBean.java
+END
+MessageSourceResourceBundleLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/validation/beanvalidation/MessageSourceResourceBundleLocator.java
+END
+LocaleContextMessageInterpolator.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/validation/beanvalidation/LocaleContextMessageInterpolator.java
+END
+MethodValidationInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/validation/beanvalidation/MethodValidationInterceptor.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/validation/beanvalidation/package-info.java
+END
+MethodValidationPostProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/validation/beanvalidation/MethodValidationPostProcessor.java
+END
+SpringConstraintValidatorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/validation/beanvalidation/SpringConstraintValidatorFactory.java
+END
+SpringValidatorAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/validation/beanvalidation/SpringValidatorAdapter.java
+END
+OptionalValidatorFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/validation/beanvalidation/OptionalValidatorFactoryBean.java
+END
+BeanValidationPostProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/validation/beanvalidation/BeanValidationPostProcessor.java
+END
+CustomValidatorBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/validation/beanvalidation/CustomValidatorBean.java
+END

@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/function/server
+END
+RequestPredicateTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/function/server/RequestPredicateTests.java
+END
+DefaultServerResponseBuilderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/function/server/DefaultServerResponseBuilderTests.java
+END
+DefaultServerRequestTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/function/server/DefaultServerRequestTests.java
+END
+HandlerStrategiesTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/function/server/HandlerStrategiesTests.java
+END
+MockServerRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/function/server/MockServerRequest.java
+END
+PathResourceLookupFunctionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/function/server/PathResourceLookupFunctionTests.java
+END
+RouterFunctionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/function/server/RouterFunctionTests.java
+END
+AbstractRouterFunctionIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/function/server/AbstractRouterFunctionIntegrationTests.java
+END
+DefaultRenderingResponseTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/function/server/DefaultRenderingResponseTests.java
+END
+SseHandlerFunctionIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/function/server/SseHandlerFunctionIntegrationTests.java
+END
+RouterFunctionBuilderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/function/server/RouterFunctionBuilderTests.java
+END
+PublisherHandlerFunctionIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/function/server/PublisherHandlerFunctionIntegrationTests.java
+END
+LocaleContextResolverIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/function/server/LocaleContextResolverIntegrationTests.java
+END
+RequestPredicatesTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/function/server/RequestPredicatesTests.java
+END
+DefaultServerRequestBuilderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/function/server/DefaultServerRequestBuilderTests.java
+END
+HeadersWrapperTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/function/server/HeadersWrapperTests.java
+END
+RequestPredicateAttributesTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/function/server/RequestPredicateAttributesTests.java
+END
+RouterFunctionsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/function/server/RouterFunctionsTests.java
+END
+NestedRouteIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/function/server/NestedRouteIntegrationTests.java
+END
+DispatcherHandlerIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/function/server/DispatcherHandlerIntegrationTests.java
+END
+DefaultEntityResponseBuilderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/function/server/DefaultEntityResponseBuilderTests.java
+END
+InvalidHttpMethodIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/function/server/InvalidHttpMethodIntegrationTests.java
+END
+ResourceHandlerFunctionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/function/server/ResourceHandlerFunctionTests.java
+END
+RenderingResponseIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/function/server/RenderingResponseIntegrationTests.java
+END
+ToStringVisitorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/function/server/ToStringVisitorTests.java
+END

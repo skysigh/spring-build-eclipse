@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/jmx/export/annotation
+END
+AnnotationMBeanExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/jmx/export/annotation/AnnotationMBeanExporter.java
+END
+ManagedAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/jmx/export/annotation/ManagedAttribute.java
+END
+ManagedNotifications.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/jmx/export/annotation/ManagedNotifications.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/jmx/export/annotation/package-info.java
+END
+ManagedOperationParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/jmx/export/annotation/ManagedOperationParameter.java
+END
+AnnotationJmxAttributeSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/jmx/export/annotation/AnnotationJmxAttributeSource.java
+END
+ManagedMetric.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/jmx/export/annotation/ManagedMetric.java
+END
+ManagedOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/jmx/export/annotation/ManagedOperation.java
+END
+ManagedOperationParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/jmx/export/annotation/ManagedOperationParameters.java
+END
+ManagedResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/jmx/export/annotation/ManagedResource.java
+END
+ManagedNotification.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/jmx/export/annotation/ManagedNotification.java
+END

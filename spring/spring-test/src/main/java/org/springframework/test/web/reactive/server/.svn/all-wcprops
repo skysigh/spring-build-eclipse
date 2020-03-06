@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/reactive/server
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/reactive/server/package-info.java
+END
+DefaultWebTestClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/reactive/server/DefaultWebTestClient.java
+END
+FluxExchangeResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/reactive/server/FluxExchangeResult.java
+END
+WiretapConnector.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/reactive/server/WiretapConnector.java
+END
+DefaultControllerSpec.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/reactive/server/DefaultControllerSpec.java
+END
+StatusAssertions.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/reactive/server/StatusAssertions.java
+END
+XpathAssertions.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/reactive/server/XpathAssertions.java
+END
+MockServerConfigurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/reactive/server/MockServerConfigurer.java
+END
+AbstractMockServerSpec.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/reactive/server/AbstractMockServerSpec.java
+END
+DefaultMockServerSpec.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/reactive/server/DefaultMockServerSpec.java
+END
+EntityExchangeResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/reactive/server/EntityExchangeResult.java
+END
+DefaultRouterFunctionSpec.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/reactive/server/DefaultRouterFunctionSpec.java
+END
+JsonPathAssertions.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/reactive/server/JsonPathAssertions.java
+END
+HeaderAssertions.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/reactive/server/HeaderAssertions.java
+END
+ApplicationContextSpec.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/reactive/server/ApplicationContextSpec.java
+END
+HttpHandlerConnector.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/reactive/server/HttpHandlerConnector.java
+END
+DefaultWebTestClientBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/reactive/server/DefaultWebTestClientBuilder.java
+END
+ExchangeResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/reactive/server/ExchangeResult.java
+END
+WebTestClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/reactive/server/WebTestClient.java
+END
+WebTestClientConfigurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/reactive/server/WebTestClientConfigurer.java
+END

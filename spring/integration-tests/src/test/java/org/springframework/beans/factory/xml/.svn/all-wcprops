@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/springcode/!svn/ver/1/spring-framework/integration-tests/src/test/java/org/springframework/beans/factory/xml
+END
+ComponentFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/integration-tests/src/test/java/org/springframework/beans/factory/xml/ComponentFactoryBean.java
+END
+ComponentBeanDefinitionParserTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/integration-tests/src/test/java/org/springframework/beans/factory/xml/ComponentBeanDefinitionParserTests.java
+END
+ComponentNamespaceHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/integration-tests/src/test/java/org/springframework/beans/factory/xml/ComponentNamespaceHandler.java
+END
+ComponentBeanDefinitionParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/integration-tests/src/test/java/org/springframework/beans/factory/xml/ComponentBeanDefinitionParser.java
+END
+Component.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/integration-tests/src/test/java/org/springframework/beans/factory/xml/Component.java
+END

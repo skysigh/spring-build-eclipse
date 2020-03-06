@@ -1,0 +1,70 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-orm/src/main/java/org/springframework/orm
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+ObjectOptimisticLockingFailureException.java
+file
+
+
+
+
+2020-03-06T03:51:15.068000Z
+e95a353f9c63805cc1b5c5dcc974032e
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+ObjectRetrievalFailureException.java
+file
+
+
+
+
+2020-03-06T03:51:15.088000Z
+011948393c0644c1289d00bc0eee5863
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+hibernate5
+dir
+
+jpa
+dir
+
+package-info.java
+file
+
+
+
+
+2020-03-06T03:51:16.669000Z
+682d40bcc78f748c93ba6362031b24ba
+2020-03-06T03:35:38.538472Z
+1
+wck
+

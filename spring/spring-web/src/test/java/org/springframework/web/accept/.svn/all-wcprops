@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/accept
+END
+MappingMediaTypeFileExtensionResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/accept/MappingMediaTypeFileExtensionResolverTests.java
+END
+PathExtensionContentNegotiationStrategyTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/accept/PathExtensionContentNegotiationStrategyTests.java
+END
+HeaderContentNegotiationStrategyTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/accept/HeaderContentNegotiationStrategyTests.java
+END
+MappingContentNegotiationStrategyTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/accept/MappingContentNegotiationStrategyTests.java
+END
+ContentNegotiationManagerFactoryBeanTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/accept/ContentNegotiationManagerFactoryBeanTests.java
+END

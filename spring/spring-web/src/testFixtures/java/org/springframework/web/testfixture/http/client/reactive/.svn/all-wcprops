@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/testFixtures/java/org/springframework/web/testfixture/http/client/reactive
+END
+MockClientHttpResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/testFixtures/java/org/springframework/web/testfixture/http/client/reactive/MockClientHttpResponse.java
+END
+MockClientHttpRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/testFixtures/java/org/springframework/web/testfixture/http/client/reactive/MockClientHttpRequest.java
+END

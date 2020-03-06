@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/testFixtures/java/org/springframework/aop/testfixture/advice
+END
+TimestampIntroductionAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/testFixtures/java/org/springframework/aop/testfixture/advice/TimestampIntroductionAdvisor.java
+END
+CountingBeforeAdvice.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/testFixtures/java/org/springframework/aop/testfixture/advice/CountingBeforeAdvice.java
+END
+CountingAfterReturningAdvice.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/testFixtures/java/org/springframework/aop/testfixture/advice/CountingAfterReturningAdvice.java
+END
+MyThrowsHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/testFixtures/java/org/springframework/aop/testfixture/advice/MyThrowsHandler.java
+END
+MethodCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/testFixtures/java/org/springframework/aop/testfixture/advice/MethodCounter.java
+END

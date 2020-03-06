@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/main/java/org/springframework/jms/support
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/main/java/org/springframework/jms/support/package-info.java
+END
+SimpleJmsHeaderMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/main/java/org/springframework/jms/support/SimpleJmsHeaderMapper.java
+END
+JmsHeaders.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/main/java/org/springframework/jms/support/JmsHeaders.java
+END
+JmsUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/main/java/org/springframework/jms/support/JmsUtils.java
+END
+JmsMessageHeaderAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/main/java/org/springframework/jms/support/JmsMessageHeaderAccessor.java
+END
+JmsHeaderMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/main/java/org/springframework/jms/support/JmsHeaderMapper.java
+END
+QosSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/main/java/org/springframework/jms/support/QosSettings.java
+END
+JmsAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/main/java/org/springframework/jms/support/JmsAccessor.java
+END

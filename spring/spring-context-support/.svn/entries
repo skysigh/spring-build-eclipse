@@ -1,0 +1,76 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-context-support
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+.classpath
+file
+
+
+
+
+2020-03-06T03:47:58.381000Z
+1264acab6e433c39045cabf312c65e1d
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+.project
+file
+
+
+
+
+2020-03-06T03:47:58.395000Z
+8a7e914836dff0f96ce42603ca9fb46a
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+.settings
+dir
+
+bin
+dir
+
+build
+dir
+
+spring-context-support.gradle
+file
+
+
+
+
+2020-03-06T03:48:06.297000Z
+f01555bf914f7601eba9426074eb653a
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+src
+dir
+

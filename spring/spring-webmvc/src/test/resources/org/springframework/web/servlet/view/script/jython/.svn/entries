@@ -1,0 +1,52 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-webmvc/src/test/resources/org/springframework/web/servlet/view/script/jython
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+render.py
+file
+
+
+
+
+2020-03-06T03:55:40.488000Z
+3d6bced73e83bc7ee1709738b49279ad
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+template.html
+file
+
+
+
+
+2020-03-06T03:55:40.501000Z
+6e311725bae8323fe592b5a5250f1148
+2020-03-06T03:35:38.538472Z
+1
+wck
+

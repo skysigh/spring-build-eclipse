@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/converter
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/converter/package-info.java
+END
+CompositeMessageConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/converter/CompositeMessageConverter.java
+END
+MessageConversionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/converter/MessageConversionException.java
+END
+StringMessageConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/converter/StringMessageConverter.java
+END
+ProtobufMessageConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/converter/ProtobufMessageConverter.java
+END
+SmartMessageConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/converter/SmartMessageConverter.java
+END
+MessageConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/converter/MessageConverter.java
+END
+MarshallingMessageConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/converter/MarshallingMessageConverter.java
+END
+ByteArrayMessageConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/converter/ByteArrayMessageConverter.java
+END
+SimpleMessageConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/converter/SimpleMessageConverter.java
+END
+MappingJackson2MessageConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/converter/MappingJackson2MessageConverter.java
+END
+AbstractMessageConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/converter/AbstractMessageConverter.java
+END
+ProtobufJsonFormatMessageConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/converter/ProtobufJsonFormatMessageConverter.java
+END
+ContentTypeResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/converter/ContentTypeResolver.java
+END
+DefaultContentTypeResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/converter/DefaultContentTypeResolver.java
+END
+GenericMessageConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/converter/GenericMessageConverter.java
+END

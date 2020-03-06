@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/method/support
+END
+CompositeUriComponentsContributorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/method/support/CompositeUriComponentsContributorTests.java
+END
+HandlerMethodReturnValueHandlerCompositeTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/method/support/HandlerMethodReturnValueHandlerCompositeTests.java
+END
+StubArgumentResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/method/support/StubArgumentResolver.java
+END
+HandlerMethodArgumentResolverCompositeTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/method/support/HandlerMethodArgumentResolverCompositeTests.java
+END
+InvocableHandlerMethodTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/method/support/InvocableHandlerMethodTests.java
+END
+ModelAndViewContainerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/method/support/ModelAndViewContainerTests.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/comparator
+END
+CompoundComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/comparator/CompoundComparator.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/comparator/package-info.java
+END
+BooleanComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/comparator/BooleanComparator.java
+END
+InstanceComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/comparator/InstanceComparator.java
+END
+ComparableComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/comparator/ComparableComparator.java
+END
+InvertibleComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/comparator/InvertibleComparator.java
+END
+Comparators.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/comparator/Comparators.java
+END
+NullSafeComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/util/comparator/NullSafeComparator.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/jca/cci/core/support
+END
+CciDaoSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/jca/cci/core/support/CciDaoSupport.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/jca/cci/core/support/package-info.java
+END
+CommAreaRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/jca/cci/core/support/CommAreaRecord.java
+END

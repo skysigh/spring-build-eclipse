@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/testFixtures/java/org/springframework/web/testfixture/servlet
+END
+MockFilterConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/testFixtures/java/org/springframework/web/testfixture/servlet/MockFilterConfig.java
+END
+MockMultipartFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/testFixtures/java/org/springframework/web/testfixture/servlet/MockMultipartFile.java
+END
+MockHttpSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/testFixtures/java/org/springframework/web/testfixture/servlet/MockHttpSession.java
+END
+PassThroughFilterChain.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/testFixtures/java/org/springframework/web/testfixture/servlet/PassThroughFilterChain.java
+END
+MockRequestDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/testFixtures/java/org/springframework/web/testfixture/servlet/MockRequestDispatcher.java
+END
+MockHttpServletResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/testFixtures/java/org/springframework/web/testfixture/servlet/MockHttpServletResponse.java
+END
+MockPart.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/testFixtures/java/org/springframework/web/testfixture/servlet/MockPart.java
+END
+MockServletContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/testFixtures/java/org/springframework/web/testfixture/servlet/MockServletContext.java
+END
+HeaderValueHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/testFixtures/java/org/springframework/web/testfixture/servlet/HeaderValueHolder.java
+END
+MockMultipartHttpServletRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/testFixtures/java/org/springframework/web/testfixture/servlet/MockMultipartHttpServletRequest.java
+END
+MockHttpServletRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/testFixtures/java/org/springframework/web/testfixture/servlet/MockHttpServletRequest.java
+END
+MockCookie.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/testFixtures/java/org/springframework/web/testfixture/servlet/MockCookie.java
+END
+DelegatingServletOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/testFixtures/java/org/springframework/web/testfixture/servlet/DelegatingServletOutputStream.java
+END
+MockBodyContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/testFixtures/java/org/springframework/web/testfixture/servlet/MockBodyContent.java
+END
+MockServletConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/testFixtures/java/org/springframework/web/testfixture/servlet/MockServletConfig.java
+END
+MockAsyncContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/testFixtures/java/org/springframework/web/testfixture/servlet/MockAsyncContext.java
+END
+MockJspWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/testFixtures/java/org/springframework/web/testfixture/servlet/MockJspWriter.java
+END
+MockSessionCookieConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/testFixtures/java/org/springframework/web/testfixture/servlet/MockSessionCookieConfig.java
+END
+MockExpressionEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/testFixtures/java/org/springframework/web/testfixture/servlet/MockExpressionEvaluator.java
+END
+MockFilterChain.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/testFixtures/java/org/springframework/web/testfixture/servlet/MockFilterChain.java
+END
+DelegatingServletInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/testFixtures/java/org/springframework/web/testfixture/servlet/DelegatingServletInputStream.java
+END
+MockPageContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/testFixtures/java/org/springframework/web/testfixture/servlet/MockPageContext.java
+END

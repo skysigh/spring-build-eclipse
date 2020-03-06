@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-indexer
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-indexer/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-indexer/.project
+END
+spring-context-indexer.gradle
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-indexer/spring-context-indexer.gradle
+END

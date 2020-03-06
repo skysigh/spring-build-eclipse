@@ -1,0 +1,85 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-context/src/test/java/org/springframework/jmx
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+AbstractJmxTests.java
+file
+
+
+
+
+2020-03-06T03:47:37.549000Z
+aa66372c9cba2df4453a1364b09813aa
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+AbstractMBeanServerTests.java
+file
+
+
+
+
+2020-03-06T03:47:37.563000Z
+ab65dc9ebda7007ac027c995694b0533
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+IJmxTestBean.java
+file
+
+
+
+
+2020-03-06T03:47:37.577000Z
+86cb1fa4814d23c2052dff99e4c02386
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+JmxTestBean.java
+file
+
+
+
+
+2020-03-06T03:47:37.603000Z
+884d24935f6b4cc7533587af0446f0cc
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+access
+dir
+
+export
+dir
+
+support
+dir
+

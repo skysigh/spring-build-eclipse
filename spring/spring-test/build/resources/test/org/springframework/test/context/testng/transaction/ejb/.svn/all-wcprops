@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/build/resources/test/org/springframework/test/context/testng/transaction/ejb
+END
+testng-package.xml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/build/resources/test/org/springframework/test/context/testng/transaction/ejb/testng-package.xml
+END
+testng-test-together.xml
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/build/resources/test/org/springframework/test/context/testng/transaction/ejb/testng-test-together.xml
+END
+testng-test-separate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/build/resources/test/org/springframework/test/context/testng/transaction/ejb/testng-test-separate.xml
+END

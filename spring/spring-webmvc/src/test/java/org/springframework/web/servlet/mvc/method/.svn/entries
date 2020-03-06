@@ -1,0 +1,67 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/mvc/method
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+RequestMappingInfoHandlerMappingTests.java
+file
+
+
+
+
+2020-03-06T03:55:33.346000Z
+eeabade38bd980e32f6cbe95b1745fa2
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+RequestMappingInfoHandlerMethodMappingNamingStrategyTests.java
+file
+
+
+
+
+2020-03-06T03:55:33.363000Z
+6526898a721e078b9a0c6f1cd0e46bc1
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+RequestMappingInfoTests.java
+file
+
+
+
+
+2020-03-06T03:55:33.374000Z
+b960d181145570401ad9f53ee1403626
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+annotation
+dir
+

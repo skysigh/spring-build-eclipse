@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/src/main/java/org/springframework/expression/spel/standard
+END
+Token.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/src/main/java/org/springframework/expression/spel/standard/Token.java
+END
+TokenKind.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/src/main/java/org/springframework/expression/spel/standard/TokenKind.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/src/main/java/org/springframework/expression/spel/standard/package-info.java
+END
+InternalSpelExpressionParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/src/main/java/org/springframework/expression/spel/standard/InternalSpelExpressionParser.java
+END
+SpelCompiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/src/main/java/org/springframework/expression/spel/standard/SpelCompiler.java
+END
+SpelExpressionParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/src/main/java/org/springframework/expression/spel/standard/SpelExpressionParser.java
+END
+Tokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/src/main/java/org/springframework/expression/spel/standard/Tokenizer.java
+END
+SpelExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/src/main/java/org/springframework/expression/spel/standard/SpelExpression.java
+END

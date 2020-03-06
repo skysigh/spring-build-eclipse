@@ -1,0 +1,67 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-web/src/testFixtures/java/org/springframework/web/testfixture/server
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+MockServerWebExchange.java
+file
+
+
+
+
+2020-03-06T03:54:10.459000Z
+7410ccb22bd20050768806d7192567f9
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+MockWebSession.java
+file
+
+
+
+
+2020-03-06T03:54:10.473000Z
+85b4dd4496132fa5b81591a2ef018c4e
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+handler
+dir
+
+package-info.java
+file
+
+
+
+
+2020-03-06T03:54:10.578000Z
+a85d2f6d0d092dc8e1d62c2abf1c8381
+2020-03-06T03:35:38.538472Z
+1
+wck
+

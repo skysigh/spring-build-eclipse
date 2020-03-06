@@ -1,0 +1,169 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-websocket/src/test/java/org/springframework/web/socket
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+AbstractHttpRequestTests.java
+file
+
+
+
+
+2020-03-06T03:56:00.271000Z
+15b2416a5fb8b73553c8b644859e01d1
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+AbstractWebSocketIntegrationTests.java
+file
+
+
+
+
+2020-03-06T03:56:00.284000Z
+841572172f8520e04d655cfcbc831b20
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+ContextLoaderTestUtils.java
+file
+
+
+
+
+2020-03-06T03:56:00.296000Z
+0a211f0a0f5337b6a51a03d6a5d2aafc
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+JettyWebSocketTestServer.java
+file
+
+
+
+
+2020-03-06T03:56:00.307000Z
+19c4b84651de7e11cd201c52a0a926e8
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+TextMessageTests.java
+file
+
+
+
+
+2020-03-06T03:56:00.319000Z
+4ba228b0202ed06342bf31a5d6a34a5c
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+TomcatWebSocketTestServer.java
+file
+
+
+
+
+2020-03-06T03:56:00.329000Z
+eb37cd3318aa449d4f01f297666bf85c
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+UndertowTestServer.java
+file
+
+
+
+
+2020-03-06T03:56:00.342000Z
+d0258a0e8ed895c2bd5d6a78aac6f753
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+WebSocketExtensionTests.java
+file
+
+
+
+
+2020-03-06T03:56:00.355000Z
+c3b850560b4d7c0f18c4ad1bbb7e372e
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+WebSocketHandshakeTests.java
+file
+
+
+
+
+2020-03-06T03:56:00.365000Z
+868f519aa46dff2d17183067c0b104eb
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+WebSocketTestServer.java
+file
+
+
+
+
+2020-03-06T03:56:00.376000Z
+b929f1c496831cd5b97d5c14e35cb8e6
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+adapter
+dir
+
+client
+dir
+
+config
+dir
+
+handler
+dir
+
+messaging
+dir
+
+server
+dir
+
+sockjs
+dir
+

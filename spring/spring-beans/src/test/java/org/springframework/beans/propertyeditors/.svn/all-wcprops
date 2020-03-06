@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/test/java/org/springframework/beans/propertyeditors
+END
+FileEditorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/test/java/org/springframework/beans/propertyeditors/FileEditorTests.java
+END
+InputStreamEditorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/test/java/org/springframework/beans/propertyeditors/InputStreamEditorTests.java
+END
+CustomEditorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/test/java/org/springframework/beans/propertyeditors/CustomEditorTests.java
+END
+PathEditorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/test/java/org/springframework/beans/propertyeditors/PathEditorTests.java
+END
+ByteArrayPropertyEditorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/test/java/org/springframework/beans/propertyeditors/ByteArrayPropertyEditorTests.java
+END
+PropertiesEditorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/test/java/org/springframework/beans/propertyeditors/PropertiesEditorTests.java
+END
+URIEditorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/test/java/org/springframework/beans/propertyeditors/URIEditorTests.java
+END
+URLEditorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/test/java/org/springframework/beans/propertyeditors/URLEditorTests.java
+END
+CustomCollectionEditorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/test/java/org/springframework/beans/propertyeditors/CustomCollectionEditorTests.java
+END
+ZoneIdEditorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/test/java/org/springframework/beans/propertyeditors/ZoneIdEditorTests.java
+END
+ReaderEditorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/test/java/org/springframework/beans/propertyeditors/ReaderEditorTests.java
+END
+BeanInfoTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/test/java/org/springframework/beans/propertyeditors/BeanInfoTests.java
+END
+ResourceBundleEditorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/test/java/org/springframework/beans/propertyeditors/ResourceBundleEditorTests.java
+END
+CharArrayPropertyEditorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/test/java/org/springframework/beans/propertyeditors/CharArrayPropertyEditorTests.java
+END
+StringArrayPropertyEditorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/test/java/org/springframework/beans/propertyeditors/StringArrayPropertyEditorTests.java
+END

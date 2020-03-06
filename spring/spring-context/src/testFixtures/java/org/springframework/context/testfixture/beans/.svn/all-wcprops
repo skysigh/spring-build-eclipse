@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/testFixtures/java/org/springframework/context/testfixture/beans
+END
+TestApplicationListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/testFixtures/java/org/springframework/context/testfixture/beans/TestApplicationListener.java
+END
+ACATester.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/testFixtures/java/org/springframework/context/testfixture/beans/ACATester.java
+END
+BeanThatBroadcasts.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/testFixtures/java/org/springframework/context/testfixture/beans/BeanThatBroadcasts.java
+END
+BeanThatListens.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/testFixtures/java/org/springframework/context/testfixture/beans/BeanThatListens.java
+END

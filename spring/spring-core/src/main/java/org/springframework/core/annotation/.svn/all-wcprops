@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/annotation
+END
+MergedAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/annotation/MergedAnnotation.java
+END
+AnnotationConfigurationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/annotation/AnnotationConfigurationException.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/annotation/package-info.java
+END
+MissingMergedAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/annotation/MissingMergedAnnotation.java
+END
+AnnotatedElementUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/annotation/AnnotatedElementUtils.java
+END
+ValueExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/annotation/ValueExtractor.java
+END
+AliasFor.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/annotation/AliasFor.java
+END
+SynthesizedMergedAnnotationInvocationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/annotation/SynthesizedMergedAnnotationInvocationHandler.java
+END
+AnnotationFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/annotation/AnnotationFilter.java
+END
+MergedAnnotationSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/annotation/MergedAnnotationSelector.java
+END
+MergedAnnotationCollectors.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/annotation/MergedAnnotationCollectors.java
+END
+AnnotationTypeMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/annotation/AnnotationTypeMapping.java
+END
+Order.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/annotation/Order.java
+END
+AnnotationsScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/annotation/AnnotationsScanner.java
+END
+MergedAnnotationSelectors.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/annotation/MergedAnnotationSelectors.java
+END
+MergedAnnotations.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/annotation/MergedAnnotations.java
+END
+MergedAnnotationPredicates.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/annotation/MergedAnnotationPredicates.java
+END
+AnnotationAwareOrderComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/annotation/AnnotationAwareOrderComparator.java
+END
+AttributeMethods.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/annotation/AttributeMethods.java
+END
+OrderUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/annotation/OrderUtils.java
+END
+SynthesizedAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/annotation/SynthesizedAnnotation.java
+END
+MergedAnnotationsCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/annotation/MergedAnnotationsCollection.java
+END
+AnnotationTypeMappings.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/annotation/AnnotationTypeMappings.java
+END
+PackagesAnnotationFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/annotation/PackagesAnnotationFilter.java
+END
+AnnotationUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/annotation/AnnotationUtils.java
+END
+RepeatableContainers.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/annotation/RepeatableContainers.java
+END
+TypeMappedAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/annotation/TypeMappedAnnotation.java
+END
+AbstractMergedAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/annotation/AbstractMergedAnnotation.java
+END
+AnnotationAttributes.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/annotation/AnnotationAttributes.java
+END
+AnnotationsProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/annotation/AnnotationsProcessor.java
+END
+SynthesizingMethodParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/annotation/SynthesizingMethodParameter.java
+END
+IntrospectionFailureLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/annotation/IntrospectionFailureLogger.java
+END
+TypeMappedAnnotations.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/annotation/TypeMappedAnnotations.java
+END

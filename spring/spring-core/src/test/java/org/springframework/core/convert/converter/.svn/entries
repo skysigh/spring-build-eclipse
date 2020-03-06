@@ -1,0 +1,52 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-core/src/test/java/org/springframework/core/convert/converter
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+ConvertingComparatorTests.java
+file
+
+
+
+
+2020-03-06T03:49:35.270000Z
+6e1f2ac6595abc2e260a02977f7e5d45
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+DefaultConversionServiceTests.java
+file
+
+
+
+
+2020-03-06T03:49:35.282000Z
+5cbcbab3429af1f9c798bb3930829264
+2020-03-06T03:35:38.538472Z
+1
+wck
+

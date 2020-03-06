@@ -1,0 +1,52 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit4/profile/resolver
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+ClassNameActiveProfilesResolver.java
+file
+
+
+
+
+2020-03-06T03:52:33.178000Z
+a4302e3b23d6df9cab3fc7ab5a0c288c
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+ClassNameActiveProfilesResolverTests.java
+file
+
+
+
+
+2020-03-06T03:52:33.192000Z
+976c7019e59620d9e8c836e463677753
+2020-03-06T03:35:38.538472Z
+1
+wck
+

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/target
+END
+PoolingConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/target/PoolingConfig.java
+END
+SingletonTargetSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/target/SingletonTargetSource.java
+END
+AbstractBeanFactoryBasedTargetSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/target/AbstractBeanFactoryBasedTargetSource.java
+END
+AbstractPrototypeBasedTargetSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/target/AbstractPrototypeBasedTargetSource.java
+END
+SimpleBeanTargetSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/target/SimpleBeanTargetSource.java
+END
+ThreadLocalTargetSourceStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/target/ThreadLocalTargetSourceStats.java
+END
+AbstractPoolingTargetSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/target/AbstractPoolingTargetSource.java
+END
+ThreadLocalTargetSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/target/ThreadLocalTargetSource.java
+END
+HotSwappableTargetSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/target/HotSwappableTargetSource.java
+END
+LazyInitTargetSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/target/LazyInitTargetSource.java
+END
+CommonsPool2TargetSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/target/CommonsPool2TargetSource.java
+END
+EmptyTargetSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/target/EmptyTargetSource.java
+END
+AbstractLazyCreationTargetSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/target/AbstractLazyCreationTargetSource.java
+END
+PrototypeTargetSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/target/PrototypeTargetSource.java
+END

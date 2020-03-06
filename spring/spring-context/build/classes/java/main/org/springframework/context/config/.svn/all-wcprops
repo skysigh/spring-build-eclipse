@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/config
+END
+PropertyPlaceholderBeanDefinitionParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/config/PropertyPlaceholderBeanDefinitionParser.class
+END
+AbstractPropertyLoadingBeanDefinitionParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/config/AbstractPropertyLoadingBeanDefinitionParser.class
+END
+ContextNamespaceHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/config/ContextNamespaceHandler.class
+END
+MBeanServerBeanDefinitionParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/config/MBeanServerBeanDefinitionParser.class
+END
+PropertyOverrideBeanDefinitionParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/config/PropertyOverrideBeanDefinitionParser.class
+END
+MBeanExportBeanDefinitionParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/config/MBeanExportBeanDefinitionParser.class
+END
+LoadTimeWeaverBeanDefinitionParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/config/LoadTimeWeaverBeanDefinitionParser.class
+END
+SpringConfiguredBeanDefinitionParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/config/SpringConfiguredBeanDefinitionParser.class
+END
+package-info.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/config/package-info.class
+END

@@ -1,0 +1,136 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-context/src/test/java/org/springframework/scripting
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+Calculator.java
+file
+
+
+
+
+2020-03-06T03:47:39.678000Z
+2866f0e9d725250e7db6f637d45d5355
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+CallCounter.java
+file
+
+
+
+
+2020-03-06T03:47:39.695000Z
+6cd31afc1f8279abcec6af1a3c72e5fd
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+ConfigurableMessenger.java
+file
+
+
+
+
+2020-03-06T03:47:39.711000Z
+84d0b3685f2393aad7169af9c1265e38
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+ContextScriptBean.java
+file
+
+
+
+
+2020-03-06T03:47:39.725000Z
+a9319530c1114af7a77bb18b6d977f4e
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+Messenger.java
+file
+
+
+
+
+2020-03-06T03:47:39.738000Z
+631fed9c028445f3eabeee79aace66b4
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+MessengerScrambler.java
+file
+
+
+
+
+2020-03-06T03:47:39.750000Z
+3756e58018193d50dc55a485bd11a1c2
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+ScriptBean.java
+file
+
+
+
+
+2020-03-06T03:47:39.761000Z
+05145f47fba8e2cad349e4f457734b6d
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+TestBeanAwareMessenger.java
+file
+
+
+
+
+2020-03-06T03:47:39.771000Z
+fee033ee589c3eccb18d7518707a6ae4
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+bsh
+dir
+
+config
+dir
+
+groovy
+dir
+
+support
+dir
+

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/springcode/!svn/ver/1/spring-framework
+END
+gradlew
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/springcode/!svn/ver/1/spring-framework/gradlew
+END
+settings.gradle
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/springcode/!svn/ver/1/spring-framework/settings.gradle
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/springcode/!svn/ver/1/spring-framework/.gitignore
+END
+CONTRIBUTING.md
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/springcode/!svn/ver/1/spring-framework/CONTRIBUTING.md
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/springcode/!svn/ver/1/spring-framework/.classpath
+END
+.gitattributes
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/springcode/!svn/ver/1/spring-framework/.gitattributes
+END
+.mailmap
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/springcode/!svn/ver/1/spring-framework/.mailmap
+END
+import-into-idea.md
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/springcode/!svn/ver/1/spring-framework/import-into-idea.md
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/springcode/!svn/ver/1/spring-framework/.project
+END
+gradlew.bat
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/springcode/!svn/ver/1/spring-framework/gradlew.bat
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/springcode/!svn/ver/1/spring-framework/README.md
+END
+gradle.properties
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/springcode/!svn/ver/1/spring-framework/gradle.properties
+END
+CODE_OF_CONDUCT.adoc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/springcode/!svn/ver/1/spring-framework/CODE_OF_CONDUCT.adoc
+END
+build.gradle
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/springcode/!svn/ver/1/spring-framework/build.gradle
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/springcode/!svn/ver/1/spring-framework/LICENSE.txt
+END
+.editorconfig
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/springcode/!svn/ver/1/spring-framework/.editorconfig
+END
+import-into-eclipse.md
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/springcode/!svn/ver/1/spring-framework/import-into-eclipse.md
+END
+SECURITY.md
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/springcode/!svn/ver/1/spring-framework/SECURITY.md
+END

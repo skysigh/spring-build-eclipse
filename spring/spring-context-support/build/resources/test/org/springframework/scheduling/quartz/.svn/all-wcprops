@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/build/resources/test/org/springframework/scheduling/quartz
+END
+schedulerRepositoryExposure.xml
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/build/resources/test/org/springframework/scheduling/quartz/schedulerRepositoryExposure.xml
+END
+job-scheduling-data.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/build/resources/test/org/springframework/scheduling/quartz/job-scheduling-data.xml
+END
+multipleSchedulersWithQuartzProperties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/build/resources/test/org/springframework/scheduling/quartz/multipleSchedulersWithQuartzProperties.xml
+END
+schedulerAccessorBean.xml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/build/resources/test/org/springframework/scheduling/quartz/schedulerAccessorBean.xml
+END
+multipleAnonymousMethodInvokingJobDetailFB.xml
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/build/resources/test/org/springframework/scheduling/quartz/multipleAnonymousMethodInvokingJobDetailFB.xml
+END
+databasePersistence.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/build/resources/test/org/springframework/scheduling/quartz/databasePersistence.xml
+END
+quartzSchedulerLifecycleTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/build/resources/test/org/springframework/scheduling/quartz/quartzSchedulerLifecycleTests.xml
+END
+quartz-hsql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/build/resources/test/org/springframework/scheduling/quartz/quartz-hsql.sql
+END
+multipleSchedulers.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/build/resources/test/org/springframework/scheduling/quartz/multipleSchedulers.xml
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/example/scannable_implicitbasepackage
+END
+ComponentScanAnnotatedConfigWithImplicitBasePackage.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/example/scannable_implicitbasepackage/ComponentScanAnnotatedConfigWithImplicitBasePackage.java
+END
+ScannedComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/example/scannable_implicitbasepackage/ScannedComponent.java
+END
+ConfigurableComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/example/scannable_implicitbasepackage/ConfigurableComponent.java
+END

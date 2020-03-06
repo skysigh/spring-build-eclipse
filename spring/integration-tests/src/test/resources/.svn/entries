@@ -1,0 +1,46 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/integration-tests/src/test/resources
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+META-INF
+dir
+
+log4j2-test.xml
+file
+
+
+
+
+2020-03-06T03:44:07.021000Z
+3bcff9da32f0bf80e01642ac55f0c80d
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+org
+dir
+

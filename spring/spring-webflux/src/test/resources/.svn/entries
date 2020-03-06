@@ -1,0 +1,58 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-webflux/src/test/resources
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+META-INF
+dir
+
+jul-test.properties
+file
+
+
+
+
+2020-03-06T03:54:46.054000Z
+cce998cc17241e263ac8a3a6b28ba93d
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+log4j2-test.xml
+file
+
+
+
+
+2020-03-06T03:54:46.063000Z
+1222a036af9843c7304ba13c83782e24
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+org
+dir
+

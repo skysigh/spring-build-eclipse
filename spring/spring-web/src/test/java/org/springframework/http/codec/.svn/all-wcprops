@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/codec
+END
+EncoderHttpMessageWriterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/codec/EncoderHttpMessageWriterTests.java
+END
+ResourceHttpMessageWriterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/codec/ResourceHttpMessageWriterTests.java
+END
+ServerSentEventHttpMessageWriterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/codec/ServerSentEventHttpMessageWriterTests.java
+END
+FormHttpMessageWriterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/codec/FormHttpMessageWriterTests.java
+END
+FormHttpMessageReaderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/codec/FormHttpMessageReaderTests.java
+END
+ServerSentEventHttpMessageReaderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/codec/ServerSentEventHttpMessageReaderTests.java
+END
+CancelWithoutDemandCodecTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/codec/CancelWithoutDemandCodecTests.java
+END

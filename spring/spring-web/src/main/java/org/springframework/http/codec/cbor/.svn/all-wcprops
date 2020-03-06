@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/codec/cbor
+END
+Jackson2CborDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/codec/cbor/Jackson2CborDecoder.java
+END
+Jackson2CborEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/codec/cbor/Jackson2CborEncoder.java
+END

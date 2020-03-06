@@ -1,0 +1,52 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-core/src/testFixtures/java/org/springframework/core/testfixture/xml
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+XmlContent.java
+file
+
+
+
+
+2020-03-06T03:49:40.059000Z
+b686212963d7fb548a13140f7f2ecaa0
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+XmlContentAssert.java
+file
+
+
+
+
+2020-03-06T03:49:40.075000Z
+c18ed9ad9f6d2d2b12b2975b3d9ae8d4
+2020-03-06T03:35:38.538472Z
+1
+wck
+

@@ -1,0 +1,52 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/integration-tests/src/test/java/org/springframework/expression/spel/support
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+BeanFactoryTypeConverter.java
+file
+
+
+
+
+2020-03-06T03:44:06.543000Z
+4af3ef4382adf3f127611fb977996a22
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+Spr7538Tests.java
+file
+
+
+
+
+2020-03-06T03:44:06.559000Z
+24376887ba62b6a03c9cb96b2fa4bc76
+2020-03-06T03:35:38.538472Z
+1
+wck
+

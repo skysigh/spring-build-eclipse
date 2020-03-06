@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/resources/test/org/springframework/beans/factory/xml
+END
+autowire-constructor-with-exclusion.xml
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/resources/test/org/springframework/beans/factory/xml/autowire-constructor-with-exclusion.xml
+END
+ProfileXmlBeanDefinitionTests-devProfile.xml
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/resources/test/org/springframework/beans/factory/xml/ProfileXmlBeanDefinitionTests-devProfile.xml
+END
+util.properties
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/resources/test/org/springframework/beans/factory/xml/util.properties
+END
+ProfileXmlBeanDefinitionTests-multiProfileNotDev.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/resources/test/org/springframework/beans/factory/xml/ProfileXmlBeanDefinitionTests-multiProfileNotDev.xml
+END
+ProfileXmlBeanDefinitionTests-multiProfileNegated.xml
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/resources/test/org/springframework/beans/factory/xml/ProfileXmlBeanDefinitionTests-multiProfileNegated.xml
+END
+NestedBeansElementAttributeRecursionTests-autowire-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/resources/test/org/springframework/beans/factory/xml/NestedBeansElementAttributeRecursionTests-autowire-context.xml
+END
+NestedBeansElementAttributeRecursionTests-merge-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/resources/test/org/springframework/beans/factory/xml/NestedBeansElementAttributeRecursionTests-merge-context.xml
+END
+autowire-with-exclusion.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/resources/test/org/springframework/beans/factory/xml/autowire-with-exclusion.xml
+END
+beanNameGeneration.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/resources/test/org/springframework/beans/factory/xml/beanNameGeneration.xml
+END
+DuplicateBeanIdTests-multiLevel-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/resources/test/org/springframework/beans/factory/xml/DuplicateBeanIdTests-multiLevel-context.xml
+END
+ProfileXmlBeanDefinitionTests-multiProfile.xml
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/resources/test/org/springframework/beans/factory/xml/ProfileXmlBeanDefinitionTests-multiProfile.xml
+END
+ignoreDefaultLifecycleMethods.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/resources/test/org/springframework/beans/factory/xml/ignoreDefaultLifecycleMethods.xml
+END
+simpleConstructorNamespaceHandlerTestsWithErrors.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/resources/test/org/springframework/beans/factory/xml/simpleConstructorNamespaceHandlerTestsWithErrors.xml
+END
+collections.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/resources/test/org/springframework/beans/factory/xml/collections.xml
+END
+simplePropertyNamespaceHandlerTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/resources/test/org/springframework/beans/factory/xml/simplePropertyNamespaceHandlerTests.xml
+END
+collectionMerging.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/resources/test/org/springframework/beans/factory/xml/collectionMerging.xml
+END
+invalidPerSchema.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/resources/test/org/springframework/beans/factory/xml/invalidPerSchema.xml
+END
+simpleConstructorNamespaceHandlerTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/resources/test/org/springframework/beans/factory/xml/simpleConstructorNamespaceHandlerTests.xml
+END
+ProfileXmlBeanDefinitionTests-defaultAndDevProfile.xml
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/resources/test/org/springframework/beans/factory/xml/ProfileXmlBeanDefinitionTests-defaultAndDevProfile.xml
+END
+ProfileXmlBeanDefinitionTests-notDevProfile.xml
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/resources/test/org/springframework/beans/factory/xml/ProfileXmlBeanDefinitionTests-notDevProfile.xml
+END
+ProfileXmlBeanDefinitionTests-spaceDelimitedProfile.xml
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/resources/test/org/springframework/beans/factory/xml/ProfileXmlBeanDefinitionTests-spaceDelimitedProfile.xml
+END
+ProfileXmlBeanDefinitionTests-customDefaultProfile.xml
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/resources/test/org/springframework/beans/factory/xml/ProfileXmlBeanDefinitionTests-customDefaultProfile.xml
+END
+collectionsWithDefaultTypes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/resources/test/org/springframework/beans/factory/xml/collectionsWithDefaultTypes.xml
+END
+import.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/resources/test/org/springframework/beans/factory/xml/import.xml
+END
+validateWithXsd.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/resources/test/org/springframework/beans/factory/xml/validateWithXsd.xml
+END
+NestedBeansElementAttributeRecursionTests-init-destroy-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/resources/test/org/springframework/beans/factory/xml/NestedBeansElementAttributeRecursionTests-init-destroy-context.xml
+END
+simplePropertyNamespaceHandlerTestsWithErrors.xml
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/resources/test/org/springframework/beans/factory/xml/simplePropertyNamespaceHandlerTestsWithErrors.xml
+END
+DuplicateBeanIdTests-sameLevel-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/resources/test/org/springframework/beans/factory/xml/DuplicateBeanIdTests-sameLevel-context.xml
+END
+ProfileXmlBeanDefinitionTests-noProfile.xml
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/resources/test/org/springframework/beans/factory/xml/ProfileXmlBeanDefinitionTests-noProfile.xml
+END
+factory-methods.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/resources/test/org/springframework/beans/factory/xml/factory-methods.xml
+END
+ProfileXmlBeanDefinitionTests-defaultProfile.xml
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/resources/test/org/springframework/beans/factory/xml/ProfileXmlBeanDefinitionTests-defaultProfile.xml
+END
+validateWithDtd.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/resources/test/org/springframework/beans/factory/xml/validateWithDtd.xml
+END
+ProfileXmlBeanDefinitionTests-prodProfile.xml
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/resources/test/org/springframework/beans/factory/xml/ProfileXmlBeanDefinitionTests-prodProfile.xml
+END
+defaultLifecycleMethods.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/resources/test/org/springframework/beans/factory/xml/defaultLifecycleMethods.xml
+END
+NestedBeansElementAttributeRecursionTests-lazy-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/resources/test/org/springframework/beans/factory/xml/NestedBeansElementAttributeRecursionTests-lazy-context.xml
+END
+schemaValidated.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/resources/test/org/springframework/beans/factory/xml/schemaValidated.xml
+END
+test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/resources/test/org/springframework/beans/factory/xml/test.xml
+END
+withMeta.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/resources/test/org/springframework/beans/factory/xml/withMeta.xml
+END
+autowire-with-selective-inclusion.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/resources/test/org/springframework/beans/factory/xml/autowire-with-selective-inclusion.xml
+END
+importPattern.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/resources/test/org/springframework/beans/factory/xml/importPattern.xml
+END
+testUtilNamespace.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/resources/test/org/springframework/beans/factory/xml/testUtilNamespace.xml
+END
+ProfileXmlBeanDefinitionTests-unknownProfile.xml
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/resources/test/org/springframework/beans/factory/xml/ProfileXmlBeanDefinitionTests-unknownProfile.xml
+END
+beanEventsImported.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/resources/test/org/springframework/beans/factory/xml/beanEventsImported.xml
+END
+beanEvents.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/resources/test/org/springframework/beans/factory/xml/beanEvents.xml
+END
+NestedBeansElementAttributeRecursionTests-autowire-candidates-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/resources/test/org/springframework/beans/factory/xml/NestedBeansElementAttributeRecursionTests-autowire-candidates-context.xml
+END
+autowire-with-inclusion.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/resources/test/org/springframework/beans/factory/xml/autowire-with-inclusion.xml
+END
+NestedBeansElementTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/resources/test/org/springframework/beans/factory/xml/NestedBeansElementTests-context.xml
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/cglib/core
+END
+KeyFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/cglib/core/KeyFactory.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/cglib/core/package-info.java
+END
+AbstractClassGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/cglib/core/AbstractClassGenerator.java
+END
+ClassLoaderAwareGeneratorStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/cglib/core/ClassLoaderAwareGeneratorStrategy.java
+END
+ReflectUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/cglib/core/ReflectUtils.java
+END
+SpringNamingPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/cglib/core/SpringNamingPolicy.java
+END
+AsmApi.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/cglib/core/AsmApi.java
+END

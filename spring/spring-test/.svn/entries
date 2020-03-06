@@ -1,0 +1,88 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-test
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+.classpath
+file
+
+
+
+
+2020-03-06T03:51:33.047000Z
+a7639db0e5287eef910025f0d072f599
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+.project
+file
+
+
+
+
+2020-03-06T03:51:33.060000Z
+7da3b846e3ecee880ec7f69e2faf8675
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+.settings
+dir
+
+.springBeans
+file
+
+
+
+
+2020-03-06T03:51:33.160000Z
+818d4b1f6729da39d856f0b5e2e0e1e9
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+bin
+dir
+
+build
+dir
+
+spring-test.gradle
+file
+
+
+
+
+2020-03-06T03:52:19.628000Z
+bf8aad21339af494367a6c26e8d20a5b
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+src
+dir
+

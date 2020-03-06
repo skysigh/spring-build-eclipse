@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/framework
+END
+AopProxy.class
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/framework/AopProxy.class
+END
+CglibAopProxy$DynamicUnadvisedExposedInterceptor.class
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/framework/CglibAopProxy$DynamicUnadvisedExposedInterceptor.class
+END
+AbstractSingletonProxyFactoryBean.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/framework/AbstractSingletonProxyFactoryBean.class
+END
+AdvisedSupport$MethodCacheKey.class
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/framework/AdvisedSupport$MethodCacheKey.class
+END
+CglibAopProxy$ProxyCallbackFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/framework/CglibAopProxy$ProxyCallbackFilter.class
+END
+ProxyCreatorSupport.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/framework/ProxyCreatorSupport.class
+END
+ProxyFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/framework/ProxyFactory.class
+END
+CglibAopProxy.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/framework/CglibAopProxy.class
+END
+AdvisorChainFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/framework/AdvisorChainFactory.class
+END
+package-info.class
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/framework/package-info.class
+END
+ObjenesisCglibAopProxy.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/framework/ObjenesisCglibAopProxy.class
+END
+AdvisedSupport.class
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/framework/AdvisedSupport.class
+END
+ProxyConfig.class
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/framework/ProxyConfig.class
+END
+ProxyFactoryBean$PrototypePlaceholderAdvisor.class
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/framework/ProxyFactoryBean$PrototypePlaceholderAdvisor.class
+END
+ProxyProcessorSupport.class
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/framework/ProxyProcessorSupport.class
+END
+CglibAopProxy$CglibMethodInvocation.class
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/framework/CglibAopProxy$CglibMethodInvocation.class
+END
+CglibAopProxy$DynamicUnadvisedInterceptor.class
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/framework/CglibAopProxy$DynamicUnadvisedInterceptor.class
+END
+CglibAopProxy$EqualsInterceptor.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/framework/CglibAopProxy$EqualsInterceptor.class
+END
+DefaultAdvisorChainFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/framework/DefaultAdvisorChainFactory.class
+END
+InterceptorAndDynamicMethodMatcher.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/framework/InterceptorAndDynamicMethodMatcher.class
+END
+CglibAopProxy$HashCodeInterceptor.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/framework/CglibAopProxy$HashCodeInterceptor.class
+END
+DefaultAopProxyFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/framework/DefaultAopProxyFactory.class
+END
+AbstractAdvisingBeanPostProcessor.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/framework/AbstractAdvisingBeanPostProcessor.class
+END
+AopContext.class
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/framework/AopContext.class
+END
+AdvisedSupportListener.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/framework/AdvisedSupportListener.class
+END
+AopProxyUtils.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/framework/AopProxyUtils.class
+END
+ReflectiveMethodInvocation.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/framework/ReflectiveMethodInvocation.class
+END
+CglibAopProxy$StaticDispatcher.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/framework/CglibAopProxy$StaticDispatcher.class
+END
+JdkDynamicAopProxy.class
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/framework/JdkDynamicAopProxy.class
+END
+CglibAopProxy$SerializableNoOp.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/framework/CglibAopProxy$SerializableNoOp.class
+END
+AopProxyFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/framework/AopProxyFactory.class
+END
+CglibAopProxy$AdvisedDispatcher.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/framework/CglibAopProxy$AdvisedDispatcher.class
+END
+AopConfigException.class
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/framework/AopConfigException.class
+END
+CglibAopProxy$StaticUnadvisedExposedInterceptor.class
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/framework/CglibAopProxy$StaticUnadvisedExposedInterceptor.class
+END
+CglibAopProxy$StaticUnadvisedInterceptor.class
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/framework/CglibAopProxy$StaticUnadvisedInterceptor.class
+END
+CglibAopProxy$FixedChainStaticTargetInterceptor.class
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/framework/CglibAopProxy$FixedChainStaticTargetInterceptor.class
+END
+CglibAopProxy$DynamicAdvisedInterceptor.class
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/framework/CglibAopProxy$DynamicAdvisedInterceptor.class
+END
+ProxyFactoryBean.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/framework/ProxyFactoryBean.class
+END
+AopInfrastructureBean.class
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/framework/AopInfrastructureBean.class
+END
+Advised.class
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/framework/Advised.class
+END

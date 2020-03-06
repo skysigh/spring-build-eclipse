@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/servlet
+END
+DispatcherServletCustomizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/servlet/DispatcherServletCustomizer.java
+END
+DefaultMvcResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/servlet/DefaultMvcResult.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/servlet/package-info.java
+END
+MvcResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/servlet/MvcResult.java
+END
+TestDispatcherServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/servlet/TestDispatcherServlet.java
+END
+SmartRequestBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/servlet/SmartRequestBuilder.java
+END
+MockMvcBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/servlet/MockMvcBuilder.java
+END
+RequestBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/servlet/RequestBuilder.java
+END
+MockMvcBuilderSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/servlet/MockMvcBuilderSupport.java
+END
+ResultMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/servlet/ResultMatcher.java
+END
+ResultActions.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/servlet/ResultActions.java
+END
+MockMvc.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/servlet/MockMvc.java
+END
+ResultHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/servlet/ResultHandler.java
+END

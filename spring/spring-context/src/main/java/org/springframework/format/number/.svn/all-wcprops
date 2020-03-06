@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/format/number
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/format/number/package-info.java
+END
+NumberStyleFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/format/number/NumberStyleFormatter.java
+END
+NumberFormatAnnotationFormatterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/format/number/NumberFormatAnnotationFormatterFactory.java
+END
+CurrencyStyleFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/format/number/CurrencyStyleFormatter.java
+END
+AbstractNumberFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/format/number/AbstractNumberFormatter.java
+END
+PercentStyleFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/format/number/PercentStyleFormatter.java
+END

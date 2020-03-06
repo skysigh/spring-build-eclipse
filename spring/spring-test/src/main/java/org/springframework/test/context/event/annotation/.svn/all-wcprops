@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/context/event/annotation
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/context/event/annotation/package-info.java
+END
+BeforeTestExecution.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/context/event/annotation/BeforeTestExecution.java
+END
+BeforeTestMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/context/event/annotation/BeforeTestMethod.java
+END
+AfterTestClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/context/event/annotation/AfterTestClass.java
+END
+PrepareTestInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/context/event/annotation/PrepareTestInstance.java
+END
+AfterTestMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/context/event/annotation/AfterTestMethod.java
+END
+BeforeTestClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/context/event/annotation/BeforeTestClass.java
+END
+AfterTestExecution.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/context/event/annotation/AfterTestExecution.java
+END

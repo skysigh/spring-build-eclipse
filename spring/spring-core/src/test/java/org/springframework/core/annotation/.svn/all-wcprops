@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/annotation
+END
+MergedAnnotationsCollectionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/annotation/MergedAnnotationsCollectionTests.java
+END
+OrderUtilsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/annotation/OrderUtilsTests.java
+END
+AnnotationTypeMappingsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/annotation/AnnotationTypeMappingsTests.java
+END
+AnnotationAwareOrderComparatorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/annotation/AnnotationAwareOrderComparatorTests.java
+END
+MergedAnnotationsRepeatableAnnotationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/annotation/MergedAnnotationsRepeatableAnnotationTests.java
+END
+MergedAnnotationsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/annotation/MergedAnnotationsTests.java
+END
+MergedAnnotationCollectorsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/annotation/MergedAnnotationCollectorsTests.java
+END
+AnnotationAttributesTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/annotation/AnnotationAttributesTests.java
+END
+SynthesizingMethodParameterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/annotation/SynthesizingMethodParameterTests.java
+END
+OrderSourceProviderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/annotation/OrderSourceProviderTests.java
+END
+AnnotationUtilsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/annotation/AnnotationUtilsTests.java
+END
+MissingMergedAnnotationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/annotation/MissingMergedAnnotationTests.java
+END
+AnnotationIntrospectionFailureTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/annotation/AnnotationIntrospectionFailureTests.java
+END
+MultipleComposedAnnotationsOnSingleAnnotatedElementTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/annotation/MultipleComposedAnnotationsOnSingleAnnotatedElementTests.java
+END
+PackagesAnnotationFilterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/annotation/PackagesAnnotationFilterTests.java
+END
+ComposedRepeatableAnnotationsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/annotation/ComposedRepeatableAnnotationsTests.java
+END
+AnnotationEnclosingClassSample.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/annotation/AnnotationEnclosingClassSample.java
+END
+AnnotationsScannerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/annotation/AnnotationsScannerTests.java
+END
+AnnotationBackCompatibiltyTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/annotation/AnnotationBackCompatibiltyTests.java
+END
+MergedAnnotationClassLoaderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/annotation/MergedAnnotationClassLoaderTests.java
+END
+AttributeMethodsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/annotation/AttributeMethodsTests.java
+END
+RepeatableContainersTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/annotation/RepeatableContainersTests.java
+END
+MergedAnnotationPredicatesTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/annotation/MergedAnnotationPredicatesTests.java
+END
+MergedAnnotationsComposedOnSingleAnnotatedElementTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/annotation/MergedAnnotationsComposedOnSingleAnnotatedElementTests.java
+END
+TypeMappedAnnotationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/annotation/TypeMappedAnnotationTests.java
+END
+AnnotatedElementUtilsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/annotation/AnnotatedElementUtilsTests.java
+END
+AnnotationFilterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/annotation/AnnotationFilterTests.java
+END

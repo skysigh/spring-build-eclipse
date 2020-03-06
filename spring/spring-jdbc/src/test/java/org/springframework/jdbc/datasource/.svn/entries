@@ -1,0 +1,109 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-jdbc/src/test/java/org/springframework/jdbc/datasource
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+DataSourceJtaTransactionTests.java
+file
+
+
+
+
+2020-03-06T03:50:26.894000Z
+ced81b6908ee6a2648840bb9dcddbcc0
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+DataSourceTransactionManagerTests.java
+file
+
+
+
+
+2020-03-06T03:50:26.910000Z
+b276d6049915e8502cb54ef9485d4018
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+DelegatingDataSourceTests.java
+file
+
+
+
+
+2020-03-06T03:50:26.940000Z
+0d7eaf097538ffa0dc1d0bbef691aa87
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+DriverManagerDataSourceTests.java
+file
+
+
+
+
+2020-03-06T03:50:26.956000Z
+1ba72212ecb030fc94b2ad3360507535
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+TestDataSourceWrapper.java
+file
+
+
+
+
+2020-03-06T03:50:26.973000Z
+5dce364761bb15cb26b2feabfc186b55
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+UserCredentialsDataSourceAdapterTests.java
+file
+
+
+
+
+2020-03-06T03:50:26.983000Z
+195bdfa3b57ec03d64a081fda945e5b9
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+embedded
+dir
+
+init
+dir
+
+lookup
+dir
+

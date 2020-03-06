@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit/jupiter
+END
+TestConstructorAnnotationIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit/jupiter/TestConstructorAnnotationIntegrationTests.java
+END
+EnabledOnMac.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit/jupiter/EnabledOnMac.java
+END
+TestConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit/jupiter/TestConfig.java
+END
+DisabledIfTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit/jupiter/DisabledIfTests.java
+END
+ComposedSpringExtensionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit/jupiter/ComposedSpringExtensionTests.java
+END
+EnabledIfTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit/jupiter/EnabledIfTests.java
+END
+SpringManagedJupiterExtensionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit/jupiter/SpringManagedJupiterExtensionTests.java
+END
+SpringExtensionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit/jupiter/SpringExtensionTests.java
+END
+SpringJUnitJupiterAutowiredConstructorInjectionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit/jupiter/SpringJUnitJupiterAutowiredConstructorInjectionTests.java
+END
+RegisterExtensionSpringExtensionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit/jupiter/RegisterExtensionSpringExtensionTests.java
+END
+FailingTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit/jupiter/FailingTestCase.java
+END
+DisabledIfConditionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit/jupiter/DisabledIfConditionTests.java
+END
+SpringExtensionParameterizedTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit/jupiter/SpringExtensionParameterizedTests.java
+END
+SpringJUnitJupiterConstructorInjectionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit/jupiter/SpringJUnitJupiterConstructorInjectionTests.java
+END
+DisabledOnMac.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit/jupiter/DisabledOnMac.java
+END
+FailingBeforeAndAfterMethodsSpringExtensionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit/jupiter/FailingBeforeAndAfterMethodsSpringExtensionTests.java
+END

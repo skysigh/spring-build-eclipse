@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/web/servlet/setup
+END
+DefaultMockMvcBuilderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/web/servlet/setup/DefaultMockMvcBuilderTests.java
+END
+StandaloneMockMvcBuilderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/web/servlet/setup/StandaloneMockMvcBuilderTests.java
+END
+ConditionalDelegatingFilterProxyTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/web/servlet/setup/ConditionalDelegatingFilterProxyTests.java
+END
+SharedHttpSessionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/web/servlet/setup/SharedHttpSessionTests.java
+END

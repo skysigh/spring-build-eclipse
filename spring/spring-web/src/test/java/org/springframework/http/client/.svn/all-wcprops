@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/client
+END
+HttpComponentsAsyncClientHttpRequestFactoryTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/client/HttpComponentsAsyncClientHttpRequestFactoryTests.java
+END
+StreamingSimpleClientHttpRequestFactoryTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/client/StreamingSimpleClientHttpRequestFactoryTests.java
+END
+AbstractHttpRequestFactoryTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/client/AbstractHttpRequestFactoryTests.java
+END
+HttpComponentsClientHttpRequestFactoryTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/client/HttpComponentsClientHttpRequestFactoryTests.java
+END
+BufferingClientHttpRequestFactoryTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/client/BufferingClientHttpRequestFactoryTests.java
+END
+OkHttp3AsyncClientHttpRequestFactoryTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/client/OkHttp3AsyncClientHttpRequestFactoryTests.java
+END
+InterceptingClientHttpRequestFactoryTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/client/InterceptingClientHttpRequestFactoryTests.java
+END
+MultipartBodyBuilderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/client/MultipartBodyBuilderTests.java
+END
+OkHttp3ClientHttpRequestFactoryTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/client/OkHttp3ClientHttpRequestFactoryTests.java
+END
+Netty4ClientHttpRequestFactoryTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/client/Netty4ClientHttpRequestFactoryTests.java
+END
+NoOutputStreamingStreamingSimpleHttpRequestFactoryTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/client/NoOutputStreamingStreamingSimpleHttpRequestFactoryTests.java
+END
+SimpleClientHttpRequestFactoryTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/client/SimpleClientHttpRequestFactoryTests.java
+END
+AbstractMockWebServerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/client/AbstractMockWebServerTests.java
+END
+SimpleClientHttpResponseTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/client/SimpleClientHttpResponseTests.java
+END
+BufferedSimpleHttpRequestFactoryTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/client/BufferedSimpleHttpRequestFactoryTests.java
+END
+Netty4AsyncClientHttpRequestFactoryTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/client/Netty4AsyncClientHttpRequestFactoryTests.java
+END
+NoOutputStreamingBufferedSimpleHttpRequestFactoryTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/client/NoOutputStreamingBufferedSimpleHttpRequestFactoryTests.java
+END
+StreamingHttpComponentsClientHttpRequestFactoryTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/client/StreamingHttpComponentsClientHttpRequestFactoryTests.java
+END
+AbstractAsyncHttpRequestFactoryTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/client/AbstractAsyncHttpRequestFactoryTests.java
+END
+BufferedSimpleAsyncHttpRequestFactoryTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/client/BufferedSimpleAsyncHttpRequestFactoryTests.java
+END
+InterceptingStreamingHttpComponentsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/client/InterceptingStreamingHttpComponentsTests.java
+END

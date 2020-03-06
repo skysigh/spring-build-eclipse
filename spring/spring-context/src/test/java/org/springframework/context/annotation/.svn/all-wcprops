@@ -1,0 +1,389 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation
+END
+Spr3775InitDestroyLifecycleTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/Spr3775InitDestroyLifecycleTests.java
+END
+AnnotationConfigApplicationContextTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/AnnotationConfigApplicationContextTests.java
+END
+BeanAge.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/BeanAge.java
+END
+Spr15275Tests.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/Spr15275Tests.java
+END
+EnableAspectJAutoProxyTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/EnableAspectJAutoProxyTests.java
+END
+SimpleScanTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/SimpleScanTests.java
+END
+FooServiceDependentConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/FooServiceDependentConverter.java
+END
+TestBeanNameGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/TestBeanNameGenerator.java
+END
+ComponentScanAnnotationIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/ComponentScanAnnotationIntegrationTests.java
+END
+Spr6602Tests.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/Spr6602Tests.java
+END
+EnableLoadTimeWeavingTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/EnableLoadTimeWeavingTests.java
+END
+ImportSelectorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/ImportSelectorTests.java
+END
+LazyAutowiredAnnotationBeanPostProcessorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/LazyAutowiredAnnotationBeanPostProcessorTests.java
+END
+Spr16217Tests.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/Spr16217Tests.java
+END
+AggressiveFactoryBeanInstantiationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/AggressiveFactoryBeanInstantiationTests.java
+END
+ComponentScanParserWithUserDefinedStrategiesTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/ComponentScanParserWithUserDefinedStrategiesTests.java
+END
+BeanMethodMetadataTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/BeanMethodMetadataTests.java
+END
+BeanMethodPolymorphismTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/BeanMethodPolymorphismTests.java
+END
+Spr15042Tests.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/Spr15042Tests.java
+END
+TestScopeMetadataResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/TestScopeMetadataResolver.java
+END
+ComponentScanAndImportAnnotationInteractionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/ComponentScanAndImportAnnotationInteractionTests.java
+END
+RoleAndDescriptionAnnotationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/RoleAndDescriptionAnnotationTests.java
+END
+DoubleScanTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/DoubleScanTests.java
+END
+Spr12636Tests.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/Spr12636Tests.java
+END
+Spr11310Tests.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/Spr11310Tests.java
+END
+ImportAwareTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/ImportAwareTests.java
+END
+PrimitiveBeanLookupAndAutowiringTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/PrimitiveBeanLookupAndAutowiringTests.java
+END
+Spr8954Tests.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/Spr8954Tests.java
+END
+ImportVersusDirectRegistrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/ImportVersusDirectRegistrationTests.java
+END
+ReflectionUtilsIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/ReflectionUtilsIntegrationTests.java
+END
+ParserStrategyUtilsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/ParserStrategyUtilsTests.java
+END
+ClassPathFactoryBeanDefinitionScannerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/ClassPathFactoryBeanDefinitionScannerTests.java
+END
+NestedConfigurationClassTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/NestedConfigurationClassTests.java
+END
+ComponentScanParserScopedProxyTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/ComponentScanParserScopedProxyTests.java
+END
+Spr12278Tests.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/Spr12278Tests.java
+END
+DestroyMethodInferenceTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/DestroyMethodInferenceTests.java
+END
+ComponentScanAnnotationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/ComponentScanAnnotationTests.java
+END
+ConfigurationClassPostConstructAndAutowiringTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/ConfigurationClassPostConstructAndAutowiringTests.java
+END
+ComponentScanParserBeanDefinitionDefaultsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/ComponentScanParserBeanDefinitionDefaultsTests.java
+END
+ConfigurationClassAndBFPPTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/ConfigurationClassAndBFPPTests.java
+END
+Spr16179Tests.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/Spr16179Tests.java
+END
+AnnotationProcessorPerformanceTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/AnnotationProcessorPerformanceTests.java
+END
+ConfigurationClassWithConditionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/ConfigurationClassWithConditionTests.java
+END
+CommonAnnotationBeanPostProcessorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/CommonAnnotationBeanPostProcessorTests.java
+END
+ConfigurationWithFactoryBeanBeanEarlyDeductionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/ConfigurationWithFactoryBeanBeanEarlyDeductionTests.java
+END
+MyTestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/MyTestBean.java
+END
+AbstractCircularImportDetectionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/AbstractCircularImportDetectionTests.java
+END
+ClassPathScanningCandidateComponentProviderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/ClassPathScanningCandidateComponentProviderTests.java
+END
+DeferredImportSelectorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/DeferredImportSelectorTests.java
+END
+InvalidConfigurationClassDefinitionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/InvalidConfigurationClassDefinitionTests.java
+END
+PropertySourceAnnotationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/PropertySourceAnnotationTests.java
+END
+AnnotationScopeMetadataResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/AnnotationScopeMetadataResolverTests.java
+END
+ClassPathBeanDefinitionScannerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/ClassPathBeanDefinitionScannerTests.java
+END
+ConfigurationWithFactoryBeanAndParametersTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/ConfigurationWithFactoryBeanAndParametersTests.java
+END
+AnnotationBeanNameGeneratorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/AnnotationBeanNameGeneratorTests.java
+END
+AutoProxyLazyInitTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/AutoProxyLazyInitTests.java
+END
+ImportBeanDefinitionRegistrarTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/ImportBeanDefinitionRegistrarTests.java
+END
+Spr11202Tests.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/Spr11202Tests.java
+END
+ComponentScanParserTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/ComponentScanParserTests.java
+END
+AsmCircularImportDetectionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/AsmCircularImportDetectionTests.java
+END
+SimpleConfigTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/SimpleConfigTests.java
+END
+ComponentScanAnnotationRecursionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/ComponentScanAnnotationRecursionTests.java
+END
+ConfigurationClassPostProcessorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/ConfigurationClassPostProcessorTests.java
+END
+ConfigurationWithFactoryBeanAndAutowiringTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation/ConfigurationWithFactoryBeanAndAutowiringTests.java
+END

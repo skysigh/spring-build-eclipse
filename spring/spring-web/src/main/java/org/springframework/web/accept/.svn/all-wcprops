@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/accept
+END
+MappingMediaTypeFileExtensionResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/accept/MappingMediaTypeFileExtensionResolver.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/accept/package-info.java
+END
+ContentNegotiationStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/accept/ContentNegotiationStrategy.java
+END
+ServletPathExtensionContentNegotiationStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/accept/ServletPathExtensionContentNegotiationStrategy.java
+END
+AbstractMappingContentNegotiationStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/accept/AbstractMappingContentNegotiationStrategy.java
+END
+ContentNegotiationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/accept/ContentNegotiationManager.java
+END
+ContentNegotiationManagerFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/accept/ContentNegotiationManagerFactoryBean.java
+END
+HeaderContentNegotiationStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/accept/HeaderContentNegotiationStrategy.java
+END
+PathExtensionContentNegotiationStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/accept/PathExtensionContentNegotiationStrategy.java
+END
+FixedContentNegotiationStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/accept/FixedContentNegotiationStrategy.java
+END
+MediaTypeFileExtensionResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/accept/MediaTypeFileExtensionResolver.java
+END
+ParameterContentNegotiationStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/accept/ParameterContentNegotiationStrategy.java
+END

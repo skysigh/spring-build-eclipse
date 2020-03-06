@@ -1,0 +1,41 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-context/build/classes/kotlin/main/org/springframework/context/annotation
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+AnnotationConfigApplicationContextExtensionsKt.class
+file
+
+
+
+
+2020-03-06T03:47:04.255000Z
+1764d3c33f8416e86cb72bd33b2627b6
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+

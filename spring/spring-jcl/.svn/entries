@@ -1,0 +1,76 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-jcl
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+.classpath
+file
+
+
+
+
+2020-03-06T03:50:00.731000Z
+6e644aff5689e65239e6f0750d748a6b
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+.project
+file
+
+
+
+
+2020-03-06T03:50:00.743000Z
+61d2b87a39824dd37bf24fae573d1ff0
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+.settings
+dir
+
+bin
+dir
+
+build
+dir
+
+spring-jcl.gradle
+file
+
+
+
+
+2020-03-06T03:50:02.917000Z
+bfac46836a65d7d9584ca5d688ba832a
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+src
+dir
+

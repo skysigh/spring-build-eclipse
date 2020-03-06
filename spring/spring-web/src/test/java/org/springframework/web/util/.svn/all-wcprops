@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/util
+END
+ContentCachingRequestWrapperTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/util/ContentCachingRequestWrapperTests.java
+END
+DefaultUriBuilderFactoryTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/util/DefaultUriBuilderFactoryTests.java
+END
+JavaScriptUtilsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/util/JavaScriptUtilsTests.java
+END
+UriTemplateTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/util/UriTemplateTests.java
+END
+DefaultUriTemplateHandlerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/util/DefaultUriTemplateHandlerTests.java
+END
+HtmlUtilsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/util/HtmlUtilsTests.java
+END
+UriUtilsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/util/UriUtilsTests.java
+END
+UrlPathHelperTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/util/UrlPathHelperTests.java
+END
+UriComponentsBuilderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/util/UriComponentsBuilderTests.java
+END
+WebUtilsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/util/WebUtilsTests.java
+END
+UriComponentsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/util/UriComponentsTests.java
+END
+ServletContextPropertyUtilsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/util/ServletContextPropertyUtilsTests.java
+END
+HtmlCharacterEntityReferencesTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/util/HtmlCharacterEntityReferencesTests.java
+END
+TagUtilsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/util/TagUtilsTests.java
+END

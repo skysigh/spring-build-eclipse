@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/io/support
+END
+LocalizedResourceHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/io/support/LocalizedResourceHelper.java
+END
+PropertySourceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/io/support/PropertySourceFactory.java
+END
+PropertiesLoaderSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/io/support/PropertiesLoaderSupport.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/io/support/package-info.java
+END
+PropertiesLoaderUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/io/support/PropertiesLoaderUtils.java
+END
+ResourcePatternResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/io/support/ResourcePatternResolver.java
+END
+ResourceRegion.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/io/support/ResourceRegion.java
+END
+DefaultPropertySourceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/io/support/DefaultPropertySourceFactory.java
+END
+EncodedResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/io/support/EncodedResource.java
+END
+ResourcePatternUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/io/support/ResourcePatternUtils.java
+END
+VfsPatternUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/io/support/VfsPatternUtils.java
+END
+PathMatchingResourcePatternResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/io/support/PathMatchingResourcePatternResolver.java
+END
+ResourceArrayPropertyEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/io/support/ResourceArrayPropertyEditor.java
+END
+SpringFactoriesLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/io/support/SpringFactoriesLoader.java
+END
+ResourcePropertySource.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/io/support/ResourcePropertySource.java
+END

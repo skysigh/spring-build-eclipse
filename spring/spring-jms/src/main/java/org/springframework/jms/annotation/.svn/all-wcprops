@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/main/java/org/springframework/jms/annotation
+END
+EnableJms.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/main/java/org/springframework/jms/annotation/EnableJms.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/main/java/org/springframework/jms/annotation/package-info.java
+END
+JmsListenerAnnotationBeanPostProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/main/java/org/springframework/jms/annotation/JmsListenerAnnotationBeanPostProcessor.java
+END
+JmsBootstrapConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/main/java/org/springframework/jms/annotation/JmsBootstrapConfiguration.java
+END
+JmsListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/main/java/org/springframework/jms/annotation/JmsListener.java
+END
+JmsListeners.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/main/java/org/springframework/jms/annotation/JmsListeners.java
+END
+JmsListenerConfigurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/main/java/org/springframework/jms/annotation/JmsListenerConfigurer.java
+END

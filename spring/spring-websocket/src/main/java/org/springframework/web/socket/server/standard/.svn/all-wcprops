@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/server/standard
+END
+GlassFishRequestUpgradeStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/server/standard/GlassFishRequestUpgradeStrategy.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/server/standard/package-info.java
+END
+ServerEndpointRegistration.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/server/standard/ServerEndpointRegistration.java
+END
+ServerEndpointExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/server/standard/ServerEndpointExporter.java
+END
+UndertowRequestUpgradeStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/server/standard/UndertowRequestUpgradeStrategy.java
+END
+AbstractStandardUpgradeStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/server/standard/AbstractStandardUpgradeStrategy.java
+END
+TomcatRequestUpgradeStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/server/standard/TomcatRequestUpgradeStrategy.java
+END
+ServletServerContainerFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/server/standard/ServletServerContainerFactoryBean.java
+END
+SpringConfigurator.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/server/standard/SpringConfigurator.java
+END
+AbstractTyrusRequestUpgradeStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/server/standard/AbstractTyrusRequestUpgradeStrategy.java
+END
+WebLogicRequestUpgradeStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/server/standard/WebLogicRequestUpgradeStrategy.java
+END
+WebSphereRequestUpgradeStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/server/standard/WebSphereRequestUpgradeStrategy.java
+END

@@ -1,0 +1,52 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/client/jetty
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+JettyWebSocketClient.java
+file
+
+
+
+
+2020-03-06T03:55:54.784000Z
+22a75cff88729f33a533a353a26f0997
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+package-info.java
+file
+
+
+
+
+2020-03-06T03:55:54.803000Z
+3621113c206f4e914ef17a22ee27478d
+2020-03-06T03:35:38.538472Z
+1
+wck
+

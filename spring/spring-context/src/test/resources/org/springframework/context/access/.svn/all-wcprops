@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/context/access
+END
+ContextJndiBeanFactoryLocatorTests-parent.xml
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/context/access/ContextJndiBeanFactoryLocatorTests-parent.xml
+END
+ContextJndiBeanFactoryLocatorTests-collections.xml
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/context/access/ContextJndiBeanFactoryLocatorTests-collections.xml
+END
+ContextSingletonBeanFactoryLocatorTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/context/access/ContextSingletonBeanFactoryLocatorTests-context.xml
+END

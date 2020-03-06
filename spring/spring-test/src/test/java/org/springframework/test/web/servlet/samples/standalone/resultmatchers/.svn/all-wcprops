@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/web/servlet/samples/standalone/resultmatchers
+END
+ModelAssertionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/web/servlet/samples/standalone/resultmatchers/ModelAssertionTests.java
+END
+ContentAssertionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/web/servlet/samples/standalone/resultmatchers/ContentAssertionTests.java
+END
+XmlContentAssertionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/web/servlet/samples/standalone/resultmatchers/XmlContentAssertionTests.java
+END
+JsonPathAssertionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/web/servlet/samples/standalone/resultmatchers/JsonPathAssertionTests.java
+END
+XpathAssertionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/web/servlet/samples/standalone/resultmatchers/XpathAssertionTests.java
+END
+CookieAssertionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/web/servlet/samples/standalone/resultmatchers/CookieAssertionTests.java
+END
+StatusAssertionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/web/servlet/samples/standalone/resultmatchers/StatusAssertionTests.java
+END
+ViewNameAssertionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/web/servlet/samples/standalone/resultmatchers/ViewNameAssertionTests.java
+END
+FlashAttributeAssertionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/web/servlet/samples/standalone/resultmatchers/FlashAttributeAssertionTests.java
+END
+HeaderAssertionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/web/servlet/samples/standalone/resultmatchers/HeaderAssertionTests.java
+END
+SessionAttributeAssertionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/web/servlet/samples/standalone/resultmatchers/SessionAttributeAssertionTests.java
+END
+UrlAssertionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/web/servlet/samples/standalone/resultmatchers/UrlAssertionTests.java
+END
+HandlerAssertionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/web/servlet/samples/standalone/resultmatchers/HandlerAssertionTests.java
+END
+RequestAttributeAssertionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/web/servlet/samples/standalone/resultmatchers/RequestAttributeAssertionTests.java
+END

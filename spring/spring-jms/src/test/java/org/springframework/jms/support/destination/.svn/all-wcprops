@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/test/java/org/springframework/jms/support/destination
+END
+DynamicDestinationResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/test/java/org/springframework/jms/support/destination/DynamicDestinationResolverTests.java
+END
+JmsDestinationAccessorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/test/java/org/springframework/jms/support/destination/JmsDestinationAccessorTests.java
+END
+JndiDestinationResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/test/java/org/springframework/jms/support/destination/JndiDestinationResolverTests.java
+END

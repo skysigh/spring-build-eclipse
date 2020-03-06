@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/jmx/export/annotation
+END
+annotations.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/jmx/export/annotation/annotations.xml
+END
+componentScan.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/jmx/export/annotation/componentScan.xml
+END
+lazyNaming.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/jmx/export/annotation/lazyNaming.xml
+END
+lazyAssembling.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/jmx/export/annotation/lazyAssembling.xml
+END

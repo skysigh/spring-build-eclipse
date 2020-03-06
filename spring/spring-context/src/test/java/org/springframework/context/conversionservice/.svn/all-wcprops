@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/conversionservice
+END
+Bar.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/conversionservice/Bar.java
+END
+TestClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/conversionservice/TestClient.java
+END
+StringToBarConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/conversionservice/StringToBarConverter.java
+END
+ConversionServiceContextConfigTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/conversionservice/ConversionServiceContextConfigTests.java
+END

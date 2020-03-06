@@ -1,0 +1,52 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-test/src/test/webapp/WEB-INF/layouts
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+main.jsp
+file
+
+
+
+
+2020-03-06T03:52:43.143000Z
+b2c524ab49fcc04816c15f8bacc71ecc
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+tiles.xml
+file
+
+
+
+
+2020-03-06T03:52:43.161000Z
+19516df15a2e22be842639d56dc4a05e
+2020-03-06T03:35:38.538472Z
+1
+wck
+

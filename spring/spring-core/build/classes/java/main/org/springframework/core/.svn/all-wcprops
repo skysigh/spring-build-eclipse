@@ -1,0 +1,479 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core
+END
+GenericTypeResolver$TypeVariableMapVariableResolver.class
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/GenericTypeResolver$TypeVariableMapVariableResolver.class
+END
+InfrastructureProxy.class
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/InfrastructureProxy.class
+END
+MethodParameter$KotlinDelegate.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/MethodParameter$KotlinDelegate.class
+END
+ReactiveAdapterRegistry$EmptyCompletableFuture.class
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/ReactiveAdapterRegistry$EmptyCompletableFuture.class
+END
+ReactiveAdapterRegistry$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/ReactiveAdapterRegistry$1.class
+END
+ReactiveAdapterRegistry$ReactorRegistrar.class
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/ReactiveAdapterRegistry$ReactorRegistrar.class
+END
+SerializableTypeWrapper$SerializableTypeProxy.class
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/SerializableTypeWrapper$SerializableTypeProxy.class
+END
+KotlinReflectionParameterNameDiscoverer.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/KotlinReflectionParameterNameDiscoverer.class
+END
+ResolvableType$EmptyType.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/ResolvableType$EmptyType.class
+END
+ConfigurableObjectInputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/ConfigurableObjectInputStream.class
+END
+ParameterizedTypeReference$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/ParameterizedTypeReference$1.class
+END
+ResolvableType.class
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/ResolvableType.class
+END
+package-info.class
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/package-info.class
+END
+SmartClassLoader.class
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/SmartClassLoader.class
+END
+NestedCheckedException.class
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/NestedCheckedException.class
+END
+SerializableTypeWrapper$FieldTypeProvider.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/SerializableTypeWrapper$FieldTypeProvider.class
+END
+SimpleAliasRegistry.class
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/SimpleAliasRegistry.class
+END
+LocalVariableTableParameterNameDiscoverer$LocalVariableTableVisitor.class
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/LocalVariableTableParameterNameDiscoverer$LocalVariableTableVisitor.class
+END
+ReactiveAdapterRegistry$RxJava2Registrar.class
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/ReactiveAdapterRegistry$RxJava2Registrar.class
+END
+CollectionFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/CollectionFactory.class
+END
+LocalVariableTableParameterNameDiscoverer$ParameterNameDiscoveringVisitor.class
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/LocalVariableTableParameterNameDiscoverer$ParameterNameDiscoveringVisitor.class
+END
+ParameterNameDiscoverer.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/ParameterNameDiscoverer.class
+END
+MethodParameter.class
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/MethodParameter.class
+END
+ReactiveAdapterRegistry$SpringCoreBlockHoundIntegration.class
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/ReactiveAdapterRegistry$SpringCoreBlockHoundIntegration.class
+END
+ReactiveAdapterRegistry$CoroutinesRegistrar.class
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/ReactiveAdapterRegistry$CoroutinesRegistrar.class
+END
+AttributeAccessor.class
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/AttributeAccessor.class
+END
+SortedProperties.class
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/SortedProperties.class
+END
+Ordered.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/Ordered.class
+END
+PriorityOrdered.class
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/PriorityOrdered.class
+END
+MethodIntrospector.class
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/MethodIntrospector.class
+END
+OrderComparator$OrderSourceProvider.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/OrderComparator$OrderSourceProvider.class
+END
+ExceptionDepthComparator.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/ExceptionDepthComparator.class
+END
+ReactiveAdapterRegistry$ReactorJdkFlowAdapterRegistrar.class
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/ReactiveAdapterRegistry$ReactorJdkFlowAdapterRegistrar.class
+END
+ResolvableTypeProvider.class
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/ResolvableTypeProvider.class
+END
+AttributeAccessorSupport.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/AttributeAccessorSupport.class
+END
+ReactiveAdapter.class
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/ReactiveAdapter.class
+END
+ReactiveAdapterRegistry$ReactorAdapter.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/ReactiveAdapterRegistry$ReactorAdapter.class
+END
+ReactiveTypeDescriptor.class
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/ReactiveTypeDescriptor.class
+END
+GenericTypeResolver.class
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/GenericTypeResolver.class
+END
+ResolvableType$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/ResolvableType$1.class
+END
+SerializableTypeWrapper$TypeProxyInvocationHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/SerializableTypeWrapper$TypeProxyInvocationHandler.class
+END
+Constants$ConstantException.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/Constants$ConstantException.class
+END
+ResolvableType$TypeVariablesVariableResolver.class
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/ResolvableType$TypeVariablesVariableResolver.class
+END
+LocalVariableTableParameterNameDiscoverer.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/LocalVariableTableParameterNameDiscoverer.class
+END
+OverridingClassLoader.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/OverridingClassLoader.class
+END
+NestedRuntimeException.class
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/NestedRuntimeException.class
+END
+OrderComparator.class
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/OrderComparator.class
+END
+ReactiveAdapterRegistry$RxJava1Registrar.class
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/ReactiveAdapterRegistry$RxJava1Registrar.class
+END
+ResolvableType$DefaultVariableResolver.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/ResolvableType$DefaultVariableResolver.class
+END
+ResolvableType$SyntheticParameterizedType.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/ResolvableType$SyntheticParameterizedType.class
+END
+MethodIntrospector$MetadataLookup.class
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/MethodIntrospector$MetadataLookup.class
+END
+PrioritizedParameterNameDiscoverer.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/PrioritizedParameterNameDiscoverer.class
+END
+NestedIOException.class
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/NestedIOException.class
+END
+AliasRegistry.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/AliasRegistry.class
+END
+Constants.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/Constants.class
+END
+MethodClassKey.class
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/MethodClassKey.class
+END
+ResolvableType$WildcardBounds$Kind.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/ResolvableType$WildcardBounds$Kind.class
+END
+DecoratingProxy.class
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/DecoratingProxy.class
+END
+GraalDetector.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/GraalDetector.class
+END
+KotlinDetector.class
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/KotlinDetector.class
+END
+NamedThreadLocal.class
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/NamedThreadLocal.class
+END
+ResolvableType$WildcardBounds.class
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/ResolvableType$WildcardBounds.class
+END
+NamedInheritableThreadLocal.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/NamedInheritableThreadLocal.class
+END
+SerializableTypeWrapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/SerializableTypeWrapper.class
+END
+Conventions.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/Conventions.class
+END
+NestedExceptionUtils.class
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/NestedExceptionUtils.class
+END
+SpringProperties.class
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/SpringProperties.class
+END
+SerializableTypeWrapper$MethodParameterTypeProvider.class
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/SerializableTypeWrapper$MethodParameterTypeProvider.class
+END
+ResolvableType$VariableResolver.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/ResolvableType$VariableResolver.class
+END
+SpringVersion.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/SpringVersion.class
+END
+DecoratingClassLoader.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/DecoratingClassLoader.class
+END
+DefaultParameterNameDiscoverer.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/DefaultParameterNameDiscoverer.class
+END
+SerializableTypeWrapper$MethodInvokeTypeProvider.class
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/SerializableTypeWrapper$MethodInvokeTypeProvider.class
+END
+SerializableTypeWrapper$TypeProvider.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/SerializableTypeWrapper$TypeProvider.class
+END
+CollectionFactory$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/CollectionFactory$1.class
+END
+ParameterizedTypeReference.class
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/ParameterizedTypeReference.class
+END
+ReactiveAdapterRegistry.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/ReactiveAdapterRegistry.class
+END
+BridgeMethodResolver.class
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/BridgeMethodResolver.class
+END
+StandardReflectionParameterNameDiscoverer.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/StandardReflectionParameterNameDiscoverer.class
+END

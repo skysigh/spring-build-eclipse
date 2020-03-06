@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/filter
+END
+OncePerRequestFilterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/filter/OncePerRequestFilterTests.java
+END
+RequestContextFilterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/filter/RequestContextFilterTests.java
+END
+CharacterEncodingFilterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/filter/CharacterEncodingFilterTests.java
+END
+ShallowEtagHeaderFilterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/filter/ShallowEtagHeaderFilterTests.java
+END
+RequestLoggingFilterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/filter/RequestLoggingFilterTests.java
+END
+CompositeFilterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/filter/CompositeFilterTests.java
+END
+DelegatingFilterProxyTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/filter/DelegatingFilterProxyTests.java
+END
+RelativeRedirectFilterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/filter/RelativeRedirectFilterTests.java
+END
+HiddenHttpMethodFilterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/filter/HiddenHttpMethodFilterTests.java
+END
+ForwardedHeaderFilterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/filter/ForwardedHeaderFilterTests.java
+END
+FormContentFilterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/filter/FormContentFilterTests.java
+END
+CorsFilterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/filter/CorsFilterTests.java
+END

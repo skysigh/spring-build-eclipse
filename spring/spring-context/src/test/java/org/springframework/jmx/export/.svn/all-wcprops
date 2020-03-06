@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/jmx/export
+END
+CustomEditorConfigurerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/jmx/export/CustomEditorConfigurerTests.java
+END
+NotificationListenerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/jmx/export/NotificationListenerTests.java
+END
+DateRange.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/jmx/export/DateRange.java
+END
+ExceptionOnInitBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/jmx/export/ExceptionOnInitBean.java
+END
+TestDynamicMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/jmx/export/TestDynamicMBean.java
+END
+LazyInitMBeanTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/jmx/export/LazyInitMBeanTests.java
+END
+PropertyPlaceholderConfigurerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/jmx/export/PropertyPlaceholderConfigurerTests.java
+END
+MBeanExporterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/jmx/export/MBeanExporterTests.java
+END
+NotificationPublisherTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/jmx/export/NotificationPublisherTests.java
+END
+MBeanExporterOperationsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/jmx/export/MBeanExporterOperationsTests.java
+END
+CustomDateEditorRegistrar.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/jmx/export/CustomDateEditorRegistrar.java
+END

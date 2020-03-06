@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-indexer/src/test/java/org/springframework/context/index/sample/type
+END
+SampleRepo.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-indexer/src/test/java/org/springframework/context/index/sample/type/SampleRepo.java
+END
+SampleSpecializedRepo.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-indexer/src/test/java/org/springframework/context/index/sample/type/SampleSpecializedRepo.java
+END
+Repo.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-indexer/src/test/java/org/springframework/context/index/sample/type/Repo.java
+END
+SampleEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-indexer/src/test/java/org/springframework/context/index/sample/type/SampleEntity.java
+END
+AbstractRepo.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-indexer/src/test/java/org/springframework/context/index/sample/type/AbstractRepo.java
+END
+SmartRepo.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-indexer/src/test/java/org/springframework/context/index/sample/type/SmartRepo.java
+END
+SampleSmartRepo.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-indexer/src/test/java/org/springframework/context/index/sample/type/SampleSmartRepo.java
+END
+SpecializedRepo.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-indexer/src/test/java/org/springframework/context/index/sample/type/SpecializedRepo.java
+END

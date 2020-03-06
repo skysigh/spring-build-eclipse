@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/springcode/!svn/ver/1/spring-framework/integration-tests/src/test/java/org/springframework/core/env/scan1
+END
+ProdConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/integration-tests/src/test/java/org/springframework/core/env/scan1/ProdConfig.java
+END
+DevConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/springcode/!svn/ver/1/spring-framework/integration-tests/src/test/java/org/springframework/core/env/scan1/DevConfig.java
+END
+Config.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/springcode/!svn/ver/1/spring-framework/integration-tests/src/test/java/org/springframework/core/env/scan1/Config.java
+END

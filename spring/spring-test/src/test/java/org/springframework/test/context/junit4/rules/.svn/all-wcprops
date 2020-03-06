@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit4/rules
+END
+EnabledAndIgnoredSpringRuleTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit4/rules/EnabledAndIgnoredSpringRuleTests.java
+END
+BasicAnnotationConfigWacSpringRuleTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit4/rules/BasicAnnotationConfigWacSpringRuleTests.java
+END
+BeforeAndAfterTransactionAnnotationSpringRuleTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit4/rules/BeforeAndAfterTransactionAnnotationSpringRuleTests.java
+END
+RepeatedSpringRuleTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit4/rules/RepeatedSpringRuleTests.java
+END
+Subclass1AppCtxRuleTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit4/rules/Subclass1AppCtxRuleTests.java
+END
+ClassLevelDisabledSpringRuleTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit4/rules/ClassLevelDisabledSpringRuleTests.java
+END
+TimedSpringRuleTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit4/rules/TimedSpringRuleTests.java
+END
+TimedTransactionalSpringRuleTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit4/rules/TimedTransactionalSpringRuleTests.java
+END
+FailingBeforeAndAfterMethodsSpringRuleTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit4/rules/FailingBeforeAndAfterMethodsSpringRuleTests.java
+END
+ProgrammaticTxMgmtSpringRuleTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit4/rules/ProgrammaticTxMgmtSpringRuleTests.java
+END
+ParameterizedSpringRuleTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit4/rules/ParameterizedSpringRuleTests.java
+END
+AutowiredRuleTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit4/rules/AutowiredRuleTests.java
+END
+BaseAppCtxRuleTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit4/rules/BaseAppCtxRuleTests.java
+END
+Subclass2AppCtxRuleTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit4/rules/Subclass2AppCtxRuleTests.java
+END
+TransactionalSqlScriptsSpringRuleTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit4/rules/TransactionalSqlScriptsSpringRuleTests.java
+END

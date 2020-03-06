@@ -1,0 +1,79 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-core
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+.classpath
+file
+
+
+
+
+2020-03-06T03:48:11.604000Z
+4b6b46c95bb7e001fb37c86d6bf20d8a
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+.project
+file
+
+
+
+
+2020-03-06T03:48:11.617000Z
+3fe721f28165ca8476fd8c71c86fd0f7
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+.settings
+dir
+
+bin
+dir
+
+build
+dir
+
+kotlin-coroutines
+dir
+
+spring-core.gradle
+file
+
+
+
+
+2020-03-06T03:49:24.656000Z
+a64562e9848fb2665292be87fbdba8cc
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+src
+dir
+

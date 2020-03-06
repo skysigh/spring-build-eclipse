@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/jmx/export
+END
+autodetectNoMBeans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/jmx/export/autodetectNoMBeans.xml
+END
+autodetectMBeans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/jmx/export/autodetectMBeans.xml
+END
+lazyInit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/jmx/export/lazyInit.xml
+END
+notificationPublisherLazyTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/jmx/export/notificationPublisherLazyTests.xml
+END
+customConfigurer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/jmx/export/customConfigurer.xml
+END
+autodetectLazyMBeans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/jmx/export/autodetectLazyMBeans.xml
+END
+excludedBeans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/jmx/export/excludedBeans.xml
+END
+propertyPlaceholderConfigurer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/jmx/export/propertyPlaceholderConfigurer.xml
+END
+notificationPublisherTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/jmx/export/notificationPublisherTests.xml
+END

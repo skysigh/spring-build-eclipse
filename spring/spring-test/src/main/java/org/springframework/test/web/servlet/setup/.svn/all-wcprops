@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/servlet/setup
+END
+SharedHttpSessionConfigurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/servlet/setup/SharedHttpSessionConfigurer.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/servlet/setup/package-info.java
+END
+StandaloneMockMvcBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/servlet/setup/StandaloneMockMvcBuilder.java
+END
+StubWebApplicationContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/servlet/setup/StubWebApplicationContext.java
+END
+MockMvcBuilders.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/servlet/setup/MockMvcBuilders.java
+END
+PatternMappingFilterProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/servlet/setup/PatternMappingFilterProxy.java
+END
+ConfigurableMockMvcBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/servlet/setup/ConfigurableMockMvcBuilder.java
+END
+AbstractMockMvcBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/servlet/setup/AbstractMockMvcBuilder.java
+END
+MockMvcConfigurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/servlet/setup/MockMvcConfigurer.java
+END
+DefaultMockMvcBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/servlet/setup/DefaultMockMvcBuilder.java
+END
+MockMvcConfigurerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/servlet/setup/MockMvcConfigurerAdapter.java
+END

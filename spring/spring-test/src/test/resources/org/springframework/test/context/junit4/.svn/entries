@@ -1,0 +1,160 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-test/src/test/resources/org/springframework/test/context/junit4
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+ConcreteTransactionalJUnit4SpringContextTests-context.xml
+file
+
+
+
+
+2020-03-06T03:52:41.100000Z
+445374ffca8514cf42599cba68271642
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+FailingBeforeAndAfterMethodsTests-context.xml
+file
+
+
+
+
+2020-03-06T03:52:41.117000Z
+5331c107398bbe754890da06e7c6a174
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+MultipleResourcesSpringJUnit4ClassRunnerAppCtxTests-context1.xml
+file
+
+
+
+
+2020-03-06T03:52:41.130000Z
+9779961fdfb1e7ed424adcf3ffbf1af1
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+MultipleResourcesSpringJUnit4ClassRunnerAppCtxTests-context2.xml
+file
+
+
+
+
+2020-03-06T03:52:41.142000Z
+a64ee0d96bf1048ad71b9fc3763295ba
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+MultipleResourcesSpringJUnit4ClassRunnerAppCtxTests-context3.xml
+file
+
+
+
+
+2020-03-06T03:52:41.158000Z
+1652ba9dfa3e79a629a2a758916ff3c5
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+ParameterizedDependencyInjectionTests-context.xml
+file
+
+
+
+
+2020-03-06T03:52:41.170000Z
+29001cef134222c514477a3d207674d9
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+PropertiesBasedSpringJUnit4ClassRunnerAppCtxTests-context.properties
+file
+
+
+
+
+2020-03-06T03:52:41.180000Z
+dd01396612f196b59794eaa6e3aed883
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+SpringJUnit4ClassRunnerAppCtxTests-context.xml
+file
+
+
+
+
+2020-03-06T03:52:41.191000Z
+95821838db21a3369bca2a9190602112
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+aci
+dir
+
+hybrid
+dir
+
+orm
+dir
+
+profile
+dir
+
+spr3896
+dir
+
+spr6128
+dir
+
+spr8849
+dir
+
+spr9799
+dir
+
+transactionalTests-context.xml
+file
+
+
+
+
+2020-03-06T03:52:41.957000Z
+6c03a877a8b940c852b88512da88a368
+2020-03-06T03:35:38.538472Z
+1
+wck
+

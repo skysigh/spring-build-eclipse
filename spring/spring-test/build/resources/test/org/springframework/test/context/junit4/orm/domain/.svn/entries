@@ -1,0 +1,52 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-test/build/resources/test/org/springframework/test/context/junit4/orm/domain
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+DriversLicense.hbm.xml
+file
+
+
+
+
+2020-03-06T03:52:17.942000Z
+920115dba1de7c4a88dc09458453cc95
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+Person.hbm.xml
+file
+
+
+
+
+2020-03-06T03:52:17.955000Z
+3b65a2f3035b04bac2e8ccc3715c9328
+2020-03-06T03:35:38.538472Z
+1
+wck
+

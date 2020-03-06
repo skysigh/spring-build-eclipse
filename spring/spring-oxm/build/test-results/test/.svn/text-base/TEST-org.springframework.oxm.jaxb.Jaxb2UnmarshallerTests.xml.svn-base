@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.oxm.jaxb.Jaxb2UnmarshallerTests" tests="12" skipped="0" failures="0" errors="0" timestamp="2020-03-05T07:58:32" hostname="DESKTOP-Q9P12J7" time="0.141">
+  <properties/>
+  <testcase name="unmarshalStreamSourceReader()" classname="org.springframework.oxm.jaxb.Jaxb2UnmarshallerTests" time="0.03"/>
+  <testcase name="unmarshalJaxp14StaxSourceXmlEventReader()" classname="org.springframework.oxm.jaxb.Jaxb2UnmarshallerTests" time="0.014"/>
+  <testcase name="unmarshalStaxSourceXmlStreamReader()" classname="org.springframework.oxm.jaxb.Jaxb2UnmarshallerTests" time="0.01"/>
+  <testcase name="unmarshalSAXSource()" classname="org.springframework.oxm.jaxb.Jaxb2UnmarshallerTests" time="0.006"/>
+  <testcase name="unmarshalStreamSourceInputStream()" classname="org.springframework.oxm.jaxb.Jaxb2UnmarshallerTests" time="0.007"/>
+  <testcase name="unmarshalJaxp14StaxSourceXmlStreamReader()" classname="org.springframework.oxm.jaxb.Jaxb2UnmarshallerTests" time="0.006"/>
+  <testcase name="unmarshalStaxSourceXmlEventReader()" classname="org.springframework.oxm.jaxb.Jaxb2UnmarshallerTests" time="0.006"/>
+  <testcase name="unmarshalDomSource()" classname="org.springframework.oxm.jaxb.Jaxb2UnmarshallerTests" time="0.008"/>
+  <testcase name="marshalAttachments()" classname="org.springframework.oxm.jaxb.Jaxb2UnmarshallerTests" time="0.011"/>
+  <testcase name="unmarshalPartialStaxSourceXmlStreamReader()" classname="org.springframework.oxm.jaxb.Jaxb2UnmarshallerTests" time="0.006"/>
+  <testcase name="unmarshalFile()" classname="org.springframework.oxm.jaxb.Jaxb2UnmarshallerTests" time="0.006"/>
+  <testcase name="unmarshalAnXmlReferingToAWrappedXmlElementDecl()" classname="org.springframework.oxm.jaxb.Jaxb2UnmarshallerTests" time="0.023"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

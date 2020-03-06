@@ -1,0 +1,52 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-beans/src/main/kotlin/org/springframework/beans/factory
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+BeanFactoryExtensions.kt
+file
+
+
+
+
+2020-03-06T03:45:27.977000Z
+57541c597852eb26998391bd7c84a42a
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+ListableBeanFactoryExtensions.kt
+file
+
+
+
+
+2020-03-06T03:45:27.991000Z
+d27fc3f87af98b5a5fbe64e83b031f31
+2020-03-06T03:35:38.538472Z
+1
+wck
+

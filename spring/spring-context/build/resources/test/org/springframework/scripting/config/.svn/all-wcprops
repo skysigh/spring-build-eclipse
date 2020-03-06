@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/scripting/config
+END
+scriptingDefaultsTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/scripting/config/scriptingDefaultsTests.xml
+END
+scriptingDefaultsProxyTargetClassTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/scripting/config/scriptingDefaultsProxyTargetClassTests.xml
+END
+TestBean.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/scripting/config/TestBean.groovy
+END

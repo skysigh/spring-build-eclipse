@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/testFixtures/java/org/springframework/core/testfixture/io
+END
+ResourceTestUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/testFixtures/java/org/springframework/core/testfixture/io/ResourceTestUtils.java
+END
+SerializationTestUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/testFixtures/java/org/springframework/core/testfixture/io/SerializationTestUtils.java
+END

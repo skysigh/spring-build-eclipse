@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/resources/org/springframework/test/context/env
+END
+DefaultPropertiesFileDetectionTestPropertySourceTests.properties
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/resources/org/springframework/test/context/env/DefaultPropertiesFileDetectionTestPropertySourceTests.properties
+END
+explicit.properties
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/resources/org/springframework/test/context/env/explicit.properties
+END
+SystemPropertyOverridePropertiesFileTestPropertySourceTests.properties
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/resources/org/springframework/test/context/env/SystemPropertyOverridePropertiesFileTestPropertySourceTests.properties
+END
+ApplicationPropertyOverridePropertiesFileTestPropertySourceTests.properties
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/resources/org/springframework/test/context/env/ApplicationPropertyOverridePropertiesFileTestPropertySourceTests.properties
+END
+extended.properties
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/resources/org/springframework/test/context/env/extended.properties
+END
+ExtendedDefaultPropertiesFileDetectionTestPropertySourceTests.properties
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/resources/org/springframework/test/context/env/ExtendedDefaultPropertiesFileDetectionTestPropertySourceTests.properties
+END

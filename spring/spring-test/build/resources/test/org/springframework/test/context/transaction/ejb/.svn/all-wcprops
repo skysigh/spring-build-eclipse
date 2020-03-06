@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/build/resources/test/org/springframework/test/context/transaction/ejb
+END
+required-tx-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/build/resources/test/org/springframework/test/context/transaction/ejb/required-tx-config.xml
+END
+requires-new-tx-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/build/resources/test/org/springframework/test/context/transaction/ejb/requires-new-tx-config.xml
+END
+common-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/build/resources/test/org/springframework/test/context/transaction/ejb/common-config.xml
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/main/java/org/springframework/jms/support/destination
+END
+DynamicDestinationResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/main/java/org/springframework/jms/support/destination/DynamicDestinationResolver.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/main/java/org/springframework/jms/support/destination/package-info.java
+END
+JmsDestinationAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/main/java/org/springframework/jms/support/destination/JmsDestinationAccessor.java
+END
+JndiDestinationResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/main/java/org/springframework/jms/support/destination/JndiDestinationResolver.java
+END
+BeanFactoryDestinationResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/main/java/org/springframework/jms/support/destination/BeanFactoryDestinationResolver.java
+END
+DestinationResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/main/java/org/springframework/jms/support/destination/DestinationResolver.java
+END
+DestinationResolutionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/main/java/org/springframework/jms/support/destination/DestinationResolutionException.java
+END
+CachingDestinationResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/main/java/org/springframework/jms/support/destination/CachingDestinationResolver.java
+END

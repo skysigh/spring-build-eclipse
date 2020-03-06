@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/scripting/groovy
+END
+groovy-with-xsd-jsr223.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/scripting/groovy/groovy-with-xsd-jsr223.xml
+END
+groovyRefreshableContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/scripting/groovy/groovyRefreshableContext.xml
+END
+GroovyAspectIntegrationTests-groovy-proxy-target-class-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/scripting/groovy/GroovyAspectIntegrationTests-groovy-proxy-target-class-context.xml
+END
+groovyBrokenContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/scripting/groovy/groovyBrokenContext.xml
+END
+calculators.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/scripting/groovy/calculators.xml
+END
+lwspBadGroovyContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/scripting/groovy/lwspBadGroovyContext.xml
+END
+simple.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/scripting/groovy/simple.groovy
+END
+groovyContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/scripting/groovy/groovyContext.xml
+END
+twoClassesCorrectOneFirst.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/scripting/groovy/twoClassesCorrectOneFirst.xml
+END
+GroovyAspectIntegrationTests-groovy-dynamic-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/scripting/groovy/GroovyAspectIntegrationTests-groovy-dynamic-context.xml
+END
+GroovyAspectIntegrationTests-java-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/scripting/groovy/GroovyAspectIntegrationTests-java-context.xml
+END
+twoClassesWrongOneFirst.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/scripting/groovy/twoClassesWrongOneFirst.xml
+END
+ScriptBean.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/scripting/groovy/ScriptBean.groovy
+END
+TestFactoryBean.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/scripting/groovy/TestFactoryBean.groovy
+END
+Messenger.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/scripting/groovy/Messenger.groovy
+END
+GroovyAspectIntegrationTests-groovy-interface-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/scripting/groovy/GroovyAspectIntegrationTests-groovy-interface-context.xml
+END
+DelegatingCalculator.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/scripting/groovy/DelegatingCalculator.groovy
+END
+groovyContextWithJsr223.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/scripting/groovy/groovyContextWithJsr223.xml
+END
+groovy-multiple-properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/scripting/groovy/groovy-multiple-properties.xml
+END
+Broken.groovyb
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/scripting/groovy/Broken.groovyb
+END
+GroovyServiceImpl.grv
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/scripting/groovy/GroovyServiceImpl.grv
+END
+MessengerInstance.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/scripting/groovy/MessengerInstance.groovy
+END
+Calculator.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/scripting/groovy/Calculator.groovy
+END
+groovy-with-xsd-proxy-target-class.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/scripting/groovy/groovy-with-xsd-proxy-target-class.xml
+END
+CallCounter.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/scripting/groovy/CallCounter.groovy
+END
+calculators-with-xsd.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/scripting/groovy/calculators-with-xsd.xml
+END
+groovy-with-xsd.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/scripting/groovy/groovy-with-xsd.xml
+END

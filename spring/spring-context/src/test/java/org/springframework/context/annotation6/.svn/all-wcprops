@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation6
+END
+ConfigForScanning.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation6/ConfigForScanning.java
+END
+ComponentForScanning.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation6/ComponentForScanning.java
+END
+Jsr330NamedForScanning.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/annotation6/Jsr330NamedForScanning.java
+END

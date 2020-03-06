@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/main/java/org/springframework/beans/propertyeditors
+END
+PropertiesEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/main/java/org/springframework/beans/propertyeditors/PropertiesEditor.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/main/java/org/springframework/beans/propertyeditors/package-info.java
+END
+CustomMapEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/main/java/org/springframework/beans/propertyeditors/CustomMapEditor.java
+END
+UUIDEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/main/java/org/springframework/beans/propertyeditors/UUIDEditor.java
+END
+ByteArrayPropertyEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/main/java/org/springframework/beans/propertyeditors/ByteArrayPropertyEditor.java
+END
+InputStreamEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/main/java/org/springframework/beans/propertyeditors/InputStreamEditor.java
+END
+CustomCollectionEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/main/java/org/springframework/beans/propertyeditors/CustomCollectionEditor.java
+END
+StringArrayPropertyEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/main/java/org/springframework/beans/propertyeditors/StringArrayPropertyEditor.java
+END
+CharacterEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/main/java/org/springframework/beans/propertyeditors/CharacterEditor.java
+END
+CustomDateEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/main/java/org/springframework/beans/propertyeditors/CustomDateEditor.java
+END
+ResourceBundleEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/main/java/org/springframework/beans/propertyeditors/ResourceBundleEditor.java
+END
+PathEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/main/java/org/springframework/beans/propertyeditors/PathEditor.java
+END
+InputSourceEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/main/java/org/springframework/beans/propertyeditors/InputSourceEditor.java
+END
+LocaleEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/main/java/org/springframework/beans/propertyeditors/LocaleEditor.java
+END
+PatternEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/main/java/org/springframework/beans/propertyeditors/PatternEditor.java
+END
+TimeZoneEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/main/java/org/springframework/beans/propertyeditors/TimeZoneEditor.java
+END
+CustomNumberEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/main/java/org/springframework/beans/propertyeditors/CustomNumberEditor.java
+END
+FileEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/main/java/org/springframework/beans/propertyeditors/FileEditor.java
+END
+URIEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/main/java/org/springframework/beans/propertyeditors/URIEditor.java
+END
+StringTrimmerEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/main/java/org/springframework/beans/propertyeditors/StringTrimmerEditor.java
+END
+URLEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/main/java/org/springframework/beans/propertyeditors/URLEditor.java
+END
+CustomBooleanEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/main/java/org/springframework/beans/propertyeditors/CustomBooleanEditor.java
+END
+ReaderEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/main/java/org/springframework/beans/propertyeditors/ReaderEditor.java
+END
+CurrencyEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/main/java/org/springframework/beans/propertyeditors/CurrencyEditor.java
+END
+CharsetEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/main/java/org/springframework/beans/propertyeditors/CharsetEditor.java
+END
+ZoneIdEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/main/java/org/springframework/beans/propertyeditors/ZoneIdEditor.java
+END
+ClassArrayEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/main/java/org/springframework/beans/propertyeditors/ClassArrayEditor.java
+END
+CharArrayPropertyEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/main/java/org/springframework/beans/propertyeditors/CharArrayPropertyEditor.java
+END
+ClassEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/main/java/org/springframework/beans/propertyeditors/ClassEditor.java
+END

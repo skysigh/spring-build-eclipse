@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/support
+END
+SimpleThreadScope.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/support/SimpleThreadScope.class
+END
+ReloadableResourceBundleMessageSource$PropertiesHolder.class
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/support/ReloadableResourceBundleMessageSource$PropertiesHolder.class
+END
+StaticMessageSource$MessageHolder.class
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/support/StaticMessageSource$MessageHolder.class
+END
+SimpleThreadScope$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/support/SimpleThreadScope$1.class
+END
+GenericXmlApplicationContext.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/support/GenericXmlApplicationContext.class
+END
+PostProcessorRegistrationDelegate.class
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/support/PostProcessorRegistrationDelegate.class
+END
+PropertySourcesPlaceholderConfigurer.class
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/support/PropertySourcesPlaceholderConfigurer.class
+END
+PostProcessorRegistrationDelegate$BeanPostProcessorChecker.class
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/support/PostProcessorRegistrationDelegate$BeanPostProcessorChecker.class
+END
+ApplicationContextAwareProcessor.class
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/support/ApplicationContextAwareProcessor.class
+END
+AbstractApplicationContext.class
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/support/AbstractApplicationContext.class
+END
+AbstractRefreshableApplicationContext.class
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/support/AbstractRefreshableApplicationContext.class
+END
+StaticApplicationContext.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/support/StaticApplicationContext.class
+END
+package-info.class
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/support/package-info.class
+END
+AbstractMessageSource.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/support/AbstractMessageSource.class
+END
+GenericApplicationContext.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/support/GenericApplicationContext.class
+END
+ConversionServiceFactoryBean.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/support/ConversionServiceFactoryBean.class
+END
+ClassPathXmlApplicationContext.class
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/support/ClassPathXmlApplicationContext.class
+END
+DelegatingMessageSource.class
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/support/DelegatingMessageSource.class
+END
+GenericGroovyApplicationContext.class
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/support/GenericGroovyApplicationContext.class
+END
+LiveBeansViewMBean.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/support/LiveBeansViewMBean.class
+END
+ResourceBundleMessageSource$MessageSourceControl.class
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/support/ResourceBundleMessageSource$MessageSourceControl.class
+END
+MessageSourceAccessor.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/support/MessageSourceAccessor.class
+END
+DefaultLifecycleProcessor$LifecycleGroupMember.class
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/support/DefaultLifecycleProcessor$LifecycleGroupMember.class
+END
+PropertySourcesPlaceholderConfigurer$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/support/PropertySourcesPlaceholderConfigurer$1.class
+END
+ResourceBundleMessageSource$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/support/ResourceBundleMessageSource$1.class
+END
+ContextTypeMatchClassLoader$ContextOverridingClassLoader.class
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/support/ContextTypeMatchClassLoader$ContextOverridingClassLoader.class
+END
+AbstractXmlApplicationContext.class
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/support/AbstractXmlApplicationContext.class
+END
+MessageSourceResourceBundle.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/support/MessageSourceResourceBundle.class
+END
+FileSystemXmlApplicationContext.class
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/support/FileSystemXmlApplicationContext.class
+END
+AbstractRefreshableConfigApplicationContext.class
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/support/AbstractRefreshableConfigApplicationContext.class
+END
+AbstractApplicationContext$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/support/AbstractApplicationContext$1.class
+END
+ReloadableResourceBundleMessageSource.class
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/support/ReloadableResourceBundleMessageSource.class
+END
+LiveBeansView.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/support/LiveBeansView.class
+END
+ApplicationListenerDetector.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/support/ApplicationListenerDetector.class
+END
+DefaultLifecycleProcessor.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/support/DefaultLifecycleProcessor.class
+END
+DefaultMessageSourceResolvable.class
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/support/DefaultMessageSourceResolvable.class
+END
+ResourceBundleMessageSource.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/support/ResourceBundleMessageSource.class
+END
+DefaultLifecycleProcessor$LifecycleGroup.class
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/support/DefaultLifecycleProcessor$LifecycleGroup.class
+END
+EmbeddedValueResolutionSupport.class
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/support/EmbeddedValueResolutionSupport.class
+END
+MessageSourceSupport.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/support/MessageSourceSupport.class
+END
+AbstractResourceBasedMessageSource.class
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/support/AbstractResourceBasedMessageSource.class
+END
+GenericApplicationContext$ClassDerivedBeanDefinition.class
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/support/GenericApplicationContext$ClassDerivedBeanDefinition.class
+END
+ApplicationObjectSupport.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/support/ApplicationObjectSupport.class
+END
+StaticMessageSource.class
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/support/StaticMessageSource.class
+END
+ContextTypeMatchClassLoader.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/support/ContextTypeMatchClassLoader.class
+END

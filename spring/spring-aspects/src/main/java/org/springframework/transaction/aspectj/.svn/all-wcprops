@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/src/main/java/org/springframework/transaction/aspectj
+END
+AnnotationTransactionAspect.aj
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/src/main/java/org/springframework/transaction/aspectj/AnnotationTransactionAspect.aj
+END
+AbstractTransactionAspect.aj
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/src/main/java/org/springframework/transaction/aspectj/AbstractTransactionAspect.aj
+END
+JtaAnnotationTransactionAspect.aj
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/src/main/java/org/springframework/transaction/aspectj/JtaAnnotationTransactionAspect.aj
+END
+AspectJTransactionManagementConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/src/main/java/org/springframework/transaction/aspectj/AspectJTransactionManagementConfiguration.java
+END
+AspectJJtaTransactionManagementConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/src/main/java/org/springframework/transaction/aspectj/AspectJJtaTransactionManagementConfiguration.java
+END

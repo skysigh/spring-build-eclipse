@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core
+END
+ResolvableTypeTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/ResolvableTypeTests.java
+END
+NestedExceptionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/NestedExceptionTests.java
+END
+SortedPropertiesTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/SortedPropertiesTests.java
+END
+BridgeMethodResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/BridgeMethodResolverTests.java
+END
+LocalVariableTableParameterNameDiscovererTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/LocalVariableTableParameterNameDiscovererTests.java
+END
+ReactiveAdapterRegistryTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/ReactiveAdapterRegistryTests.java
+END
+SimpleAliasRegistryTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/SimpleAliasRegistryTests.java
+END
+AttributeAccessorSupportTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/AttributeAccessorSupportTests.java
+END
+ExceptionDepthComparatorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/ExceptionDepthComparatorTests.java
+END
+ParameterizedTypeReferenceTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/ParameterizedTypeReferenceTests.java
+END
+PrioritizedParameterNameDiscovererTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/PrioritizedParameterNameDiscovererTests.java
+END
+SerializableTypeWrapperTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/SerializableTypeWrapperTests.java
+END
+GenericTypeResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/GenericTypeResolverTests.java
+END
+ConventionsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/ConventionsTests.java
+END
+SpringCoreBlockHoundIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/SpringCoreBlockHoundIntegrationTests.java
+END
+CollectionFactoryTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/CollectionFactoryTests.java
+END
+MethodParameterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/MethodParameterTests.java
+END
+ConstantsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/ConstantsTests.java
+END
+StandardReflectionParameterNameDiscoverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/StandardReflectionParameterNameDiscoverTests.java
+END
+OrderComparatorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/OrderComparatorTests.java
+END

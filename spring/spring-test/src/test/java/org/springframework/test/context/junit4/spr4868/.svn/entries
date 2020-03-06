@@ -1,0 +1,52 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit4/spr4868
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+Jsr250LifecycleTests.java
+file
+
+
+
+
+2020-03-06T03:52:33.750000Z
+3979674aec5e63447d5675d4b4a6f335
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+LifecycleBean.java
+file
+
+
+
+
+2020-03-06T03:52:33.763000Z
+34e4b958e7cbd402c1e865cf882cd532
+2020-03-06T03:35:38.538472Z
+1
+wck
+

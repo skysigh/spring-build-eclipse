@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/build/resources/test/org/springframework/orm/jpa/hibernate
+END
+hibernate-manager-multi.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/build/resources/test/org/springframework/orm/jpa/hibernate/hibernate-manager-multi.xml
+END
+hibernate-manager.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/build/resources/test/org/springframework/orm/jpa/hibernate/hibernate-manager.xml
+END
+hibernate-manager-native.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/build/resources/test/org/springframework/orm/jpa/hibernate/hibernate-manager-native.xml
+END
+inject-hibernate-spring-bean-container-tests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/build/resources/test/org/springframework/orm/jpa/hibernate/inject-hibernate-spring-bean-container-tests.xml
+END

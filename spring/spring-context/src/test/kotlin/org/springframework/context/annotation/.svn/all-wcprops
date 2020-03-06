@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/kotlin/org/springframework/context/annotation
+END
+Spr16022Tests.kt
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/kotlin/org/springframework/context/annotation/Spr16022Tests.kt
+END
+KotlinConfigurationClassTests.kt
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/kotlin/org/springframework/context/annotation/KotlinConfigurationClassTests.kt
+END
+AnnotationConfigApplicationContextExtensionsTests.kt
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/kotlin/org/springframework/context/annotation/AnnotationConfigApplicationContextExtensionsTests.kt
+END

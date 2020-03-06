@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/aop/framework
+END
+Dependency.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/aop/framework/Dependency.java
+END
+IEcho.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/aop/framework/IEcho.java
+END
+ClassWithComplexConstructor.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/aop/framework/ClassWithComplexConstructor.java
+END
+AbstractAopProxyTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/aop/framework/AbstractAopProxyTests.java
+END
+Echo.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/aop/framework/Echo.java
+END
+JdkDynamicProxyTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/aop/framework/JdkDynamicProxyTests.java
+END
+ProxyFactoryBeanTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/aop/framework/ProxyFactoryBeanTests.java
+END
+CglibProxyTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/aop/framework/CglibProxyTests.java
+END
+ObjenesisProxyTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/aop/framework/ObjenesisProxyTests.java
+END

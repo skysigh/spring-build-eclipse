@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/src/main/java/org/springframework/cache/aspectj
+END
+AspectJJCacheConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/src/main/java/org/springframework/cache/aspectj/AspectJJCacheConfiguration.java
+END
+AbstractCacheAspect.aj
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/src/main/java/org/springframework/cache/aspectj/AbstractCacheAspect.aj
+END
+AnnotationCacheAspect.aj
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/src/main/java/org/springframework/cache/aspectj/AnnotationCacheAspect.aj
+END
+AspectJCachingConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/src/main/java/org/springframework/cache/aspectj/AspectJCachingConfiguration.java
+END
+JCacheCacheAspect.aj
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/src/main/java/org/springframework/cache/aspectj/JCacheCacheAspect.aj
+END
+AnyThrow.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/src/main/java/org/springframework/cache/aspectj/AnyThrow.java
+END

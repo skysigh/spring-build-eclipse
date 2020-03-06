@@ -1,0 +1,41 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/buildSrc/build/libs
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+buildSrc.jar
+file
+
+
+
+
+2020-03-06T03:43:57.764000Z
+feadd4703bdbdd12dfbc1c5bd1fb256d
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+

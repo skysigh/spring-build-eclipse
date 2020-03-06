@@ -1,0 +1,54 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-context/build/classes/kotlin/main/org/springframework/ui
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+ModelExtensionsKt.class
+file
+
+
+
+
+2020-03-06T03:47:05.532000Z
+e35e5e676e50a2b166a83d063456c05d
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+
+ModelMapExtensionsKt.class
+file
+
+
+
+
+2020-03-06T03:47:05.546000Z
+94b8141a2df0372f9da47e89187ecdde
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/test/java/org/springframework/jms/config
+END
+JmsListenerContainerFactoryIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/test/java/org/springframework/jms/config/JmsListenerContainerFactoryIntegrationTests.java
+END
+JmsListenerEndpointTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/test/java/org/springframework/jms/config/JmsListenerEndpointTests.java
+END
+JmsListenerEndpointRegistrarTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/test/java/org/springframework/jms/config/JmsListenerEndpointRegistrarTests.java
+END
+SimpleJmsListenerEndpointTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/test/java/org/springframework/jms/config/SimpleJmsListenerEndpointTests.java
+END
+JmsListenerContainerFactoryTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/test/java/org/springframework/jms/config/JmsListenerContainerFactoryTests.java
+END
+JmsNamespaceHandlerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/test/java/org/springframework/jms/config/JmsNamespaceHandlerTests.java
+END
+MethodJmsListenerEndpointTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/test/java/org/springframework/jms/config/MethodJmsListenerEndpointTests.java
+END
+MessageListenerTestContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/test/java/org/springframework/jms/config/MessageListenerTestContainer.java
+END
+JmsListenerContainerTestFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/test/java/org/springframework/jms/config/JmsListenerContainerTestFactory.java
+END
+JmsListenerEndpointRegistryTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/test/java/org/springframework/jms/config/JmsListenerEndpointRegistryTests.java
+END

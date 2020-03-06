@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/build/resources/test/org/springframework/test/web/servlet/samples/context
+END
+servlet-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/build/resources/test/org/springframework/test/web/servlet/samples/context/servlet-context.xml
+END
+root-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/build/resources/test/org/springframework/test/web/servlet/samples/context/root-context.xml
+END

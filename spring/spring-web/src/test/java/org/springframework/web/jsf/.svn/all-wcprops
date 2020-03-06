@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/jsf
+END
+DelegatingPhaseListenerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/jsf/DelegatingPhaseListenerTests.java
+END
+DelegatingNavigationHandlerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/jsf/DelegatingNavigationHandlerTests.java
+END
+MockLifecycle.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/jsf/MockLifecycle.java
+END
+MockFacesContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/jsf/MockFacesContext.java
+END

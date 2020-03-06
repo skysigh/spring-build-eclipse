@@ -1,0 +1,88 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-expression
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+.classpath
+file
+
+
+
+
+2020-03-06T03:49:40.375000Z
+9d7d0c5f9f4bfd980a315b112941ade1
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+.project
+file
+
+
+
+
+2020-03-06T03:49:40.387000Z
+5a22b5804a6bf09cbc254a8845bda1d0
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+.settings
+dir
+
+bin
+dir
+
+build
+dir
+
+readme.txt
+file
+
+
+
+
+2020-03-06T03:49:54.249000Z
+ff178c48c140b2137f17ac03cb19f727
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+spring-expression.gradle
+file
+
+
+
+
+2020-03-06T03:49:54.261000Z
+042f42aa975ed088ec927a637e382621
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+src
+dir
+

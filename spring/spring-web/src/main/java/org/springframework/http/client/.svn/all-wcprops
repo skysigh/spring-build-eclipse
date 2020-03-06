@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/client
+END
+HttpComponentsAsyncClientHttpResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/client/HttpComponentsAsyncClientHttpResponse.java
+END
+OkHttp3ClientHttpRequestFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/client/OkHttp3ClientHttpRequestFactory.java
+END
+HttpComponentsAsyncClientHttpRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/client/HttpComponentsAsyncClientHttpRequest.java
+END
+AsyncClientHttpRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/client/AsyncClientHttpRequest.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/client/package-info.java
+END
+AsyncClientHttpRequestExecution.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/client/AsyncClientHttpRequestExecution.java
+END
+AbstractClientHttpResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/client/AbstractClientHttpResponse.java
+END
+InterceptingAsyncClientHttpRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/client/InterceptingAsyncClientHttpRequest.java
+END
+Netty4ClientHttpResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/client/Netty4ClientHttpResponse.java
+END
+OkHttp3AsyncClientHttpRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/client/OkHttp3AsyncClientHttpRequest.java
+END
+AbstractClientHttpRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/client/AbstractClientHttpRequest.java
+END
+SimpleStreamingAsyncClientHttpRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/client/SimpleStreamingAsyncClientHttpRequest.java
+END
+SimpleStreamingClientHttpRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/client/SimpleStreamingClientHttpRequest.java
+END
+AbstractClientHttpRequestFactoryWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/client/AbstractClientHttpRequestFactoryWrapper.java
+END
+ClientHttpRequestInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/client/ClientHttpRequestInitializer.java
+END
+AbstractBufferingClientHttpRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/client/AbstractBufferingClientHttpRequest.java
+END
+ClientHttpRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/client/ClientHttpRequest.java
+END
+HttpComponentsClientHttpResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/client/HttpComponentsClientHttpResponse.java
+END
+BufferingClientHttpRequestFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/client/BufferingClientHttpRequestFactory.java
+END
+SimpleBufferingAsyncClientHttpRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/client/SimpleBufferingAsyncClientHttpRequest.java
+END
+AbstractBufferingAsyncClientHttpRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/client/AbstractBufferingAsyncClientHttpRequest.java
+END
+InterceptingClientHttpRequestFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/client/InterceptingClientHttpRequestFactory.java
+END
+HttpComponentsClientHttpRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/client/HttpComponentsClientHttpRequest.java
+END
+AsyncClientHttpRequestFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/client/AsyncClientHttpRequestFactory.java
+END
+BufferingClientHttpRequestWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/client/BufferingClientHttpRequestWrapper.java
+END
+ClientHttpRequestExecution.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/client/ClientHttpRequestExecution.java
+END
+ClientHttpResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/client/ClientHttpResponse.java
+END
+HttpComponentsAsyncClientHttpRequestFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/client/HttpComponentsAsyncClientHttpRequestFactory.java
+END
+SimpleBufferingClientHttpRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/client/SimpleBufferingClientHttpRequest.java
+END
+InterceptingAsyncClientHttpRequestFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/client/InterceptingAsyncClientHttpRequestFactory.java
+END
+ClientHttpRequestInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/client/ClientHttpRequestInterceptor.java
+END
+Netty4ClientHttpRequestFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/client/Netty4ClientHttpRequestFactory.java
+END
+OkHttp3ClientHttpRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/client/OkHttp3ClientHttpRequest.java
+END
+Netty4ClientHttpRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/client/Netty4ClientHttpRequest.java
+END
+ClientHttpRequestFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/client/ClientHttpRequestFactory.java
+END
+AbstractAsyncClientHttpRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/client/AbstractAsyncClientHttpRequest.java
+END
+AsyncClientHttpRequestInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/client/AsyncClientHttpRequestInterceptor.java
+END
+BufferingClientHttpResponseWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/client/BufferingClientHttpResponseWrapper.java
+END
+InterceptingClientHttpRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/client/InterceptingClientHttpRequest.java
+END
+SimpleClientHttpRequestFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/client/SimpleClientHttpRequestFactory.java
+END
+HttpComponentsClientHttpRequestFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/client/HttpComponentsClientHttpRequestFactory.java
+END
+HttpComponentsStreamingClientHttpRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/client/HttpComponentsStreamingClientHttpRequest.java
+END
+SimpleClientHttpResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/client/SimpleClientHttpResponse.java
+END
+OkHttp3ClientHttpResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/client/OkHttp3ClientHttpResponse.java
+END
+MultipartBodyBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/client/MultipartBodyBuilder.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/aopalliance/intercept
+END
+MethodInterceptor.class
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/aopalliance/intercept/MethodInterceptor.class
+END
+MethodInvocation.class
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/aopalliance/intercept/MethodInvocation.class
+END
+ConstructorInterceptor.class
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/aopalliance/intercept/ConstructorInterceptor.class
+END
+Invocation.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/aopalliance/intercept/Invocation.class
+END
+Joinpoint.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/aopalliance/intercept/Joinpoint.class
+END
+ConstructorInvocation.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/aopalliance/intercept/ConstructorInvocation.class
+END
+Interceptor.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/aopalliance/intercept/Interceptor.class
+END

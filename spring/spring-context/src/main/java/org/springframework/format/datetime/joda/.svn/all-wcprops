@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/format/datetime/joda
+END
+DateTimeFormatterFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/format/datetime/joda/DateTimeFormatterFactoryBean.java
+END
+JodaTimeConverters.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/format/datetime/joda/JodaTimeConverters.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/format/datetime/joda/package-info.java
+END
+JodaTimeFormatterRegistrar.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/format/datetime/joda/JodaTimeFormatterRegistrar.java
+END
+ReadablePartialPrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/format/datetime/joda/ReadablePartialPrinter.java
+END
+MonthDayFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/format/datetime/joda/MonthDayFormatter.java
+END
+DateTimeFormatterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/format/datetime/joda/DateTimeFormatterFactory.java
+END
+LocalTimeParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/format/datetime/joda/LocalTimeParser.java
+END
+PeriodFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/format/datetime/joda/PeriodFormatter.java
+END
+YearMonthFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/format/datetime/joda/YearMonthFormatter.java
+END
+LocalDateParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/format/datetime/joda/LocalDateParser.java
+END
+JodaTimeContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/format/datetime/joda/JodaTimeContext.java
+END
+MillisecondInstantPrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/format/datetime/joda/MillisecondInstantPrinter.java
+END
+JodaDateTimeFormatAnnotationFormatterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/format/datetime/joda/JodaDateTimeFormatAnnotationFormatterFactory.java
+END
+DurationFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/format/datetime/joda/DurationFormatter.java
+END
+LocalDateTimeParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/format/datetime/joda/LocalDateTimeParser.java
+END
+JodaTimeContextHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/format/datetime/joda/JodaTimeContextHolder.java
+END
+DateTimeParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/format/datetime/joda/DateTimeParser.java
+END
+ReadableInstantPrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/format/datetime/joda/ReadableInstantPrinter.java
+END

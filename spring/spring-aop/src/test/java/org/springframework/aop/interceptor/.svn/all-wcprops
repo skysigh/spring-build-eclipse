@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/test/java/org/springframework/aop/interceptor
+END
+CustomizableTraceInterceptorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/test/java/org/springframework/aop/interceptor/CustomizableTraceInterceptorTests.java
+END
+DebugInterceptorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/test/java/org/springframework/aop/interceptor/DebugInterceptorTests.java
+END
+PerformanceMonitorInterceptorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/test/java/org/springframework/aop/interceptor/PerformanceMonitorInterceptorTests.java
+END
+ExposeBeanNameAdvisorsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/test/java/org/springframework/aop/interceptor/ExposeBeanNameAdvisorsTests.java
+END
+SimpleTraceInterceptorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/test/java/org/springframework/aop/interceptor/SimpleTraceInterceptorTests.java
+END
+JamonPerformanceMonitorInterceptorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/test/java/org/springframework/aop/interceptor/JamonPerformanceMonitorInterceptorTests.java
+END
+ExposeInvocationInterceptorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/test/java/org/springframework/aop/interceptor/ExposeInvocationInterceptorTests.java
+END
+ConcurrencyThrottleInterceptorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/test/java/org/springframework/aop/interceptor/ConcurrencyThrottleInterceptorTests.java
+END

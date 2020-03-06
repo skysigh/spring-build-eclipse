@@ -1,0 +1,106 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-test/src/test/java/org/springframework/test/context/testng
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+AnnotationConfigTestNGSpringContextTests.java
+file
+
+
+
+
+2020-03-06T03:52:35.013000Z
+ac58a6be33bfba3b54305408f4af4272
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+AnnotationConfigTransactionalTestNGSpringContextTests.java
+file
+
+
+
+
+2020-03-06T03:52:35.024000Z
+79d4ac3a75b8ba2e3cc222eadb0f1be7
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+ConcreteTransactionalTestNGSpringContextTests.java
+file
+
+
+
+
+2020-03-06T03:52:35.036000Z
+2280ab73077701b343776d2cd4d9482d
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+DirtiesContextTransactionalTestNGSpringContextTests.java
+file
+
+
+
+
+2020-03-06T03:52:35.048000Z
+024a28cb7a7f86067cafcf4202641dbd
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+TimedTransactionalTestNGSpringContextTests.java
+file
+
+
+
+
+2020-03-06T03:52:35.058000Z
+eec318938a9cab8ec5784e9be0f12090
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+TrackingTestNGTestListener.java
+file
+
+
+
+
+2020-03-06T03:52:35.070000Z
+9874dd905e5da5320a38c2520a21f497
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+transaction
+dir
+
+web
+dir
+

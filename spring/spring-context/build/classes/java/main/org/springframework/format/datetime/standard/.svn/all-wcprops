@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/standard
+END
+DateTimeConverters$OffsetDateTimeToInstantConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/standard/DateTimeConverters$OffsetDateTimeToInstantConverter.class
+END
+DateTimeConverters$ZonedDateTimeToInstantConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/standard/DateTimeConverters$ZonedDateTimeToInstantConverter.class
+END
+YearFormatter.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/standard/YearFormatter.class
+END
+MonthFormatter.class
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/standard/MonthFormatter.class
+END
+YearMonthFormatter.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/standard/YearMonthFormatter.class
+END
+DateTimeConverters$LocalDateTimeToLocalTimeConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/standard/DateTimeConverters$LocalDateTimeToLocalTimeConverter.class
+END
+DateTimeConverters$OffsetDateTimeToLocalTimeConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/standard/DateTimeConverters$OffsetDateTimeToLocalTimeConverter.class
+END
+Jsr310DateTimeFormatAnnotationFormatterFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/standard/Jsr310DateTimeFormatAnnotationFormatterFactory.class
+END
+DateTimeConverters$CalendarToLocalDateTimeConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/standard/DateTimeConverters$CalendarToLocalDateTimeConverter.class
+END
+DateTimeConverters$CalendarToLocalTimeConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/standard/DateTimeConverters$CalendarToLocalTimeConverter.class
+END
+MonthDayFormatter.class
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/standard/MonthDayFormatter.class
+END
+package-info.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/standard/package-info.class
+END
+DateTimeConverters$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/standard/DateTimeConverters$1.class
+END
+DateTimeConverters$OffsetDateTimeToLocalDateTimeConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/standard/DateTimeConverters$OffsetDateTimeToLocalDateTimeConverter.class
+END
+TemporalAccessorPrinter.class
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/standard/TemporalAccessorPrinter.class
+END
+DateTimeConverters$LocalDateTimeToLocalDateConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/standard/DateTimeConverters$LocalDateTimeToLocalDateConverter.class
+END
+DateTimeConverters$OffsetDateTimeToLocalDateConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/standard/DateTimeConverters$OffsetDateTimeToLocalDateConverter.class
+END
+DateTimeConverters$CalendarToOffsetDateTimeConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/standard/DateTimeConverters$CalendarToOffsetDateTimeConverter.class
+END
+DateTimeConverters$OffsetDateTimeToZonedDateTimeConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/standard/DateTimeConverters$OffsetDateTimeToZonedDateTimeConverter.class
+END
+DateTimeContextHolder.class
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/standard/DateTimeContextHolder.class
+END
+DateTimeFormatterFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/standard/DateTimeFormatterFactory.class
+END
+TemporalAccessorParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/standard/TemporalAccessorParser.class
+END
+PeriodFormatter.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/standard/PeriodFormatter.class
+END
+DateTimeFormatterFactory$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/standard/DateTimeFormatterFactory$1.class
+END
+DateTimeFormatterRegistrar$Type.class
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/standard/DateTimeFormatterRegistrar$Type.class
+END
+DateTimeConverters.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/standard/DateTimeConverters.class
+END
+DateTimeFormatterRegistrar.class
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/standard/DateTimeFormatterRegistrar.class
+END
+DateTimeContext.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/standard/DateTimeContext.class
+END
+DateTimeConverters$InstantToLongConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/standard/DateTimeConverters$InstantToLongConverter.class
+END
+InstantFormatter.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/standard/InstantFormatter.class
+END
+DateTimeConverters$ZonedDateTimeToLocalDateConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/standard/DateTimeConverters$ZonedDateTimeToLocalDateConverter.class
+END
+DateTimeConverters$LongToInstantConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/standard/DateTimeConverters$LongToInstantConverter.class
+END
+DurationFormatter.class
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/standard/DurationFormatter.class
+END
+DateTimeFormatterFactoryBean.class
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/standard/DateTimeFormatterFactoryBean.class
+END
+DateTimeConverters$CalendarToInstantConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/standard/DateTimeConverters$CalendarToInstantConverter.class
+END
+DateTimeFormatterRegistrar$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/standard/DateTimeFormatterRegistrar$1.class
+END
+DateTimeConverters$CalendarToLocalDateConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/standard/DateTimeConverters$CalendarToLocalDateConverter.class
+END
+DateTimeConverters$ZonedDateTimeToOffsetDateTimeConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/standard/DateTimeConverters$ZonedDateTimeToOffsetDateTimeConverter.class
+END
+DateTimeConverters$ZonedDateTimeToLocalDateTimeConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/standard/DateTimeConverters$ZonedDateTimeToLocalDateTimeConverter.class
+END
+DateTimeConverters$ZonedDateTimeToLocalTimeConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/standard/DateTimeConverters$ZonedDateTimeToLocalTimeConverter.class
+END
+DateTimeConverters$CalendarToZonedDateTimeConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/format/datetime/standard/DateTimeConverters$CalendarToZonedDateTimeConverter.class
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/test/java/org/springframework/orm/jpa/persistenceunit
+END
+PersistenceXmlParsingTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/test/java/org/springframework/orm/jpa/persistenceunit/PersistenceXmlParsingTests.java
+END
+DefaultPersistenceUnitManagerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/test/java/org/springframework/orm/jpa/persistenceunit/DefaultPersistenceUnitManagerTests.java
+END

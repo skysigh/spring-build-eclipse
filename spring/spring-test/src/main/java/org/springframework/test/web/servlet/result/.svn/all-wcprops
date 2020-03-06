@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/servlet/result
+END
+MockMvcResultMatchers.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/servlet/result/MockMvcResultMatchers.java
+END
+RequestResultMatchers.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/servlet/result/RequestResultMatchers.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/servlet/result/package-info.java
+END
+StatusResultMatchers.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/servlet/result/StatusResultMatchers.java
+END
+MockMvcResultHandlers.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/servlet/result/MockMvcResultHandlers.java
+END
+ModelResultMatchers.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/servlet/result/ModelResultMatchers.java
+END
+ContentResultMatchers.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/servlet/result/ContentResultMatchers.java
+END
+ViewResultMatchers.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/servlet/result/ViewResultMatchers.java
+END
+PrintingResultHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/servlet/result/PrintingResultHandler.java
+END
+HandlerResultMatchers.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/servlet/result/HandlerResultMatchers.java
+END
+CookieResultMatchers.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/servlet/result/CookieResultMatchers.java
+END
+HeaderResultMatchers.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/servlet/result/HeaderResultMatchers.java
+END
+FlashAttributeResultMatchers.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/servlet/result/FlashAttributeResultMatchers.java
+END
+JsonPathResultMatchers.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/servlet/result/JsonPathResultMatchers.java
+END
+XpathResultMatchers.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/web/servlet/result/XpathResultMatchers.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/context/groovy
+END
+applicationContext.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/context/groovy/applicationContext.groovy
+END
+applicationContext2.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/context/groovy/applicationContext2.groovy
+END
+applicationContext-error.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/context/groovy/applicationContext-error.groovy
+END
+test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/context/groovy/test.xml
+END

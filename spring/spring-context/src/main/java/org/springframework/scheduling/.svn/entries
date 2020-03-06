@@ -1,0 +1,124 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-context/src/main/java/org/springframework/scheduling
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+SchedulingAwareRunnable.java
+file
+
+
+
+
+2020-03-06T03:47:23.787000Z
+94d0dc854a0bd99fb4438621fcc7cef7
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+SchedulingException.java
+file
+
+
+
+
+2020-03-06T03:47:23.798000Z
+b033bbc3db8d7fda706589aa4a73917e
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+SchedulingTaskExecutor.java
+file
+
+
+
+
+2020-03-06T03:47:23.809000Z
+1dd0542a3c38df8f373a39c7423f8e9c
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+TaskScheduler.java
+file
+
+
+
+
+2020-03-06T03:47:23.821000Z
+6cf09ecee3f92cc971fd3d4f2181c9f9
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+Trigger.java
+file
+
+
+
+
+2020-03-06T03:47:23.833000Z
+4f21ddf23ad13668cb3d02c2ad5edd5d
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+TriggerContext.java
+file
+
+
+
+
+2020-03-06T03:47:23.843000Z
+040202b9177ef7aed94655ce91ea97b3
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+annotation
+dir
+
+concurrent
+dir
+
+config
+dir
+
+package-info.java
+file
+
+
+
+
+2020-03-06T03:47:24.778000Z
+79410e940b5b96f73d8a85ae4337b6f2
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+support
+dir
+

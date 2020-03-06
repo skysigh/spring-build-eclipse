@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/main/java/org/springframework/web/reactive/resource
+END
+TransformedResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/main/java/org/springframework/web/reactive/resource/TransformedResource.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/main/java/org/springframework/web/reactive/resource/package-info.java
+END
+ResourceResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/main/java/org/springframework/web/reactive/resource/ResourceResolver.java
+END
+EncodedResourceResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/main/java/org/springframework/web/reactive/resource/EncodedResourceResolver.java
+END
+VersionResourceResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/main/java/org/springframework/web/reactive/resource/VersionResourceResolver.java
+END
+DefaultResourceTransformerChain.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/main/java/org/springframework/web/reactive/resource/DefaultResourceTransformerChain.java
+END
+ResourceResolverChain.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/main/java/org/springframework/web/reactive/resource/ResourceResolverChain.java
+END
+ContentVersionStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/main/java/org/springframework/web/reactive/resource/ContentVersionStrategy.java
+END
+AbstractPrefixVersionStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/main/java/org/springframework/web/reactive/resource/AbstractPrefixVersionStrategy.java
+END
+CachingResourceTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/main/java/org/springframework/web/reactive/resource/CachingResourceTransformer.java
+END
+VersionStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/main/java/org/springframework/web/reactive/resource/VersionStrategy.java
+END
+WebJarsResourceResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/main/java/org/springframework/web/reactive/resource/WebJarsResourceResolver.java
+END
+DefaultResourceResolverChain.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/main/java/org/springframework/web/reactive/resource/DefaultResourceResolverChain.java
+END
+PathResourceResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/main/java/org/springframework/web/reactive/resource/PathResourceResolver.java
+END
+HttpResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/main/java/org/springframework/web/reactive/resource/HttpResource.java
+END
+CachingResourceResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/main/java/org/springframework/web/reactive/resource/CachingResourceResolver.java
+END
+AbstractFileNameVersionStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/main/java/org/springframework/web/reactive/resource/AbstractFileNameVersionStrategy.java
+END
+AbstractResourceResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/main/java/org/springframework/web/reactive/resource/AbstractResourceResolver.java
+END
+ResourceTransformerChain.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/main/java/org/springframework/web/reactive/resource/ResourceTransformerChain.java
+END
+ResourceTransformerSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/main/java/org/springframework/web/reactive/resource/ResourceTransformerSupport.java
+END
+FixedVersionStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/main/java/org/springframework/web/reactive/resource/FixedVersionStrategy.java
+END
+GzipResourceResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/main/java/org/springframework/web/reactive/resource/GzipResourceResolver.java
+END
+CssLinkResourceTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/main/java/org/springframework/web/reactive/resource/CssLinkResourceTransformer.java
+END
+AppCacheManifestTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/main/java/org/springframework/web/reactive/resource/AppCacheManifestTransformer.java
+END
+ResourceTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/main/java/org/springframework/web/reactive/resource/ResourceTransformer.java
+END
+ResourceUrlProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/main/java/org/springframework/web/reactive/resource/ResourceUrlProvider.java
+END
+ResourceWebHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/main/java/org/springframework/web/reactive/resource/ResourceWebHandler.java
+END

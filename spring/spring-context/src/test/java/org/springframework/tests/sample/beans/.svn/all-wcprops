@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/tests/sample/beans
+END
+FieldAccessBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/tests/sample/beans/FieldAccessBean.java
+END
+ResourceTestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/tests/sample/beans/ResourceTestBean.java
+END
+BeanWithObjectProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/tests/sample/beans/BeanWithObjectProperty.java
+END

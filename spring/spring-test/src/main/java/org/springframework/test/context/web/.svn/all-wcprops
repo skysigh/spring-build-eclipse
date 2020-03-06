@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/context/web
+END
+AbstractGenericWebContextLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/context/web/AbstractGenericWebContextLoader.java
+END
+AnnotationConfigWebContextLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/context/web/AnnotationConfigWebContextLoader.java
+END
+WebAppConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/context/web/WebAppConfiguration.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/context/web/package-info.java
+END
+WebMergedContextConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/context/web/WebMergedContextConfiguration.java
+END
+GenericXmlWebContextLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/context/web/GenericXmlWebContextLoader.java
+END
+ServletTestExecutionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/context/web/ServletTestExecutionListener.java
+END
+GenericGroovyXmlWebContextLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/context/web/GenericGroovyXmlWebContextLoader.java
+END
+WebDelegatingSmartContextLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/context/web/WebDelegatingSmartContextLoader.java
+END
+WebTestContextBootstrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/context/web/WebTestContextBootstrapper.java
+END

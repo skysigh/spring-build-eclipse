@@ -1,0 +1,76 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-instrument
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+.classpath
+file
+
+
+
+
+2020-03-06T03:49:59.078000Z
+2f84a76d4887541e59e02a05ff696f1d
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+.project
+file
+
+
+
+
+2020-03-06T03:49:59.090000Z
+64886c0f2eccc78e392c6ae72a566fef
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+.settings
+dir
+
+bin
+dir
+
+build
+dir
+
+spring-instrument.gradle
+file
+
+
+
+
+2020-03-06T03:50:00.292000Z
+3488b509544991a1501fef0df89004af
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+src
+dir
+

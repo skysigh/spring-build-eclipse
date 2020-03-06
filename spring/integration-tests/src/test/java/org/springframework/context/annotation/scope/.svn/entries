@@ -1,0 +1,40 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/integration-tests/src/test/java/org/springframework/context/annotation/scope
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+ClassPathBeanDefinitionScannerScopeIntegrationTests.java
+file
+
+
+
+
+2020-03-06T03:44:06.017000Z
+ac74d72f29b5ebe8b7c9971aad86f4df
+2020-03-06T03:35:38.538472Z
+1
+wck
+

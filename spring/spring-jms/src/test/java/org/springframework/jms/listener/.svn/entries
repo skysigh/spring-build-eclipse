@@ -1,0 +1,58 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-jms/src/test/java/org/springframework/jms/listener
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+DefaultMessageListenerContainerTests.java
+file
+
+
+
+
+2020-03-06T03:50:43.936000Z
+f50f643f1eaee1045b529ab4d50b46d8
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+SimpleMessageListenerContainerTests.java
+file
+
+
+
+
+2020-03-06T03:50:43.950000Z
+1aacc99f0afbfcbad0e3e660698f5712
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+adapter
+dir
+
+endpoint
+dir
+

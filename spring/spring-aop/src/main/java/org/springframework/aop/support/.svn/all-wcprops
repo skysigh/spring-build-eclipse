@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/support
+END
+MethodMatchers.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/support/MethodMatchers.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/support/package-info.java
+END
+AbstractRegexpMethodPointcut.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/support/AbstractRegexpMethodPointcut.java
+END
+DynamicMethodMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/support/DynamicMethodMatcher.java
+END
+IntroductionInfoSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/support/IntroductionInfoSupport.java
+END
+AbstractBeanFactoryPointcutAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/support/AbstractBeanFactoryPointcutAdvisor.java
+END
+ComposablePointcut.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/support/ComposablePointcut.java
+END
+AbstractExpressionPointcut.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/support/AbstractExpressionPointcut.java
+END
+StaticMethodMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/support/StaticMethodMatcher.java
+END
+DynamicMethodMatcherPointcut.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/support/DynamicMethodMatcherPointcut.java
+END
+DefaultIntroductionAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/support/DefaultIntroductionAdvisor.java
+END
+NameMatchMethodPointcut.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/support/NameMatchMethodPointcut.java
+END
+AbstractGenericPointcutAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/support/AbstractGenericPointcutAdvisor.java
+END
+DelegatingIntroductionInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/support/DelegatingIntroductionInterceptor.java
+END
+RegexpMethodPointcutAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/support/RegexpMethodPointcutAdvisor.java
+END
+ControlFlowPointcut.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/support/ControlFlowPointcut.java
+END
+ExpressionPointcut.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/support/ExpressionPointcut.java
+END
+RootClassFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/support/RootClassFilter.java
+END
+DefaultPointcutAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/support/DefaultPointcutAdvisor.java
+END
+NameMatchMethodPointcutAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/support/NameMatchMethodPointcutAdvisor.java
+END
+AopUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/support/AopUtils.java
+END
+AbstractPointcutAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/support/AbstractPointcutAdvisor.java
+END
+StaticMethodMatcherPointcutAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/support/StaticMethodMatcherPointcutAdvisor.java
+END
+JdkRegexpMethodPointcut.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/support/JdkRegexpMethodPointcut.java
+END
+DelegatePerTargetObjectIntroductionInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/support/DelegatePerTargetObjectIntroductionInterceptor.java
+END
+DefaultBeanFactoryPointcutAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/support/DefaultBeanFactoryPointcutAdvisor.java
+END
+StaticMethodMatcherPointcut.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/support/StaticMethodMatcherPointcut.java
+END
+Pointcuts.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/support/Pointcuts.java
+END
+ClassFilters.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/support/ClassFilters.java
+END

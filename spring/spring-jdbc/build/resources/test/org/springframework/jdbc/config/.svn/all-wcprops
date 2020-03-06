@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/build/resources/test/org/springframework/jdbc/config
+END
+jdbc-config-db-name-default-and-anonymous-datasource.xml
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/build/resources/test/org/springframework/jdbc/config/jdbc-config-db-name-default-and-anonymous-datasource.xml
+END
+jdbc-initialize-endings-nested-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/build/resources/test/org/springframework/jdbc/config/jdbc-initialize-endings-nested-config.xml
+END
+db-test-data-endings.sql
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/build/resources/test/org/springframework/jdbc/config/db-test-data-endings.sql
+END
+jdbc-initialize-cache-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/build/resources/test/org/springframework/jdbc/config/jdbc-initialize-cache-config.xml
+END
+jdbc-initialize-endings-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/build/resources/test/org/springframework/jdbc/config/jdbc-initialize-endings-config.xml
+END
+jdbc-initialize-expression-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/build/resources/test/org/springframework/jdbc/config/jdbc-initialize-expression-config.xml
+END
+db-drops.sql
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/build/resources/test/org/springframework/jdbc/config/db-drops.sql
+END
+db-test-data.sql
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/build/resources/test/org/springframework/jdbc/config/db-test-data.sql
+END
+db-update-data.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/build/resources/test/org/springframework/jdbc/config/db-update-data.sql
+END
+jdbc-initialize-pattern-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/build/resources/test/org/springframework/jdbc/config/jdbc-initialize-pattern-config.xml
+END
+jdbc-config-pattern.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/build/resources/test/org/springframework/jdbc/config/jdbc-config-pattern.xml
+END
+jdbc-config-db-name-implicit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/build/resources/test/org/springframework/jdbc/config/jdbc-config-db-name-implicit.xml
+END
+db-schema.sql
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/build/resources/test/org/springframework/jdbc/config/db-schema.sql
+END
+jdbc-config-db-name-generated.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/build/resources/test/org/springframework/jdbc/config/jdbc-config-db-name-generated.xml
+END
+jdbc-destroy-nested-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/build/resources/test/org/springframework/jdbc/config/jdbc-destroy-nested-config.xml
+END
+jdbc-initialize-placeholder-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/build/resources/test/org/springframework/jdbc/config/jdbc-initialize-placeholder-config.xml
+END
+jdbc-config-db-name-explicit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/build/resources/test/org/springframework/jdbc/config/jdbc-config-db-name-explicit.xml
+END
+jdbc-initialize-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/build/resources/test/org/springframework/jdbc/config/jdbc-initialize-config.xml
+END
+jdbc-config-multiple-datasources.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/build/resources/test/org/springframework/jdbc/config/jdbc-config-multiple-datasources.xml
+END
+jdbc-initialize-fail-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/build/resources/test/org/springframework/jdbc/config/jdbc-initialize-fail-config.xml
+END
+jdbc-config-custom-separator.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/build/resources/test/org/springframework/jdbc/config/jdbc-config-custom-separator.xml
+END
+jdbc-initialize-custom-separator.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/build/resources/test/org/springframework/jdbc/config/jdbc-initialize-custom-separator.xml
+END
+jdbc-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/build/resources/test/org/springframework/jdbc/config/jdbc-config.xml
+END
+jdbc-destroy-nested-config-h2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/build/resources/test/org/springframework/jdbc/config/jdbc-destroy-nested-config-h2.xml
+END
+db-schema-derby.sql
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/build/resources/test/org/springframework/jdbc/config/db-schema-derby.sql
+END
+jdbc-destroy-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/build/resources/test/org/springframework/jdbc/config/jdbc-destroy-config.xml
+END

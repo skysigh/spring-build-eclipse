@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/util/xml
+END
+DomContentHandlerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/util/xml/DomContentHandlerTests.java
+END
+XmlValidationModeDetectorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/util/xml/XmlValidationModeDetectorTests.java
+END
+ListBasedXMLEventReaderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/util/xml/ListBasedXMLEventReaderTests.java
+END
+XMLEventStreamReaderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/util/xml/XMLEventStreamReaderTests.java
+END
+TransformerUtilsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/util/xml/TransformerUtilsTests.java
+END
+XMLEventStreamWriterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/util/xml/XMLEventStreamWriterTests.java
+END
+StaxUtilsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/util/xml/StaxUtilsTests.java
+END
+StaxEventHandlerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/util/xml/StaxEventHandlerTests.java
+END
+StaxSourceTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/util/xml/StaxSourceTests.java
+END
+StaxStreamHandlerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/util/xml/StaxStreamHandlerTests.java
+END
+AbstractStaxXMLReaderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/util/xml/AbstractStaxXMLReaderTests.java
+END
+StaxStreamXMLReaderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/util/xml/StaxStreamXMLReaderTests.java
+END
+StaxEventXMLReaderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/util/xml/StaxEventXMLReaderTests.java
+END
+SimpleNamespaceContextTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/util/xml/SimpleNamespaceContextTests.java
+END
+StaxResultTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/util/xml/StaxResultTests.java
+END
+AbstractStaxHandlerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/util/xml/AbstractStaxHandlerTests.java
+END

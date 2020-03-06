@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/io/buffer
+END
+DataBufferWrapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/io/buffer/DataBufferWrapper.class
+END
+DataBufferUtils$ReadCompletionHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/io/buffer/DataBufferUtils$ReadCompletionHandler.class
+END
+DefaultDataBuffer$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/io/buffer/DefaultDataBuffer$1.class
+END
+DataBufferUtils.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/io/buffer/DataBufferUtils.class
+END
+LimitedDataBufferList.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/io/buffer/LimitedDataBufferList.class
+END
+DefaultDataBuffer$DefaultDataBufferOutputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/io/buffer/DefaultDataBuffer$DefaultDataBufferOutputStream.class
+END
+DataBufferUtils$WritableByteChannelSubscriber.class
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/io/buffer/DataBufferUtils$WritableByteChannelSubscriber.class
+END
+DataBufferUtils$Matcher.class
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/io/buffer/DataBufferUtils$Matcher.class
+END
+DataBufferUtils$WriteCompletionHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/io/buffer/DataBufferUtils$WriteCompletionHandler.class
+END
+DefaultDataBuffer.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/io/buffer/DefaultDataBuffer.class
+END
+DefaultDataBufferFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/io/buffer/DefaultDataBufferFactory.class
+END
+DataBufferUtils$ReadableByteChannelGenerator.class
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/io/buffer/DataBufferUtils$ReadableByteChannelGenerator.class
+END
+DataBufferUtils$CompositeMatcher.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/io/buffer/DataBufferUtils$CompositeMatcher.class
+END
+package-info.class
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/io/buffer/package-info.class
+END
+DefaultDataBuffer$SlicedDefaultDataBuffer.class
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/io/buffer/DefaultDataBuffer$SlicedDefaultDataBuffer.class
+END
+DataBufferFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/io/buffer/DataBufferFactory.class
+END
+DataBufferUtils$KnuthMorrisPrattMatcher.class
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/io/buffer/DataBufferUtils$KnuthMorrisPrattMatcher.class
+END
+DefaultDataBuffer$DefaultDataBufferInputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/io/buffer/DefaultDataBuffer$DefaultDataBufferInputStream.class
+END
+DataBuffer.class
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/io/buffer/DataBuffer.class
+END
+NettyDataBufferFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/io/buffer/NettyDataBufferFactory.class
+END
+NettyDataBuffer.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/io/buffer/NettyDataBuffer.class
+END
+PooledDataBuffer.class
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/io/buffer/PooledDataBuffer.class
+END
+DataBufferLimitException.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/io/buffer/DataBufferLimitException.class
+END

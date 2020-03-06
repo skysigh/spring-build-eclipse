@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/server/session
+END
+DefaultWebSessionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/server/session/DefaultWebSessionManager.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/server/session/package-info.java
+END
+WebSessionIdResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/server/session/WebSessionIdResolver.java
+END
+CookieWebSessionIdResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/server/session/CookieWebSessionIdResolver.java
+END
+WebSessionStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/server/session/WebSessionStore.java
+END
+InMemoryWebSessionStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/server/session/InMemoryWebSessionStore.java
+END
+HeaderWebSessionIdResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/server/session/HeaderWebSessionIdResolver.java
+END
+WebSessionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/server/session/WebSessionManager.java
+END

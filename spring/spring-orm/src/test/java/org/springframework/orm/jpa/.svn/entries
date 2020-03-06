@@ -1,0 +1,187 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-orm/src/test/java/org/springframework/orm/jpa
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+AbstractContainerEntityManagerFactoryIntegrationTests.java
+file
+
+
+
+
+2020-03-06T03:51:16.924000Z
+28377a77aa0d67151c3c13d1fa9bd08d
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+AbstractEntityManagerFactoryBeanTests.java
+file
+
+
+
+
+2020-03-06T03:51:16.941000Z
+5a36afcd11cbea582df4e2db36f2c35a
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+AbstractEntityManagerFactoryIntegrationTests.java
+file
+
+
+
+
+2020-03-06T03:51:16.954000Z
+608dbdd4110c7591eb5273dd930f9960
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+ApplicationManagedEntityManagerIntegrationTests.java
+file
+
+
+
+
+2020-03-06T03:51:16.967000Z
+55bfec8dd22625bc33ca1f85b3691f5d
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+ContainerManagedEntityManagerIntegrationTests.java
+file
+
+
+
+
+2020-03-06T03:51:16.981000Z
+42259bdf648862a6ef47fee8f4d18866
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+DefaultJpaDialectTests.java
+file
+
+
+
+
+2020-03-06T03:51:16.997000Z
+7c324a0a6a7c963095538119d582153c
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+EntityManagerFactoryBeanSupportTests.java
+file
+
+
+
+
+2020-03-06T03:51:17.009000Z
+ae36aa74e4999ae79dc4b7a845bf7935
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+EntityManagerFactoryUtilsTests.java
+file
+
+
+
+
+2020-03-06T03:51:17.021000Z
+a4d2d905301411b3b346ba7beb371431
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+JpaTransactionManagerTests.java
+file
+
+
+
+
+2020-03-06T03:51:17.034000Z
+ffffc7e66926982d4d40af116226db86
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+LocalContainerEntityManagerFactoryBeanTests.java
+file
+
+
+
+
+2020-03-06T03:51:17.053000Z
+7d7a165372fa5c1eb2047044633cbeba
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+LocalEntityManagerFactoryBeanTests.java
+file
+
+
+
+
+2020-03-06T03:51:17.068000Z
+e4b716620555901485ad043f073d5f4a
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+SharedEntityManagerCreatorTests.java
+file
+
+
+
+
+2020-03-06T03:51:17.081000Z
+747bec568033a7e4a81414ed6e97fa03
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+domain
+dir
+
+eclipselink
+dir
+
+hibernate
+dir
+
+persistenceunit
+dir
+
+support
+dir
+

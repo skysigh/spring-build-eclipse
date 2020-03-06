@@ -1,0 +1,97 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-jms/src/test/java/org/springframework/jms
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+StubConnectionFactory.java
+file
+
+
+
+
+2020-03-06T03:50:43.189000Z
+d7c575b0663c954c2a55e49f3cea91bc
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+StubQueue.java
+file
+
+
+
+
+2020-03-06T03:50:43.204000Z
+26c7bbf1daca4a323ac33640d46551ca
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+StubTextMessage.java
+file
+
+
+
+
+2020-03-06T03:50:43.221000Z
+663ee1e7b6d5c52c4f68a75322a84002
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+StubTopic.java
+file
+
+
+
+
+2020-03-06T03:50:43.236000Z
+4acaeb3569a3b25e3d80a8bb00c49b68
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+annotation
+dir
+
+config
+dir
+
+connection
+dir
+
+core
+dir
+
+listener
+dir
+
+remoting
+dir
+
+support
+dir
+

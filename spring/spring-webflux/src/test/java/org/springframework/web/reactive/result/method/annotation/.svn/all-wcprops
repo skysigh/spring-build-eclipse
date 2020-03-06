@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/result/method/annotation
+END
+ControllerMethodResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/result/method/annotation/ControllerMethodResolverTests.java
+END
+MatrixVariablesMethodArgumentResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/result/method/annotation/MatrixVariablesMethodArgumentResolverTests.java
+END
+MultipartIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/result/method/annotation/MultipartIntegrationTests.java
+END
+RequestAttributeMethodArgumentResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/result/method/annotation/RequestAttributeMethodArgumentResolverTests.java
+END
+SessionAttributesHandlerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/result/method/annotation/SessionAttributesHandlerTests.java
+END
+RequestMappingDataBindingIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/result/method/annotation/RequestMappingDataBindingIntegrationTests.java
+END
+RequestMappingViewResolutionIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/result/method/annotation/RequestMappingViewResolutionIntegrationTests.java
+END
+ModelAttributeMethodArgumentResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/result/method/annotation/ModelAttributeMethodArgumentResolverTests.java
+END
+RequestParamMethodArgumentResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/result/method/annotation/RequestParamMethodArgumentResolverTests.java
+END
+ProtobufIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/result/method/annotation/ProtobufIntegrationTests.java
+END
+RequestBodyMethodArgumentResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/result/method/annotation/RequestBodyMethodArgumentResolverTests.java
+END
+ResponseBodyResultHandlerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/result/method/annotation/ResponseBodyResultHandlerTests.java
+END
+JacksonStreamingIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/result/method/annotation/JacksonStreamingIntegrationTests.java
+END
+CookieValueMethodArgumentResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/result/method/annotation/CookieValueMethodArgumentResolverTests.java
+END
+ResponseEntityResultHandlerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/result/method/annotation/ResponseEntityResultHandlerTests.java
+END
+RequestHeaderMethodArgumentResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/result/method/annotation/RequestHeaderMethodArgumentResolverTests.java
+END
+InitBinderBindingContextTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/result/method/annotation/InitBinderBindingContextTests.java
+END
+RequestMappingHandlerMappingTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/result/method/annotation/RequestMappingHandlerMappingTests.java
+END
+ExpressionValueMethodArgumentResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/result/method/annotation/ExpressionValueMethodArgumentResolverTests.java
+END
+RequestHeaderMapMethodArgumentResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/result/method/annotation/RequestHeaderMapMethodArgumentResolverTests.java
+END
+ErrorsMethodArgumentResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/result/method/annotation/ErrorsMethodArgumentResolverTests.java
+END
+HttpEntityMethodArgumentResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/result/method/annotation/HttpEntityMethodArgumentResolverTests.java
+END
+AbstractRequestMappingIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/result/method/annotation/AbstractRequestMappingIntegrationTests.java
+END
+SessionAttributeMethodArgumentResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/result/method/annotation/SessionAttributeMethodArgumentResolverTests.java
+END
+ContextPathIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/result/method/annotation/ContextPathIntegrationTests.java
+END
+PathVariableMethodArgumentResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/result/method/annotation/PathVariableMethodArgumentResolverTests.java
+END
+ControllerAdviceTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/result/method/annotation/ControllerAdviceTests.java
+END
+ControllerInputIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/result/method/annotation/ControllerInputIntegrationTests.java
+END
+MatrixVariablesMapMethodArgumentResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/result/method/annotation/MatrixVariablesMapMethodArgumentResolverTests.java
+END
+WebSessionMethodArgumentResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/result/method/annotation/WebSessionMethodArgumentResolverTests.java
+END
+ModelInitializerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/result/method/annotation/ModelInitializerTests.java
+END
+SseIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/result/method/annotation/SseIntegrationTests.java
+END
+GlobalCorsConfigIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/result/method/annotation/GlobalCorsConfigIntegrationTests.java
+END
+JacksonHintsIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/result/method/annotation/JacksonHintsIntegrationTests.java
+END
+RequestParamMapMethodArgumentResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/result/method/annotation/RequestParamMapMethodArgumentResolverTests.java
+END
+RequestMappingIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/result/method/annotation/RequestMappingIntegrationTests.java
+END
+PrincipalMethodArgumentResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/result/method/annotation/PrincipalMethodArgumentResolverTests.java
+END
+ModelMethodArgumentResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/result/method/annotation/ModelMethodArgumentResolverTests.java
+END
+RequestMappingExceptionHandlingIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/result/method/annotation/RequestMappingExceptionHandlingIntegrationTests.java
+END
+ServerWebExchangeMethodArgumentResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/result/method/annotation/ServerWebExchangeMethodArgumentResolverTests.java
+END
+PathVariableMapMethodArgumentResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/result/method/annotation/PathVariableMapMethodArgumentResolverTests.java
+END
+MessageReaderArgumentResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/result/method/annotation/MessageReaderArgumentResolverTests.java
+END
+RequestPartMethodArgumentResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/result/method/annotation/RequestPartMethodArgumentResolverTests.java
+END
+RequestMappingMessageConversionIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/result/method/annotation/RequestMappingMessageConversionIntegrationTests.java
+END
+MessageWriterResultHandlerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/result/method/annotation/MessageWriterResultHandlerTests.java
+END
+CrossOriginAnnotationIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/result/method/annotation/CrossOriginAnnotationIntegrationTests.java
+END

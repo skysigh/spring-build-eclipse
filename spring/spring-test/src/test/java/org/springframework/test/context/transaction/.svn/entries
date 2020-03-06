@@ -1,0 +1,58 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-test/src/test/java/org/springframework/test/context/transaction
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+PrimaryTransactionManagerTests.java
+file
+
+
+
+
+2020-03-06T03:52:35.403000Z
+e8318407bafc20c648e2f0f1c6f2f96b
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+TransactionalTestExecutionListenerTests.java
+file
+
+
+
+
+2020-03-06T03:52:35.417000Z
+5cd892b8f95171493c9b5c8d2999a31c
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+ejb
+dir
+
+programmatic
+dir
+

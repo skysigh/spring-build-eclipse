@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/util
+END
+ContentCachingRequestWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/util/ContentCachingRequestWrapper.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/util/package-info.java
+END
+HtmlCharacterEntityReferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/util/HtmlCharacterEntityReferences.java
+END
+JavaScriptUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/util/JavaScriptUtils.java
+END
+WebAppRootListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/util/WebAppRootListener.java
+END
+AbstractUriTemplateHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/util/AbstractUriTemplateHandler.java
+END
+ContentCachingResponseWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/util/ContentCachingResponseWrapper.java
+END
+HttpSessionMutexListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/util/HttpSessionMutexListener.java
+END
+UriComponents.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/util/UriComponents.java
+END
+HierarchicalUriComponents.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/util/HierarchicalUriComponents.java
+END
+UriBuilderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/util/UriBuilderFactory.java
+END
+WebUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/util/WebUtils.java
+END
+IntrospectorCleanupListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/util/IntrospectorCleanupListener.java
+END
+UriComponentsBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/util/UriComponentsBuilder.java
+END
+UriTemplateHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/util/UriTemplateHandler.java
+END
+NestedServletException.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/util/NestedServletException.java
+END
+HtmlUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/util/HtmlUtils.java
+END
+OpaqueUriComponents.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/util/OpaqueUriComponents.java
+END
+HtmlCharacterEntityDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/util/HtmlCharacterEntityDecoder.java
+END
+DefaultUriTemplateHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/util/DefaultUriTemplateHandler.java
+END
+UriTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/util/UriTemplate.java
+END
+ServletContextPropertyUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/util/ServletContextPropertyUtils.java
+END
+CookieGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/util/CookieGenerator.java
+END
+UrlPathHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/util/UrlPathHelper.java
+END
+UriUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/util/UriUtils.java
+END
+TagUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/util/TagUtils.java
+END
+UriBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/util/UriBuilder.java
+END
+DefaultUriBuilderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/util/DefaultUriBuilderFactory.java
+END

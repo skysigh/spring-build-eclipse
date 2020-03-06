@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/converter
+END
+ResourceHttpMessageConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/converter/ResourceHttpMessageConverter.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/converter/package-info.java
+END
+AbstractHttpMessageConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/converter/AbstractHttpMessageConverter.java
+END
+HttpMessageConversionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/converter/HttpMessageConversionException.java
+END
+HttpMessageNotWritableException.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/converter/HttpMessageNotWritableException.java
+END
+HttpMessageConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/converter/HttpMessageConverter.java
+END
+ByteArrayHttpMessageConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/converter/ByteArrayHttpMessageConverter.java
+END
+ResourceRegionHttpMessageConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/converter/ResourceRegionHttpMessageConverter.java
+END
+StringHttpMessageConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/converter/StringHttpMessageConverter.java
+END
+FormHttpMessageConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/converter/FormHttpMessageConverter.java
+END
+GenericHttpMessageConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/converter/GenericHttpMessageConverter.java
+END
+ObjectToStringHttpMessageConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/converter/ObjectToStringHttpMessageConverter.java
+END
+AbstractGenericHttpMessageConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/converter/AbstractGenericHttpMessageConverter.java
+END
+BufferedImageHttpMessageConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/converter/BufferedImageHttpMessageConverter.java
+END
+HttpMessageNotReadableException.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/converter/HttpMessageNotReadableException.java
+END

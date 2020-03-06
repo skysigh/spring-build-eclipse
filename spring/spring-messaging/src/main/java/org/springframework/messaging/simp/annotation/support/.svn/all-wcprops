@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/simp/annotation/support
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/simp/annotation/support/package-info.java
+END
+SubscriptionMethodReturnValueHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/simp/annotation/support/SubscriptionMethodReturnValueHandler.java
+END
+SendToMethodReturnValueHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/simp/annotation/support/SendToMethodReturnValueHandler.java
+END
+MissingSessionUserException.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/simp/annotation/support/MissingSessionUserException.java
+END
+PrincipalMethodArgumentResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/simp/annotation/support/PrincipalMethodArgumentResolver.java
+END
+SimpAnnotationMethodMessageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/simp/annotation/support/SimpAnnotationMethodMessageHandler.java
+END

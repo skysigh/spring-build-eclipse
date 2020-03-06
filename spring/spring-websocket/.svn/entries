@@ -1,0 +1,76 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-websocket
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+.classpath
+file
+
+
+
+
+2020-03-06T03:55:41.326000Z
+aa9167e65051c3b8b918cb6112ba3025
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+.project
+file
+
+
+
+
+2020-03-06T03:55:41.337000Z
+ce7d1e5640c65b890c73ddfef5f95c81
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+.settings
+dir
+
+bin
+dir
+
+build
+dir
+
+spring-websocket.gradle
+file
+
+
+
+
+2020-03-06T03:55:53.342000Z
+41f73cb551d904618f810d671a8635da
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+src
+dir
+

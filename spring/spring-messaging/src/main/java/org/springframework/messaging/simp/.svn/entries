@@ -1,0 +1,175 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/simp
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+SimpAttributes.java
+file
+
+
+
+
+2020-03-06T03:51:02.378000Z
+d5cf2a1bc47eb712cee74ddb86719fd5
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+SimpAttributesContextHolder.java
+file
+
+
+
+
+2020-03-06T03:51:02.396000Z
+28158dcf3cf12647d8af51540c862fba
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+SimpLogging.java
+file
+
+
+
+
+2020-03-06T03:51:02.411000Z
+5f63836e88987c8c98ed554245f21754
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+SimpMessageHeaderAccessor.java
+file
+
+
+
+
+2020-03-06T03:51:02.423000Z
+c5ed48ec89fe3bbb0da8a5c8c406f257
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+SimpMessageMappingInfo.java
+file
+
+
+
+
+2020-03-06T03:51:02.437000Z
+9930f97c249bcd94792bce780ce3eb5e
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+SimpMessageSendingOperations.java
+file
+
+
+
+
+2020-03-06T03:51:02.449000Z
+5edbbd1e701ced4c2715503af7981b74
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+SimpMessageType.java
+file
+
+
+
+
+2020-03-06T03:51:02.462000Z
+a6896d5e80f012d056de21de1f50fb06
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+SimpMessageTypeMessageCondition.java
+file
+
+
+
+
+2020-03-06T03:51:02.473000Z
+1fca801bef4fe74f0b6091e2e7e2ce16
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+SimpMessagingTemplate.java
+file
+
+
+
+
+2020-03-06T03:51:02.486000Z
+7730e4c2e1b0e7ca97bcf087c48aa2bf
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+SimpSessionScope.java
+file
+
+
+
+
+2020-03-06T03:51:02.498000Z
+d61609a6cfd7aca0821c5c28c8995f29
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+annotation
+dir
+
+broker
+dir
+
+config
+dir
+
+package-info.java
+file
+
+
+
+
+2020-03-06T03:51:03.186000Z
+38cbae95987b69f5b5fe7972b1be55d4
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+stomp
+dir
+
+user
+dir
+

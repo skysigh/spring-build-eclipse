@@ -1,0 +1,52 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-test/src/test/resources/org/springframework/test/web/servlet/samples/context
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+root-context.xml
+file
+
+
+
+
+2020-03-06T03:52:42.845000Z
+ee514059690c0158280c091e8dce7d7b
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+servlet-context.xml
+file
+
+
+
+
+2020-03-06T03:52:42.858000Z
+dadbf82bbdc98c5a6714db0043b08992
+2020-03-06T03:35:38.538472Z
+1
+wck
+

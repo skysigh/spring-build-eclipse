@@ -1,0 +1,52 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-context/src/test/resources/org/springframework/aop/aspectj/autoproxy/benchmark
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+BenchmarkTests-aspectj.xml
+file
+
+
+
+
+2020-03-06T03:47:42.432000Z
+b7de3962a4feb598c70ea3861c851bef
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+BenchmarkTests-springAop.xml
+file
+
+
+
+
+2020-03-06T03:47:42.447000Z
+f6e8c8fc3d15df6c90b9dd036014c2c2
+2020-03-06T03:35:38.538472Z
+1
+wck
+

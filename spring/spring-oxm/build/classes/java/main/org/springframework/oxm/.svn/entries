@@ -1,0 +1,189 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-oxm/build/classes/java/main/org/springframework/oxm
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+GenericMarshaller.class
+file
+
+
+
+
+2020-03-06T03:51:21.308000Z
+7bc40ce5cdd91ed561337e587c13b828
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+
+GenericUnmarshaller.class
+file
+
+
+
+
+2020-03-06T03:51:21.324000Z
+1c4a069df8623dd81efbac4720442cd2
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+
+Marshaller.class
+file
+
+
+
+
+2020-03-06T03:51:21.336000Z
+e01646d57a77000b18809dd308ebdbba
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+
+MarshallingException.class
+file
+
+
+
+
+2020-03-06T03:51:21.349000Z
+ab83bfabdbbd22fe1e7ed4277f982610
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+
+MarshallingFailureException.class
+file
+
+
+
+
+2020-03-06T03:51:21.362000Z
+532326e284d37e2758b71fae6a75b4e3
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+
+UncategorizedMappingException.class
+file
+
+
+
+
+2020-03-06T03:51:21.374000Z
+e5ae005a587214e3cd0ef5b18461bd3c
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+
+Unmarshaller.class
+file
+
+
+
+
+2020-03-06T03:51:21.387000Z
+cc2e14dc62733d90e985234b4c651d64
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+
+UnmarshallingFailureException.class
+file
+
+
+
+
+2020-03-06T03:51:21.398000Z
+d634b682fa4626d073ae70b8aca0bdf7
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+
+ValidationFailureException.class
+file
+
+
+
+
+2020-03-06T03:51:21.411000Z
+bd0c051a2f64b9e3fc720c926bfab85b
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+
+XmlMappingException.class
+file
+
+
+
+
+2020-03-06T03:51:21.424000Z
+fc526c450d0bd0327c62532ee0b70c84
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+
+config
+dir
+
+jaxb
+dir
+
+jibx
+dir
+
+mime
+dir
+
+package-info.class
+file
+
+
+
+
+2020-03-06T03:51:21.936000Z
+47ab80b4a7a18543bc621df3578ac957
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+
+support
+dir
+
+xstream
+dir
+

@@ -1,0 +1,52 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-context-support/src/test/java/org/springframework/cache/caffeine
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+CaffeineCacheManagerTests.java
+file
+
+
+
+
+2020-03-06T03:48:09.052000Z
+12cb00c6d3bcdfe8fe526f4ebaa4488a
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+CaffeineCacheTests.java
+file
+
+
+
+
+2020-03-06T03:48:09.073000Z
+d855a0212507429f216c255143d29703
+2020-03-06T03:35:38.538472Z
+1
+wck
+

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/remoting/httpinvoker
+END
+HttpComponentsHttpInvokerRequestExecutorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/remoting/httpinvoker/HttpComponentsHttpInvokerRequestExecutorTests.java
+END
+HttpInvokerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/remoting/httpinvoker/HttpInvokerTests.java
+END
+HttpInvokerFactoryBeanIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/remoting/httpinvoker/HttpInvokerFactoryBeanIntegrationTests.java
+END

@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop
+END
+ProxyMethodInvocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/ProxyMethodInvocation.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/package-info.java
+END
+IntroductionAwareMethodMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/IntroductionAwareMethodMatcher.java
+END
+PointcutAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/PointcutAdvisor.java
+END
+TrueClassFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/TrueClassFilter.java
+END
+IntroductionInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/IntroductionInfo.java
+END
+TruePointcut.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/TruePointcut.java
+END
+BeforeAdvice.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/BeforeAdvice.java
+END
+IntroductionAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/IntroductionAdvisor.java
+END
+MethodMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/MethodMatcher.java
+END
+MethodBeforeAdvice.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/MethodBeforeAdvice.java
+END
+TrueMethodMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/TrueMethodMatcher.java
+END
+AfterReturningAdvice.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/AfterReturningAdvice.java
+END
+TargetClassAware.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/TargetClassAware.java
+END
+Advisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/Advisor.java
+END
+AopInvocationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/AopInvocationException.java
+END
+Pointcut.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/Pointcut.java
+END
+TargetSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/TargetSource.java
+END
+RawTargetAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/RawTargetAccess.java
+END
+DynamicIntroductionAdvice.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/DynamicIntroductionAdvice.java
+END
+ThrowsAdvice.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/ThrowsAdvice.java
+END
+ClassFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/ClassFilter.java
+END
+AfterAdvice.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/AfterAdvice.java
+END
+SpringProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/SpringProxy.java
+END
+IntroductionInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/springframework/aop/IntroductionInterceptor.java
+END

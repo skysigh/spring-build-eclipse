@@ -1,0 +1,70 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit4/aci
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+AciTestSuite.java
+file
+
+
+
+
+2020-03-06T03:52:31.600000Z
+4792611f251fac20fed4303a7f450ff0
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+DevProfileInitializer.java
+file
+
+
+
+
+2020-03-06T03:52:31.614000Z
+6ef8744c54c2ee7d592d34184454a242
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+FooBarAliasInitializer.java
+file
+
+
+
+
+2020-03-06T03:52:31.625000Z
+68727f374b32e438c41ab0aba0c6c418
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+annotation
+dir
+
+xml
+dir
+

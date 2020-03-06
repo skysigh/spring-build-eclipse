@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/resources/org/springframework/web/reactive/result/view/script/jruby
+END
+template.erb
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/resources/org/springframework/web/reactive/result/view/script/jruby/template.erb
+END
+render.rb
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/resources/org/springframework/web/reactive/result/view/script/jruby/render.rb
+END

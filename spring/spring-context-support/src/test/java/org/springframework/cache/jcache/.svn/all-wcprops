@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/test/java/org/springframework/cache/jcache
+END
+JCacheEhCache3ApiTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/test/java/org/springframework/cache/jcache/JCacheEhCache3ApiTests.java
+END
+JCacheEhCache3AnnotationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/test/java/org/springframework/cache/jcache/JCacheEhCache3AnnotationTests.java
+END
+JCacheEhCacheApiTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/test/java/org/springframework/cache/jcache/JCacheEhCacheApiTests.java
+END
+JCacheCacheManagerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/test/java/org/springframework/cache/jcache/JCacheCacheManagerTests.java
+END
+AbstractJCacheTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/test/java/org/springframework/cache/jcache/AbstractJCacheTests.java
+END
+JCacheEhCacheAnnotationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/test/java/org/springframework/cache/jcache/JCacheEhCacheAnnotationTests.java
+END

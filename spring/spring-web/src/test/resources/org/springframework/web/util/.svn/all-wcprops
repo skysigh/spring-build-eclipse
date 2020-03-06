@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/resources/org/springframework/web/util
+END
+testlog4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/resources/org/springframework/web/util/testlog4j.properties
+END
+HtmlCharacterEntityReferences.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/resources/org/springframework/web/util/HtmlCharacterEntityReferences.dtd
+END

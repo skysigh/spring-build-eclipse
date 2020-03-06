@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/resources/org/springframework/http/converter/feed
+END
+rss.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/resources/org/springframework/http/converter/feed/rss.xml
+END
+atom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/resources/org/springframework/http/converter/feed/atom.xml
+END

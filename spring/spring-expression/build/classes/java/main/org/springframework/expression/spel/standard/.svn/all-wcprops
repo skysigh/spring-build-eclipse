@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/build/classes/java/main/org/springframework/expression/spel/standard
+END
+SpelCompiler$ExpressionClassWriter.class
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/build/classes/java/main/org/springframework/expression/spel/standard/SpelCompiler$ExpressionClassWriter.class
+END
+SpelExpressionParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/build/classes/java/main/org/springframework/expression/spel/standard/SpelExpressionParser.class
+END
+TokenKind.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/build/classes/java/main/org/springframework/expression/spel/standard/TokenKind.class
+END
+Token.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/build/classes/java/main/org/springframework/expression/spel/standard/Token.class
+END
+Tokenizer.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/build/classes/java/main/org/springframework/expression/spel/standard/Tokenizer.class
+END
+InternalSpelExpressionParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/build/classes/java/main/org/springframework/expression/spel/standard/InternalSpelExpressionParser.class
+END
+SpelCompiler.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/build/classes/java/main/org/springframework/expression/spel/standard/SpelCompiler.class
+END
+SpelExpression.class
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/build/classes/java/main/org/springframework/expression/spel/standard/SpelExpression.class
+END
+SpelCompiler$ChildClassLoader.class
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/build/classes/java/main/org/springframework/expression/spel/standard/SpelCompiler$ChildClassLoader.class
+END
+package-info.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/build/classes/java/main/org/springframework/expression/spel/standard/package-info.class
+END

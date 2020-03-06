@@ -1,0 +1,106 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-context-support/src/test/java/org/springframework/cache/jcache
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+AbstractJCacheTests.java
+file
+
+
+
+
+2020-03-06T03:48:09.233000Z
+787cb185d061e79ea39d7b42004d4e3b
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+JCacheCacheManagerTests.java
+file
+
+
+
+
+2020-03-06T03:48:09.248000Z
+3bf320bf2fed7b408b396572a8dfd0ce
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+JCacheEhCache3AnnotationTests.java
+file
+
+
+
+
+2020-03-06T03:48:09.262000Z
+bfa3fe7d4ea45ae91768f8fe9d10a23c
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+JCacheEhCache3ApiTests.java
+file
+
+
+
+
+2020-03-06T03:48:09.275000Z
+54fc6f8c3d80f47cfe48e25a050205d3
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+JCacheEhCacheAnnotationTests.java
+file
+
+
+
+
+2020-03-06T03:48:09.287000Z
+4bd310b442ffd10465a6e6f64cedd393
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+JCacheEhCacheApiTests.java
+file
+
+
+
+
+2020-03-06T03:48:09.302000Z
+f5c70d5e9f509c4327af99ba70869ab1
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+config
+dir
+
+interceptor
+dir
+

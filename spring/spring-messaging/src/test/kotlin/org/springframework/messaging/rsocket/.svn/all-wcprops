@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/test/kotlin/org/springframework/messaging/rsocket
+END
+RSocketRequesterExtensionsTests.kt
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/test/kotlin/org/springframework/messaging/rsocket/RSocketRequesterExtensionsTests.kt
+END
+RSocketClientToServerCoroutinesIntegrationTests.kt
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/test/kotlin/org/springframework/messaging/rsocket/RSocketClientToServerCoroutinesIntegrationTests.kt
+END
+MetadataExtractorRegistryExtensions.kt
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/test/kotlin/org/springframework/messaging/rsocket/MetadataExtractorRegistryExtensions.kt
+END

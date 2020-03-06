@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/remoting/rmi
+END
+RmiInvocationWrapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/remoting/rmi/RmiInvocationWrapper.class
+END
+RmiProxyFactoryBean.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/remoting/rmi/RmiProxyFactoryBean.class
+END
+JndiRmiProxyFactoryBean.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/remoting/rmi/JndiRmiProxyFactoryBean.class
+END
+RmiInvocationHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/remoting/rmi/RmiInvocationHandler.class
+END
+RmiClientInterceptor.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/remoting/rmi/RmiClientInterceptor.class
+END
+RemoteInvocationSerializingExporter.class
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/remoting/rmi/RemoteInvocationSerializingExporter.class
+END
+RmiServiceExporter.class
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/remoting/rmi/RmiServiceExporter.class
+END
+CodebaseAwareObjectInputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/remoting/rmi/CodebaseAwareObjectInputStream.class
+END
+RmiClientInterceptor$DummyURLStreamHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/remoting/rmi/RmiClientInterceptor$DummyURLStreamHandler.class
+END
+RmiClientInterceptor$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/remoting/rmi/RmiClientInterceptor$1.class
+END
+JndiRmiServiceExporter.class
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/remoting/rmi/JndiRmiServiceExporter.class
+END
+RmiBasedExporter.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/remoting/rmi/RmiBasedExporter.class
+END
+RmiClientInterceptorUtils.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/remoting/rmi/RmiClientInterceptorUtils.class
+END
+JndiRmiClientInterceptor.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/remoting/rmi/JndiRmiClientInterceptor.class
+END
+RmiRegistryFactoryBean.class
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/remoting/rmi/RmiRegistryFactoryBean.class
+END

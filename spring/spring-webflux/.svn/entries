@@ -1,0 +1,76 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-webflux
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+.classpath
+file
+
+
+
+
+2020-03-06T03:54:12.409000Z
+6fc5bca265bd1afa3ff0b4dd6e3a648d
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+.project
+file
+
+
+
+
+2020-03-06T03:54:12.427000Z
+fa2101348f72849c5148e3f1b8560159
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+.settings
+dir
+
+bin
+dir
+
+build
+dir
+
+spring-webflux.gradle
+file
+
+
+
+
+2020-03-06T03:54:35.624000Z
+23b3ab195efc1d67ac17dcde503b8118
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+src
+dir
+

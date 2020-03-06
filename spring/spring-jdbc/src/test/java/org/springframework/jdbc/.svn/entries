@@ -1,0 +1,55 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-jdbc/src/test/java/org/springframework/jdbc
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+Customer.java
+file
+
+
+
+
+2020-03-06T03:50:26.041000Z
+f2de1589df4a33cd1bf912ccb3756a9b
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+config
+dir
+
+core
+dir
+
+datasource
+dir
+
+object
+dir
+
+support
+dir
+

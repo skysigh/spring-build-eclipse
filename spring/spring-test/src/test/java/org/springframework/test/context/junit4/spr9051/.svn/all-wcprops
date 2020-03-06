@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit4/spr9051
+END
+TransactionalAnnotatedConfigClassWithAtConfigurationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit4/spr9051/TransactionalAnnotatedConfigClassWithAtConfigurationTests.java
+END
+TransactionalAnnotatedConfigClassesWithoutAtConfigurationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit4/spr9051/TransactionalAnnotatedConfigClassesWithoutAtConfigurationTests.java
+END
+AtBeanLiteModeScopeTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit4/spr9051/AtBeanLiteModeScopeTests.java
+END
+LifecycleBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit4/spr9051/LifecycleBean.java
+END
+AbstractTransactionalAnnotatedConfigClassTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit4/spr9051/AbstractTransactionalAnnotatedConfigClassTests.java
+END
+AnnotatedConfigClassesWithoutAtConfigurationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit4/spr9051/AnnotatedConfigClassesWithoutAtConfigurationTests.java
+END

@@ -1,0 +1,76 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-jdbc
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+.classpath
+file
+
+
+
+
+2020-03-06T03:50:03.561000Z
+5ca7b01825432dfef87f66e8223e38ff
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+.project
+file
+
+
+
+
+2020-03-06T03:50:03.572000Z
+bb3283ba5db396a2e7edcd2817d96b21
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+.settings
+dir
+
+bin
+dir
+
+build
+dir
+
+spring-jdbc.gradle
+file
+
+
+
+
+2020-03-06T03:50:20.411000Z
+21f505c911d689aa620f3b840293eb89
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+src
+dir
+

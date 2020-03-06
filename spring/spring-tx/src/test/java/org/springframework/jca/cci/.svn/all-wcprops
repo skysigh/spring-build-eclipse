@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/test/java/org/springframework/jca/cci
+END
+CciTemplateTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/test/java/org/springframework/jca/cci/CciTemplateTests.java
+END
+EisOperationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/test/java/org/springframework/jca/cci/EisOperationTests.java
+END
+CciLocalTransactionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/test/java/org/springframework/jca/cci/CciLocalTransactionTests.java
+END

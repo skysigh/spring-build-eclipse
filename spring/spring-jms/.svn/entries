@@ -1,0 +1,76 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-jms
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+.classpath
+file
+
+
+
+
+2020-03-06T03:50:29.771000Z
+19228410b0ede715b36ec95dc7e732e6
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+.project
+file
+
+
+
+
+2020-03-06T03:50:29.784000Z
+c0c27a50e81364aad375b78aa6774b75
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+.settings
+dir
+
+bin
+dir
+
+build
+dir
+
+spring-jms.gradle
+file
+
+
+
+
+2020-03-06T03:50:39.498000Z
+5a1efad091fdf20ce4529f94c43434a4
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+src
+dir
+

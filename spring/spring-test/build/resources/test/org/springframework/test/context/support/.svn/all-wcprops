@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/build/resources/test/org/springframework/test/context/support
+END
+DelegatingSmartContextLoaderTests$ImproperDuplicateDefaultXmlAndConfigClassTestCase-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 213
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/build/resources/test/org/springframework/test/context/support/DelegatingSmartContextLoaderTests$ImproperDuplicateDefaultXmlAndConfigClassTestCase-context.xml
+END
+DelegatingSmartContextLoaderTests$XmlTestCase-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/build/resources/test/org/springframework/test/context/support/DelegatingSmartContextLoaderTests$XmlTestCase-context.xml
+END
+GenericXmlContextLoaderResourceLocationsTests$ClasspathExistentDefaultLocationsTestCase-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 217
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/build/resources/test/org/springframework/test/context/support/GenericXmlContextLoaderResourceLocationsTests$ClasspathExistentDefaultLocationsTestCase-context.xml
+END
+AbstractContextConfigurationUtilsTests$BareAnnotations-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/build/resources/test/org/springframework/test/context/support/AbstractContextConfigurationUtilsTests$BareAnnotations-context.xml
+END
+CustomizedGenericXmlContextLoaderTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/build/resources/test/org/springframework/test/context/support/CustomizedGenericXmlContextLoaderTests-context.xml
+END

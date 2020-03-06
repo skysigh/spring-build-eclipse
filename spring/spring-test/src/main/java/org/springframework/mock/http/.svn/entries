@@ -1,0 +1,70 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-test/src/main/java/org/springframework/mock/http
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+MockHttpInputMessage.java
+file
+
+
+
+
+2020-03-06T03:52:19.854000Z
+989116bed8651a968483e922bb57ca56
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+MockHttpOutputMessage.java
+file
+
+
+
+
+2020-03-06T03:52:19.870000Z
+6f22385545f2f663ce24a686cb1005fa
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+client
+dir
+
+package-info.java
+file
+
+
+
+
+2020-03-06T03:52:20.067000Z
+5cf2afe40af409863a7c501c58e170a3
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+server
+dir
+

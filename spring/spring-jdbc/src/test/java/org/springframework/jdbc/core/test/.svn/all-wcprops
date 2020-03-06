@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/test/java/org/springframework/jdbc/core/test
+END
+DatePerson.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/test/java/org/springframework/jdbc/core/test/DatePerson.java
+END
+ConcretePerson.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/test/java/org/springframework/jdbc/core/test/ConcretePerson.java
+END
+AbstractPerson.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/test/java/org/springframework/jdbc/core/test/AbstractPerson.java
+END
+ExtendedPerson.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/test/java/org/springframework/jdbc/core/test/ExtendedPerson.java
+END
+SpacePerson.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/test/java/org/springframework/jdbc/core/test/SpacePerson.java
+END
+Person.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/test/java/org/springframework/jdbc/core/test/Person.java
+END

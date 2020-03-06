@@ -1,0 +1,61 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-webflux/src/test/java/org/springframework/web/reactive/result
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+HandlerResultHandlerTests.java
+file
+
+
+
+
+2020-03-06T03:54:43.325000Z
+6642badf0d80fe1437fb57f31ace4c07
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+SimpleUrlHandlerMappingIntegrationTests.java
+file
+
+
+
+
+2020-03-06T03:54:43.341000Z
+78dc317cf4ec48ec1b0cc65fa5ef2e64
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+condition
+dir
+
+method
+dir
+
+view
+dir
+

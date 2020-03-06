@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/codec/xml/jaxb
+END
+XmlRootElementWithNameAndNamespace.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/codec/xml/jaxb/XmlRootElementWithNameAndNamespace.java
+END
+XmlType.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/codec/xml/jaxb/XmlType.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/codec/xml/jaxb/package-info.java
+END
+XmlRootElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/codec/xml/jaxb/XmlRootElement.java
+END
+XmlRootElementWithName.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/codec/xml/jaxb/XmlRootElementWithName.java
+END
+XmlTypeWithNameAndNamespace.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/codec/xml/jaxb/XmlTypeWithNameAndNamespace.java
+END
+XmlTypeWithName.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/codec/xml/jaxb/XmlTypeWithName.java
+END

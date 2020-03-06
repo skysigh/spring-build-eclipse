@@ -1,0 +1,193 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-test/src/test/java/org/springframework/test/context
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+BootstrapTestUtils.java
+file
+
+
+
+
+2020-03-06T03:52:27.891000Z
+2bcc1676598047d9516b47b9dc82d7c4
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+BootstrapUtilsTests.java
+file
+
+
+
+
+2020-03-06T03:52:27.904000Z
+0051b641553db62ce9858d314b1721cd
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+ContextHierarchyDirtiesContextTests.java
+file
+
+
+
+
+2020-03-06T03:52:27.915000Z
+b0dc43b23d9a6ef037e0ad66c46194f4
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+MergedContextConfigurationTests.java
+file
+
+
+
+
+2020-03-06T03:52:27.927000Z
+4f1d6d4701504c5e6f7f58c8cd671749
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+SpringTestContextFrameworkTestSuite.java
+file
+
+
+
+
+2020-03-06T03:52:27.941000Z
+30cb78a03ba7964cd89558550fdcb40f
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+TestContextConcurrencyTests.java
+file
+
+
+
+
+2020-03-06T03:52:27.956000Z
+1bc362072795b370666ea18538d6cba6
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+TestContextManagerSuppressedExceptionsTests.java
+file
+
+
+
+
+2020-03-06T03:52:27.969000Z
+7cf7197997006484f2ed780bf4ab9731
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+TestContextManagerTests.java
+file
+
+
+
+
+2020-03-06T03:52:27.981000Z
+97f76c98a391f78d62b7bd6ce47864c9
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+TestContextTestUtils.java
+file
+
+
+
+
+2020-03-06T03:52:27.994000Z
+672c3efae7c45a1d825ac57d1b8b0e8b
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+TestExecutionListenersTests.java
+file
+
+
+
+
+2020-03-06T03:52:28.007000Z
+f1c75424a148e55bcb78bae447695b51
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+async
+dir
+
+cache
+dir
+
+configuration
+dir
+
+env
+dir
+
+event
+dir
+
+expression
+dir
+
+groovy
+dir
+
+hierarchies
+dir
+
+jdbc
+dir
+
+junit
+dir
+
+junit4
+dir
+
+support
+dir
+
+testng
+dir
+
+transaction
+dir
+
+web
+dir
+

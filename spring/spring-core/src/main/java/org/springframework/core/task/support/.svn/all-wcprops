@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/task/support
+END
+ConcurrentExecutorAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/task/support/ConcurrentExecutorAdapter.java
+END
+ExecutorServiceAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/task/support/ExecutorServiceAdapter.java
+END
+TaskExecutorAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/task/support/TaskExecutorAdapter.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/task/support/package-info.java
+END

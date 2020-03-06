@@ -1,0 +1,175 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/view
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+BaseViewTests.java
+file
+
+
+
+
+2020-03-06T03:55:35.833000Z
+b07b193d4c77cd1ae85aabb66a37d5ba
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+ContentNegotiatingViewResolverTests.java
+file
+
+
+
+
+2020-03-06T03:55:35.851000Z
+62465a04c7c280ba835859b1c71db6d1
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+DefaultRequestToViewNameTranslatorTests.java
+file
+
+
+
+
+2020-03-06T03:55:35.867000Z
+79fa6c777ca234cc5079938d8d89e714
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+DummyMacroRequestContext.java
+file
+
+
+
+
+2020-03-06T03:55:35.879000Z
+c8edf7315887db2d38f42c901a3dfdd9
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+InternalResourceViewTests.java
+file
+
+
+
+
+2020-03-06T03:55:35.893000Z
+871b90e6501f25b84006da646eaa3823
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+RedirectViewTests.java
+file
+
+
+
+
+2020-03-06T03:55:35.906000Z
+5330831504c5590ef624b1b10dc24731
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+RedirectViewUriTemplateTests.java
+file
+
+
+
+
+2020-03-06T03:55:35.921000Z
+bfcdb7e2469363fb77b210def8b24e1e
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+ResourceBundleViewResolverNoCacheTests.java
+file
+
+
+
+
+2020-03-06T03:55:35.934000Z
+c588dc536cf96e6a0b0eb1e0e625c361
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+ResourceBundleViewResolverTests.java
+file
+
+
+
+
+2020-03-06T03:55:35.946000Z
+5251cfc4b37da32620037eb820ece9a4
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+ViewResolverTests.java
+file
+
+
+
+
+2020-03-06T03:55:35.959000Z
+f69dc10fec29bb14e1a36283da800d11
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+document
+dir
+
+feed
+dir
+
+freemarker
+dir
+
+groovy
+dir
+
+json
+dir
+
+script
+dir
+
+tiles3
+dir
+
+xml
+dir
+
+xslt
+dir
+

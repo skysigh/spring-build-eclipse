@@ -1,0 +1,163 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-beans/src/test/resources/org/springframework/beans/factory
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+BeanFactoryUtilsTests-dependentBeans.xml
+file
+
+
+
+
+2020-03-06T03:45:31.836000Z
+6b368eb744612c774234f75622eece67
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+BeanFactoryUtilsTests-leaf.xml
+file
+
+
+
+
+2020-03-06T03:45:31.848000Z
+acb25c422fbf994e603f707571d74641
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+BeanFactoryUtilsTests-middle.xml
+file
+
+
+
+
+2020-03-06T03:45:31.857000Z
+fee9703f135c2a5cbefc7c43c03b6f96
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+BeanFactoryUtilsTests-root.xml
+file
+
+
+
+
+2020-03-06T03:45:31.866000Z
+acfdbbf94f26e0d659919697e34ddabe
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+ConcurrentBeanFactoryTests-context.xml
+file
+
+
+
+
+2020-03-06T03:45:31.876000Z
+a97839f39a105b06301f702aa5195c06
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+FactoryBeanLookupTests-context.xml
+file
+
+
+
+
+2020-03-06T03:45:31.886000Z
+3c10f67342f6b4f40e425bdc8859374a
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+FactoryBeanTests-abstract.xml
+file
+
+
+
+
+2020-03-06T03:45:31.892000Z
+868aaace05ac9770363f8c5964d516f9
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+FactoryBeanTests-circular.xml
+file
+
+
+
+
+2020-03-06T03:45:31.902000Z
+cc4f612d9adf66059ec82ae5adeb7d23
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+FactoryBeanTests-returnsNull.xml
+file
+
+
+
+
+2020-03-06T03:45:31.912000Z
+00fffb1c36d287aab58dc8110a6507f9
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+FactoryBeanTests-withAutowiring.xml
+file
+
+
+
+
+2020-03-06T03:45:31.921000Z
+ccac3aad93637242b8ad5768f4ee59e6
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+annotation
+dir
+
+config
+dir
+
+parsing
+dir
+
+support
+dir
+
+xml
+dir
+

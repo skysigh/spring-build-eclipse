@@ -1,0 +1,401 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config
+END
+NamedBeanHolder.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/NamedBeanHolder.class
+END
+AbstractFactoryBean$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/AbstractFactoryBean$1.class
+END
+Scope.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/Scope.class
+END
+YamlMapFactoryBean.class
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/YamlMapFactoryBean.class
+END
+FieldRetrievingFactoryBean.class
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/FieldRetrievingFactoryBean.class
+END
+BeanExpressionContext.class
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/BeanExpressionContext.class
+END
+PropertyOverrideConfigurer.class
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/PropertyOverrideConfigurer.class
+END
+package-info.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/package-info.class
+END
+ListFactoryBean.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/ListFactoryBean.class
+END
+InstantiationAwareBeanPostProcessorAdapter.class
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/InstantiationAwareBeanPostProcessorAdapter.class
+END
+MethodInvokingFactoryBean.class
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/MethodInvokingFactoryBean.class
+END
+PropertyPlaceholderConfigurer.class
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/PropertyPlaceholderConfigurer.class
+END
+EmbeddedValueResolver.class
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/EmbeddedValueResolver.class
+END
+YamlProcessor$MatchStatus.class
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/YamlProcessor$MatchStatus.class
+END
+BeanFactoryPostProcessor.class
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/BeanFactoryPostProcessor.class
+END
+ConfigurableListableBeanFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/ConfigurableListableBeanFactory.class
+END
+ObjectFactoryCreatingFactoryBean.class
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/ObjectFactoryCreatingFactoryBean.class
+END
+MethodInvokingBean.class
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/MethodInvokingBean.class
+END
+BeanExpressionResolver.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/BeanExpressionResolver.class
+END
+PropertyPlaceholderConfigurer$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/PropertyPlaceholderConfigurer$1.class
+END
+BeanDefinitionCustomizer.class
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/BeanDefinitionCustomizer.class
+END
+DestructionAwareBeanPostProcessor.class
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/DestructionAwareBeanPostProcessor.class
+END
+SmartInstantiationAwareBeanPostProcessor.class
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/SmartInstantiationAwareBeanPostProcessor.class
+END
+DependencyDescriptor$KotlinDelegate.class
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/DependencyDescriptor$KotlinDelegate.class
+END
+YamlProcessor.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/YamlProcessor.class
+END
+ServiceLocatorFactoryBean$ServiceLocatorInvocationHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/ServiceLocatorFactoryBean$ServiceLocatorInvocationHandler.class
+END
+ProviderCreatingFactoryBean$TargetBeanProvider.class
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/ProviderCreatingFactoryBean$TargetBeanProvider.class
+END
+AutowireCapableBeanFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/AutowireCapableBeanFactory.class
+END
+ProviderCreatingFactoryBean.class
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/ProviderCreatingFactoryBean.class
+END
+ServiceLocatorFactoryBean.class
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/ServiceLocatorFactoryBean.class
+END
+SingletonBeanRegistry.class
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/SingletonBeanRegistry.class
+END
+DependencyDescriptor.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/DependencyDescriptor.class
+END
+CustomScopeConfigurer.class
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/CustomScopeConfigurer.class
+END
+PropertyPlaceholderConfigurer$PropertyPlaceholderConfigurerResolver.class
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/PropertyPlaceholderConfigurer$PropertyPlaceholderConfigurerResolver.class
+END
+CustomEditorConfigurer.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/CustomEditorConfigurer.class
+END
+YamlProcessor$DocumentMatcher.class
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/YamlProcessor$DocumentMatcher.class
+END
+RuntimeBeanNameReference.class
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/RuntimeBeanNameReference.class
+END
+BeanReference.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/BeanReference.class
+END
+BeanDefinitionVisitor.class
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/BeanDefinitionVisitor.class
+END
+ConstructorArgumentValues$ValueHolder.class
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/ConstructorArgumentValues$ValueHolder.class
+END
+DeprecatedBeanWarner.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/DeprecatedBeanWarner.class
+END
+AbstractFactoryBean.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/AbstractFactoryBean.class
+END
+BeanDefinition.class
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/BeanDefinition.class
+END
+ObjectFactoryCreatingFactoryBean$TargetBeanObjectFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/ObjectFactoryCreatingFactoryBean$TargetBeanObjectFactory.class
+END
+PropertyPlaceholderConfigurer$PlaceholderResolvingStringValueResolver.class
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/PropertyPlaceholderConfigurer$PlaceholderResolvingStringValueResolver.class
+END
+BeanPostProcessor.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/BeanPostProcessor.class
+END
+BeanDefinitionHolder.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/BeanDefinitionHolder.class
+END
+PropertiesFactoryBean.class
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/PropertiesFactoryBean.class
+END
+RuntimeBeanReference.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/RuntimeBeanReference.class
+END
+AbstractFactoryBean$EarlySingletonInvocationHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/AbstractFactoryBean$EarlySingletonInvocationHandler.class
+END
+PlaceholderConfigurerSupport.class
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/PlaceholderConfigurerSupport.class
+END
+YamlProcessor$ResolutionMethod.class
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/YamlProcessor$ResolutionMethod.class
+END
+ConstructorArgumentValues.class
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/ConstructorArgumentValues.class
+END
+YamlPropertiesFactoryBean.class
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/YamlPropertiesFactoryBean.class
+END
+DependencyDescriptor$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/DependencyDescriptor$1.class
+END
+InstantiationAwareBeanPostProcessor.class
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/InstantiationAwareBeanPostProcessor.class
+END
+PreferencesPlaceholderConfigurer.class
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/PreferencesPlaceholderConfigurer.class
+END
+ConfigurableBeanFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/ConfigurableBeanFactory.class
+END
+PropertyResourceConfigurer.class
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/PropertyResourceConfigurer.class
+END
+SetFactoryBean.class
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/SetFactoryBean.class
+END
+YamlProcessor$MatchCallback.class
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/YamlProcessor$MatchCallback.class
+END
+ServiceLocatorFactoryBean$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/ServiceLocatorFactoryBean$1.class
+END
+TypedStringValue.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/TypedStringValue.class
+END
+AutowiredPropertyMarker.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/AutowiredPropertyMarker.class
+END
+MapFactoryBean.class
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/MapFactoryBean.class
+END
+PropertyPathFactoryBean.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/config/PropertyPathFactoryBean.class
+END

@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/jdbc
+END
+InferredDataSourceTransactionalSqlScriptsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/jdbc/InferredDataSourceTransactionalSqlScriptsTests.java
+END
+TransactionalSqlScriptsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/jdbc/TransactionalSqlScriptsTests.java
+END
+ComposedAnnotationSqlScriptsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/jdbc/ComposedAnnotationSqlScriptsTests.java
+END
+DefaultScriptDetectionSqlScriptsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/jdbc/DefaultScriptDetectionSqlScriptsTests.java
+END
+InferredDataSourceSqlScriptsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/jdbc/InferredDataSourceSqlScriptsTests.java
+END
+PopulatedSchemaTransactionalSqlScriptsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/jdbc/PopulatedSchemaTransactionalSqlScriptsTests.java
+END
+AbstractTransactionalTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/jdbc/AbstractTransactionalTests.java
+END
+DataSourceOnlySqlScriptsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/jdbc/DataSourceOnlySqlScriptsTests.java
+END
+PrimaryDataSourceTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/jdbc/PrimaryDataSourceTests.java
+END
+EmptyDatabaseConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/jdbc/EmptyDatabaseConfig.java
+END
+GlobalCustomScriptSyntaxSqlScriptsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/jdbc/GlobalCustomScriptSyntaxSqlScriptsTests.java
+END
+NonTransactionalSqlScriptsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/jdbc/NonTransactionalSqlScriptsTests.java
+END
+PopulatedSchemaDatabaseConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/jdbc/PopulatedSchemaDatabaseConfig.java
+END
+MergedSqlConfigTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/jdbc/MergedSqlConfigTests.java
+END
+TransactionalAfterTestMethodSqlScriptsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/jdbc/TransactionalAfterTestMethodSqlScriptsTests.java
+END
+CustomScriptSyntaxSqlScriptsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/jdbc/CustomScriptSyntaxSqlScriptsTests.java
+END
+TransactionalInlinedStatementsSqlScriptsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/jdbc/TransactionalInlinedStatementsSqlScriptsTests.java
+END
+IsolatedTransactionModeSqlScriptsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/jdbc/IsolatedTransactionModeSqlScriptsTests.java
+END
+MultipleDataSourcesAndTransactionManagersTransactionalSqlScriptsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/jdbc/MultipleDataSourcesAndTransactionManagersTransactionalSqlScriptsTests.java
+END
+MultipleDataSourcesAndTransactionManagersSqlScriptsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/jdbc/MultipleDataSourcesAndTransactionManagersSqlScriptsTests.java
+END
+RepeatableSqlAnnotationSqlScriptsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/jdbc/RepeatableSqlAnnotationSqlScriptsTests.java
+END
+SqlScriptsTestExecutionListenerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/jdbc/SqlScriptsTestExecutionListenerTests.java
+END
+MetaAnnotationSqlScriptsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/jdbc/MetaAnnotationSqlScriptsTests.java
+END

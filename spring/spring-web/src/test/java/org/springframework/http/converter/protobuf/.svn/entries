@@ -1,0 +1,52 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-web/src/test/java/org/springframework/http/converter/protobuf
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+ProtobufHttpMessageConverterTests.java
+file
+
+
+
+
+2020-03-06T03:54:02.538000Z
+4f65556c82c6543c35015429cd64ab7c
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+ProtobufJsonFormatHttpMessageConverterTests.java
+file
+
+
+
+
+2020-03-06T03:54:02.554000Z
+0b8f4b04af543fd89863d088f4996e3a
+2020-03-06T03:35:38.538472Z
+1
+wck
+

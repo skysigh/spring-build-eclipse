@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/test/java/org/springframework/orm/jpa
+END
+AbstractEntityManagerFactoryBeanTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/test/java/org/springframework/orm/jpa/AbstractEntityManagerFactoryBeanTests.java
+END
+AbstractContainerEntityManagerFactoryIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/test/java/org/springframework/orm/jpa/AbstractContainerEntityManagerFactoryIntegrationTests.java
+END
+DefaultJpaDialectTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/test/java/org/springframework/orm/jpa/DefaultJpaDialectTests.java
+END
+EntityManagerFactoryBeanSupportTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/test/java/org/springframework/orm/jpa/EntityManagerFactoryBeanSupportTests.java
+END
+ContainerManagedEntityManagerIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/test/java/org/springframework/orm/jpa/ContainerManagedEntityManagerIntegrationTests.java
+END
+JpaTransactionManagerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/test/java/org/springframework/orm/jpa/JpaTransactionManagerTests.java
+END
+AbstractEntityManagerFactoryIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/test/java/org/springframework/orm/jpa/AbstractEntityManagerFactoryIntegrationTests.java
+END
+LocalEntityManagerFactoryBeanTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/test/java/org/springframework/orm/jpa/LocalEntityManagerFactoryBeanTests.java
+END
+ApplicationManagedEntityManagerIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/test/java/org/springframework/orm/jpa/ApplicationManagedEntityManagerIntegrationTests.java
+END
+EntityManagerFactoryUtilsTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/test/java/org/springframework/orm/jpa/EntityManagerFactoryUtilsTests.java
+END
+LocalContainerEntityManagerFactoryBeanTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/test/java/org/springframework/orm/jpa/LocalContainerEntityManagerFactoryBeanTests.java
+END
+SharedEntityManagerCreatorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/test/java/org/springframework/orm/jpa/SharedEntityManagerCreatorTests.java
+END

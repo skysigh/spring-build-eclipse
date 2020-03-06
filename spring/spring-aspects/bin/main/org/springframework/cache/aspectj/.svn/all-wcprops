@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/main/org/springframework/cache/aspectj
+END
+AspectJJCacheConfiguration.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/main/org/springframework/cache/aspectj/AspectJJCacheConfiguration.class
+END
+AbstractCacheAspect$AbstractCacheAspect$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/main/org/springframework/cache/aspectj/AbstractCacheAspect$AbstractCacheAspect$1.class
+END
+AspectJCachingConfiguration.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/main/org/springframework/cache/aspectj/AspectJCachingConfiguration.class
+END
+JCacheCacheAspect.class
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/main/org/springframework/cache/aspectj/JCacheCacheAspect.class
+END
+AnnotationCacheAspect.class
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/main/org/springframework/cache/aspectj/AnnotationCacheAspect.class
+END
+AbstractCacheAspect.class
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/main/org/springframework/cache/aspectj/AbstractCacheAspect.class
+END
+JCacheCacheAspect$JCacheCacheAspect$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/main/org/springframework/cache/aspectj/JCacheCacheAspect$JCacheCacheAspect$1.class
+END
+AnyThrow.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/main/org/springframework/cache/aspectj/AnyThrow.class
+END

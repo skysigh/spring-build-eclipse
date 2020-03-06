@@ -1,0 +1,353 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans
+END
+PropertyEditorRegistrar.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/PropertyEditorRegistrar.class
+END
+TypeConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/TypeConverter.class
+END
+CachedIntrospectionResults.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/CachedIntrospectionResults.class
+END
+DirectFieldAccessor.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/DirectFieldAccessor.class
+END
+PropertyAccessorFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/PropertyAccessorFactory.class
+END
+MethodInvocationException.class
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/MethodInvocationException.class
+END
+package-info.class
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/package-info.class
+END
+DirectFieldAccessor$FieldPropertyHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/DirectFieldAccessor$FieldPropertyHandler.class
+END
+NotReadablePropertyException.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/NotReadablePropertyException.class
+END
+BeanInstantiationException.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/BeanInstantiationException.class
+END
+SimpleTypeConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/SimpleTypeConverter.class
+END
+BeanMetadataElement.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/BeanMetadataElement.class
+END
+ExtendedBeanInfo$SimplePropertyDescriptor.class
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/ExtendedBeanInfo$SimplePropertyDescriptor.class
+END
+NotWritablePropertyException.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/NotWritablePropertyException.class
+END
+BeanWrapperImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/BeanWrapperImpl.class
+END
+PropertyMatches$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/PropertyMatches$1.class
+END
+TypeMismatchException.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/TypeMismatchException.class
+END
+PropertyBatchUpdateException.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/PropertyBatchUpdateException.class
+END
+AbstractNestablePropertyAccessor.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/AbstractNestablePropertyAccessor.class
+END
+AbstractNestablePropertyAccessor$PropertyHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/AbstractNestablePropertyAccessor$PropertyHandler.class
+END
+PropertyEditorRegistrySupport.class
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/PropertyEditorRegistrySupport.class
+END
+PropertyAccessException.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/PropertyAccessException.class
+END
+GenericTypeAwarePropertyDescriptor.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/GenericTypeAwarePropertyDescriptor.class
+END
+PropertyValue.class
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/PropertyValue.class
+END
+BeansException.class
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/BeansException.class
+END
+BeanWrapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/BeanWrapper.class
+END
+PropertyDescriptorUtils.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/PropertyDescriptorUtils.class
+END
+PropertyEditorRegistrySupport$CustomEditorHolder.class
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/PropertyEditorRegistrySupport$CustomEditorHolder.class
+END
+PropertyMatches.class
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/PropertyMatches.class
+END
+FatalBeanException.class
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/FatalBeanException.class
+END
+ExtendedBeanInfo$PropertyDescriptorComparator.class
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/ExtendedBeanInfo$PropertyDescriptorComparator.class
+END
+ExtendedBeanInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/ExtendedBeanInfo.class
+END
+InvalidPropertyException.class
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/InvalidPropertyException.class
+END
+PropertyEditorRegistrySupport$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/PropertyEditorRegistrySupport$1.class
+END
+NullValueInNestedPathException.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/NullValueInNestedPathException.class
+END
+BeanWrapperImpl$BeanPropertyHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/BeanWrapperImpl$BeanPropertyHandler.class
+END
+BeanMetadataAttributeAccessor.class
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/BeanMetadataAttributeAccessor.class
+END
+TypeConverterDelegate.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/TypeConverterDelegate.class
+END
+AbstractPropertyAccessor.class
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/AbstractPropertyAccessor.class
+END
+BeanUtils$KotlinDelegate.class
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/BeanUtils$KotlinDelegate.class
+END
+PropertyMatches$BeanPropertyMatches.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/PropertyMatches$BeanPropertyMatches.class
+END
+MutablePropertyValues.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/MutablePropertyValues.class
+END
+PropertyMatches$FieldPropertyMatches.class
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/PropertyMatches$FieldPropertyMatches.class
+END
+AbstractNestablePropertyAccessor$PropertyTokenHolder.class
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/AbstractNestablePropertyAccessor$PropertyTokenHolder.class
+END
+BeanMetadataAttribute.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/BeanMetadataAttribute.class
+END
+BeanInfoFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/BeanInfoFactory.class
+END
+BeanUtils.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/BeanUtils.class
+END
+ConfigurablePropertyAccessor.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/ConfigurablePropertyAccessor.class
+END
+PropertyValues.class
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/PropertyValues.class
+END
+PropertyValuesEditor.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/PropertyValuesEditor.class
+END
+ExtendedBeanInfoFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/ExtendedBeanInfoFactory.class
+END
+Mergeable.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/Mergeable.class
+END
+PropertyAccessor.class
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/PropertyAccessor.class
+END
+PropertyAccessorUtils.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/PropertyAccessorUtils.class
+END
+ExtendedBeanInfo$SimpleIndexedPropertyDescriptor.class
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/ExtendedBeanInfo$SimpleIndexedPropertyDescriptor.class
+END
+PropertyEditorRegistry.class
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/PropertyEditorRegistry.class
+END
+TypeConverterSupport.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/TypeConverterSupport.class
+END
+ConversionNotSupportedException.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/ConversionNotSupportedException.class
+END

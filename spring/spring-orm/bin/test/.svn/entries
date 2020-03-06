@@ -1,0 +1,67 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-orm/bin/test
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+log4j2-test.xml
+file
+
+
+
+
+2020-03-06T03:51:11.111000Z
+73e300f1b260dc6f45e724cf528910dd
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+order-supplemental.jar
+file
+
+
+
+
+2020-03-06T03:51:11.127000Z
+d41d8cd98f00b204e9800998ecf8427e
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+order.jar
+file
+
+
+
+
+2020-03-06T03:51:11.136000Z
+d41d8cd98f00b204e9800998ecf8427e
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+org
+dir
+

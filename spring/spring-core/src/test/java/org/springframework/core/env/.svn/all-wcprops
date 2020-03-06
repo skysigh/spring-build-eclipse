@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/env
+END
+CustomEnvironmentTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/env/CustomEnvironmentTests.java
+END
+SystemEnvironmentPropertySourceTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/env/SystemEnvironmentPropertySourceTests.java
+END
+PropertySourcesPropertyResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/env/PropertySourcesPropertyResolverTests.java
+END
+SimpleCommandLineArgsParserTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/env/SimpleCommandLineArgsParserTests.java
+END
+MutablePropertySourcesTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/env/MutablePropertySourcesTests.java
+END
+SimpleCommandLinePropertySourceTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/env/SimpleCommandLinePropertySourceTests.java
+END
+CompositePropertySourceTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/env/CompositePropertySourceTests.java
+END
+StandardEnvironmentTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/env/StandardEnvironmentTests.java
+END
+ProfilesTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/env/ProfilesTests.java
+END
+PropertySourceTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/env/PropertySourceTests.java
+END
+JOptCommandLinePropertySourceTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/org/springframework/core/env/JOptCommandLinePropertySourceTests.java
+END

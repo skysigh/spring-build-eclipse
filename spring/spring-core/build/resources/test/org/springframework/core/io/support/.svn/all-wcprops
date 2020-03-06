@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/resources/test/org/springframework/core/io/support
+END
+resource#test1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/resources/test/org/springframework/core/io/support/resource%23test1.txt
+END
+resource#test2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/resources/test/org/springframework/core/io/support/resource%23test2.txt
+END

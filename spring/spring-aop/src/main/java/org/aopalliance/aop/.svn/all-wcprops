@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/aopalliance/aop
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/aopalliance/aop/package-info.java
+END
+AspectException.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/aopalliance/aop/AspectException.java
+END
+Advice.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/main/java/org/aopalliance/aop/Advice.java
+END

@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/context/support
+END
+ClassPathXmlApplicationContextTests-resourceImport.xml
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/context/support/ClassPathXmlApplicationContextTests-resourceImport.xml
+END
+messages_de_DE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/context/support/messages_de_DE.xml
+END
+invalidValueType.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/context/support/invalidValueType.xml
+END
+aliasThatOverridesParent.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/context/support/aliasThatOverridesParent.xml
+END
+messages_de_AT.properties
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/context/support/messages_de_AT.properties
+END
+spr7283.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/context/support/spr7283.xml
+END
+conversionServiceWithResourceOverriding.xml
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/context/support/conversionServiceWithResourceOverriding.xml
+END
+invalidClass.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/context/support/invalidClass.xml
+END
+lifecycleTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/context/support/lifecycleTests.xml
+END
+messages_de_AT_oo.properties
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/context/support/messages_de_AT_oo.properties
+END
+ClassPathXmlApplicationContextTests-resource.xml
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/context/support/ClassPathXmlApplicationContextTests-resource.xml
+END
+simpleThreadScopeTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/context/support/simpleThreadScopeTests.xml
+END
+test.properties
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/context/support/test.properties
+END
+childWithProxy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/context/support/childWithProxy.xml
+END
+spr7816.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/context/support/spr7816.xml
+END
+GenericXmlApplicationContextTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/context/support/GenericXmlApplicationContextTests-context.xml
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/context/support/messages.properties
+END
+aliasForParent.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/context/support/aliasForParent.xml
+END
+more-messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/context/support/more-messages.properties
+END
+simpleContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/context/support/simpleContext.xml
+END
+PropertySourcesPlaceholderConfigurerTests.properties
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/context/support/PropertySourcesPlaceholderConfigurerTests.properties
+END
+classWithPlaceholder.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/context/support/classWithPlaceholder.xml
+END
+testBeans.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/context/support/testBeans.properties
+END
+messages_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/context/support/messages_de.properties
+END
+override.properties
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/context/support/override.properties
+END
+placeholder.properties
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/context/support/placeholder.properties
+END
+conversionService.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/context/support/conversionService.xml
+END

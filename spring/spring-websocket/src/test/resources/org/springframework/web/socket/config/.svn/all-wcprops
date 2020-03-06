@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/test/resources/org/springframework/web/socket/config
+END
+websocket-config-broker-custom-argument-and-return-value-types.xml
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/test/resources/org/springframework/web/socket/config/websocket-config-broker-custom-argument-and-return-value-types.xml
+END
+websocket-config-handlers.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/test/resources/org/springframework/web/socket/config/websocket-config-handlers.xml
+END
+websocket-config-broker-relay.xml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/test/resources/org/springframework/web/socket/config/websocket-config-broker-relay.xml
+END
+websocket-config-handlers-sockjs-attributes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/test/resources/org/springframework/web/socket/config/websocket-config-handlers-sockjs-attributes.xml
+END
+websocket-config-handlers-attributes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/test/resources/org/springframework/web/socket/config/websocket-config-handlers-attributes.xml
+END
+websocket-config-broker-converters-defaults-off.xml
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/test/resources/org/springframework/web/socket/config/websocket-config-broker-converters-defaults-off.xml
+END
+websocket-config-handlers-sockjs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/test/resources/org/springframework/web/socket/config/websocket-config-handlers-sockjs.xml
+END
+websocket-config-broker-converters.xml
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/test/resources/org/springframework/web/socket/config/websocket-config-broker-converters.xml
+END
+websocket-config-broker-customchannels.xml
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/test/resources/org/springframework/web/socket/config/websocket-config-broker-customchannels.xml
+END
+websocket-config-broker-simple.xml
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/test/resources/org/springframework/web/socket/config/websocket-config-broker-simple.xml
+END
+websocket-config-broker-customchannels-default-executor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/springcode/!svn/ver/1/spring-framework/spring-websocket/src/test/resources/org/springframework/web/socket/config/websocket-config-broker-customchannels-default-executor.xml
+END

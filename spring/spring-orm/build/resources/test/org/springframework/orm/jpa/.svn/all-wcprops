@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/build/resources/test/org/springframework/orm/jpa
+END
+persistence-complex.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/build/resources/test/org/springframework/orm/jpa/persistence-complex.xml
+END
+persistence-example3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/build/resources/test/org/springframework/orm/jpa/persistence-example3.xml
+END
+jpa-archive.jar
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/build/resources/test/org/springframework/orm/jpa/jpa-archive.jar
+END
+multi-jpa-emf.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/build/resources/test/org/springframework/orm/jpa/multi-jpa-emf.xml
+END
+persistence-example2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/build/resources/test/org/springframework/orm/jpa/persistence-example2.xml
+END
+persistence-example6.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/build/resources/test/org/springframework/orm/jpa/persistence-example6.xml
+END
+persistence-no-schema.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/build/resources/test/org/springframework/orm/jpa/persistence-no-schema.xml
+END
+insertPerson.sql
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/build/resources/test/org/springframework/orm/jpa/insertPerson.sql
+END
+persistence-example4.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/build/resources/test/org/springframework/orm/jpa/persistence-example4.xml
+END
+persistence-exclude-2.0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/build/resources/test/org/springframework/orm/jpa/persistence-exclude-2.0.xml
+END
+inject.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/build/resources/test/org/springframework/orm/jpa/inject.xml
+END
+persistence-exclude-1.0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/build/resources/test/org/springframework/orm/jpa/persistence-exclude-1.0.xml
+END
+persistence-example1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/build/resources/test/org/springframework/orm/jpa/persistence-example1.xml
+END
+persistence-example5.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/build/resources/test/org/springframework/orm/jpa/persistence-example5.xml
+END
+memdb.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/build/resources/test/org/springframework/orm/jpa/memdb.xml
+END
+persistence-invalid.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/build/resources/test/org/springframework/orm/jpa/persistence-invalid.xml
+END

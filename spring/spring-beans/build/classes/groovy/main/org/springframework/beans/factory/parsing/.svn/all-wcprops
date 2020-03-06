@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/parsing
+END
+AliasDefinition.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/parsing/AliasDefinition.class
+END
+ParseState.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/parsing/ParseState.class
+END
+ProblemReporter.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/parsing/ProblemReporter.class
+END
+PropertyEntry.class
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/parsing/PropertyEntry.class
+END
+package-info.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/parsing/package-info.class
+END
+Location.class
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/parsing/Location.class
+END
+ConstructorArgumentEntry.class
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/parsing/ConstructorArgumentEntry.class
+END
+ComponentDefinition.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/parsing/ComponentDefinition.class
+END
+BeanDefinitionParsingException.class
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/parsing/BeanDefinitionParsingException.class
+END
+PassThroughSourceExtractor.class
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/parsing/PassThroughSourceExtractor.class
+END
+NullSourceExtractor.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/parsing/NullSourceExtractor.class
+END
+ReaderEventListener.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/parsing/ReaderEventListener.class
+END
+ParseState$Entry.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/parsing/ParseState$Entry.class
+END
+EmptyReaderEventListener.class
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/parsing/EmptyReaderEventListener.class
+END
+FailFastProblemReporter.class
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/parsing/FailFastProblemReporter.class
+END
+QualifierEntry.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/parsing/QualifierEntry.class
+END
+AbstractComponentDefinition.class
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/parsing/AbstractComponentDefinition.class
+END
+CompositeComponentDefinition.class
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/parsing/CompositeComponentDefinition.class
+END
+BeanEntry.class
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/parsing/BeanEntry.class
+END
+BeanComponentDefinition.class
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/parsing/BeanComponentDefinition.class
+END
+ImportDefinition.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/parsing/ImportDefinition.class
+END
+ReaderContext.class
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/parsing/ReaderContext.class
+END
+DefaultsDefinition.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/parsing/DefaultsDefinition.class
+END
+SourceExtractor.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/parsing/SourceExtractor.class
+END
+Problem.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/parsing/Problem.class
+END

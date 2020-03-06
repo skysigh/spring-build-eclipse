@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/cache
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/cache/package-info.java
+END
+CacheManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/cache/CacheManager.java
+END
+Cache.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/cache/Cache.java
+END

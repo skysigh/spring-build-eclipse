@@ -1,0 +1,94 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-test/src/test/java/org/springframework/test/context/transaction/ejb
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+AbstractEjbTxDaoTests.java
+file
+
+
+
+
+2020-03-06T03:52:35.444000Z
+aeeaf4fd2be319b9c3cfbf76e52932e7
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+CommitForRequiredEjbTxDaoTests.java
+file
+
+
+
+
+2020-03-06T03:52:35.457000Z
+ba70b1074922047f6968fd090dd85119
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+CommitForRequiresNewEjbTxDaoTests.java
+file
+
+
+
+
+2020-03-06T03:52:35.469000Z
+c52ad78052767acbb0cd6da3cfc931ca
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+RollbackForRequiredEjbTxDaoTests.java
+file
+
+
+
+
+2020-03-06T03:52:35.479000Z
+67cea15da51500484ccbed3776ae92bb
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+RollbackForRequiresNewEjbTxDaoTests.java
+file
+
+
+
+
+2020-03-06T03:52:35.490000Z
+1ab0a71a3d8a16450a2400aa4cabc1f7
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+dao
+dir
+
+model
+dir
+

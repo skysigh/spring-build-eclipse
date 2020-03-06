@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/build/classes/java/main/org/springframework/expression
+END
+TypeConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/build/classes/java/main/org/springframework/expression/TypeConverter.class
+END
+MethodResolver.class
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/build/classes/java/main/org/springframework/expression/MethodResolver.class
+END
+TypeLocator.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/build/classes/java/main/org/springframework/expression/TypeLocator.class
+END
+TypedValue.class
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/build/classes/java/main/org/springframework/expression/TypedValue.class
+END
+ConstructorResolver.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/build/classes/java/main/org/springframework/expression/ConstructorResolver.class
+END
+TypeComparator.class
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/build/classes/java/main/org/springframework/expression/TypeComparator.class
+END
+package-info.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/build/classes/java/main/org/springframework/expression/package-info.class
+END
+Operation.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/build/classes/java/main/org/springframework/expression/Operation.class
+END
+ExpressionInvocationTargetException.class
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/build/classes/java/main/org/springframework/expression/ExpressionInvocationTargetException.class
+END
+ParserContext.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/build/classes/java/main/org/springframework/expression/ParserContext.class
+END
+AccessException.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/build/classes/java/main/org/springframework/expression/AccessException.class
+END
+EvaluationException.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/build/classes/java/main/org/springframework/expression/EvaluationException.class
+END
+Expression.class
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/build/classes/java/main/org/springframework/expression/Expression.class
+END
+ExpressionParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/build/classes/java/main/org/springframework/expression/ExpressionParser.class
+END
+BeanResolver.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/build/classes/java/main/org/springframework/expression/BeanResolver.class
+END
+ParserContext$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/build/classes/java/main/org/springframework/expression/ParserContext$1.class
+END
+ParseException.class
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/build/classes/java/main/org/springframework/expression/ParseException.class
+END
+MethodExecutor.class
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/build/classes/java/main/org/springframework/expression/MethodExecutor.class
+END
+ConstructorExecutor.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/build/classes/java/main/org/springframework/expression/ConstructorExecutor.class
+END
+OperatorOverloader.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/build/classes/java/main/org/springframework/expression/OperatorOverloader.class
+END
+ExpressionException.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/build/classes/java/main/org/springframework/expression/ExpressionException.class
+END
+PropertyAccessor.class
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/build/classes/java/main/org/springframework/expression/PropertyAccessor.class
+END
+MethodFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/build/classes/java/main/org/springframework/expression/MethodFilter.class
+END
+EvaluationContext.class
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/build/classes/java/main/org/springframework/expression/EvaluationContext.class
+END

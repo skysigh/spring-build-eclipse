@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/test/java/org/springframework/messaging/handler/invocation/reactive
+END
+EncoderMethodReturnValueHandlerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/test/java/org/springframework/messaging/handler/invocation/reactive/EncoderMethodReturnValueHandlerTests.java
+END
+TestReturnValueHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/test/java/org/springframework/messaging/handler/invocation/reactive/TestReturnValueHandler.java
+END
+StubArgumentResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/test/java/org/springframework/messaging/handler/invocation/reactive/StubArgumentResolver.java
+END
+MethodMessageHandlerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/test/java/org/springframework/messaging/handler/invocation/reactive/MethodMessageHandlerTests.java
+END
+TestEncoderMethodReturnValueHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/test/java/org/springframework/messaging/handler/invocation/reactive/TestEncoderMethodReturnValueHandler.java
+END
+InvocableHandlerMethodTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/test/java/org/springframework/messaging/handler/invocation/reactive/InvocableHandlerMethodTests.java
+END

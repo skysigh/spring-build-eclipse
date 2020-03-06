@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/context/support
+END
+DelegatingSmartContextLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/context/support/DelegatingSmartContextLoader.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/context/support/package-info.java
+END
+ActiveProfilesUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/context/support/ActiveProfilesUtils.java
+END
+AnnotationConfigContextLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/context/support/AnnotationConfigContextLoader.java
+END
+AnnotationConfigContextLoaderUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/context/support/AnnotationConfigContextLoaderUtils.java
+END
+GenericPropertiesContextLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/context/support/GenericPropertiesContextLoader.java
+END
+AbstractDirtiesContextTestExecutionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/context/support/AbstractDirtiesContextTestExecutionListener.java
+END
+TestPropertySourceUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/context/support/TestPropertySourceUtils.java
+END
+DefaultTestContextBootstrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/context/support/DefaultTestContextBootstrapper.java
+END
+TestConstructorUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/context/support/TestConstructorUtils.java
+END
+DefaultTestContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/context/support/DefaultTestContext.java
+END
+DirtiesContextTestExecutionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/context/support/DirtiesContextTestExecutionListener.java
+END
+GenericGroovyXmlContextLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/context/support/GenericGroovyXmlContextLoader.java
+END
+AbstractContextLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/context/support/AbstractContextLoader.java
+END
+ContextLoaderUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/context/support/ContextLoaderUtils.java
+END
+AbstractTestContextBootstrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/context/support/AbstractTestContextBootstrapper.java
+END
+AbstractDelegatingSmartContextLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/context/support/AbstractDelegatingSmartContextLoader.java
+END
+AbstractTestExecutionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/context/support/AbstractTestExecutionListener.java
+END
+MergedTestPropertySources.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/context/support/MergedTestPropertySources.java
+END
+AbstractGenericContextLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/context/support/AbstractGenericContextLoader.java
+END
+DirtiesContextBeforeModesTestExecutionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/context/support/DirtiesContextBeforeModesTestExecutionListener.java
+END
+TestPropertySourceAttributes.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/context/support/TestPropertySourceAttributes.java
+END
+DependencyInjectionTestExecutionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/context/support/DependencyInjectionTestExecutionListener.java
+END
+DefaultActiveProfilesResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/context/support/DefaultActiveProfilesResolver.java
+END
+DefaultBootstrapContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/context/support/DefaultBootstrapContext.java
+END
+GenericXmlContextLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/context/support/GenericXmlContextLoader.java
+END
+ApplicationContextInitializerUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/test/context/support/ApplicationContextInitializerUtils.java
+END

@@ -1,0 +1,229 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-web/src/main/java/org/springframework/http/converter
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+AbstractGenericHttpMessageConverter.java
+file
+
+
+
+
+2020-03-06T03:53:49.504000Z
+6318e89d8de8d26b87bf53f97f716040
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+AbstractHttpMessageConverter.java
+file
+
+
+
+
+2020-03-06T03:53:49.523000Z
+41eebee6ca18a5149c41dc41abacd64d
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+BufferedImageHttpMessageConverter.java
+file
+
+
+
+
+2020-03-06T03:53:49.537000Z
+50cd0393befa07da01104bc8e296b427
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+ByteArrayHttpMessageConverter.java
+file
+
+
+
+
+2020-03-06T03:53:49.551000Z
+6dd2054fdf1383db419df611502b740e
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+FormHttpMessageConverter.java
+file
+
+
+
+
+2020-03-06T03:53:49.564000Z
+39c5421392b603f97ebdfb7acaea9d29
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+GenericHttpMessageConverter.java
+file
+
+
+
+
+2020-03-06T03:53:49.580000Z
+a68a853a0ace671efe9cab872056ee5a
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+HttpMessageConversionException.java
+file
+
+
+
+
+2020-03-06T03:53:49.593000Z
+39890be59b3d3aa8b3945d363c1526a4
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+HttpMessageConverter.java
+file
+
+
+
+
+2020-03-06T03:53:49.606000Z
+d068548269a28ce126ac1cf5956b21c7
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+HttpMessageNotReadableException.java
+file
+
+
+
+
+2020-03-06T03:53:49.617000Z
+8416ecd649df369b7fedbdb2f45fc518
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+HttpMessageNotWritableException.java
+file
+
+
+
+
+2020-03-06T03:53:49.632000Z
+018b0b3f4773644de0d8b23b517d8f4f
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+ObjectToStringHttpMessageConverter.java
+file
+
+
+
+
+2020-03-06T03:53:49.645000Z
+1142ea8218050fa37f6fae7e5a9a42cc
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+ResourceHttpMessageConverter.java
+file
+
+
+
+
+2020-03-06T03:53:49.660000Z
+95036b75fa249107edb9cba230ad7cc0
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+ResourceRegionHttpMessageConverter.java
+file
+
+
+
+
+2020-03-06T03:53:49.674000Z
+7022908c156a8da1eca26a00d440f500
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+StringHttpMessageConverter.java
+file
+
+
+
+
+2020-03-06T03:53:49.687000Z
+e6f8c53a21a6e5b34279bffb51c6be94
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+cbor
+dir
+
+feed
+dir
+
+json
+dir
+
+package-info.java
+file
+
+
+
+
+2020-03-06T03:53:50.166000Z
+49b115402c871e849dbbb89aecbe1a2f
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+protobuf
+dir
+
+smile
+dir
+
+support
+dir
+
+xml
+dir
+

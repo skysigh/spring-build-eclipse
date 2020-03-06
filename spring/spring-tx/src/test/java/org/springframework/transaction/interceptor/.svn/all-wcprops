@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/test/java/org/springframework/transaction/interceptor
+END
+AbstractTransactionAspectTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/test/java/org/springframework/transaction/interceptor/AbstractTransactionAspectTests.java
+END
+RollbackRuleTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/test/java/org/springframework/transaction/interceptor/RollbackRuleTests.java
+END
+RuleBasedTransactionAttributeTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/test/java/org/springframework/transaction/interceptor/RuleBasedTransactionAttributeTests.java
+END
+TransactionInterceptorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/test/java/org/springframework/transaction/interceptor/TransactionInterceptorTests.java
+END
+ImplementsNoInterfaces.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/test/java/org/springframework/transaction/interceptor/ImplementsNoInterfaces.java
+END
+TransactionAttributeEditorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/test/java/org/springframework/transaction/interceptor/TransactionAttributeEditorTests.java
+END
+MyRuntimeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/test/java/org/springframework/transaction/interceptor/MyRuntimeException.java
+END
+TransactionAttributeSourceAdvisorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/test/java/org/springframework/transaction/interceptor/TransactionAttributeSourceAdvisorTests.java
+END
+TransactionAttributeSourceEditorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/test/java/org/springframework/transaction/interceptor/TransactionAttributeSourceEditorTests.java
+END
+TransactionAttributeSourceTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/test/java/org/springframework/transaction/interceptor/TransactionAttributeSourceTests.java
+END
+PlatformTransactionManagerFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/test/java/org/springframework/transaction/interceptor/PlatformTransactionManagerFacade.java
+END
+MapTransactionAttributeSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/test/java/org/springframework/transaction/interceptor/MapTransactionAttributeSource.java
+END
+ReactiveTransactionInterceptorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/test/java/org/springframework/transaction/interceptor/ReactiveTransactionInterceptorTests.java
+END
+BeanFactoryTransactionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/test/java/org/springframework/transaction/interceptor/BeanFactoryTransactionTests.java
+END
+AbstractReactiveTransactionAspectTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/test/java/org/springframework/transaction/interceptor/AbstractReactiveTransactionAspectTests.java
+END

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/io/support
+END
+ResourcePropertySource.class
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/io/support/ResourcePropertySource.class
+END
+ResourceRegion.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/io/support/ResourceRegion.class
+END
+PathMatchingResourcePatternResolver.class
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/io/support/PathMatchingResourcePatternResolver.class
+END
+ResourcePatternResolver.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/io/support/ResourcePatternResolver.class
+END
+LocalizedResourceHelper.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/io/support/LocalizedResourceHelper.class
+END
+VfsPatternUtils.class
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/io/support/VfsPatternUtils.class
+END
+SpringFactoriesLoader.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/io/support/SpringFactoriesLoader.class
+END
+DefaultPropertySourceFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/io/support/DefaultPropertySourceFactory.class
+END
+package-info.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/io/support/package-info.class
+END
+PropertiesLoaderUtils.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/io/support/PropertiesLoaderUtils.class
+END
+ResourcePatternUtils.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/io/support/ResourcePatternUtils.class
+END
+ResourceArrayPropertyEditor.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/io/support/ResourceArrayPropertyEditor.class
+END
+EncodedResource.class
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/io/support/EncodedResource.class
+END
+PropertySourceFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/io/support/PropertySourceFactory.class
+END
+PathMatchingResourcePatternResolver$VfsResourceMatchingDelegate.class
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/io/support/PathMatchingResourcePatternResolver$VfsResourceMatchingDelegate.class
+END
+PropertiesLoaderSupport.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/io/support/PropertiesLoaderSupport.class
+END
+PathMatchingResourcePatternResolver$PatternVirtualFileVisitor.class
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/io/support/PathMatchingResourcePatternResolver$PatternVirtualFileVisitor.class
+END

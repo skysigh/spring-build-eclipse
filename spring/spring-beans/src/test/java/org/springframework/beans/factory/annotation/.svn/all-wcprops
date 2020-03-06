@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/test/java/org/springframework/beans/factory/annotation
+END
+InjectAnnotationBeanPostProcessorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/test/java/org/springframework/beans/factory/annotation/InjectAnnotationBeanPostProcessorTests.java
+END
+LookupAnnotationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/test/java/org/springframework/beans/factory/annotation/LookupAnnotationTests.java
+END
+ParameterResolutionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/test/java/org/springframework/beans/factory/annotation/ParameterResolutionTests.java
+END
+AutowiredAnnotationBeanPostProcessorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/test/java/org/springframework/beans/factory/annotation/AutowiredAnnotationBeanPostProcessorTests.java
+END
+CustomAutowireConfigurerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/test/java/org/springframework/beans/factory/annotation/CustomAutowireConfigurerTests.java
+END
+AnnotationBeanWiringInfoResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/test/java/org/springframework/beans/factory/annotation/AnnotationBeanWiringInfoResolverTests.java
+END
+RequiredAnnotationBeanPostProcessorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/test/java/org/springframework/beans/factory/annotation/RequiredAnnotationBeanPostProcessorTests.java
+END

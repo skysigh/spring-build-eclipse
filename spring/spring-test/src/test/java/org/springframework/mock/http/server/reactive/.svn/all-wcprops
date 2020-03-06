@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/mock/http/server/reactive
+END
+MockServerHttpResponseTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/mock/http/server/reactive/MockServerHttpResponseTests.java
+END
+MockServerHttpRequestTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/mock/http/server/reactive/MockServerHttpRequestTests.java
+END

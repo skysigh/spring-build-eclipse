@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/handler/annotation/support
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/handler/annotation/support/package-info.java
+END
+MessageMethodArgumentResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/handler/annotation/support/MessageMethodArgumentResolver.java
+END
+MethodArgumentTypeMismatchException.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/handler/annotation/support/MethodArgumentTypeMismatchException.java
+END
+HeadersMethodArgumentResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/handler/annotation/support/HeadersMethodArgumentResolver.java
+END
+AbstractNamedValueMethodArgumentResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/handler/annotation/support/AbstractNamedValueMethodArgumentResolver.java
+END
+AnnotationExceptionHandlerMethodResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/handler/annotation/support/AnnotationExceptionHandlerMethodResolver.java
+END
+PayloadMethodArgumentResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/handler/annotation/support/PayloadMethodArgumentResolver.java
+END
+DestinationVariableMethodArgumentResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/handler/annotation/support/DestinationVariableMethodArgumentResolver.java
+END
+HeaderMethodArgumentResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/handler/annotation/support/HeaderMethodArgumentResolver.java
+END
+MessageHandlerMethodFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/handler/annotation/support/MessageHandlerMethodFactory.java
+END
+DefaultMessageHandlerMethodFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/handler/annotation/support/DefaultMessageHandlerMethodFactory.java
+END
+PayloadArgumentResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/handler/annotation/support/PayloadArgumentResolver.java
+END
+MethodArgumentNotValidException.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/handler/annotation/support/MethodArgumentNotValidException.java
+END

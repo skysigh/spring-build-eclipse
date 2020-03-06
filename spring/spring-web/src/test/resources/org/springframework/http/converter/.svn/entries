@@ -1,0 +1,59 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-web/src/test/resources/org/springframework/http/converter
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+byterangeresource.txt
+file
+
+
+
+
+2020-03-06T03:54:08.401000Z
+e40dc8f6e2d92ba34a2448d734684b16
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+feed
+dir
+
+logo.jpg
+file
+
+
+
+
+2020-03-06T03:54:08.526000Z
+4e9c18859d42b83223129a1ae86400da
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+
+xml
+dir
+

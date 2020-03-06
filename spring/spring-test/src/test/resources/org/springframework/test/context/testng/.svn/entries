@@ -1,0 +1,79 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-test/src/test/resources/org/springframework/test/context/testng
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+ConcreteTransactionalTestNGSpringContextTests-context.xml
+file
+
+
+
+
+2020-03-06T03:52:42.138000Z
+6ab78d9fce6a09d3fcead19c7ab22979
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+DirtiesContextTransactionalTestNGSpringContextTests-context.xml
+file
+
+
+
+
+2020-03-06T03:52:42.151000Z
+34d2223e1e82f07ec197bd9506f18311
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+FailingBeforeAndAfterMethodsTests-context.xml
+file
+
+
+
+
+2020-03-06T03:52:42.162000Z
+34d2223e1e82f07ec197bd9506f18311
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+TimedTransactionalTestNGSpringContextTests-context.xml
+file
+
+
+
+
+2020-03-06T03:52:42.169000Z
+4ef53612761bac1f359965dfe416a6af
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+transaction
+dir
+

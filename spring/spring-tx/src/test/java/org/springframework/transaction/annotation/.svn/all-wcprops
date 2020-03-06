@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/test/java/org/springframework/transaction/annotation
+END
+AnnotationTransactionInterceptorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/test/java/org/springframework/transaction/annotation/AnnotationTransactionInterceptorTests.java
+END
+AnnotationTransactionNamespaceHandlerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/test/java/org/springframework/transaction/annotation/AnnotationTransactionNamespaceHandlerTests.java
+END
+EnableTransactionManagementTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/test/java/org/springframework/transaction/annotation/EnableTransactionManagementTests.java
+END
+AnnotationTransactionAttributeSourceTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/test/java/org/springframework/transaction/annotation/AnnotationTransactionAttributeSourceTests.java
+END

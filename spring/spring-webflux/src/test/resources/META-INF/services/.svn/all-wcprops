@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/resources/META-INF/services
+END
+org.junit.platform.launcher.TestExecutionListener
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/resources/META-INF/services/org.junit.platform.launcher.TestExecutionListener
+END

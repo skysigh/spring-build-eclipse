@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/kotlin/org/springframework/test/web/servlet
+END
+MockMvcResultMatchersDsl.kt
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/kotlin/org/springframework/test/web/servlet/MockMvcResultMatchersDsl.kt
+END
+MockMvcResultHandlersDsl.kt
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/kotlin/org/springframework/test/web/servlet/MockMvcResultHandlersDsl.kt
+END
+ResultActionsDsl.kt
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/kotlin/org/springframework/test/web/servlet/ResultActionsDsl.kt
+END
+MockMvcExtensions.kt
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/kotlin/org/springframework/test/web/servlet/MockMvcExtensions.kt
+END
+MockHttpServletRequestDsl.kt
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/kotlin/org/springframework/test/web/servlet/MockHttpServletRequestDsl.kt
+END
+MockMultipartHttpServletRequestDsl.kt
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/kotlin/org/springframework/test/web/servlet/MockMultipartHttpServletRequestDsl.kt
+END

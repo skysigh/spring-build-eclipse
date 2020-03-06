@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/groovy/org/springframework/context/groovy
+END
+GroovyBeanDefinitionReaderTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/groovy/org/springframework/context/groovy/GroovyBeanDefinitionReaderTests.groovy
+END
+GroovyApplicationContextDynamicBeanPropertyTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/groovy/org/springframework/context/groovy/GroovyApplicationContextDynamicBeanPropertyTests.groovy
+END

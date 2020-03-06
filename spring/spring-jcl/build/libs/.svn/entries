@@ -1,0 +1,54 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-jcl/build/libs
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+spring-jcl-5.2.5.BUILD-SNAPSHOT-test-fixtures.jar
+file
+
+
+
+
+2020-03-06T03:50:02.390000Z
+b61ca531bed53e6300b31629a8612e43
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+
+spring-jcl-5.2.5.BUILD-SNAPSHOT.jar
+file
+
+
+
+
+2020-03-06T03:50:02.404000Z
+2bb259ae2c1d3b83f07acf3038c9b206
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+

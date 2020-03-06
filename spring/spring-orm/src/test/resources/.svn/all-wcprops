@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/test/resources
+END
+order-supplemental.jar
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/test/resources/order-supplemental.jar
+END
+order.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/test/resources/order.jar
+END
+log4j2-test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/test/resources/log4j2-test.xml
+END

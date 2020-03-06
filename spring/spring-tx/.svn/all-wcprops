@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/.classpath
+END
+spring-tx.gradle
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/spring-tx.gradle
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/.project
+END

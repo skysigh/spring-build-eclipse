@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/jmx/export/annotation
+END
+ManagedResource.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/jmx/export/annotation/ManagedResource.class
+END
+AnnotationMBeanExporter.class
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/jmx/export/annotation/AnnotationMBeanExporter.class
+END
+ManagedNotification.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/jmx/export/annotation/ManagedNotification.class
+END
+ManagedNotifications.class
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/jmx/export/annotation/ManagedNotifications.class
+END
+AnnotationJmxAttributeSource.class
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/jmx/export/annotation/AnnotationJmxAttributeSource.class
+END
+ManagedOperationParameter.class
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/jmx/export/annotation/ManagedOperationParameter.class
+END
+ManagedOperation.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/jmx/export/annotation/ManagedOperation.class
+END
+ManagedOperationParameters.class
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/jmx/export/annotation/ManagedOperationParameters.class
+END
+ManagedAttribute.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/jmx/export/annotation/ManagedAttribute.class
+END
+ManagedMetric.class
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/jmx/export/annotation/ManagedMetric.class
+END
+package-info.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/jmx/export/annotation/package-info.class
+END

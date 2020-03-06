@@ -1,0 +1,64 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-context/src/testFixtures/java/org/springframework/context/testfixture
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+AbstractApplicationContextTests.java
+file
+
+
+
+
+2020-03-06T03:47:51.026000Z
+ce864734c5eeff2eefcfc99d6bd97f90
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+SimpleMapScope.java
+file
+
+
+
+
+2020-03-06T03:47:51.043000Z
+a8b2ac570552d1dc9900dbf22fa1677d
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+beans
+dir
+
+cache
+dir
+
+index
+dir
+
+jndi
+dir
+

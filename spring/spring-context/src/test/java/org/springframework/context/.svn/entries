@@ -1,0 +1,82 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-context/src/test/java/org/springframework/context
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+LifecycleContextBean.java
+file
+
+
+
+
+2020-03-06T03:47:31.539000Z
+b88929f894f01fae132c171f18050b92
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+annotation
+dir
+
+annotation2
+dir
+
+annotation3
+dir
+
+annotation4
+dir
+
+annotation5
+dir
+
+annotation6
+dir
+
+config
+dir
+
+conversionservice
+dir
+
+event
+dir
+
+expression
+dir
+
+groovy
+dir
+
+i18n
+dir
+
+index
+dir
+
+support
+dir
+

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/test/java/org/springframework/jdbc/datasource/init
+END
+CompositeDatabasePopulatorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/test/java/org/springframework/jdbc/datasource/init/CompositeDatabasePopulatorTests.java
+END
+HsqlDatabasePopulatorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/test/java/org/springframework/jdbc/datasource/init/HsqlDatabasePopulatorTests.java
+END
+H2DatabasePopulatorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/test/java/org/springframework/jdbc/datasource/init/H2DatabasePopulatorTests.java
+END
+ScriptUtilsIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/test/java/org/springframework/jdbc/datasource/init/ScriptUtilsIntegrationTests.java
+END
+ResourceDatabasePopulatorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/test/java/org/springframework/jdbc/datasource/init/ResourceDatabasePopulatorTests.java
+END
+ScriptUtilsUnitTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/test/java/org/springframework/jdbc/datasource/init/ScriptUtilsUnitTests.java
+END
+AbstractDatabasePopulatorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/test/java/org/springframework/jdbc/datasource/init/AbstractDatabasePopulatorTests.java
+END
+AbstractDatabaseInitializationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/test/java/org/springframework/jdbc/datasource/init/AbstractDatabaseInitializationTests.java
+END

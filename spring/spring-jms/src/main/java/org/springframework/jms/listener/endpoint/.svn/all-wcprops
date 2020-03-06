@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/main/java/org/springframework/jms/listener/endpoint
+END
+DefaultJmsActivationSpecFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/main/java/org/springframework/jms/listener/endpoint/DefaultJmsActivationSpecFactory.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/main/java/org/springframework/jms/listener/endpoint/package-info.java
+END
+JmsMessageEndpointManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/main/java/org/springframework/jms/listener/endpoint/JmsMessageEndpointManager.java
+END
+JmsActivationSpecFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/main/java/org/springframework/jms/listener/endpoint/JmsActivationSpecFactory.java
+END
+JmsMessageEndpointFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/main/java/org/springframework/jms/listener/endpoint/JmsMessageEndpointFactory.java
+END
+StandardJmsActivationSpecFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/main/java/org/springframework/jms/listener/endpoint/StandardJmsActivationSpecFactory.java
+END
+JmsActivationSpecConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-jms/src/main/java/org/springframework/jms/listener/endpoint/JmsActivationSpecConfig.java
+END

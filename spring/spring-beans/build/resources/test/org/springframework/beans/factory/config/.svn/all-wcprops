@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/resources/test/org/springframework/beans/factory/config
+END
+PropertyPlaceholderConfigurerTests.properties
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/resources/test/org/springframework/beans/factory/config/PropertyPlaceholderConfigurerTests.properties
+END
+PropertyPathFactoryBeanTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/resources/test/org/springframework/beans/factory/config/PropertyPathFactoryBeanTests-context.xml
+END
+PropertiesFactoryBeanTests-test.properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/resources/test/org/springframework/beans/factory/config/PropertiesFactoryBeanTests-test.properties.xml
+END
+PropertyResourceConfigurerTests-test.properties
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/resources/test/org/springframework/beans/factory/config/PropertyResourceConfigurerTests-test.properties
+END
+SimpleScopeTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/resources/test/org/springframework/beans/factory/config/SimpleScopeTests-context.xml
+END
+PropertyResourceConfigurerTests-test.properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/resources/test/org/springframework/beans/factory/config/PropertyResourceConfigurerTests-test.properties.xml
+END
+FieldRetrievingFactoryBeanTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/resources/test/org/springframework/beans/factory/config/FieldRetrievingFactoryBeanTests-context.xml
+END
+PropertiesFactoryBeanTests-test.properties
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/resources/test/org/springframework/beans/factory/config/PropertiesFactoryBeanTests-test.properties
+END
+ObjectFactoryCreatingFactoryBeanTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/resources/test/org/springframework/beans/factory/config/ObjectFactoryCreatingFactoryBeanTests-context.xml
+END

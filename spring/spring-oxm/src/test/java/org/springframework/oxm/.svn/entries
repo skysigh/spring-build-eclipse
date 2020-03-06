@@ -1,0 +1,64 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-oxm/src/test/java/org/springframework/oxm
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+AbstractMarshallerTests.java
+file
+
+
+
+
+2020-03-06T03:51:31.745000Z
+4ddd6173f55863e86b469b230f8fa6ff
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+AbstractUnmarshallerTests.java
+file
+
+
+
+
+2020-03-06T03:51:31.765000Z
+478dded67def6a317406e95ded2b3792
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+config
+dir
+
+jaxb
+dir
+
+jibx
+dir
+
+xstream
+dir
+

@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/mvc/method/annotation
+END
+MatrixVariablesMethodArgumentResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/mvc/method/annotation/MatrixVariablesMethodArgumentResolverTests.java
+END
+RequestAttributeMethodArgumentResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/mvc/method/annotation/RequestAttributeMethodArgumentResolverTests.java
+END
+ViewMethodReturnValueHandlerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/mvc/method/annotation/ViewMethodReturnValueHandlerTests.java
+END
+DeferredResultReturnValueHandlerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/mvc/method/annotation/DeferredResultReturnValueHandlerTests.java
+END
+ExtendedServletRequestDataBinderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/mvc/method/annotation/ExtendedServletRequestDataBinderTests.java
+END
+RequestResponseBodyMethodProcessorMockTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/mvc/method/annotation/RequestResponseBodyMethodProcessorMockTests.java
+END
+RequestResponseBodyAdviceChainTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/mvc/method/annotation/RequestResponseBodyAdviceChainTests.java
+END
+RequestPartIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/mvc/method/annotation/RequestPartIntegrationTests.java
+END
+ResponseBodyEmitterReturnValueHandlerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/mvc/method/annotation/ResponseBodyEmitterReturnValueHandlerTests.java
+END
+UriComponentsBuilderMethodArgumentResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/mvc/method/annotation/UriComponentsBuilderMethodArgumentResolverTests.java
+END
+ServletModelAttributeMethodProcessorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/mvc/method/annotation/ServletModelAttributeMethodProcessorTests.java
+END
+ModelAndViewResolverMethodReturnValueHandlerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/mvc/method/annotation/ModelAndViewResolverMethodReturnValueHandlerTests.java
+END
+RequestMappingHandlerMappingTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerMappingTests.java
+END
+ExceptionHandlerExceptionResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/mvc/method/annotation/ExceptionHandlerExceptionResolverTests.java
+END
+ServletInvocableHandlerMethodTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/mvc/method/annotation/ServletInvocableHandlerMethodTests.java
+END
+ServletCookieValueMethodArgumentResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/mvc/method/annotation/ServletCookieValueMethodArgumentResolverTests.java
+END
+HttpEntityMethodProcessorMockTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/mvc/method/annotation/HttpEntityMethodProcessorMockTests.java
+END
+SessionAttributeMethodArgumentResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/mvc/method/annotation/SessionAttributeMethodArgumentResolverTests.java
+END
+PathVariableMethodArgumentResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/mvc/method/annotation/PathVariableMethodArgumentResolverTests.java
+END
+ModelAndViewMethodReturnValueHandlerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/mvc/method/annotation/ModelAndViewMethodReturnValueHandlerTests.java
+END
+MvcUriComponentsBuilderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/mvc/method/annotation/MvcUriComponentsBuilderTests.java
+END
+MatrixVariablesMapMethodArgumentResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/mvc/method/annotation/MatrixVariablesMapMethodArgumentResolverTests.java
+END
+RequestMappingHandlerAdapterIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapterIntegrationTests.java
+END
+RequestScopedControllerAdviceIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/mvc/method/annotation/RequestScopedControllerAdviceIntegrationTests.java
+END
+ServletResponseMethodArgumentResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/mvc/method/annotation/ServletResponseMethodArgumentResolverTests.java
+END
+ServletAnnotationControllerHandlerMethodTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/mvc/method/annotation/ServletAnnotationControllerHandlerMethodTests.java
+END
+AbstractServletHandlerMethodTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/mvc/method/annotation/AbstractServletHandlerMethodTests.java
+END
+ServletRequestMethodArgumentResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/mvc/method/annotation/ServletRequestMethodArgumentResolverTests.java
+END
+CrossOriginTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/mvc/method/annotation/CrossOriginTests.java
+END
+HandlerMethodAnnotationDetectionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/mvc/method/annotation/HandlerMethodAnnotationDetectionTests.java
+END
+ResponseBodyEmitterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/mvc/method/annotation/ResponseBodyEmitterTests.java
+END
+SseEmitterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/mvc/method/annotation/SseEmitterTests.java
+END
+RequestMappingHandlerAdapterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapterTests.java
+END
+ViewNameMethodReturnValueHandlerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/mvc/method/annotation/ViewNameMethodReturnValueHandlerTests.java
+END
+RequestResponseBodyMethodProcessorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/mvc/method/annotation/RequestResponseBodyMethodProcessorTests.java
+END
+ResponseEntityExceptionHandlerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/mvc/method/annotation/ResponseEntityExceptionHandlerTests.java
+END
+ReactiveTypeHandlerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/mvc/method/annotation/ReactiveTypeHandlerTests.java
+END
+HttpEntityMethodProcessorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/mvc/method/annotation/HttpEntityMethodProcessorTests.java
+END
+PathVariableMapMethodArgumentResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/mvc/method/annotation/PathVariableMapMethodArgumentResolverTests.java
+END
+AbstractRequestAttributesArgumentResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/mvc/method/annotation/AbstractRequestAttributesArgumentResolverTests.java
+END
+RequestPartMethodArgumentResolverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/mvc/method/annotation/RequestPartMethodArgumentResolverTests.java
+END
+UriTemplateServletAnnotationControllerHandlerMethodTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/mvc/method/annotation/UriTemplateServletAnnotationControllerHandlerMethodTests.java
+END
+StreamingResponseBodyReturnValueHandlerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/springcode/!svn/ver/1/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/mvc/method/annotation/StreamingResponseBodyReturnValueHandlerTests.java
+END

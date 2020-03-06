@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/test/java/org/springframework/cache/jcache/interceptor
+END
+CacheRemoveAllOperationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/test/java/org/springframework/cache/jcache/interceptor/CacheRemoveAllOperationTests.java
+END
+JCacheInterceptorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/test/java/org/springframework/cache/jcache/interceptor/JCacheInterceptorTests.java
+END
+CachePutOperationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/test/java/org/springframework/cache/jcache/interceptor/CachePutOperationTests.java
+END
+CacheRemoveOperationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/test/java/org/springframework/cache/jcache/interceptor/CacheRemoveOperationTests.java
+END
+JCacheErrorHandlerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/test/java/org/springframework/cache/jcache/interceptor/JCacheErrorHandlerTests.java
+END
+AnnotationCacheOperationSourceTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/test/java/org/springframework/cache/jcache/interceptor/AnnotationCacheOperationSourceTests.java
+END
+AbstractCacheOperationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/test/java/org/springframework/cache/jcache/interceptor/AbstractCacheOperationTests.java
+END
+AnnotatedJCacheableService.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/test/java/org/springframework/cache/jcache/interceptor/AnnotatedJCacheableService.java
+END
+CacheResolverAdapterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/test/java/org/springframework/cache/jcache/interceptor/CacheResolverAdapterTests.java
+END
+JCacheKeyGeneratorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/test/java/org/springframework/cache/jcache/interceptor/JCacheKeyGeneratorTests.java
+END
+SampleObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/test/java/org/springframework/cache/jcache/interceptor/SampleObject.java
+END
+CacheResultOperationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/test/java/org/springframework/cache/jcache/interceptor/CacheResultOperationTests.java
+END

@@ -1,0 +1,70 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-webflux/src/main/java/org/springframework/web/reactive/socket/server
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+RequestUpgradeStrategy.java
+file
+
+
+
+
+2020-03-06T03:54:40.171000Z
+49ddaed0922378d3a0f787653eabfc77
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+WebSocketService.java
+file
+
+
+
+
+2020-03-06T03:54:40.185000Z
+b6da55a9f43e5bd14960d998571fab81
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+package-info.java
+file
+
+
+
+
+2020-03-06T03:54:40.195000Z
+d4e2b74d47756d2f4a9d8b3b065d4df4
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+support
+dir
+
+upgrade
+dir
+

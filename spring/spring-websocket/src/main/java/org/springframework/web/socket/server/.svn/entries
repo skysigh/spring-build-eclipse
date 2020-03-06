@@ -1,0 +1,97 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/server
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+HandshakeFailureException.java
+file
+
+
+
+
+2020-03-06T03:55:56.642000Z
+0af43c882bb35ebd459a5ac7d1b5e29e
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+HandshakeHandler.java
+file
+
+
+
+
+2020-03-06T03:55:56.673000Z
+68766bb61ccba8793f8f70fbc1939171
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+HandshakeInterceptor.java
+file
+
+
+
+
+2020-03-06T03:55:56.683000Z
+c885397a572ac9daa76b7fb66f662e90
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+RequestUpgradeStrategy.java
+file
+
+
+
+
+2020-03-06T03:55:56.694000Z
+e15b83ee85c371710cf139cccb98bf3b
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+jetty
+dir
+
+package-info.java
+file
+
+
+
+
+2020-03-06T03:55:57.139000Z
+5e77719bb4fb5bb88204779bcc2b3fae
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+standard
+dir
+
+support
+dir
+

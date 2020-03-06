@@ -1,0 +1,54 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-core/kotlin-coroutines/build/libs
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+kotlin-coroutines-5.2.5.BUILD-SNAPSHOT-test-fixtures.jar
+file
+
+
+
+
+2020-03-06T03:49:23.481000Z
+dde1867432cfbd1d2306fba055eab420
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+
+kotlin-coroutines-5.2.5.BUILD-SNAPSHOT.jar
+file
+
+
+
+
+2020-03-06T03:49:23.507000Z
+64b6e3487d106c8d0603599fa7a0e206
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+

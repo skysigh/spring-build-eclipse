@@ -1,0 +1,52 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-web/src/test/java/org/springframework/http/codec/cbor
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+Jackson2CborDecoderTests.java
+file
+
+
+
+
+2020-03-06T03:54:01.069000Z
+065f082e5abe02c98a4e0090ee279f2a
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+Jackson2CborEncoderTests.java
+file
+
+
+
+
+2020-03-06T03:54:01.085000Z
+4e49a421169382659831945df7a9f5da
+2020-03-06T03:35:38.538472Z
+1
+wck
+

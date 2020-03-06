@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/scheduling/annotation
+END
+EnableAsyncTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/scheduling/annotation/EnableAsyncTests.java
+END
+AsyncAnnotationBeanPostProcessorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/scheduling/annotation/AsyncAnnotationBeanPostProcessorTests.java
+END
+EnableSchedulingTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/scheduling/annotation/EnableSchedulingTests.java
+END
+AsyncResultTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/scheduling/annotation/AsyncResultTests.java
+END
+AnnotationAsyncExecutionInterceptorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/scheduling/annotation/AnnotationAsyncExecutionInterceptorTests.java
+END
+AsyncExecutionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/scheduling/annotation/AsyncExecutionTests.java
+END
+ScheduledAnnotationBeanPostProcessorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/scheduling/annotation/ScheduledAnnotationBeanPostProcessorTests.java
+END
+TestableAsyncUncaughtExceptionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/scheduling/annotation/TestableAsyncUncaughtExceptionHandler.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/mock/http/client
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/mock/http/client/package-info.java
+END
+MockClientHttpResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/mock/http/client/MockClientHttpResponse.java
+END
+MockClientHttpRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/mock/http/client/MockClientHttpRequest.java
+END
+MockAsyncClientHttpRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/main/java/org/springframework/mock/http/client/MockAsyncClientHttpRequest.java
+END

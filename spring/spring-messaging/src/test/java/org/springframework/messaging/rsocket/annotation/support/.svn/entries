@@ -1,0 +1,52 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-messaging/src/test/java/org/springframework/messaging/rsocket/annotation/support
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+RSocketFrameTypeMessageConditionTests.java
+file
+
+
+
+
+2020-03-06T03:51:06.572000Z
+855cf6a00de630a5c6c5f004a98ec356
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+RSocketMessageHandlerTests.java
+file
+
+
+
+
+2020-03-06T03:51:06.588000Z
+904d98de2ba98b14cd723faa7d92750f
+2020-03-06T03:35:38.538472Z
+1
+wck
+

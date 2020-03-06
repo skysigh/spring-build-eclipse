@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/jmx/support
+END
+MBeanServerFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/jmx/support/MBeanServerFactoryBean.java
+END
+ConnectorServerFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/jmx/support/ConnectorServerFactoryBean.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/jmx/support/package-info.java
+END
+NotificationListenerHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/jmx/support/NotificationListenerHolder.java
+END
+ObjectNameManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/jmx/support/ObjectNameManager.java
+END
+MetricType.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/jmx/support/MetricType.java
+END
+MBeanServerConnectionFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/jmx/support/MBeanServerConnectionFactoryBean.java
+END
+RegistrationPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/jmx/support/RegistrationPolicy.java
+END
+JmxUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/jmx/support/JmxUtils.java
+END
+MBeanRegistrationSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/jmx/support/MBeanRegistrationSupport.java
+END
+WebSphereMBeanServerFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/jmx/support/WebSphereMBeanServerFactoryBean.java
+END

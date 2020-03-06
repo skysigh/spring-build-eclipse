@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/beans/factory/aspectj
+END
+beanConfigurerTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/beans/factory/aspectj/beanConfigurerTests.xml
+END
+XmlBeanConfigurerTests.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/beans/factory/aspectj/XmlBeanConfigurerTests.class
+END
+ShouldBeConfiguredBySpring.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/beans/factory/aspectj/ShouldBeConfiguredBySpring.class
+END
+beanConfigurerTests-beans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/beans/factory/aspectj/beanConfigurerTests-beans.xml
+END
+SpringConfiguredWithAutoProxyingTests.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/beans/factory/aspectj/SpringConfiguredWithAutoProxyingTests.class
+END
+springConfigured.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/beans/factory/aspectj/springConfigured.xml
+END

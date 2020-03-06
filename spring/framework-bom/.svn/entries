@@ -1,0 +1,55 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/framework-bom
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+.project
+file
+
+
+
+
+2020-03-06T03:43:59.825000Z
+50cd0e0daee439336562128cf7e7ce9b
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+.settings
+dir
+
+framework-bom.gradle
+file
+
+
+
+
+2020-03-06T03:43:59.920000Z
+43975c3fbb74fff89f35709543e78bb2
+2020-03-06T03:35:38.538472Z
+1
+wck
+

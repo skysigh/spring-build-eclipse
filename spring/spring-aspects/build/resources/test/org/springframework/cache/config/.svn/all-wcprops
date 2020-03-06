@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/build/resources/test/org/springframework/cache/config
+END
+annotation-jcache-aspectj.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/build/resources/test/org/springframework/cache/config/annotation-jcache-aspectj.xml
+END
+annotation-cache-aspectj.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/build/resources/test/org/springframework/cache/config/annotation-cache-aspectj.xml
+END

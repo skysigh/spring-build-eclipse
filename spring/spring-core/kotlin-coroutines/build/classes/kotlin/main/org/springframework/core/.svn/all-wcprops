@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/kotlin-coroutines/build/classes/kotlin/main/org/springframework/core
+END
+CoroutinesUtils$invokeSuspendingFunction$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/kotlin-coroutines/build/classes/kotlin/main/org/springframework/core/CoroutinesUtils$invokeSuspendingFunction$1.class
+END
+CoroutinesUtils$deferredToMono$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/kotlin-coroutines/build/classes/kotlin/main/org/springframework/core/CoroutinesUtils$deferredToMono$1.class
+END
+CoroutinesUtils$invokeSuspendingFunction$mono$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/kotlin-coroutines/build/classes/kotlin/main/org/springframework/core/CoroutinesUtils$invokeSuspendingFunction$mono$2.class
+END
+CoroutinesUtils.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/kotlin-coroutines/build/classes/kotlin/main/org/springframework/core/CoroutinesUtils.class
+END
+CoroutinesUtils$invokeSuspendingFunction$mono$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/kotlin-coroutines/build/classes/kotlin/main/org/springframework/core/CoroutinesUtils$invokeSuspendingFunction$mono$1.class
+END
+CoroutinesUtils$monoToDeferred$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/kotlin-coroutines/build/classes/kotlin/main/org/springframework/core/CoroutinesUtils$monoToDeferred$1.class
+END

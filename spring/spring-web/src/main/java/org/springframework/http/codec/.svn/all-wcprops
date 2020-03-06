@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/codec
+END
+HttpMessageWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/codec/HttpMessageWriter.java
+END
+CodecConfigurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/codec/CodecConfigurer.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/codec/package-info.java
+END
+EncoderHttpMessageWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/codec/EncoderHttpMessageWriter.java
+END
+ServerSentEventHttpMessageWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/codec/ServerSentEventHttpMessageWriter.java
+END
+CodecConfigurerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/codec/CodecConfigurerFactory.java
+END
+ResourceHttpMessageReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/codec/ResourceHttpMessageReader.java
+END
+HttpMessageDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/codec/HttpMessageDecoder.java
+END
+LoggingCodecSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/codec/LoggingCodecSupport.java
+END
+ResourceHttpMessageWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/codec/ResourceHttpMessageWriter.java
+END
+FormHttpMessageWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/codec/FormHttpMessageWriter.java
+END
+HttpMessageEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/codec/HttpMessageEncoder.java
+END
+ServerCodecConfigurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/codec/ServerCodecConfigurer.java
+END
+ClientCodecConfigurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/codec/ClientCodecConfigurer.java
+END
+FormHttpMessageReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/codec/FormHttpMessageReader.java
+END
+HttpMessageReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/codec/HttpMessageReader.java
+END
+ServerSentEventHttpMessageReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/codec/ServerSentEventHttpMessageReader.java
+END
+ServerSentEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/codec/ServerSentEvent.java
+END
+DecoderHttpMessageReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/http/codec/DecoderHttpMessageReader.java
+END

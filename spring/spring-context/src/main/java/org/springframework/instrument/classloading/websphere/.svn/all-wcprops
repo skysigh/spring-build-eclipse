@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/instrument/classloading/websphere
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/instrument/classloading/websphere/package-info.java
+END
+WebSphereLoadTimeWeaver.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/instrument/classloading/websphere/WebSphereLoadTimeWeaver.java
+END
+WebSphereClassPreDefinePlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/instrument/classloading/websphere/WebSphereClassPreDefinePlugin.java
+END
+WebSphereClassLoaderAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/instrument/classloading/websphere/WebSphereClassLoaderAdapter.java
+END

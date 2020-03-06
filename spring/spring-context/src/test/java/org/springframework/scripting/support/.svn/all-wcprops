@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/scripting/support
+END
+ScriptFactoryPostProcessorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/scripting/support/ScriptFactoryPostProcessorTests.java
+END
+StaticScriptSourceTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/scripting/support/StaticScriptSourceTests.java
+END
+RefreshableScriptTargetSourceTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/scripting/support/RefreshableScriptTargetSourceTests.java
+END
+StubMessenger.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/scripting/support/StubMessenger.java
+END
+StandardScriptFactoryTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/scripting/support/StandardScriptFactoryTests.java
+END
+ResourceScriptSourceTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/scripting/support/ResourceScriptSourceTests.java
+END

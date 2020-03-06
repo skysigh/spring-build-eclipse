@@ -1,0 +1,52 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-context-support/src/test/java/org/springframework/cache/transaction
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+AbstractTransactionSupportingCacheManagerTests.java
+file
+
+
+
+
+2020-03-06T03:48:09.754000Z
+c55b6d7249c5b160eb71b0f68720fc9c
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+TransactionAwareCacheDecoratorTests.java
+file
+
+
+
+
+2020-03-06T03:48:09.767000Z
+30bf327a451e24d4b23c97151bcc2ef3
+2020-03-06T03:35:38.538472Z
+1
+wck
+

@@ -1,0 +1,46 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-messaging/src/test/java/org/springframework/messaging/handler/annotation
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+MessagingPredicates.java
+file
+
+
+
+
+2020-03-06T03:51:05.526000Z
+584f2998badfcbd9945cab6e4051085a
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+reactive
+dir
+
+support
+dir
+

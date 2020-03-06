@@ -1,0 +1,52 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-context/src/main/java/org/springframework/remoting/soap
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+SoapFaultException.java
+file
+
+
+
+
+2020-03-06T03:47:23.432000Z
+b4db72e5ef306b5257f123f644fdccbc
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+package-info.java
+file
+
+
+
+
+2020-03-06T03:47:23.445000Z
+11215399cdf60e855bd92ec555555f0b
+2020-03-06T03:35:38.538472Z
+1
+wck
+

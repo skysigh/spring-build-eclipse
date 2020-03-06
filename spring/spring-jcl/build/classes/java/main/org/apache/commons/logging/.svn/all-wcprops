@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/springcode/!svn/ver/1/spring-framework/spring-jcl/build/classes/java/main/org/apache/commons/logging
+END
+LogFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/springcode/!svn/ver/1/spring-framework/spring-jcl/build/classes/java/main/org/apache/commons/logging/LogFactory.class
+END
+LogAdapter$Slf4jLog.class
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-jcl/build/classes/java/main/org/apache/commons/logging/LogAdapter$Slf4jLog.class
+END
+LogAdapter$JavaUtilAdapter.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-jcl/build/classes/java/main/org/apache/commons/logging/LogAdapter$JavaUtilAdapter.class
+END
+LogFactoryService.class
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-jcl/build/classes/java/main/org/apache/commons/logging/LogFactoryService.class
+END
+LogFactory$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/springcode/!svn/ver/1/spring-framework/spring-jcl/build/classes/java/main/org/apache/commons/logging/LogFactory$1.class
+END
+LogAdapter$Log4jAdapter.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-jcl/build/classes/java/main/org/apache/commons/logging/LogAdapter$Log4jAdapter.class
+END
+LogAdapter$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/springcode/!svn/ver/1/spring-framework/spring-jcl/build/classes/java/main/org/apache/commons/logging/LogAdapter$1.class
+END
+LogAdapter$LocationResolvingLogRecord.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-jcl/build/classes/java/main/org/apache/commons/logging/LogAdapter$LocationResolvingLogRecord.class
+END
+LogAdapter.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/springcode/!svn/ver/1/spring-framework/spring-jcl/build/classes/java/main/org/apache/commons/logging/LogAdapter.class
+END
+Log.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/springcode/!svn/ver/1/spring-framework/spring-jcl/build/classes/java/main/org/apache/commons/logging/Log.class
+END
+LogAdapter$Slf4jAdapter.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-jcl/build/classes/java/main/org/apache/commons/logging/LogAdapter$Slf4jAdapter.class
+END
+LogAdapter$LogApi.class
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-jcl/build/classes/java/main/org/apache/commons/logging/LogAdapter$LogApi.class
+END
+LogAdapter$JavaUtilLog.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-jcl/build/classes/java/main/org/apache/commons/logging/LogAdapter$JavaUtilLog.class
+END
+LogAdapter$Slf4jLocationAwareLog.class
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-jcl/build/classes/java/main/org/apache/commons/logging/LogAdapter$Slf4jLocationAwareLog.class
+END
+LogAdapter$Log4jLog.class
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-jcl/build/classes/java/main/org/apache/commons/logging/LogAdapter$Log4jLog.class
+END

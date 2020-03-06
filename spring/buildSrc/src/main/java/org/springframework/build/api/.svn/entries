@@ -1,0 +1,40 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/buildSrc/src/main/java/org/springframework/build/api
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+ApiDiffPlugin.java
+file
+
+
+
+
+2020-03-06T03:43:59.475000Z
+a3da4aec15e29a8f3958a3f9c9346193
+2020-03-06T03:35:38.538472Z
+1
+wck
+

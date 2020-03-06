@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/example/type
+END
+InheritedAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/example/type/InheritedAnnotation.java
+END
+NonInheritedAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/example/type/NonInheritedAnnotation.java
+END
+AspectJTypeFilterTestsTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/example/type/AspectJTypeFilterTestsTypes.java
+END
+NestedAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/example/type/NestedAnnotation.java
+END
+EnclosingAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/example/type/EnclosingAnnotation.java
+END
+AnnotatedComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/example/type/AnnotatedComponent.java
+END
+AnnotationTypeFilterTestsTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/example/type/AnnotationTypeFilterTestsTypes.java
+END
+AssignableTypeFilterTestsTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/java/example/type/AssignableTypeFilterTestsTypes.java
+END

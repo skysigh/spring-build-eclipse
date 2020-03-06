@@ -1,0 +1,67 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-web/src/testFixtures/java/org/springframework/web/testfixture/http/server/reactive
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+MockServerHttpRequest.java
+file
+
+
+
+
+2020-03-06T03:54:09.916000Z
+c28b01062ab401c1078805b691adc5f2
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+MockServerHttpResponse.java
+file
+
+
+
+
+2020-03-06T03:54:09.932000Z
+a94feef09eab6ebb4ef97aa64e6c0833
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+bootstrap
+dir
+
+package-info.java
+file
+
+
+
+
+2020-03-06T03:54:10.170000Z
+bcc1eda15d601dfea9defe77705e0a53
+2020-03-06T03:35:38.538472Z
+1
+wck
+

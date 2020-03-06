@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/interceptor
+END
+RollbackRuleAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/interceptor/RollbackRuleAttribute.java
+END
+TransactionAttributeEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/interceptor/TransactionAttributeEditor.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/interceptor/package-info.java
+END
+NameMatchTransactionAttributeSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/interceptor/NameMatchTransactionAttributeSource.java
+END
+BeanFactoryTransactionAttributeSourceAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/interceptor/BeanFactoryTransactionAttributeSourceAdvisor.java
+END
+TransactionInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/interceptor/TransactionInterceptor.java
+END
+TransactionAttributeSourcePointcut.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/interceptor/TransactionAttributeSourcePointcut.java
+END
+CompositeTransactionAttributeSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/interceptor/CompositeTransactionAttributeSource.java
+END
+TransactionAttributeSourceAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/interceptor/TransactionAttributeSourceAdvisor.java
+END
+DefaultTransactionAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/interceptor/DefaultTransactionAttribute.java
+END
+RuleBasedTransactionAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/interceptor/RuleBasedTransactionAttribute.java
+END
+DelegatingTransactionAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/interceptor/DelegatingTransactionAttribute.java
+END
+TransactionAspectSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/interceptor/TransactionAspectSupport.java
+END
+TransactionProxyFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/interceptor/TransactionProxyFactoryBean.java
+END
+TransactionAttributeSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/interceptor/TransactionAttributeSource.java
+END
+TransactionalProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/interceptor/TransactionalProxy.java
+END
+AbstractFallbackTransactionAttributeSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/interceptor/AbstractFallbackTransactionAttributeSource.java
+END
+TransactionAttributeSourceEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/interceptor/TransactionAttributeSourceEditor.java
+END
+MatchAlwaysTransactionAttributeSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/interceptor/MatchAlwaysTransactionAttributeSource.java
+END
+NoRollbackRuleAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/interceptor/NoRollbackRuleAttribute.java
+END
+MethodMapTransactionAttributeSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/interceptor/MethodMapTransactionAttributeSource.java
+END
+TransactionAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/transaction/interceptor/TransactionAttribute.java
+END

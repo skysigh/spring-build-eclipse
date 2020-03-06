@@ -1,0 +1,108 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-context/build/classes/java/main/org/springframework/cache
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+Cache$ValueRetrievalException.class
+file
+
+
+
+
+2020-03-06T03:46:46.302000Z
+0e3e9dc4124abc5f7a234f6f8fbb720b
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+
+Cache$ValueWrapper.class
+file
+
+
+
+
+2020-03-06T03:46:46.315000Z
+7ae45fb758fa439d1bdbd53f56c64fef
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+
+Cache.class
+file
+
+
+
+
+2020-03-06T03:46:46.327000Z
+13aff527133dba2eb97e90b583d65add
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+
+CacheManager.class
+file
+
+
+
+
+2020-03-06T03:46:46.339000Z
+4f66014c0b3173291dd562f2e2332f64
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+
+annotation
+dir
+
+concurrent
+dir
+
+config
+dir
+
+interceptor
+dir
+
+package-info.class
+file
+
+
+
+
+2020-03-06T03:46:47.869000Z
+c7fd4014fa9135a5a2b062f1fe8a6578
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+
+support
+dir
+

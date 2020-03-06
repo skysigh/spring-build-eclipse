@@ -1,0 +1,52 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-beans/src/testFixtures/java/org/springframework/beans/testfixture/factory/xml
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+AbstractBeanFactoryTests.java
+file
+
+
+
+
+2020-03-06T03:45:33.985000Z
+40b0edbaa259b11749d7431ac2c13c27
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+AbstractListableBeanFactoryTests.java
+file
+
+
+
+
+2020-03-06T03:45:34.001000Z
+548284de0da0dc017225bd4f69296fbe
+2020-03-06T03:35:38.538472Z
+1
+wck
+

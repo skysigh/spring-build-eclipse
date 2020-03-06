@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/main/java/org/springframework/orm/jpa/persistenceunit
+END
+SmartPersistenceUnitInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/main/java/org/springframework/orm/jpa/persistenceunit/SmartPersistenceUnitInfo.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/main/java/org/springframework/orm/jpa/persistenceunit/package-info.java
+END
+DefaultPersistenceUnitManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/main/java/org/springframework/orm/jpa/persistenceunit/DefaultPersistenceUnitManager.java
+END
+PersistenceUnitManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/main/java/org/springframework/orm/jpa/persistenceunit/PersistenceUnitManager.java
+END
+MutablePersistenceUnitInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/main/java/org/springframework/orm/jpa/persistenceunit/MutablePersistenceUnitInfo.java
+END
+PersistenceUnitPostProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/main/java/org/springframework/orm/jpa/persistenceunit/PersistenceUnitPostProcessor.java
+END
+SpringPersistenceUnitInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/main/java/org/springframework/orm/jpa/persistenceunit/SpringPersistenceUnitInfo.java
+END
+ClassFileTransformerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/main/java/org/springframework/orm/jpa/persistenceunit/ClassFileTransformerAdapter.java
+END
+PersistenceUnitReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/main/java/org/springframework/orm/jpa/persistenceunit/PersistenceUnitReader.java
+END

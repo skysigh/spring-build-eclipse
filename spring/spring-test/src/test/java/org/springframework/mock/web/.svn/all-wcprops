@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/mock/web
+END
+MockHttpServletResponseTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/mock/web/MockHttpServletResponseTests.java
+END
+MockHttpServletRequestTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/mock/web/MockHttpServletRequestTests.java
+END
+MockFilterChainTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/mock/web/MockFilterChainTests.java
+END
+MockMultipartHttpServletRequestTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/mock/web/MockMultipartHttpServletRequestTests.java
+END
+MockCookieTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/mock/web/MockCookieTests.java
+END
+MockPageContextTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/mock/web/MockPageContextTests.java
+END
+MockServletContextTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/mock/web/MockServletContextTests.java
+END
+MockHttpSessionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/mock/web/MockHttpSessionTests.java
+END

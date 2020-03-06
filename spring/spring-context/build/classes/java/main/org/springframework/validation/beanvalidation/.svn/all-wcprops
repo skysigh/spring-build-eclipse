@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/validation/beanvalidation
+END
+LocalValidatorFactoryBean$HibernateValidatorDelegate.class
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/validation/beanvalidation/LocalValidatorFactoryBean$HibernateValidatorDelegate.class
+END
+LocalValidatorFactoryBean$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/validation/beanvalidation/LocalValidatorFactoryBean$1.class
+END
+SpringValidatorAdapter$ViolationObjectError.class
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/validation/beanvalidation/SpringValidatorAdapter$ViolationObjectError.class
+END
+SpringValidatorAdapter$ViolationFieldError.class
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/validation/beanvalidation/SpringValidatorAdapter$ViolationFieldError.class
+END
+BeanValidationPostProcessor.class
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/validation/beanvalidation/BeanValidationPostProcessor.class
+END
+LocalValidatorFactoryBean.class
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/validation/beanvalidation/LocalValidatorFactoryBean.class
+END
+MessageSourceResourceBundleLocator.class
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/validation/beanvalidation/MessageSourceResourceBundleLocator.class
+END
+OptionalValidatorFactoryBean.class
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/validation/beanvalidation/OptionalValidatorFactoryBean.class
+END
+MethodValidationInterceptor.class
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/validation/beanvalidation/MethodValidationInterceptor.class
+END
+LocaleContextMessageInterpolator.class
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/validation/beanvalidation/LocaleContextMessageInterpolator.class
+END
+SpringConstraintValidatorFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/validation/beanvalidation/SpringConstraintValidatorFactory.class
+END
+package-info.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/validation/beanvalidation/package-info.class
+END
+SpringValidatorAdapter$ResolvableAttribute.class
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/validation/beanvalidation/SpringValidatorAdapter$ResolvableAttribute.class
+END
+SpringValidatorAdapter.class
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/validation/beanvalidation/SpringValidatorAdapter.class
+END
+MethodValidationPostProcessor.class
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/validation/beanvalidation/MethodValidationPostProcessor.class
+END
+CustomValidatorBean.class
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/validation/beanvalidation/CustomValidatorBean.class
+END

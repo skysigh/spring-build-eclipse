@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/xml
+END
+DocumentLoader.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/xml/DocumentLoader.class
+END
+NamespaceHandlerSupport.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/xml/NamespaceHandlerSupport.class
+END
+UtilNamespaceHandler$PropertyPathBeanDefinitionParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/xml/UtilNamespaceHandler$PropertyPathBeanDefinitionParser.class
+END
+BeanDefinitionDocumentReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/xml/BeanDefinitionDocumentReader.class
+END
+AbstractBeanDefinitionParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/xml/AbstractBeanDefinitionParser.class
+END
+UtilNamespaceHandler$ListBeanDefinitionParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/xml/UtilNamespaceHandler$ListBeanDefinitionParser.class
+END
+XmlBeanFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/xml/XmlBeanFactory.class
+END
+PluggableSchemaResolver.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/xml/PluggableSchemaResolver.class
+END
+XmlBeanDefinitionStoreException.class
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/xml/XmlBeanDefinitionStoreException.class
+END
+BeanDefinitionParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/xml/BeanDefinitionParser.class
+END
+package-info.class
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/xml/package-info.class
+END
+DefaultNamespaceHandlerResolver.class
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/xml/DefaultNamespaceHandlerResolver.class
+END
+UtilNamespaceHandler$SetBeanDefinitionParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/xml/UtilNamespaceHandler$SetBeanDefinitionParser.class
+END
+UtilNamespaceHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/xml/UtilNamespaceHandler.class
+END
+NamespaceHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/xml/NamespaceHandler.class
+END
+AbstractSimpleBeanDefinitionParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/xml/AbstractSimpleBeanDefinitionParser.class
+END
+BeanDefinitionParserDelegate.class
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/xml/BeanDefinitionParserDelegate.class
+END
+XmlBeanDefinitionReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/xml/XmlBeanDefinitionReader.class
+END
+DefaultBeanDefinitionDocumentReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/xml/DefaultBeanDefinitionDocumentReader.class
+END
+ParserContext.class
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/xml/ParserContext.class
+END
+UtilNamespaceHandler$ConstantBeanDefinitionParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/xml/UtilNamespaceHandler$ConstantBeanDefinitionParser.class
+END
+AbstractSingleBeanDefinitionParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/xml/AbstractSingleBeanDefinitionParser.class
+END
+DefaultDocumentLoader.class
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/xml/DefaultDocumentLoader.class
+END
+ResourceEntityResolver.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/xml/ResourceEntityResolver.class
+END
+BeanDefinitionDecorator.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/xml/BeanDefinitionDecorator.class
+END
+NamespaceHandlerResolver.class
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/xml/NamespaceHandlerResolver.class
+END
+DelegatingEntityResolver.class
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/xml/DelegatingEntityResolver.class
+END
+BeansDtdResolver.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/xml/BeansDtdResolver.class
+END
+XmlReaderContext.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/xml/XmlReaderContext.class
+END
+UtilNamespaceHandler$PropertiesBeanDefinitionParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/xml/UtilNamespaceHandler$PropertiesBeanDefinitionParser.class
+END
+UtilNamespaceHandler$MapBeanDefinitionParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/xml/UtilNamespaceHandler$MapBeanDefinitionParser.class
+END
+DocumentDefaultsDefinition.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/xml/DocumentDefaultsDefinition.class
+END
+SimplePropertyNamespaceHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/xml/SimplePropertyNamespaceHandler.class
+END
+SimpleConstructorNamespaceHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/xml/SimpleConstructorNamespaceHandler.class
+END
+UtilNamespaceHandler$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/xml/UtilNamespaceHandler$1.class
+END

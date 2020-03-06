@@ -1,0 +1,79 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-context/src/test/java/org/springframework/validation
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+DataBinderFieldAccessTests.java
+file
+
+
+
+
+2020-03-06T03:47:40.639000Z
+1172bf290c704ac99d437f390fd3935b
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+DataBinderTests.java
+file
+
+
+
+
+2020-03-06T03:47:40.657000Z
+964f2da739be48d1ce6caeff45869e1f
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+DefaultMessageCodesResolverTests.java
+file
+
+
+
+
+2020-03-06T03:47:40.688000Z
+ee75ddf1a2fcd3618b73dcb678188876
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+ValidationUtilsTests.java
+file
+
+
+
+
+2020-03-06T03:47:40.701000Z
+b5b1f4175fab0b00f7f0ca2c814adbbf
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+beanvalidation
+dir
+

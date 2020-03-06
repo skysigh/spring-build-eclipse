@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/context/support/test
+END
+import1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/context/support/test/import1.xml
+END
+contextC.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/context/support/test/contextC.xml
+END
+contextB.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/context/support/test/contextB.xml
+END
+contextA.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/context/support/test/contextA.xml
+END
+aliased-contextC.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/context/support/test/aliased-contextC.xml
+END

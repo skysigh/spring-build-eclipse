@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/springcode/!svn/ver/1/spring-framework/integration-tests/src/test/java/org/springframework/context/annotation/jsr330
+END
+ClassPathBeanDefinitionScannerJsr330ScopeIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/springcode/!svn/ver/1/spring-framework/integration-tests/src/test/java/org/springframework/context/annotation/jsr330/ClassPathBeanDefinitionScannerJsr330ScopeIntegrationTests.java
+END

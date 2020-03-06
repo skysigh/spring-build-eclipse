@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/cache/config
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/cache/config/package-info.java
+END
+AnnotationDrivenCacheBeanDefinitionParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/cache/config/AnnotationDrivenCacheBeanDefinitionParser.java
+END
+CacheManagementConfigUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/cache/config/CacheManagementConfigUtils.java
+END
+CacheAdviceParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/cache/config/CacheAdviceParser.java
+END
+CacheNamespaceHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/cache/config/CacheNamespaceHandler.java
+END

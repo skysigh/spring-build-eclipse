@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/scheduling/aspectj
+END
+AnnotationAsyncExecutionAspectTests$ClassWithQualifiedAsyncMethods$AjcClosure5.class
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/scheduling/aspectj/AnnotationAsyncExecutionAspectTests$ClassWithQualifiedAsyncMethods$AjcClosure5.class
+END
+AnnotationAsyncExecutionAspectTests$ClassWithException$AjcClosure1.class
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/scheduling/aspectj/AnnotationAsyncExecutionAspectTests$ClassWithException$AjcClosure1.class
+END
+AnnotationAsyncExecutionAspectTests$ClassWithAsyncAnnotation$AjcClosure3.class
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/scheduling/aspectj/AnnotationAsyncExecutionAspectTests$ClassWithAsyncAnnotation$AjcClosure3.class
+END
+AnnotationAsyncExecutionAspectTests$ClassWithoutAsyncAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/scheduling/aspectj/AnnotationAsyncExecutionAspectTests$ClassWithoutAsyncAnnotation.class
+END
+AnnotationAsyncExecutionAspectTests$ClassWithAsyncAnnotation$AjcClosure1.class
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/scheduling/aspectj/AnnotationAsyncExecutionAspectTests$ClassWithAsyncAnnotation$AjcClosure1.class
+END
+AnnotationAsyncExecutionAspectTests$ClassWithAsyncAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/scheduling/aspectj/AnnotationAsyncExecutionAspectTests$ClassWithAsyncAnnotation.class
+END
+AnnotationAsyncExecutionAspectTests$ClassWithException.class
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/scheduling/aspectj/AnnotationAsyncExecutionAspectTests$ClassWithException.class
+END
+AnnotationAsyncExecutionAspectTests$ClassWithoutAsyncAnnotation$AjcClosure3.class
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/scheduling/aspectj/AnnotationAsyncExecutionAspectTests$ClassWithoutAsyncAnnotation$AjcClosure3.class
+END
+AnnotationAsyncExecutionAspectTests$ClassWithQualifiedAsyncMethods$AjcClosure1.class
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/scheduling/aspectj/AnnotationAsyncExecutionAspectTests$ClassWithQualifiedAsyncMethods$AjcClosure1.class
+END
+AnnotationAsyncExecutionAspectTests$CountingExecutor.class
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/scheduling/aspectj/AnnotationAsyncExecutionAspectTests$CountingExecutor.class
+END
+AnnotationAsyncExecutionAspectTests$ClassWithoutAsyncAnnotation$AjcClosure1.class
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/scheduling/aspectj/AnnotationAsyncExecutionAspectTests$ClassWithoutAsyncAnnotation$AjcClosure1.class
+END
+annotationDrivenContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/scheduling/aspectj/annotationDrivenContext.xml
+END
+TestableAsyncUncaughtExceptionHandler$UncaughtExceptionDescriptor.class
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/scheduling/aspectj/TestableAsyncUncaughtExceptionHandler$UncaughtExceptionDescriptor.class
+END
+TestableAsyncUncaughtExceptionHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/scheduling/aspectj/TestableAsyncUncaughtExceptionHandler.class
+END
+AnnotationDrivenBeanDefinitionParserTests.class
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/scheduling/aspectj/AnnotationDrivenBeanDefinitionParserTests.class
+END
+AnnotationAsyncExecutionAspectTests$ClassWithQualifiedAsyncMethods.class
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/scheduling/aspectj/AnnotationAsyncExecutionAspectTests$ClassWithQualifiedAsyncMethods.class
+END
+AnnotationAsyncExecutionAspectTests.class
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/scheduling/aspectj/AnnotationAsyncExecutionAspectTests.class
+END
+AnnotationAsyncExecutionAspectTests$ClassWithQualifiedAsyncMethods$AjcClosure3.class
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/springcode/!svn/ver/1/spring-framework/spring-aspects/bin/test/org/springframework/scheduling/aspectj/AnnotationAsyncExecutionAspectTests$ClassWithQualifiedAsyncMethods$AjcClosure3.class
+END

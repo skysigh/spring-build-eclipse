@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/test/java/org/springframework/orm/jpa/hibernate/beans
+END
+TestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/test/java/org/springframework/orm/jpa/hibernate/beans/TestBean.java
+END
+SinglePrototypeInSpringContextTestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/test/java/org/springframework/orm/jpa/hibernate/beans/SinglePrototypeInSpringContextTestBean.java
+END
+MultiplePrototypesInSpringContextTestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/test/java/org/springframework/orm/jpa/hibernate/beans/MultiplePrototypesInSpringContextTestBean.java
+END
+BeanSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/test/java/org/springframework/orm/jpa/hibernate/beans/BeanSource.java
+END
+NoDefinitionInSpringContextTestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/test/java/org/springframework/orm/jpa/hibernate/beans/NoDefinitionInSpringContextTestBean.java
+END

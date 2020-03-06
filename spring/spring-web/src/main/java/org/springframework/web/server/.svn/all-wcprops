@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/server
+END
+MediaTypeNotSupportedStatusException.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/server/MediaTypeNotSupportedStatusException.java
+END
+WebHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/server/WebHandler.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/server/package-info.java
+END
+UnsupportedMediaTypeStatusException.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/server/UnsupportedMediaTypeStatusException.java
+END
+WebSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/server/WebSession.java
+END
+WebFilterChain.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/server/WebFilterChain.java
+END
+DefaultServerWebExchangeBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/server/DefaultServerWebExchangeBuilder.java
+END
+NotAcceptableStatusException.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/server/NotAcceptableStatusException.java
+END
+ServerErrorException.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/server/ServerErrorException.java
+END
+WebExceptionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/server/WebExceptionHandler.java
+END
+ServerWebExchange.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/server/ServerWebExchange.java
+END
+ServerWebInputException.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/server/ServerWebInputException.java
+END
+MethodNotAllowedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/server/MethodNotAllowedException.java
+END
+ResponseStatusException.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/server/ResponseStatusException.java
+END
+WebFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/server/WebFilter.java
+END
+ServerWebExchangeDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/server/ServerWebExchangeDecorator.java
+END

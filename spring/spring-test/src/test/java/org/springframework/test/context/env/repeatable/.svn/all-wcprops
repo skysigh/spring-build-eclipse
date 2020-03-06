@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/env/repeatable
+END
+LocalInlinedPropertyAndMetaInlinedPropertyTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/env/repeatable/LocalInlinedPropertyAndMetaInlinedPropertyTests.java
+END
+ReversedExplicitPropertiesFilesRepeatedTestPropertySourceTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/env/repeatable/ReversedExplicitPropertiesFilesRepeatedTestPropertySourceTests.java
+END
+LocalInlinedPropertyAndMetaMetaInlinedPropertyTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/env/repeatable/LocalInlinedPropertyAndMetaMetaInlinedPropertyTests.java
+END
+ExplicitPropertiesFilesRepeatedTestPropertySourceTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/env/repeatable/ExplicitPropertiesFilesRepeatedTestPropertySourceTests.java
+END
+LocalInlinedPropertyOverridesInheritedInlinedPropertyTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/env/repeatable/LocalInlinedPropertyOverridesInheritedInlinedPropertyTests.java
+END
+LocalPropertiesFileAndMetaPropertiesFileTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/env/repeatable/LocalPropertiesFileAndMetaPropertiesFileTests.java
+END
+MetaInlinedTestProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/env/repeatable/MetaInlinedTestProperty.java
+END
+LocalInlinedPropertyOverridesInheritedAndMetaInlinedPropertiesTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/env/repeatable/LocalInlinedPropertyOverridesInheritedAndMetaInlinedPropertiesTests.java
+END
+MetaComposedTestProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/env/repeatable/MetaComposedTestProperty.java
+END
+RepeatedTestPropertySourceTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/env/repeatable/RepeatedTestPropertySourceTests.java
+END
+DefaultPropertiesFileDetectionRepeatedTestPropertySourceTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/env/repeatable/DefaultPropertiesFileDetectionRepeatedTestPropertySourceTests.java
+END
+LocalInlinedPropertyOverridesMetaInlinedPropertyTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/env/repeatable/LocalInlinedPropertyOverridesMetaInlinedPropertyTests.java
+END
+AbstractRepeatableTestPropertySourceTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/env/repeatable/AbstractRepeatableTestPropertySourceTests.java
+END
+LocalInlinedPropertyAndInheritedInlinedPropertyTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/env/repeatable/LocalInlinedPropertyAndInheritedInlinedPropertyTests.java
+END
+AbstractClassWithTestProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/env/repeatable/AbstractClassWithTestProperty.java
+END
+MetaInlinedPropertyOverridesMetaMetaInlinedPropertyTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/env/repeatable/MetaInlinedPropertyOverridesMetaMetaInlinedPropertyTests.java
+END

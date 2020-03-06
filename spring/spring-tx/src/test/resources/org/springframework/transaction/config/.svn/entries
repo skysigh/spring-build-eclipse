@@ -1,0 +1,52 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-tx/src/test/resources/org/springframework/transaction/config
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+annotationDrivenConfigurationClassTests.xml
+file
+
+
+
+
+2020-03-06T03:53:06.773000Z
+096085885d32b27585041d164b00c7bd
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+annotationDrivenProxyTargetClassTests.xml
+file
+
+
+
+
+2020-03-06T03:53:06.785000Z
+47f0aafbd5bc57cb257193b33e75293a
+2020-03-06T03:35:38.538472Z
+1
+wck
+

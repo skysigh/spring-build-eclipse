@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-indexer/src/test/java/org/springframework/context/index/sample
+END
+SampleEmbedded.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-indexer/src/test/java/org/springframework/context/index/sample/SampleEmbedded.java
+END
+SampleRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-indexer/src/test/java/org/springframework/context/index/sample/SampleRepository.java
+END
+Scope.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-indexer/src/test/java/org/springframework/context/index/sample/Scope.java
+END
+MetaControllerIndexed.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-indexer/src/test/java/org/springframework/context/index/sample/MetaControllerIndexed.java
+END
+SampleController.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-indexer/src/test/java/org/springframework/context/index/sample/SampleController.java
+END
+SampleMetaIndexedController.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-indexer/src/test/java/org/springframework/context/index/sample/SampleMetaIndexedController.java
+END
+SampleNone.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-indexer/src/test/java/org/springframework/context/index/sample/SampleNone.java
+END
+SampleComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-indexer/src/test/java/org/springframework/context/index/sample/SampleComponent.java
+END
+SampleMetaController.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-indexer/src/test/java/org/springframework/context/index/sample/SampleMetaController.java
+END
+SampleService.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-indexer/src/test/java/org/springframework/context/index/sample/SampleService.java
+END
+SampleNonStaticEmbedded.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-indexer/src/test/java/org/springframework/context/index/sample/SampleNonStaticEmbedded.java
+END
+MetaController.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-indexer/src/test/java/org/springframework/context/index/sample/MetaController.java
+END
+AbstractController.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-indexer/src/test/java/org/springframework/context/index/sample/AbstractController.java
+END

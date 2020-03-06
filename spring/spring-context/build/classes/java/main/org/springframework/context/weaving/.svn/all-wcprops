@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/weaving
+END
+AspectJWeavingEnabler$AspectJClassBypassingClassFileTransformer.class
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/weaving/AspectJWeavingEnabler$AspectJClassBypassingClassFileTransformer.class
+END
+LoadTimeWeaverAwareProcessor.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/weaving/LoadTimeWeaverAwareProcessor.class
+END
+DefaultContextLoadTimeWeaver.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/weaving/DefaultContextLoadTimeWeaver.class
+END
+LoadTimeWeaverAware.class
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/weaving/LoadTimeWeaverAware.class
+END
+AspectJWeavingEnabler.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/weaving/AspectJWeavingEnabler.class
+END
+package-info.class
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/context/weaving/package-info.class
+END

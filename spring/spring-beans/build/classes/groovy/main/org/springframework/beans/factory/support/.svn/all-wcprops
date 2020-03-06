@@ -1,0 +1,467 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support
+END
+StaticListableBeanFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/StaticListableBeanFactory.class
+END
+DefaultListableBeanFactory$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/DefaultListableBeanFactory$1.class
+END
+DefaultListableBeanFactory$SerializedBeanFactoryReference.class
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/DefaultListableBeanFactory$SerializedBeanFactoryReference.class
+END
+GenericTypeAwareAutowireCandidateResolver.class
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/GenericTypeAwareAutowireCandidateResolver.class
+END
+SimpleBeanDefinitionRegistry.class
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/SimpleBeanDefinitionRegistry.class
+END
+BeanDefinitionOverrideException.class
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/BeanDefinitionOverrideException.class
+END
+DefaultSingletonBeanRegistry.class
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/DefaultSingletonBeanRegistry.class
+END
+CglibSubclassingInstantiationStrategy.class
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/CglibSubclassingInstantiationStrategy.class
+END
+ConstructorResolver.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/ConstructorResolver.class
+END
+DefaultListableBeanFactory$FactoryAwareOrderSourceProvider.class
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/DefaultListableBeanFactory$FactoryAwareOrderSourceProvider.class
+END
+DefaultListableBeanFactory$Jsr330Factory.class
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/DefaultListableBeanFactory$Jsr330Factory.class
+END
+DefaultListableBeanFactory$MultiElementDescriptor.class
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/DefaultListableBeanFactory$MultiElementDescriptor.class
+END
+package-info.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/package-info.class
+END
+RootBeanDefinition.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/RootBeanDefinition.class
+END
+CglibSubclassingInstantiationStrategy$CglibIdentitySupport.class
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/CglibSubclassingInstantiationStrategy$CglibIdentitySupport.class
+END
+ChildBeanDefinition.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/ChildBeanDefinition.class
+END
+DefaultListableBeanFactory$StreamDependencyDescriptor.class
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/DefaultListableBeanFactory$StreamDependencyDescriptor.class
+END
+ManagedProperties.class
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/ManagedProperties.class
+END
+AbstractBeanFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/AbstractBeanFactory.class
+END
+CglibSubclassingInstantiationStrategy$ReplaceOverrideMethodInterceptor.class
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/CglibSubclassingInstantiationStrategy$ReplaceOverrideMethodInterceptor.class
+END
+DefaultListableBeanFactory$BeanObjectProvider.class
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/DefaultListableBeanFactory$BeanObjectProvider.class
+END
+DefaultListableBeanFactory$DependencyObjectProvider.class
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/DefaultListableBeanFactory$DependencyObjectProvider.class
+END
+BeanDefinitionReaderUtils.class
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/BeanDefinitionReaderUtils.class
+END
+DefaultListableBeanFactory$DependencyObjectProvider$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/DefaultListableBeanFactory$DependencyObjectProvider$2.class
+END
+MethodReplacer.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/MethodReplacer.class
+END
+AbstractAutowireCapableBeanFactory$AutowireByTypeDependencyDescriptor.class
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory$AutowireByTypeDependencyDescriptor.class
+END
+DisposableBeanAdapter.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/DisposableBeanAdapter.class
+END
+SimpleInstantiationStrategy.class
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/SimpleInstantiationStrategy.class
+END
+BeanDefinitionValidationException.class
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/BeanDefinitionValidationException.class
+END
+BeanDefinitionReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/BeanDefinitionReader.class
+END
+DefaultListableBeanFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/DefaultListableBeanFactory.class
+END
+DefaultListableBeanFactory$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/DefaultListableBeanFactory$2.class
+END
+StaticListableBeanFactory$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/StaticListableBeanFactory$1.class
+END
+ReplaceOverride.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/ReplaceOverride.class
+END
+ManagedMap.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/ManagedMap.class
+END
+BeanDefinitionDefaults.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/BeanDefinitionDefaults.class
+END
+ImplicitlyAppearedSingletonException.class
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/ImplicitlyAppearedSingletonException.class
+END
+BeanDefinitionValueResolver$KeyedArgName.class
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/BeanDefinitionValueResolver$KeyedArgName.class
+END
+DefaultListableBeanFactory$NestedDependencyDescriptor.class
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/DefaultListableBeanFactory$NestedDependencyDescriptor.class
+END
+AbstractBeanDefinition.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/AbstractBeanDefinition.class
+END
+DefaultListableBeanFactory$DependencyObjectProvider$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/DefaultListableBeanFactory$DependencyObjectProvider$1.class
+END
+DefaultBeanNameGenerator.class
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/DefaultBeanNameGenerator.class
+END
+DefaultListableBeanFactory$Jsr330Factory$Jsr330Provider.class
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/DefaultListableBeanFactory$Jsr330Factory$Jsr330Provider.class
+END
+GenericBeanDefinition.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/GenericBeanDefinition.class
+END
+BeanDefinitionResource.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/BeanDefinitionResource.class
+END
+BeanDefinitionBuilder.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/BeanDefinitionBuilder.class
+END
+MethodOverride.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/MethodOverride.class
+END
+ManagedList.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/ManagedList.class
+END
+ConstructorResolver$ArgumentsHolder.class
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/ConstructorResolver$ArgumentsHolder.class
+END
+AutowireCandidateQualifier.class
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/AutowireCandidateQualifier.class
+END
+ManagedArray.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/ManagedArray.class
+END
+FactoryBeanRegistrySupport.class
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/FactoryBeanRegistrySupport.class
+END
+BeanDefinitionRegistry.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/BeanDefinitionRegistry.class
+END
+PropertiesBeanDefinitionReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/PropertiesBeanDefinitionReader.class
+END
+InstantiationStrategy.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/InstantiationStrategy.class
+END
+LookupOverride.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/LookupOverride.class
+END
+SecurityContextProvider.class
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/SecurityContextProvider.class
+END
+AutowireUtils$ObjectFactoryDelegatingInvocationHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/AutowireUtils$ObjectFactoryDelegatingInvocationHandler.class
+END
+DefaultListableBeanFactory$DependencyObjectProvider$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/DefaultListableBeanFactory$DependencyObjectProvider$3.class
+END
+AutowireUtils.class
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/AutowireUtils.class
+END
+AbstractBeanDefinitionReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/AbstractBeanDefinitionReader.class
+END
+MergedBeanDefinitionPostProcessor.class
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/MergedBeanDefinitionPostProcessor.class
+END
+NullBean.class
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/NullBean.class
+END
+SimpleAutowireCandidateResolver.class
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/SimpleAutowireCandidateResolver.class
+END
+CglibSubclassingInstantiationStrategy$CglibSubclassCreator.class
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/CglibSubclassingInstantiationStrategy$CglibSubclassCreator.class
+END
+BeanNameGenerator.class
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/BeanNameGenerator.class
+END
+AbstractAutowireCapableBeanFactory$FactoryBeanMethodTypeFinder.class
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory$FactoryBeanMethodTypeFinder.class
+END
+CglibSubclassingInstantiationStrategy$LookupOverrideMethodInterceptor.class
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/CglibSubclassingInstantiationStrategy$LookupOverrideMethodInterceptor.class
+END
+AutowireCandidateResolver.class
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/AutowireCandidateResolver.class
+END
+BeanDefinitionRegistryPostProcessor.class
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/BeanDefinitionRegistryPostProcessor.class
+END
+ManagedSet.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/ManagedSet.class
+END
+BeanDefinitionValueResolver.class
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/BeanDefinitionValueResolver.class
+END
+SimpleSecurityContextProvider.class
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/SimpleSecurityContextProvider.class
+END
+CglibSubclassingInstantiationStrategy$MethodOverrideCallbackFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/CglibSubclassingInstantiationStrategy$MethodOverrideCallbackFilter.class
+END
+ConstructorResolver$ConstructorPropertiesChecker.class
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/ConstructorResolver$ConstructorPropertiesChecker.class
+END
+MethodOverrides.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/MethodOverrides.class
+END
+AbstractAutowireCapableBeanFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.class
+END

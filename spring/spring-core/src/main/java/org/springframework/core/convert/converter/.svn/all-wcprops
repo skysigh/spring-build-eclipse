@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/convert/converter
+END
+ConditionalConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/convert/converter/ConditionalConverter.java
+END
+ConvertingComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/convert/converter/ConvertingComparator.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/convert/converter/package-info.java
+END
+ConverterRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/convert/converter/ConverterRegistry.java
+END
+GenericConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/convert/converter/GenericConverter.java
+END
+Converter.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/convert/converter/Converter.java
+END
+ConverterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/convert/converter/ConverterFactory.java
+END
+ConditionalGenericConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/core/convert/converter/ConditionalGenericConverter.java
+END

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/build/classes/java/main/org/springframework/expression/spel
+END
+SpelCompilerMode.class
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/build/classes/java/main/org/springframework/expression/spel/SpelCompilerMode.class
+END
+CompiledExpression.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/build/classes/java/main/org/springframework/expression/spel/CompiledExpression.class
+END
+SpelMessage$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/build/classes/java/main/org/springframework/expression/spel/SpelMessage$1.class
+END
+ExpressionState$VariableScope.class
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/build/classes/java/main/org/springframework/expression/spel/ExpressionState$VariableScope.class
+END
+SpelParseException.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/build/classes/java/main/org/springframework/expression/spel/SpelParseException.class
+END
+CompilablePropertyAccessor.class
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/build/classes/java/main/org/springframework/expression/spel/CompilablePropertyAccessor.class
+END
+CodeFlow$FieldAdder.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/build/classes/java/main/org/springframework/expression/spel/CodeFlow$FieldAdder.class
+END
+ExpressionState.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/build/classes/java/main/org/springframework/expression/spel/ExpressionState.class
+END
+SpelMessage.class
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/build/classes/java/main/org/springframework/expression/spel/SpelMessage.class
+END
+package-info.class
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/build/classes/java/main/org/springframework/expression/spel/package-info.class
+END
+SpelParserConfiguration.class
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/build/classes/java/main/org/springframework/expression/spel/SpelParserConfiguration.class
+END
+CodeFlow$ClinitAdder.class
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/build/classes/java/main/org/springframework/expression/spel/CodeFlow$ClinitAdder.class
+END
+SpelMessage$Kind.class
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/build/classes/java/main/org/springframework/expression/spel/SpelMessage$Kind.class
+END
+SpelNode.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/build/classes/java/main/org/springframework/expression/spel/SpelNode.class
+END
+InternalParseException.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/build/classes/java/main/org/springframework/expression/spel/InternalParseException.class
+END
+CodeFlow.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/build/classes/java/main/org/springframework/expression/spel/CodeFlow.class
+END
+SpelEvaluationException.class
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/build/classes/java/main/org/springframework/expression/spel/SpelEvaluationException.class
+END

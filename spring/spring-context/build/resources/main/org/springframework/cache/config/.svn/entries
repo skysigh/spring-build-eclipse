@@ -1,0 +1,53 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-context/build/resources/main/org/springframework/cache/config
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+spring-cache.gif
+file
+
+
+
+
+2020-03-06T03:47:06.291000Z
+15412657d22b1fd190dc00743e2ffc5f
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+
+spring-cache.xsd
+file
+
+
+
+
+2020-03-06T03:47:06.301000Z
+adc49d9710c64f7b229153228c2e9e0a
+2020-03-06T03:35:38.538472Z
+1
+wck
+

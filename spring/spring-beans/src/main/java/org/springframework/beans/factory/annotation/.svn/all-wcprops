@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/main/java/org/springframework/beans/factory/annotation
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/main/java/org/springframework/beans/factory/annotation/package-info.java
+END
+ParameterResolutionDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/main/java/org/springframework/beans/factory/annotation/ParameterResolutionDelegate.java
+END
+QualifierAnnotationAutowireCandidateResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/main/java/org/springframework/beans/factory/annotation/QualifierAnnotationAutowireCandidateResolver.java
+END
+Autowired.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/main/java/org/springframework/beans/factory/annotation/Autowired.java
+END
+RequiredAnnotationBeanPostProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/main/java/org/springframework/beans/factory/annotation/RequiredAnnotationBeanPostProcessor.java
+END
+Required.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/main/java/org/springframework/beans/factory/annotation/Required.java
+END
+AnnotatedGenericBeanDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/main/java/org/springframework/beans/factory/annotation/AnnotatedGenericBeanDefinition.java
+END
+Lookup.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/main/java/org/springframework/beans/factory/annotation/Lookup.java
+END
+Autowire.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/main/java/org/springframework/beans/factory/annotation/Autowire.java
+END
+AnnotationBeanWiringInfoResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/main/java/org/springframework/beans/factory/annotation/AnnotationBeanWiringInfoResolver.java
+END
+BeanFactoryAnnotationUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/main/java/org/springframework/beans/factory/annotation/BeanFactoryAnnotationUtils.java
+END
+Configurable.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/main/java/org/springframework/beans/factory/annotation/Configurable.java
+END
+Qualifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/main/java/org/springframework/beans/factory/annotation/Qualifier.java
+END
+InitDestroyAnnotationBeanPostProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/main/java/org/springframework/beans/factory/annotation/InitDestroyAnnotationBeanPostProcessor.java
+END
+InjectionMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/main/java/org/springframework/beans/factory/annotation/InjectionMetadata.java
+END
+CustomAutowireConfigurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/main/java/org/springframework/beans/factory/annotation/CustomAutowireConfigurer.java
+END
+Value.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/main/java/org/springframework/beans/factory/annotation/Value.java
+END
+AutowiredAnnotationBeanPostProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/main/java/org/springframework/beans/factory/annotation/AutowiredAnnotationBeanPostProcessor.java
+END
+AnnotatedBeanDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/main/java/org/springframework/beans/factory/annotation/AnnotatedBeanDefinition.java
+END

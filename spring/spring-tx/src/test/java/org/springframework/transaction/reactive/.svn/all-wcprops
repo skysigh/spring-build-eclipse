@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/test/java/org/springframework/transaction/reactive
+END
+TransactionalOperatorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/test/java/org/springframework/transaction/reactive/TransactionalOperatorTests.java
+END
+ReactiveTransactionSupportTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/test/java/org/springframework/transaction/reactive/ReactiveTransactionSupportTests.java
+END
+ReactiveTestTransactionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/test/java/org/springframework/transaction/reactive/ReactiveTestTransactionManager.java
+END

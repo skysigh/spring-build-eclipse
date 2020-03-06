@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/resources/org/springframework/test/context/testng
+END
+ConcreteTransactionalTestNGSpringContextTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/resources/org/springframework/test/context/testng/ConcreteTransactionalTestNGSpringContextTests-context.xml
+END
+FailingBeforeAndAfterMethodsTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/resources/org/springframework/test/context/testng/FailingBeforeAndAfterMethodsTests-context.xml
+END
+DirtiesContextTransactionalTestNGSpringContextTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/resources/org/springframework/test/context/testng/DirtiesContextTransactionalTestNGSpringContextTests-context.xml
+END
+TimedTransactionalTestNGSpringContextTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/resources/org/springframework/test/context/testng/TimedTransactionalTestNGSpringContextTests-context.xml
+END

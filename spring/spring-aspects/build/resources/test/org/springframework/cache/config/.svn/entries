@@ -1,0 +1,52 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-aspects/build/resources/test/org/springframework/cache/config
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+annotation-cache-aspectj.xml
+file
+
+
+
+
+2020-03-06T03:44:42.083000Z
+dcfcfdef6194aedfbd76b3cd3e847bc6
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+annotation-jcache-aspectj.xml
+file
+
+
+
+
+2020-03-06T03:44:42.096000Z
+3001d1d27da25ada107005127b351471
+2020-03-06T03:35:38.538472Z
+1
+wck
+

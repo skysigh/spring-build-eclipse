@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/datasource/embedded
+END
+EmbeddedDatabaseFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/datasource/embedded/EmbeddedDatabaseFactory.java
+END
+EmbeddedDatabaseType.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/datasource/embedded/EmbeddedDatabaseType.java
+END
+HsqlEmbeddedDatabaseConfigurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/datasource/embedded/HsqlEmbeddedDatabaseConfigurer.java
+END
+DataSourceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/datasource/embedded/DataSourceFactory.java
+END
+EmbeddedDatabase.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/datasource/embedded/EmbeddedDatabase.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/datasource/embedded/package-info.java
+END
+EmbeddedDatabaseConfigurerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/datasource/embedded/EmbeddedDatabaseConfigurerFactory.java
+END
+ConnectionProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/datasource/embedded/ConnectionProperties.java
+END
+SimpleDriverDataSourceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/datasource/embedded/SimpleDriverDataSourceFactory.java
+END
+EmbeddedDatabaseBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/datasource/embedded/EmbeddedDatabaseBuilder.java
+END
+OutputStreamFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/datasource/embedded/OutputStreamFactory.java
+END
+DerbyEmbeddedDatabaseConfigurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/datasource/embedded/DerbyEmbeddedDatabaseConfigurer.java
+END
+EmbeddedDatabaseConfigurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/datasource/embedded/EmbeddedDatabaseConfigurer.java
+END
+AbstractEmbeddedDatabaseConfigurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/datasource/embedded/AbstractEmbeddedDatabaseConfigurer.java
+END
+H2EmbeddedDatabaseConfigurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/datasource/embedded/H2EmbeddedDatabaseConfigurer.java
+END
+EmbeddedDatabaseFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-jdbc/src/main/java/org/springframework/jdbc/datasource/embedded/EmbeddedDatabaseFactoryBean.java
+END

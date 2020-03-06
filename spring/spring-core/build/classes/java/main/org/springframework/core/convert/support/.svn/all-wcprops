@@ -1,0 +1,371 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/convert/support
+END
+ZoneIdToTimeZoneConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/convert/support/ZoneIdToTimeZoneConverter.class
+END
+StringToNumberConverterFactory$StringToNumber.class
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/convert/support/StringToNumberConverterFactory$StringToNumber.class
+END
+IntegerToEnumConverterFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/convert/support/IntegerToEnumConverterFactory.class
+END
+GenericConversionService.class
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/convert/support/GenericConversionService.class
+END
+ByteBufferConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/convert/support/ByteBufferConverter.class
+END
+StringToBooleanConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/convert/support/StringToBooleanConverter.class
+END
+ConvertingPropertyEditorAdapter.class
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/convert/support/ConvertingPropertyEditorAdapter.class
+END
+package-info.class
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/convert/support/package-info.class
+END
+CollectionToStringConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/convert/support/CollectionToStringConverter.class
+END
+DefaultConversionService.class
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/convert/support/DefaultConversionService.class
+END
+IntegerToEnumConverterFactory$IntegerToEnum.class
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/convert/support/IntegerToEnumConverterFactory$IntegerToEnum.class
+END
+ObjectToOptionalConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/convert/support/ObjectToOptionalConverter.class
+END
+ObjectToStringConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/convert/support/ObjectToStringConverter.class
+END
+FallbackObjectToStringConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/convert/support/FallbackObjectToStringConverter.class
+END
+GenericConversionService$ConvertersForPair.class
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/convert/support/GenericConversionService$ConvertersForPair.class
+END
+ArrayToCollectionConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/convert/support/ArrayToCollectionConverter.class
+END
+GenericConversionService$NoOpConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/convert/support/GenericConversionService$NoOpConverter.class
+END
+CharacterToNumberFactory$CharacterToNumber.class
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/convert/support/CharacterToNumberFactory$CharacterToNumber.class
+END
+MapToMapConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/convert/support/MapToMapConverter.class
+END
+GenericConversionService$ConverterFactoryAdapter.class
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/convert/support/GenericConversionService$ConverterFactoryAdapter.class
+END
+PropertiesToStringConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/convert/support/PropertiesToStringConverter.class
+END
+StringToUUIDConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/convert/support/StringToUUIDConverter.class
+END
+ArrayToObjectConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/convert/support/ArrayToObjectConverter.class
+END
+ObjectToObjectConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/convert/support/ObjectToObjectConverter.class
+END
+GenericConversionService$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/convert/support/GenericConversionService$1.class
+END
+ObjectToArrayConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/convert/support/ObjectToArrayConverter.class
+END
+ObjectToCollectionConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/convert/support/ObjectToCollectionConverter.class
+END
+StringToCollectionConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/convert/support/StringToCollectionConverter.class
+END
+ConfigurableConversionService.class
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/convert/support/ConfigurableConversionService.class
+END
+StringToCharacterConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/convert/support/StringToCharacterConverter.class
+END
+ConversionUtils.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/convert/support/ConversionUtils.class
+END
+GenericConversionService$ConverterCacheKey.class
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/convert/support/GenericConversionService$ConverterCacheKey.class
+END
+IdToEntityConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/convert/support/IdToEntityConverter.class
+END
+CharacterToNumberFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/convert/support/CharacterToNumberFactory.class
+END
+EnumToIntegerConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/convert/support/EnumToIntegerConverter.class
+END
+MapToMapConverter$MapEntry.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/convert/support/MapToMapConverter$MapEntry.class
+END
+GenericConversionService$ConverterAdapter.class
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/convert/support/GenericConversionService$ConverterAdapter.class
+END
+GenericConversionService$Converters.class
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/convert/support/GenericConversionService$Converters.class
+END
+NumberToNumberConverterFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/convert/support/NumberToNumberConverterFactory.class
+END
+ArrayToArrayConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/convert/support/ArrayToArrayConverter.class
+END
+CollectionToArrayConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/convert/support/CollectionToArrayConverter.class
+END
+StringToPropertiesConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/convert/support/StringToPropertiesConverter.class
+END
+NumberToNumberConverterFactory$NumberToNumber.class
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/convert/support/NumberToNumberConverterFactory$NumberToNumber.class
+END
+StringToArrayConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/convert/support/StringToArrayConverter.class
+END
+CollectionToObjectConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/convert/support/CollectionToObjectConverter.class
+END
+ConversionServiceFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/convert/support/ConversionServiceFactory.class
+END
+StringToNumberConverterFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/convert/support/StringToNumberConverterFactory.class
+END
+StreamConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/convert/support/StreamConverter.class
+END
+StringToCharsetConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/convert/support/StringToCharsetConverter.class
+END
+StringToLocaleConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/convert/support/StringToLocaleConverter.class
+END
+ZonedDateTimeToCalendarConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/convert/support/ZonedDateTimeToCalendarConverter.class
+END
+CollectionToCollectionConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/convert/support/CollectionToCollectionConverter.class
+END
+StringToEnumConverterFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/convert/support/StringToEnumConverterFactory.class
+END
+ObjectToOptionalConverter$GenericTypeDescriptor.class
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/convert/support/ObjectToOptionalConverter$GenericTypeDescriptor.class
+END
+ArrayToStringConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/convert/support/ArrayToStringConverter.class
+END
+StringToCurrencyConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/convert/support/StringToCurrencyConverter.class
+END
+StringToTimeZoneConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/convert/support/StringToTimeZoneConverter.class
+END
+AbstractConditionalEnumConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/convert/support/AbstractConditionalEnumConverter.class
+END
+NumberToCharacterConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/convert/support/NumberToCharacterConverter.class
+END
+StringToEnumConverterFactory$StringToEnum.class
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/convert/support/StringToEnumConverterFactory$StringToEnum.class
+END
+EnumToStringConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/convert/support/EnumToStringConverter.class
+END

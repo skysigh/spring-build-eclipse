@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/context/config
+END
+contextNamespaceHandlerTests-override.xml
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/context/config/contextNamespaceHandlerTests-override.xml
+END
+test-bar.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/context/config/test-bar.properties
+END
+contextNamespaceHandlerTests-system.xml
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/context/config/contextNamespaceHandlerTests-system.xml
+END
+contextNamespaceHandlerTests-replace-ignore.xml
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/context/config/contextNamespaceHandlerTests-replace-ignore.xml
+END
+test-foo.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/context/config/test-foo.properties
+END
+contextNamespaceHandlerTests-location-placeholder.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/context/config/contextNamespaceHandlerTests-location-placeholder.xml
+END
+empty-foo.properties
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/context/config/empty-foo.properties
+END
+contextNamespaceHandlerTests-simple.xml
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/context/config/contextNamespaceHandlerTests-simple.xml
+END
+contextNamespaceHandlerTests-location.xml
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/context/config/contextNamespaceHandlerTests-location.xml
+END
+contextNamespaceHandlerTests-replace.xml
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/context/config/contextNamespaceHandlerTests-replace.xml
+END

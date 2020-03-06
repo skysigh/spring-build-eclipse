@@ -1,0 +1,76 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-tx
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+.classpath
+file
+
+
+
+
+2020-03-06T03:52:43.504000Z
+c7145466a58b4d7d8003988d7681e52a
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+.project
+file
+
+
+
+
+2020-03-06T03:52:43.516000Z
+802291dbd6960fa9e5f5781900dc4a81
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+.settings
+dir
+
+bin
+dir
+
+build
+dir
+
+spring-tx.gradle
+file
+
+
+
+
+2020-03-06T03:52:56.425000Z
+cc89d0df68ddaa925bd674d01503e77b
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+src
+dir
+

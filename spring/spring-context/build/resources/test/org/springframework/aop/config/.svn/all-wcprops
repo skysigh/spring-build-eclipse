@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/aop/config
+END
+AopNamespaceHandlerAdviceTypeTests-ok.xml
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/aop/config/AopNamespaceHandlerAdviceTypeTests-ok.xml
+END
+AopNamespaceHandlerTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/aop/config/AopNamespaceHandlerTests-context.xml
+END
+AopNamespaceHandlerReturningTests-ok.xml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/aop/config/AopNamespaceHandlerReturningTests-ok.xml
+END
+AopNamespaceHandlerThrowingTests-error.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/aop/config/AopNamespaceHandlerThrowingTests-error.xml
+END
+PrototypeProxyTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/aop/config/PrototypeProxyTests-context.xml
+END
+AopNamespaceHandlerAdviceTypeTests-error.xml
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/aop/config/AopNamespaceHandlerAdviceTypeTests-error.xml
+END
+AopNamespaceHandlerThrowingTests-ok.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/aop/config/AopNamespaceHandlerThrowingTests-ok.xml
+END
+AopNamespaceHandlerArgNamesTests-ok.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/aop/config/AopNamespaceHandlerArgNamesTests-ok.xml
+END
+AopNamespaceHandlerArgNamesTests-error.xml
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/aop/config/AopNamespaceHandlerArgNamesTests-error.xml
+END
+AopNamespaceHandlerProxyTargetClassTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/aop/config/AopNamespaceHandlerProxyTargetClassTests-context.xml
+END
+AopNamespaceHandlerReturningTests-error.xml
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/aop/config/AopNamespaceHandlerReturningTests-error.xml
+END

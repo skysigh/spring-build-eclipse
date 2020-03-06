@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/test/resources/org/springframework/beans/factory
+END
+FactoryBeanTests-withAutowiring.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/test/resources/org/springframework/beans/factory/FactoryBeanTests-withAutowiring.xml
+END
+BeanFactoryUtilsTests-middle.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/test/resources/org/springframework/beans/factory/BeanFactoryUtilsTests-middle.xml
+END
+FactoryBeanTests-returnsNull.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/test/resources/org/springframework/beans/factory/FactoryBeanTests-returnsNull.xml
+END
+FactoryBeanTests-abstract.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/test/resources/org/springframework/beans/factory/FactoryBeanTests-abstract.xml
+END
+FactoryBeanTests-circular.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/test/resources/org/springframework/beans/factory/FactoryBeanTests-circular.xml
+END
+ConcurrentBeanFactoryTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/test/resources/org/springframework/beans/factory/ConcurrentBeanFactoryTests-context.xml
+END
+BeanFactoryUtilsTests-root.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/test/resources/org/springframework/beans/factory/BeanFactoryUtilsTests-root.xml
+END
+BeanFactoryUtilsTests-leaf.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/test/resources/org/springframework/beans/factory/BeanFactoryUtilsTests-leaf.xml
+END
+BeanFactoryUtilsTests-dependentBeans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/test/resources/org/springframework/beans/factory/BeanFactoryUtilsTests-dependentBeans.xml
+END
+FactoryBeanLookupTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/src/test/resources/org/springframework/beans/factory/FactoryBeanLookupTests-context.xml
+END

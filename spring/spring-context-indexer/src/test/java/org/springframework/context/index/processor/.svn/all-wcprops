@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-indexer/src/test/java/org/springframework/context/index/processor
+END
+PropertiesMarshallerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-indexer/src/test/java/org/springframework/context/index/processor/PropertiesMarshallerTests.java
+END
+Metadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-indexer/src/test/java/org/springframework/context/index/processor/Metadata.java
+END
+CandidateComponentsIndexerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-indexer/src/test/java/org/springframework/context/index/processor/CandidateComponentsIndexerTests.java
+END

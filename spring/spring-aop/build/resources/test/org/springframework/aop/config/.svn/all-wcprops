@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/resources/test/org/springframework/aop/config
+END
+AopNamespaceHandlerEventTests-pointcutEvents.xml
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/resources/test/org/springframework/aop/config/AopNamespaceHandlerEventTests-pointcutEvents.xml
+END
+AopNamespaceHandlerPointcutErrorTests-pointcutDuplication.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/resources/test/org/springframework/aop/config/AopNamespaceHandlerPointcutErrorTests-pointcutDuplication.xml
+END
+AopNamespaceHandlerEventTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/resources/test/org/springframework/aop/config/AopNamespaceHandlerEventTests-context.xml
+END
+AopNamespaceHandlerPointcutErrorTests-pointcutMissing.xml
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/resources/test/org/springframework/aop/config/AopNamespaceHandlerPointcutErrorTests-pointcutMissing.xml
+END
+AopNamespaceHandlerEventTests-directPointcutEvents.xml
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/resources/test/org/springframework/aop/config/AopNamespaceHandlerEventTests-directPointcutEvents.xml
+END
+TopLevelAopTagTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/resources/test/org/springframework/aop/config/TopLevelAopTagTests-context.xml
+END
+AopNamespaceHandlerEventTests-pointcutRefEvents.xml
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/resources/test/org/springframework/aop/config/AopNamespaceHandlerEventTests-pointcutRefEvents.xml
+END

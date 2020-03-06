@@ -1,0 +1,131 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-context/build/classes/java/main/org/springframework/scheduling
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+SchedulingAwareRunnable.class
+file
+
+
+
+
+2020-03-06T03:47:00.202000Z
+0aea8ee85731a9c3dfde963e53492151
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+
+SchedulingException.class
+file
+
+
+
+
+2020-03-06T03:47:00.217000Z
+371ee55c5c20e91165dfb8433973e5bd
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+
+SchedulingTaskExecutor.class
+file
+
+
+
+
+2020-03-06T03:47:00.230000Z
+f76edfda5f994e9905c18deb5314257f
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+
+TaskScheduler.class
+file
+
+
+
+
+2020-03-06T03:47:00.242000Z
+4454f323c35ddb117cbc874b439fc62e
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+
+Trigger.class
+file
+
+
+
+
+2020-03-06T03:47:00.254000Z
+8594425089909145d2c23af140e62ee6
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+
+TriggerContext.class
+file
+
+
+
+
+2020-03-06T03:47:00.266000Z
+4cb862b4c0d648fc2bc2809ab0d22794
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+
+annotation
+dir
+
+concurrent
+dir
+
+config
+dir
+
+package-info.class
+file
+
+
+
+
+2020-03-06T03:47:01.448000Z
+d4be0b2a70457223668fce5ec57ccbc2
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+
+support
+dir
+

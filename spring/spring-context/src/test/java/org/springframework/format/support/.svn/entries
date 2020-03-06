@@ -1,0 +1,52 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-context/src/test/java/org/springframework/format/support
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+FormattingConversionServiceFactoryBeanTests.java
+file
+
+
+
+
+2020-03-06T03:47:37.326000Z
+5dba1a849c4183a97968e92340184b8d
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+FormattingConversionServiceTests.java
+file
+
+
+
+
+2020-03-06T03:47:37.342000Z
+c810303af1d6eee13de4f2a005b1f4fb
+2020-03-06T03:35:38.538472Z
+1
+wck
+

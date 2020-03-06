@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/server/adapter
+END
+DefaultServerWebExchangeTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/server/adapter/DefaultServerWebExchangeTests.java
+END
+WebHttpHandlerBuilderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/server/adapter/WebHttpHandlerBuilderTests.java
+END
+ForwardedHeaderTransformerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/server/adapter/ForwardedHeaderTransformerTests.java
+END
+DefaultServerWebExchangeCheckNotModifiedTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/server/adapter/DefaultServerWebExchangeCheckNotModifiedTests.java
+END

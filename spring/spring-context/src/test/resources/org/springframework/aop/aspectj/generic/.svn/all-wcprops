@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/aop/aspectj/generic
+END
+GenericBridgeMethodMatchingTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/aop/aspectj/generic/GenericBridgeMethodMatchingTests-context.xml
+END
+AfterReturningGenericTypeMatchingTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/aop/aspectj/generic/AfterReturningGenericTypeMatchingTests-context.xml
+END
+GenericBridgeMethodMatchingClassProxyTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/aop/aspectj/generic/GenericBridgeMethodMatchingClassProxyTests-context.xml
+END
+GenericParameterMatchingTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/aop/aspectj/generic/GenericParameterMatchingTests-context.xml
+END

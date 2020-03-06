@@ -1,0 +1,52 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-jdbc/src/test/resources/org/springframework/jdbc/object
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+GenericSqlQueryTests-context.xml
+file
+
+
+
+
+2020-03-06T03:50:29.436000Z
+41754ed829736bf699f6d995328cd902
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+GenericStoredProcedureTests-context.xml
+file
+
+
+
+
+2020-03-06T03:50:29.451000Z
+f7131c487ba5534c1c18a053d8aaead8
+2020-03-06T03:35:38.538472Z
+1
+wck
+

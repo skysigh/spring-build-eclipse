@@ -1,0 +1,40 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-web/src/main/kotlin/org/springframework/web/client
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+RestOperationsExtensions.kt
+file
+
+
+
+
+2020-03-06T03:53:59.334000Z
+40057dd793b1ce11d35cafa5d4f02700
+2020-03-06T03:35:38.538472Z
+1
+wck
+

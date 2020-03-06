@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-indexer/src/test/java/org/springframework/context/index/sample/cdi
+END
+SampleTransactional.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-indexer/src/test/java/org/springframework/context/index/sample/cdi/SampleTransactional.java
+END
+SampleManagedBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-indexer/src/test/java/org/springframework/context/index/sample/cdi/SampleManagedBean.java
+END
+SampleNamed.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-indexer/src/test/java/org/springframework/context/index/sample/cdi/SampleNamed.java
+END

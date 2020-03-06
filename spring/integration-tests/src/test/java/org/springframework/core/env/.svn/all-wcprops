@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/springcode/!svn/ver/1/spring-framework/integration-tests/src/test/java/org/springframework/core/env
+END
+EnvironmentSystemIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/integration-tests/src/test/java/org/springframework/core/env/EnvironmentSystemIntegrationTests.java
+END
+PropertyPlaceholderConfigurerEnvironmentIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/springcode/!svn/ver/1/spring-framework/integration-tests/src/test/java/org/springframework/core/env/PropertyPlaceholderConfigurerEnvironmentIntegrationTests.java
+END

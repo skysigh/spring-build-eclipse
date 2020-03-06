@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/framework/autoproxy
+END
+AbstractAdvisorAutoProxyCreator.class
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/framework/autoproxy/AbstractAdvisorAutoProxyCreator.class
+END
+BeanNameAutoProxyCreator.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/framework/autoproxy/BeanNameAutoProxyCreator.class
+END
+ProxyCreationContext.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/framework/autoproxy/ProxyCreationContext.class
+END
+AbstractBeanFactoryAwareAdvisingPostProcessor.class
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/framework/autoproxy/AbstractBeanFactoryAwareAdvisingPostProcessor.class
+END
+DefaultAdvisorAutoProxyCreator.class
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/framework/autoproxy/DefaultAdvisorAutoProxyCreator.class
+END
+AbstractAutoProxyCreator.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/framework/autoproxy/AbstractAutoProxyCreator.class
+END
+package-info.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/framework/autoproxy/package-info.class
+END
+AbstractAdvisorAutoProxyCreator$BeanFactoryAdvisorRetrievalHelperAdapter.class
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/framework/autoproxy/AbstractAdvisorAutoProxyCreator$BeanFactoryAdvisorRetrievalHelperAdapter.class
+END
+BeanFactoryAdvisorRetrievalHelper.class
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/framework/autoproxy/BeanFactoryAdvisorRetrievalHelper.class
+END
+InfrastructureAdvisorAutoProxyCreator.class
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/framework/autoproxy/InfrastructureAdvisorAutoProxyCreator.class
+END
+AutoProxyUtils.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/framework/autoproxy/AutoProxyUtils.class
+END
+TargetSourceCreator.class
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/build/classes/java/main/org/springframework/aop/framework/autoproxy/TargetSourceCreator.class
+END

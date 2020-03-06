@@ -1,0 +1,67 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-jdbc/build/resources/test
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+data.sql
+file
+
+
+
+
+2020-03-06T03:50:19.300000Z
+3462e2ddfa1e9e9f4f50887ba4be40c6
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+log4j2-test.xml
+file
+
+
+
+
+2020-03-06T03:50:19.309000Z
+4f89968dd635c1faebefa13e26c9f707
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+org
+dir
+
+schema.sql
+file
+
+
+
+
+2020-03-06T03:50:20.331000Z
+31f84b835aed1d32e8951b441ece94fe
+2020-03-06T03:35:38.538472Z
+1
+wck
+

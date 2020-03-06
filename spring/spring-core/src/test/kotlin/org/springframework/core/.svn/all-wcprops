@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/kotlin/org/springframework/core
+END
+KotlinGenericTypeResolverTests.kt
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/kotlin/org/springframework/core/KotlinGenericTypeResolverTests.kt
+END
+KotlinReactiveAdapterRegistryTests.kt
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/kotlin/org/springframework/core/KotlinReactiveAdapterRegistryTests.kt
+END
+KotlinDefaultParameterNameDiscovererTests.kt
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/kotlin/org/springframework/core/KotlinDefaultParameterNameDiscovererTests.kt
+END
+KotlinReflectionParameterNameDiscovererTests.kt
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/kotlin/org/springframework/core/KotlinReflectionParameterNameDiscovererTests.kt
+END
+KotlinMethodParameterTests.kt
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/test/kotlin/org/springframework/core/KotlinMethodParameterTests.kt
+END

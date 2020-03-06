@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/scheduling/config
+END
+annotationDrivenContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/scheduling/config/annotationDrivenContext.xml
+END
+executorContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/scheduling/config/executorContext.xml
+END
+scheduledTasksContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/scheduling/config/scheduledTasksContext.xml
+END
+lazyScheduledTasksContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/scheduling/config/lazyScheduledTasksContext.xml
+END
+schedulerContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/scheduling/config/schedulerContext.xml
+END

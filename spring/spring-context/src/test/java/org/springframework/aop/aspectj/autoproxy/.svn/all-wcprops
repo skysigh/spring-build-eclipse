@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/aop/aspectj/autoproxy
+END
+AspectJAutoProxyCreatorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/aop/aspectj/autoproxy/AspectJAutoProxyCreatorTests.java
+END
+AnnotationBindingTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/aop/aspectj/autoproxy/AnnotationBindingTests.java
+END
+AspectJAutoProxyCreatorAndLazyInitTargetSourceTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/aop/aspectj/autoproxy/AspectJAutoProxyCreatorAndLazyInitTargetSourceTests.java
+END
+AnnotatedTestBeanImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/aop/aspectj/autoproxy/AnnotatedTestBeanImpl.java
+END
+AnnotationPointcutTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/aop/aspectj/autoproxy/AnnotationPointcutTests.java
+END
+AspectImplementingInterfaceTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/aop/aspectj/autoproxy/AspectImplementingInterfaceTests.java
+END
+TestAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/aop/aspectj/autoproxy/TestAnnotation.java
+END
+AtAspectJAfterThrowingTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/aop/aspectj/autoproxy/AtAspectJAfterThrowingTests.java
+END
+AnnotationBindingTestAspect.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/aop/aspectj/autoproxy/AnnotationBindingTestAspect.java
+END
+AnnotatedTestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/aop/aspectj/autoproxy/AnnotatedTestBean.java
+END
+AtAspectJAnnotationBindingTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/aop/aspectj/autoproxy/AtAspectJAnnotationBindingTests.java
+END

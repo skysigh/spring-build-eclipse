@@ -1,0 +1,40 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-core/build/resources/main/META-INF/services
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+reactor.blockhound.integration.BlockHoundIntegration
+file
+
+
+
+
+2020-03-06T03:49:19.258000Z
+db7d101edc9a1ed9f8df6cc1d78f88dc
+2020-03-06T03:35:38.538472Z
+1
+wck
+

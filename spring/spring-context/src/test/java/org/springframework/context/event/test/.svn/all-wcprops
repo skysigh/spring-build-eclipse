@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/event/test
+END
+GenericEventPojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/event/test/GenericEventPojo.java
+END
+Identifiable.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/event/test/Identifiable.java
+END
+TestEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/event/test/TestEvent.java
+END
+AnotherTestEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/event/test/AnotherTestEvent.java
+END
+AbstractIdentifiable.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/event/test/AbstractIdentifiable.java
+END
+IdentifiableApplicationEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/event/test/IdentifiableApplicationEvent.java
+END
+EventCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/context/event/test/EventCollector.java
+END

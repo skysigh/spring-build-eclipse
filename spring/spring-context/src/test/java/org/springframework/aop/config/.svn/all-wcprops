@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/aop/config
+END
+MethodLocatingFactoryBeanTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/aop/config/MethodLocatingFactoryBeanTests.java
+END
+AopNamespaceHandlerProxyTargetClassTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/aop/config/AopNamespaceHandlerProxyTargetClassTests.java
+END
+AopNamespaceHandlerReturningTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/aop/config/AopNamespaceHandlerReturningTests.java
+END
+PrototypeProxyTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/aop/config/PrototypeProxyTests.java
+END
+AopNamespaceHandlerThrowingTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/aop/config/AopNamespaceHandlerThrowingTests.java
+END
+AopNamespaceHandlerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/aop/config/AopNamespaceHandlerTests.java
+END
+AopNamespaceHandlerAdviceTypeTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/aop/config/AopNamespaceHandlerAdviceTypeTests.java
+END
+AopNamespaceHandlerArgNamesTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/aop/config/AopNamespaceHandlerArgNamesTests.java
+END

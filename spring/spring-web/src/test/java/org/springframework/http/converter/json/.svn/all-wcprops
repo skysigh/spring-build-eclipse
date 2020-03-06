@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/converter/json
+END
+Jackson2ObjectMapperBuilderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/converter/json/Jackson2ObjectMapperBuilderTests.java
+END
+GsonHttpMessageConverterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/converter/json/GsonHttpMessageConverterTests.java
+END
+SpringHandlerInstantiatorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/converter/json/SpringHandlerInstantiatorTests.java
+END
+MappingJackson2HttpMessageConverterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/converter/json/MappingJackson2HttpMessageConverterTests.java
+END
+GsonFactoryBeanTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/converter/json/GsonFactoryBeanTests.java
+END
+Jackson2ObjectMapperFactoryBeanTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/converter/json/Jackson2ObjectMapperFactoryBeanTests.java
+END
+JsonbHttpMessageConverterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/converter/json/JsonbHttpMessageConverterTests.java
+END

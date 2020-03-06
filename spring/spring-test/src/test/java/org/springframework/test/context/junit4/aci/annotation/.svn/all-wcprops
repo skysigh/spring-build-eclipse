@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit4/aci/annotation
+END
+DevProfileConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit4/aci/annotation/DevProfileConfig.java
+END
+OrderedInitializersAnnotationConfigTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit4/aci/annotation/OrderedInitializersAnnotationConfigTests.java
+END
+PropertySourcesInitializerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit4/aci/annotation/PropertySourcesInitializerTests.java
+END
+InitializerWithoutConfigFilesOrClassesTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit4/aci/annotation/InitializerWithoutConfigFilesOrClassesTests.java
+END
+MergedInitializersAnnotationConfigTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit4/aci/annotation/MergedInitializersAnnotationConfigTests.java
+END
+GlobalConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit4/aci/annotation/GlobalConfig.java
+END
+SingleInitializerAnnotationConfigTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit4/aci/annotation/SingleInitializerAnnotationConfigTests.java
+END
+FooConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit4/aci/annotation/FooConfig.java
+END
+BarConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit4/aci/annotation/BarConfig.java
+END
+OverriddenInitializersAnnotationConfigTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit4/aci/annotation/OverriddenInitializersAnnotationConfigTests.java
+END
+InitializerConfiguredViaMetaAnnotationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit4/aci/annotation/InitializerConfiguredViaMetaAnnotationTests.java
+END
+MultipleInitializersAnnotationConfigTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit4/aci/annotation/MultipleInitializersAnnotationConfigTests.java
+END

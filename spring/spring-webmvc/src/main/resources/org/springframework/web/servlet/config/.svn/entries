@@ -1,0 +1,53 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-webmvc/src/main/resources/org/springframework/web/servlet/config
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+spring-mvc.gif
+file
+
+
+
+
+2020-03-06T03:55:31.042000Z
+913e4d0054cb02686f26f90fd4aeb205
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+
+spring-mvc.xsd
+file
+
+
+
+
+2020-03-06T03:55:31.053000Z
+5c92d18fc70bfe51cb66ebce5f61d022
+2020-03-06T03:35:38.538472Z
+1
+wck
+

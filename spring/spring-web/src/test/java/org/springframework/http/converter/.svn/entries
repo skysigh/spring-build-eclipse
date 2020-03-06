@@ -1,0 +1,139 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-web/src/test/java/org/springframework/http/converter
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+BufferedImageHttpMessageConverterTests.java
+file
+
+
+
+
+2020-03-06T03:54:02.085000Z
+3edce555a352b0b380175fcc48b6356a
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+ByteArrayHttpMessageConverterTests.java
+file
+
+
+
+
+2020-03-06T03:54:02.107000Z
+017c0526b640d6fbf244cb81e80df1b5
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+FormHttpMessageConverterTests.java
+file
+
+
+
+
+2020-03-06T03:54:02.126000Z
+820d26deb9bd02720bf8db186778854d
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+HttpMessageConverterTests.java
+file
+
+
+
+
+2020-03-06T03:54:02.149000Z
+c634271bc210fb12711bf8acad19343c
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+ObjectToStringHttpMessageConverterTests.java
+file
+
+
+
+
+2020-03-06T03:54:02.168000Z
+a8a390ca0156febfbcb709df0e55e247
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+ResourceHttpMessageConverterTests.java
+file
+
+
+
+
+2020-03-06T03:54:02.188000Z
+2ce4d8b6f5739d271ab6e57d339c01dd
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+ResourceRegionHttpMessageConverterTests.java
+file
+
+
+
+
+2020-03-06T03:54:02.205000Z
+7cb074ed771e58f3fecc7daab5908b52
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+StringHttpMessageConverterTests.java
+file
+
+
+
+
+2020-03-06T03:54:02.219000Z
+7bb04b19c55d762d0d060f1be5c3b434
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+feed
+dir
+
+json
+dir
+
+protobuf
+dir
+
+smile
+dir
+
+xml
+dir
+

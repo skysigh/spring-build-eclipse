@@ -1,0 +1,40 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-test/src/test/java/org/springframework/test/context/env/subpackage
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+SubpackageInheritedRelativePathPropertiesFileTestPropertySourceTests.java
+file
+
+
+
+
+2020-03-06T03:52:28.960000Z
+dcc21de9af627d07dd00c11ab6f0be82
+2020-03-06T03:35:38.538472Z
+1
+wck
+

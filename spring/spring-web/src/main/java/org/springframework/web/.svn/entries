@@ -1,0 +1,169 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-web/src/main/java/org/springframework/web
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+HttpMediaTypeException.java
+file
+
+
+
+
+2020-03-06T03:53:52.374000Z
+168e1229deebd651d48c78f70abbd150
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+HttpMediaTypeNotAcceptableException.java
+file
+
+
+
+
+2020-03-06T03:53:52.387000Z
+998e0e3a395d26c93048910f2c563ce8
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+HttpMediaTypeNotSupportedException.java
+file
+
+
+
+
+2020-03-06T03:53:52.398000Z
+650bd9d71af3dac78ccc52926108c08c
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+HttpRequestHandler.java
+file
+
+
+
+
+2020-03-06T03:53:52.411000Z
+d426ee67da31be1b7bfc72a01c646a9b
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+HttpRequestMethodNotSupportedException.java
+file
+
+
+
+
+2020-03-06T03:53:52.422000Z
+97d699b3cb07928820bbfaba23142c24
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+HttpSessionRequiredException.java
+file
+
+
+
+
+2020-03-06T03:53:52.435000Z
+c2a748e01acb08c9c5fa97a5956145b9
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+SpringServletContainerInitializer.java
+file
+
+
+
+
+2020-03-06T03:53:52.446000Z
+1d5a6c886aac6f779b7e0179bfbc9a82
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+WebApplicationInitializer.java
+file
+
+
+
+
+2020-03-06T03:53:52.462000Z
+029231f2a9449d8e81d8d442a8080716
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+accept
+dir
+
+bind
+dir
+
+client
+dir
+
+context
+dir
+
+cors
+dir
+
+filter
+dir
+
+jsf
+dir
+
+method
+dir
+
+multipart
+dir
+
+package-info.java
+file
+
+
+
+
+2020-03-06T03:53:57.410000Z
+0572791994084a3fc8a9ee1e3814bb74
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+server
+dir
+
+util
+dir
+

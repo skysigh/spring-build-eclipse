@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/resources/org/springframework/web/reactive/resource/test
+END
+foo.txt
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/resources/org/springframework/web/reactive/resource/test/foo.txt
+END
+external.css
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/resources/org/springframework/web/reactive/resource/test/external.css
+END
+foo.css
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/resources/org/springframework/web/reactive/resource/test/foo.css
+END
+main.css
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/resources/org/springframework/web/reactive/resource/test/main.css
+END
+empty_url_function.css
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/resources/org/springframework/web/reactive/resource/test/empty_url_function.css
+END
+test%file.txt
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/resources/org/springframework/web/reactive/resource/test/test%25file.txt
+END
+bar.css
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/resources/org/springframework/web/reactive/resource/test/bar.css
+END
+error.appcache
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/resources/org/springframework/web/reactive/resource/test/error.appcache
+END
+foo.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/resources/org/springframework/web/reactive/resource/test/foo.html
+END
+test.appcache
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/resources/org/springframework/web/reactive/resource/test/test.appcache
+END
+foo foo.txt
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-webflux/src/test/resources/org/springframework/web/reactive/resource/test/foo%20foo.txt
+END

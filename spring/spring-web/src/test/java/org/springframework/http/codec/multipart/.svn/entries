@@ -1,0 +1,52 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-web/src/test/java/org/springframework/http/codec/multipart
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+MultipartHttpMessageWriterTests.java
+file
+
+
+
+
+2020-03-06T03:54:01.348000Z
+6a1a9958ea5fbace34ea6368ab0f1658
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+SynchronossPartHttpMessageReaderTests.java
+file
+
+
+
+
+2020-03-06T03:54:01.364000Z
+0666ccaf993bf0779fb60b6620f4491c
+2020-03-06T03:35:38.538472Z
+1
+wck
+

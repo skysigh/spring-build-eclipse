@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/cache/config
+END
+annotationDrivenCacheConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/cache/config/annotationDrivenCacheConfig.xml
+END
+annotationDrivenCacheNamespace-manager-resolver.xml
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/cache/config/annotationDrivenCacheNamespace-manager-resolver.xml
+END
+annotationDrivenCacheNamespace-resolver.xml
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/cache/config/annotationDrivenCacheNamespace-resolver.xml
+END
+annotationDrivenCacheNamespace.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/cache/config/annotationDrivenCacheNamespace.xml
+END
+cache-advice-invalid.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/cache/config/cache-advice-invalid.xml
+END
+cache-advice.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/resources/test/org/springframework/cache/config/cache-advice.xml
+END

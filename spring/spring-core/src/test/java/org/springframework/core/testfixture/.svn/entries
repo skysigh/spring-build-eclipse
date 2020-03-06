@@ -1,0 +1,52 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-core/src/test/java/org/springframework/core/testfixture
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+TestGroupParsingTests.java
+file
+
+
+
+
+2020-03-06T03:49:36.394000Z
+3b1e0c54abf85180799d0b637e8b9d65
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+TestGroupTests.java
+file
+
+
+
+
+2020-03-06T03:49:36.409000Z
+5d0908a9c87bc96b3485f43c8a007c36
+2020-03-06T03:35:38.538472Z
+1
+wck
+

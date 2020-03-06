@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/testFixtures/java/org/springframework/context/testfixture/cache/beans
+END
+CacheableService.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/testFixtures/java/org/springframework/context/testfixture/cache/beans/CacheableService.java
+END
+AnnotatedClassCacheableService.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/testFixtures/java/org/springframework/context/testfixture/cache/beans/AnnotatedClassCacheableService.java
+END
+TestEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/testFixtures/java/org/springframework/context/testfixture/cache/beans/TestEntity.java
+END
+DefaultCacheableService.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/testFixtures/java/org/springframework/context/testfixture/cache/beans/DefaultCacheableService.java
+END

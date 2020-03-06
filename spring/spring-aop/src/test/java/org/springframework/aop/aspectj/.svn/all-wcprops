@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/test/java/org/springframework/aop/aspectj
+END
+AspectJExpressionPointcutTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/test/java/org/springframework/aop/aspectj/AspectJExpressionPointcutTests.java
+END
+TypePatternClassFilterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/test/java/org/springframework/aop/aspectj/TypePatternClassFilterTests.java
+END
+AspectJAdviceParameterNameDiscoverAnnotationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/test/java/org/springframework/aop/aspectj/AspectJAdviceParameterNameDiscoverAnnotationTests.java
+END
+BeanNamePointcutMatchingTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/test/java/org/springframework/aop/aspectj/BeanNamePointcutMatchingTests.java
+END
+TigerAspectJExpressionPointcutTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/test/java/org/springframework/aop/aspectj/TigerAspectJExpressionPointcutTests.java
+END
+MethodInvocationProceedingJoinPointTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/test/java/org/springframework/aop/aspectj/MethodInvocationProceedingJoinPointTests.java
+END
+AspectJAdviceParameterNameDiscovererTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/test/java/org/springframework/aop/aspectj/AspectJAdviceParameterNameDiscovererTests.java
+END
+TigerAspectJAdviceParameterNameDiscovererTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/test/java/org/springframework/aop/aspectj/TigerAspectJAdviceParameterNameDiscovererTests.java
+END
+TrickyAspectJPointcutExpressionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/test/java/org/springframework/aop/aspectj/TrickyAspectJPointcutExpressionTests.java
+END

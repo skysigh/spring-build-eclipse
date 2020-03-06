@@ -1,0 +1,58 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-context/build/resources/test
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+do_not_delete_me.txt
+file
+
+
+
+
+2020-03-06T03:47:06.985000Z
+5a64f93502ba173cc92692399c77a305
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+example
+dir
+
+log4j2-test.xml
+file
+
+
+
+
+2020-03-06T03:47:07.090000Z
+3bc5b6a1ea25c113e3c85f3d726d17de
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+org
+dir
+

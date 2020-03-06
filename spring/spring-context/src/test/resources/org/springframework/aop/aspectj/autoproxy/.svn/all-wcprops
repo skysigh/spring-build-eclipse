@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/aop/aspectj/autoproxy
+END
+AspectJAutoProxyCreatorTests-twoAdviceAspectPrototype.xml
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/aop/aspectj/autoproxy/AspectJAutoProxyCreatorTests-twoAdviceAspectPrototype.xml
+END
+AspectJAutoProxyCreatorTests-usesJoinPointAspect.xml
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/aop/aspectj/autoproxy/AspectJAutoProxyCreatorTests-usesJoinPointAspect.xml
+END
+AspectJAutoProxyCreatorTests-withBeanNameAutoProxyCreator.xml
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/aop/aspectj/autoproxy/AspectJAutoProxyCreatorTests-withBeanNameAutoProxyCreator.xml
+END
+AspectImplementingInterfaceTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/aop/aspectj/autoproxy/AspectImplementingInterfaceTests-context.xml
+END
+AspectJAutoProxyCreatorTests-retryAspect.xml
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/aop/aspectj/autoproxy/AspectJAutoProxyCreatorTests-retryAspect.xml
+END
+AtAspectJAfterThrowingTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/aop/aspectj/autoproxy/AtAspectJAfterThrowingTests-context.xml
+END
+AnnotationBindingTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/aop/aspectj/autoproxy/AnnotationBindingTests-context.xml
+END
+AspectJAutoProxyCreatorTests-aspectsWithOrdering.xml
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/aop/aspectj/autoproxy/AspectJAutoProxyCreatorTests-aspectsWithOrdering.xml
+END
+AspectJAutoProxyCreatorTests-aspects.xml
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/aop/aspectj/autoproxy/AspectJAutoProxyCreatorTests-aspects.xml
+END
+AspectJAutoProxyCreatorTests-usesInclude.xml
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/aop/aspectj/autoproxy/AspectJAutoProxyCreatorTests-usesInclude.xml
+END
+AspectJAutoProxyCreatorTests-twoAdviceAspect.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/aop/aspectj/autoproxy/AspectJAutoProxyCreatorTests-twoAdviceAspect.xml
+END
+AspectJAutoProxyCreatorAndLazyInitTargetSourceTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/aop/aspectj/autoproxy/AspectJAutoProxyCreatorAndLazyInitTargetSourceTests-context.xml
+END
+AnnotationPointcutTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/aop/aspectj/autoproxy/AnnotationPointcutTests-context.xml
+END
+AspectJAutoProxyCreatorTests-perthis.xml
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/aop/aspectj/autoproxy/AspectJAutoProxyCreatorTests-perthis.xml
+END
+AspectJAutoProxyCreatorTests-twoAdviceAspectSingleton.xml
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/aop/aspectj/autoproxy/AspectJAutoProxyCreatorTests-twoAdviceAspectSingleton.xml
+END
+AspectJAutoProxyCreatorTests-aspectsPlusAdvisor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/aop/aspectj/autoproxy/AspectJAutoProxyCreatorTests-aspectsPlusAdvisor.xml
+END
+AspectJAutoProxyCreatorTests-pertarget.xml
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/aop/aspectj/autoproxy/AspectJAutoProxyCreatorTests-pertarget.xml
+END
+AspectJAutoProxyCreatorTests-aspectsWithAbstractBean.xml
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/aop/aspectj/autoproxy/AspectJAutoProxyCreatorTests-aspectsWithAbstractBean.xml
+END
+AtAspectJAnnotationBindingTests-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/aop/aspectj/autoproxy/AtAspectJAnnotationBindingTests-context.xml
+END
+AspectJAutoProxyCreatorTests-aspectsWithCGLIB.xml
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/resources/org/springframework/aop/aspectj/autoproxy/AspectJAutoProxyCreatorTests-aspectsWithCGLIB.xml
+END

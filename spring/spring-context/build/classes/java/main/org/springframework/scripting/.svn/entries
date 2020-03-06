@@ -1,0 +1,105 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-context/build/classes/java/main/org/springframework/scripting
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+ScriptCompilationException.class
+file
+
+
+
+
+2020-03-06T03:47:01.770000Z
+e18219efe78288115115e5edf5010212
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+
+ScriptEvaluator.class
+file
+
+
+
+
+2020-03-06T03:47:01.784000Z
+3abae38473c85c8931dff1946377b3bd
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+
+ScriptFactory.class
+file
+
+
+
+
+2020-03-06T03:47:01.797000Z
+cfdaad5cf8b5b97e48d2d175d40bdea1
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+
+ScriptSource.class
+file
+
+
+
+
+2020-03-06T03:47:01.808000Z
+dc46f91149e1e2b9f4755979254fd7f5
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+
+bsh
+dir
+
+config
+dir
+
+groovy
+dir
+
+package-info.class
+file
+
+
+
+
+2020-03-06T03:47:02.231000Z
+3473e8f01c6abc92e53d1da1db1a22e5
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+
+support
+dir
+

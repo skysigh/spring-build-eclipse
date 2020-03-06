@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/src/test/java/org/springframework/expression/spel
+END
+AbstractExpressionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/src/test/java/org/springframework/expression/spel/AbstractExpressionTests.java
+END
+MethodInvocationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/src/test/java/org/springframework/expression/spel/MethodInvocationTests.java
+END
+PerformanceTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/src/test/java/org/springframework/expression/spel/PerformanceTests.java
+END
+SpelCompilationPerformanceTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/src/test/java/org/springframework/expression/spel/SpelCompilationPerformanceTests.java
+END
+SpelReproTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/src/test/java/org/springframework/expression/spel/SpelReproTests.java
+END
+ConstructorInvocationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/src/test/java/org/springframework/expression/spel/ConstructorInvocationTests.java
+END
+StandardTypeLocatorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/src/test/java/org/springframework/expression/spel/StandardTypeLocatorTests.java
+END
+SelectionAndProjectionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/src/test/java/org/springframework/expression/spel/SelectionAndProjectionTests.java
+END
+SpelCompilationCoverageTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/src/test/java/org/springframework/expression/spel/SpelCompilationCoverageTests.java
+END
+ScenariosForSpringSecurityExpressionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/src/test/java/org/springframework/expression/spel/ScenariosForSpringSecurityExpressionTests.java
+END
+SpelUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/src/test/java/org/springframework/expression/spel/SpelUtilities.java
+END
+OperatorOverloaderTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/src/test/java/org/springframework/expression/spel/OperatorOverloaderTests.java
+END
+BooleanExpressionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/src/test/java/org/springframework/expression/spel/BooleanExpressionTests.java
+END
+SetValueTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/src/test/java/org/springframework/expression/spel/SetValueTests.java
+END
+SpelDocumentationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/src/test/java/org/springframework/expression/spel/SpelDocumentationTests.java
+END
+TestScenarioCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/src/test/java/org/springframework/expression/spel/TestScenarioCreator.java
+END
+OperatorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/src/test/java/org/springframework/expression/spel/OperatorTests.java
+END
+ListTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/src/test/java/org/springframework/expression/spel/ListTests.java
+END
+LiteralTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/src/test/java/org/springframework/expression/spel/LiteralTests.java
+END
+ExpressionStateTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/src/test/java/org/springframework/expression/spel/ExpressionStateTests.java
+END
+ArrayConstructorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/src/test/java/org/springframework/expression/spel/ArrayConstructorTests.java
+END
+InProgressTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/src/test/java/org/springframework/expression/spel/InProgressTests.java
+END
+IndexingTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/src/test/java/org/springframework/expression/spel/IndexingTests.java
+END
+ExpressionWithConversionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/src/test/java/org/springframework/expression/spel/ExpressionWithConversionTests.java
+END
+SpelExceptionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/src/test/java/org/springframework/expression/spel/SpelExceptionTests.java
+END
+VariableAndFunctionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/src/test/java/org/springframework/expression/spel/VariableAndFunctionTests.java
+END
+DefaultComparatorUnitTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/src/test/java/org/springframework/expression/spel/DefaultComparatorUnitTests.java
+END
+MapAccessTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/src/test/java/org/springframework/expression/spel/MapAccessTests.java
+END
+ExpressionLanguageScenarioTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/src/test/java/org/springframework/expression/spel/ExpressionLanguageScenarioTests.java
+END
+ParsingTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/src/test/java/org/springframework/expression/spel/ParsingTests.java
+END
+PropertyAccessTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/src/test/java/org/springframework/expression/spel/PropertyAccessTests.java
+END
+CachedMethodExecutorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/src/test/java/org/springframework/expression/spel/CachedMethodExecutorTests.java
+END
+LiteralExpressionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/src/test/java/org/springframework/expression/spel/LiteralExpressionTests.java
+END
+EvaluationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/src/test/java/org/springframework/expression/spel/EvaluationTests.java
+END
+ParserErrorMessagesTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/src/test/java/org/springframework/expression/spel/ParserErrorMessagesTests.java
+END
+TemplateExpressionParsingTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/src/test/java/org/springframework/expression/spel/TemplateExpressionParsingTests.java
+END
+MapTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/springcode/!svn/ver/1/spring-framework/spring-expression/src/test/java/org/springframework/expression/spel/MapTests.java
+END

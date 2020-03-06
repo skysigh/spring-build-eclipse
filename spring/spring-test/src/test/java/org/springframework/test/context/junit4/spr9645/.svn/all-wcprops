@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit4/spr9645
+END
+LookUpTxMgrByTypeAndQualifierAtMethodLevelTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit4/spr9645/LookUpTxMgrByTypeAndQualifierAtMethodLevelTests.java
+END
+LookUpNonexistentTxMgrTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit4/spr9645/LookUpNonexistentTxMgrTests.java
+END
+LookUpTxMgrByTypeAndQualifierAtClassLevelTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit4/spr9645/LookUpTxMgrByTypeAndQualifierAtClassLevelTests.java
+END
+LookUpTxMgrByTypeTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit4/spr9645/LookUpTxMgrByTypeTests.java
+END
+LookUpTxMgrByTypeAndDefaultNameTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit4/spr9645/LookUpTxMgrByTypeAndDefaultNameTests.java
+END
+LookUpTxMgrByTypeAndNameTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit4/spr9645/LookUpTxMgrByTypeAndNameTests.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/client/support
+END
+InterceptingHttpAccessorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/client/support/InterceptingHttpAccessorTests.java
+END
+BasicAuthorizationInterceptorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/client/support/BasicAuthorizationInterceptorTests.java
+END
+ProxyFactoryBeanTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/http/client/support/ProxyFactoryBeanTests.java
+END

@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/asm
+END
+MethodWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/asm/MethodWriter.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/asm/package-info.java
+END
+TypeReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/asm/TypeReference.java
+END
+Context.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/asm/Context.java
+END
+CurrentFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/asm/CurrentFrame.java
+END
+ConstantDynamic.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/asm/ConstantDynamic.java
+END
+ClassWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/asm/ClassWriter.java
+END
+Edge.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/asm/Edge.java
+END
+AnnotationWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/asm/AnnotationWriter.java
+END
+ClassVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/asm/ClassVisitor.java
+END
+SymbolTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/asm/SymbolTable.java
+END
+ClassReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/asm/ClassReader.java
+END
+Symbol.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/asm/Symbol.java
+END
+AnnotationVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/asm/AnnotationVisitor.java
+END
+ByteVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/asm/ByteVector.java
+END
+Handler.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/asm/Handler.java
+END
+Frame.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/asm/Frame.java
+END
+Type.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/asm/Type.java
+END
+Opcodes.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/asm/Opcodes.java
+END
+MethodVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/asm/MethodVisitor.java
+END
+RecordComponentVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/asm/RecordComponentVisitor.java
+END
+SpringAsmInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/asm/SpringAsmInfo.java
+END
+FieldVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/asm/FieldVisitor.java
+END
+TypePath.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/asm/TypePath.java
+END
+FieldWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/asm/FieldWriter.java
+END
+MethodTooLargeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/asm/MethodTooLargeException.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/asm/Constants.java
+END
+ClassTooLargeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/asm/ClassTooLargeException.java
+END
+Attribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/asm/Attribute.java
+END
+ModuleWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/asm/ModuleWriter.java
+END
+Label.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/asm/Label.java
+END
+ModuleVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/asm/ModuleVisitor.java
+END
+RecordComponentWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/asm/RecordComponentWriter.java
+END
+Handle.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/main/java/org/springframework/asm/Handle.java
+END

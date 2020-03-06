@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/annotation
+END
+InjectionMetadata.class
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/annotation/InjectionMetadata.class
+END
+Lookup.class
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/annotation/Lookup.class
+END
+Configurable.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/annotation/Configurable.class
+END
+AnnotationBeanWiringInfoResolver.class
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/annotation/AnnotationBeanWiringInfoResolver.class
+END
+InitDestroyAnnotationBeanPostProcessor$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/annotation/InitDestroyAnnotationBeanPostProcessor$1.class
+END
+InitDestroyAnnotationBeanPostProcessor.class
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/annotation/InitDestroyAnnotationBeanPostProcessor.class
+END
+InjectionMetadata$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/annotation/InjectionMetadata$1.class
+END
+AutowiredAnnotationBeanPostProcessor$ShortcutDependencyDescriptor.class
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/annotation/AutowiredAnnotationBeanPostProcessor$ShortcutDependencyDescriptor.class
+END
+InjectionMetadata$InjectedElement.class
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/annotation/InjectionMetadata$InjectedElement.class
+END
+package-info.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/annotation/package-info.class
+END
+Qualifier.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/annotation/Qualifier.class
+END
+Autowire.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/annotation/Autowire.class
+END
+Autowired.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/annotation/Autowired.class
+END
+RequiredAnnotationBeanPostProcessor.class
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/annotation/RequiredAnnotationBeanPostProcessor.class
+END
+InitDestroyAnnotationBeanPostProcessor$LifecycleElement.class
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/annotation/InitDestroyAnnotationBeanPostProcessor$LifecycleElement.class
+END
+BeanFactoryAnnotationUtils.class
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/annotation/BeanFactoryAnnotationUtils.class
+END
+AnnotatedGenericBeanDefinition.class
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/annotation/AnnotatedGenericBeanDefinition.class
+END
+QualifierAnnotationAutowireCandidateResolver.class
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/annotation/QualifierAnnotationAutowireCandidateResolver.class
+END
+AutowiredAnnotationBeanPostProcessor$AutowiredMethodElement.class
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/annotation/AutowiredAnnotationBeanPostProcessor$AutowiredMethodElement.class
+END
+AutowiredAnnotationBeanPostProcessor.class
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/annotation/AutowiredAnnotationBeanPostProcessor.class
+END
+Required.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/annotation/Required.class
+END
+CustomAutowireConfigurer.class
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/annotation/CustomAutowireConfigurer.class
+END
+ParameterResolutionDelegate.class
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/annotation/ParameterResolutionDelegate.class
+END
+Value.class
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/annotation/Value.class
+END
+AnnotatedBeanDefinition.class
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/annotation/AnnotatedBeanDefinition.class
+END
+ParameterResolutionDelegate$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/annotation/ParameterResolutionDelegate$1.class
+END
+AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.class
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/annotation/AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.class
+END
+InitDestroyAnnotationBeanPostProcessor$LifecycleMetadata.class
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/springcode/!svn/ver/1/spring-framework/spring-beans/build/classes/groovy/main/org/springframework/beans/factory/annotation/InitDestroyAnnotationBeanPostProcessor$LifecycleMetadata.class
+END

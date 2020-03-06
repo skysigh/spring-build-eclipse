@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/util/subpackage
+END
+LegacyEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/util/subpackage/LegacyEntity.java
+END
+LegacyEntityException.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/util/subpackage/LegacyEntityException.java
+END
+StaticMethods.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/util/subpackage/StaticMethods.java
+END
+StaticFields.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/util/subpackage/StaticFields.java
+END
+PersistentEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/util/subpackage/PersistentEntity.java
+END
+PersonEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/util/subpackage/PersonEntity.java
+END
+Component.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/util/subpackage/Component.java
+END
+Person.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/util/subpackage/Person.java
+END

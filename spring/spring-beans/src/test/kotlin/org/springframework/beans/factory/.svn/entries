@@ -1,0 +1,55 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-beans/src/test/kotlin/org/springframework/beans/factory
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+BeanFactoryExtensionsTests.kt
+file
+
+
+
+
+2020-03-06T03:45:31.518000Z
+f07694d1744bab0f3b40bf0bf583aaed
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+ListableBeanFactoryExtensionsTests.kt
+file
+
+
+
+
+2020-03-06T03:45:31.530000Z
+a524b761c0fc225b04727134ccbdf3c5
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+annotation
+dir
+

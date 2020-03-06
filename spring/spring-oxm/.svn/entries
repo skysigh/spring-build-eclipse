@@ -1,0 +1,76 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-oxm
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+.classpath
+file
+
+
+
+
+2020-03-06T03:51:18.722000Z
+cb5357efe0c61a938a9b23392bea045e
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+.project
+file
+
+
+
+
+2020-03-06T03:51:18.734000Z
+1800c3e5f99751e26a740052ca8e96a2
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+.settings
+dir
+
+bin
+dir
+
+build
+dir
+
+spring-oxm.gradle
+file
+
+
+
+
+2020-03-06T03:51:30.149000Z
+5efdb08779f68988d347dea69680294e
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+src
+dir
+

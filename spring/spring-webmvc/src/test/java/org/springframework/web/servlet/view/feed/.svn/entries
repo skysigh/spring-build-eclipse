@@ -1,0 +1,52 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-webmvc/src/test/java/org/springframework/web/servlet/view/feed
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+AtomFeedViewTests.java
+file
+
+
+
+
+2020-03-06T03:55:36.046000Z
+b14a70e3deed7b1793e4976d987f8d8a
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+RssFeedViewTests.java
+file
+
+
+
+
+2020-03-06T03:55:36.061000Z
+db3358287936707ef47571cf528af194
+2020-03-06T03:35:38.538472Z
+1
+wck
+

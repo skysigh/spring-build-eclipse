@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/test/java/org/springframework/cache/caffeine
+END
+CaffeineCacheTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/test/java/org/springframework/cache/caffeine/CaffeineCacheTests.java
+END
+CaffeineCacheManagerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-context-support/src/test/java/org/springframework/cache/caffeine/CaffeineCacheManagerTests.java
+END

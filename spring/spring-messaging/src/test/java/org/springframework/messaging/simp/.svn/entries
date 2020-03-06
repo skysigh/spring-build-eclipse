@@ -1,0 +1,115 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-messaging/src/test/java/org/springframework/messaging/simp
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+SimpAttributesContextHolderTests.java
+file
+
+
+
+
+2020-03-06T03:51:06.758000Z
+7a1c353091cd2c8ad7e70e086bed7334
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+SimpAttributesTests.java
+file
+
+
+
+
+2020-03-06T03:51:06.775000Z
+0781b252c818c76d4916f0821c64792e
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+SimpMessageHeaderAccessorTests.java
+file
+
+
+
+
+2020-03-06T03:51:06.792000Z
+e3dcc2f8b288fa521bc77d054b586e30
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+SimpMessageTypeMessageConditionTests.java
+file
+
+
+
+
+2020-03-06T03:51:06.805000Z
+7628d4975ba7ece5db2499c3c1f6e22d
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+SimpMessagingTemplateTests.java
+file
+
+
+
+
+2020-03-06T03:51:06.818000Z
+f44193f3fbeee8de4301cb430583f753
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+SimpSessionScopeTests.java
+file
+
+
+
+
+2020-03-06T03:51:06.832000Z
+10f6c56ef8e3470cc57d21fa2399120d
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+annotation
+dir
+
+broker
+dir
+
+config
+dir
+
+stomp
+dir
+
+user
+dir
+

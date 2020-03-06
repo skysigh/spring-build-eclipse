@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/instrument/classloading
+END
+ReflectiveLoadTimeWeaver.class
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/instrument/classloading/ReflectiveLoadTimeWeaver.class
+END
+SimpleThrowawayClassLoader.class
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/instrument/classloading/SimpleThrowawayClassLoader.class
+END
+ResourceOverridingShadowingClassLoader$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/instrument/classloading/ResourceOverridingShadowingClassLoader$1.class
+END
+InstrumentationLoadTimeWeaver$InstrumentationAccessor.class
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/instrument/classloading/InstrumentationLoadTimeWeaver$InstrumentationAccessor.class
+END
+LoadTimeWeaver.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/instrument/classloading/LoadTimeWeaver.class
+END
+package-info.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/instrument/classloading/package-info.class
+END
+ShadowingClassLoader.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/instrument/classloading/ShadowingClassLoader.class
+END
+WeavingTransformer.class
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/instrument/classloading/WeavingTransformer.class
+END
+ResourceOverridingShadowingClassLoader.class
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/instrument/classloading/ResourceOverridingShadowingClassLoader.class
+END
+SimpleInstrumentableClassLoader.class
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/instrument/classloading/SimpleInstrumentableClassLoader.class
+END
+SimpleLoadTimeWeaver.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/instrument/classloading/SimpleLoadTimeWeaver.class
+END
+InstrumentationLoadTimeWeaver.class
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/instrument/classloading/InstrumentationLoadTimeWeaver.class
+END
+InstrumentationLoadTimeWeaver$FilteringClassFileTransformer.class
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/build/classes/java/main/org/springframework/instrument/classloading/InstrumentationLoadTimeWeaver$FilteringClassFileTransformer.class
+END

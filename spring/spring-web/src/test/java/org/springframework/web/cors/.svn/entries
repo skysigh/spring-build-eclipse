@@ -1,0 +1,79 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-web/src/test/java/org/springframework/web/cors
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+CorsConfigurationTests.java
+file
+
+
+
+
+2020-03-06T03:54:04.932000Z
+697ee4970d10b9d706fda7feae6f923c
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+CorsUtilsTests.java
+file
+
+
+
+
+2020-03-06T03:54:04.949000Z
+1cec7f5b4da85a14d25b7c4dc738a343
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+DefaultCorsProcessorTests.java
+file
+
+
+
+
+2020-03-06T03:54:04.961000Z
+6e7bae546d659d685845f7c549ce015c
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+UrlBasedCorsConfigurationSourceTests.java
+file
+
+
+
+
+2020-03-06T03:54:04.973000Z
+1a3a1111b975a51b679c3fe56f04dbac
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+reactive
+dir
+

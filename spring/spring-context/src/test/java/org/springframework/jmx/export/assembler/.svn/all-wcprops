@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/jmx/export/assembler
+END
+InterfaceBasedMBeanInfoAssemblerCustomTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/jmx/export/assembler/InterfaceBasedMBeanInfoAssemblerCustomTests.java
+END
+MethodNameBasedMBeanInfoAssemblerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/jmx/export/assembler/MethodNameBasedMBeanInfoAssemblerTests.java
+END
+ICustomBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/jmx/export/assembler/ICustomBase.java
+END
+AbstractJmxAssemblerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/jmx/export/assembler/AbstractJmxAssemblerTests.java
+END
+InterfaceBasedMBeanInfoAssemblerMappedTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/jmx/export/assembler/InterfaceBasedMBeanInfoAssemblerMappedTests.java
+END
+MethodExclusionMBeanInfoAssemblerComboTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/jmx/export/assembler/MethodExclusionMBeanInfoAssemblerComboTests.java
+END
+InterfaceBasedMBeanInfoAssemblerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/jmx/export/assembler/InterfaceBasedMBeanInfoAssemblerTests.java
+END
+ReflectiveAssemblerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/jmx/export/assembler/ReflectiveAssemblerTests.java
+END
+MethodExclusionMBeanInfoAssemblerNotMappedTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/jmx/export/assembler/MethodExclusionMBeanInfoAssemblerNotMappedTests.java
+END
+MethodExclusionMBeanInfoAssemblerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/jmx/export/assembler/MethodExclusionMBeanInfoAssemblerTests.java
+END
+AbstractMetadataAssemblerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/jmx/export/assembler/AbstractMetadataAssemblerTests.java
+END
+IAdditionalTestMethods.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/jmx/export/assembler/IAdditionalTestMethods.java
+END
+MethodExclusionMBeanInfoAssemblerMappedTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/jmx/export/assembler/MethodExclusionMBeanInfoAssemblerMappedTests.java
+END
+ICustomJmxBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/jmx/export/assembler/ICustomJmxBean.java
+END
+MethodNameBasedMBeanInfoAssemblerMappedTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/jmx/export/assembler/MethodNameBasedMBeanInfoAssemblerMappedTests.java
+END

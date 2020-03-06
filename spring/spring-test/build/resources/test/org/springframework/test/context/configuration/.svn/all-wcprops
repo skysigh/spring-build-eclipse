@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/build/resources/test/org/springframework/test/context/configuration
+END
+ContextConfigurationWithPropertiesExtendingPropertiesTests-context.properties
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/build/resources/test/org/springframework/test/context/configuration/ContextConfigurationWithPropertiesExtendingPropertiesTests-context.properties
+END
+ContextConfigurationWithPropertiesExtendingPropertiesAndInheritedLoaderTests-context.properties
+K 25
+svn:wc:ra_dav:version-url
+V 219
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/build/resources/test/org/springframework/test/context/configuration/ContextConfigurationWithPropertiesExtendingPropertiesAndInheritedLoaderTests-context.properties
+END

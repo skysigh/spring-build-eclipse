@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/scripting/groovy
+END
+TestException.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/scripting/groovy/TestException.java
+END
+ConcreteMessenger.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/scripting/groovy/ConcreteMessenger.java
+END
+Log.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/scripting/groovy/Log.java
+END
+GroovyScriptEvaluatorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/scripting/groovy/GroovyScriptEvaluatorTests.java
+END
+GroovyClassLoadingTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/scripting/groovy/GroovyClassLoadingTests.java
+END
+MyImportCustomizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/scripting/groovy/MyImportCustomizer.java
+END
+GroovyScriptFactoryTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/scripting/groovy/GroovyScriptFactoryTests.java
+END
+TestServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/scripting/groovy/TestServiceImpl.java
+END
+GroovyAspectTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/scripting/groovy/GroovyAspectTests.java
+END
+MyBytecodeProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/scripting/groovy/MyBytecodeProcessor.java
+END
+TestService.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/scripting/groovy/TestService.java
+END
+GroovyAspectIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/scripting/groovy/GroovyAspectIntegrationTests.java
+END
+LogUserAdvice.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/test/java/org/springframework/scripting/groovy/LogUserAdvice.java
+END

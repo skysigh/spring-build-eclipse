@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/testFixtures/java/org/springframework/core/testfixture
+END
+JavaUtilLoggingConfigurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/testFixtures/java/org/springframework/core/testfixture/JavaUtilLoggingConfigurer.java
+END
+TestGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/testFixtures/java/org/springframework/core/testfixture/TestGroup.java
+END
+Assume.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/testFixtures/java/org/springframework/core/testfixture/Assume.java
+END
+TestGroupsCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/testFixtures/java/org/springframework/core/testfixture/TestGroupsCondition.java
+END
+EnabledForTestGroups.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/testFixtures/java/org/springframework/core/testfixture/EnabledForTestGroups.java
+END
+TimeStamped.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/src/testFixtures/java/org/springframework/core/testfixture/TimeStamped.java
+END

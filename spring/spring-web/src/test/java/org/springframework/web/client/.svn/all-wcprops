@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/client
+END
+DefaultResponseErrorHandlerHttpStatusTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/client/DefaultResponseErrorHandlerHttpStatusTests.java
+END
+RestTemplateTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/client/RestTemplateTests.java
+END
+DefaultResponseErrorHandlerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/client/DefaultResponseErrorHandlerTests.java
+END
+AbstractMockWebServerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/client/AbstractMockWebServerTests.java
+END
+HttpStatusCodeExceptionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/client/HttpStatusCodeExceptionTests.java
+END
+ExtractingResponseErrorHandlerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/client/ExtractingResponseErrorHandlerTests.java
+END
+RestTemplateIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/client/RestTemplateIntegrationTests.java
+END
+AsyncRestTemplateIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/client/AsyncRestTemplateIntegrationTests.java
+END
+HttpMessageConverterExtractorTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/test/java/org/springframework/web/client/HttpMessageConverterExtractorTests.java
+END

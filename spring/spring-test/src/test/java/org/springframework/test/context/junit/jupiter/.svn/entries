@@ -1,0 +1,241 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-test/src/test/java/org/springframework/test/context/junit/jupiter
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+ComposedSpringExtensionTests.java
+file
+
+
+
+
+2020-03-06T03:52:30.258000Z
+c0c5c56405faf64b57b86156b5d3ac36
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+DisabledIfConditionTests.java
+file
+
+
+
+
+2020-03-06T03:52:30.270000Z
+27f579c919490699ecaf0e29040df25d
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+DisabledIfTests.java
+file
+
+
+
+
+2020-03-06T03:52:30.281000Z
+9950d252765a891a1a72d668c40951ff
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+DisabledOnMac.java
+file
+
+
+
+
+2020-03-06T03:52:30.293000Z
+4797f4847191edf53fbab8c952799ff9
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+EnabledIfTests.java
+file
+
+
+
+
+2020-03-06T03:52:30.304000Z
+206c0b20af34c37cb1424ef059a521fd
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+EnabledOnMac.java
+file
+
+
+
+
+2020-03-06T03:52:30.315000Z
+53dc391662179050f6654be8dbe4ae0d
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+FailingBeforeAndAfterMethodsSpringExtensionTests.java
+file
+
+
+
+
+2020-03-06T03:52:30.326000Z
+8774bf88bdbbaa9ef6b8ef6dabcb146a
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+FailingTestCase.java
+file
+
+
+
+
+2020-03-06T03:52:30.338000Z
+b969ba2285d36dddf994c9bf6b1a7071
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+RegisterExtensionSpringExtensionTests.java
+file
+
+
+
+
+2020-03-06T03:52:30.348000Z
+ae759250897433c23f35b3e7ca508237
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+SpringExtensionParameterizedTests.java
+file
+
+
+
+
+2020-03-06T03:52:30.360000Z
+eda3e0a4b9155cc63821af1782c73286
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+SpringExtensionTests.java
+file
+
+
+
+
+2020-03-06T03:52:30.372000Z
+8413b152be5923ac51b7003d02e4c938
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+SpringJUnitJupiterAutowiredConstructorInjectionTests.java
+file
+
+
+
+
+2020-03-06T03:52:30.382000Z
+020e26835b7ab98eb672ae0f09b72caf
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+SpringJUnitJupiterConstructorInjectionTests.java
+file
+
+
+
+
+2020-03-06T03:52:30.394000Z
+839cf514461ec87c8fbbeea5b7a9f399
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+SpringManagedJupiterExtensionTests.java
+file
+
+
+
+
+2020-03-06T03:52:30.405000Z
+85bd5fd1694925fe80caaf21f951d6f0
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+TestConfig.java
+file
+
+
+
+
+2020-03-06T03:52:30.416000Z
+626504d139626affc18e638f0846162c
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+TestConstructorAnnotationIntegrationTests.java
+file
+
+
+
+
+2020-03-06T03:52:30.428000Z
+a168f26fa98cfe5d692d7e455760e0d2
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+comics
+dir
+
+defaultmethods
+dir
+
+generics
+dir
+
+nested
+dir
+
+parallel
+dir
+
+transaction
+dir
+
+web
+dir
+

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/test/java/test/aop
+END
+PerThisAspect.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/test/java/test/aop/PerThisAspect.java
+END
+TwoAdviceAspect.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/test/java/test/aop/TwoAdviceAspect.java
+END
+DefaultLockable.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/test/java/test/aop/DefaultLockable.java
+END
+PerTargetAspect.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/test/java/test/aop/PerTargetAspect.java
+END
+Lockable.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/springcode/!svn/ver/1/spring-framework/spring-aop/src/test/java/test/aop/Lockable.java
+END

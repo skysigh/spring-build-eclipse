@@ -1,0 +1,54 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-context/build/classes/java/main/org/springframework/validation/annotation
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+Validated.class
+file
+
+
+
+
+2020-03-06T03:47:03.350000Z
+1399614fefe5959f8c5e6c9310c312ad
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+
+package-info.class
+file
+
+
+
+
+2020-03-06T03:47:03.365000Z
+0dec465abc3b74f784d358e399c954fb
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+

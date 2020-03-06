@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/test/java/org/springframework/orm/jpa/hibernate
+END
+HibernateMultiEntityManagerFactoryIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/test/java/org/springframework/orm/jpa/hibernate/HibernateMultiEntityManagerFactoryIntegrationTests.java
+END
+HibernateEntityManagerFactoryIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/test/java/org/springframework/orm/jpa/hibernate/HibernateEntityManagerFactoryIntegrationTests.java
+END
+HibernateNativeEntityManagerFactorySpringBeanContainerIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/test/java/org/springframework/orm/jpa/hibernate/HibernateNativeEntityManagerFactorySpringBeanContainerIntegrationTests.java
+END
+HibernateNativeEntityManagerFactoryIntegrationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/springcode/!svn/ver/1/spring-framework/spring-orm/src/test/java/org/springframework/orm/jpa/hibernate/HibernateNativeEntityManagerFactoryIntegrationTests.java
+END

@@ -1,0 +1,52 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-webmvc/src/test/resources/org/springframework/web/servlet/view/groovy/includes
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+include.tpl
+file
+
+
+
+
+2020-03-06T03:55:40.267000Z
+572425c6cbbd86d891c1b709074f90a7
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+include_de_DE.tpl
+file
+
+
+
+
+2020-03-06T03:55:40.280000Z
+7c7175b9cb2d186012b696da11a2b3be
+2020-03-06T03:35:38.538472Z
+1
+wck
+

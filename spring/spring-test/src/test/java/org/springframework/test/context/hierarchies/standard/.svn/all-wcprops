@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/hierarchies/standard
+END
+SingleTestClassWithTwoLevelContextHierarchyTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/hierarchies/standard/SingleTestClassWithTwoLevelContextHierarchyTests.java
+END
+DirtiesContextWithContextHierarchyTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/hierarchies/standard/DirtiesContextWithContextHierarchyTests.java
+END
+SingleTestClassWithSingleLevelContextHierarchyTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/hierarchies/standard/SingleTestClassWithSingleLevelContextHierarchyTests.java
+END
+TestHierarchyLevelTwoWithBareContextConfigurationInSuperclassTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/hierarchies/standard/TestHierarchyLevelTwoWithBareContextConfigurationInSuperclassTests.java
+END
+TestHierarchyLevelTwoWithBareContextConfigurationInSubclassTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/hierarchies/standard/TestHierarchyLevelTwoWithBareContextConfigurationInSubclassTests.java
+END
+TestHierarchyLevelTwoWithSingleLevelContextHierarchyAndMixedConfigTypesTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/hierarchies/standard/TestHierarchyLevelTwoWithSingleLevelContextHierarchyAndMixedConfigTypesTests.java
+END
+ClassHierarchyWithMergedConfigLevelTwoTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/hierarchies/standard/ClassHierarchyWithMergedConfigLevelTwoTests.java
+END
+ClassHierarchyWithOverriddenConfigLevelTwoTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/hierarchies/standard/ClassHierarchyWithOverriddenConfigLevelTwoTests.java
+END
+SingleTestClassWithTwoLevelContextHierarchyAndMixedConfigTypesTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/hierarchies/standard/SingleTestClassWithTwoLevelContextHierarchyAndMixedConfigTypesTests.java
+END
+TestHierarchyLevelTwoWithSingleLevelContextHierarchyTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/hierarchies/standard/TestHierarchyLevelTwoWithSingleLevelContextHierarchyTests.java
+END
+TestHierarchyLevelOneWithSingleLevelContextHierarchyTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/hierarchies/standard/TestHierarchyLevelOneWithSingleLevelContextHierarchyTests.java
+END
+TestHierarchyLevelOneWithBareContextConfigurationInSuperclassTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/hierarchies/standard/TestHierarchyLevelOneWithBareContextConfigurationInSuperclassTests.java
+END
+TestHierarchyLevelOneWithBareContextConfigurationInSubclassTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/hierarchies/standard/TestHierarchyLevelOneWithBareContextConfigurationInSubclassTests.java
+END
+ClassHierarchyWithMergedConfigLevelOneTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/springcode/!svn/ver/1/spring-framework/spring-test/src/test/java/org/springframework/test/context/hierarchies/standard/ClassHierarchyWithMergedConfigLevelOneTests.java
+END

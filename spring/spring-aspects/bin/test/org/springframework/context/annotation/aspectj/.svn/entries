@@ -1,0 +1,54 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-aspects/bin/test/org/springframework/context/annotation/aspectj
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+AnnotationBeanConfigurerTests$Config.class
+file
+
+
+
+
+2020-03-06T03:44:40.332000Z
+cc4f35ee0028a1a9f937b68dc2a041b0
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+
+AnnotationBeanConfigurerTests.class
+file
+
+
+
+
+2020-03-06T03:44:40.347000Z
+3b7b5f3bf9434ebfdc81947dd6d8cba5
+2020-03-06T03:35:38.538472Z
+1
+wck
+has-props
+

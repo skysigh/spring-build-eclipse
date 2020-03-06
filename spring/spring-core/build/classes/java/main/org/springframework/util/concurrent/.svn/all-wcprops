@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/util/concurrent
+END
+ListenableFutureAdapter$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/util/concurrent/ListenableFutureAdapter$1.class
+END
+FailureCallback.class
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/util/concurrent/FailureCallback.class
+END
+FutureAdapter.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/util/concurrent/FutureAdapter.class
+END
+SuccessCallback.class
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/util/concurrent/SuccessCallback.class
+END
+FutureAdapter$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/util/concurrent/FutureAdapter$1.class
+END
+FutureAdapter$State.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/util/concurrent/FutureAdapter$State.class
+END
+ListenableFutureCallbackRegistry$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/util/concurrent/ListenableFutureCallbackRegistry$1.class
+END
+SettableListenableFuture.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/util/concurrent/SettableListenableFuture.class
+END
+ListenableFutureCallback.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/util/concurrent/ListenableFutureCallback.class
+END
+SettableListenableFuture$SettableTask.class
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/util/concurrent/SettableListenableFuture$SettableTask.class
+END
+DelegatingCompletableFuture.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/util/concurrent/DelegatingCompletableFuture.class
+END
+MonoToListenableFutureAdapter.class
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/util/concurrent/MonoToListenableFutureAdapter.class
+END
+package-info.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/util/concurrent/package-info.class
+END
+ListenableFutureAdapter.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/util/concurrent/ListenableFutureAdapter.class
+END
+ListenableFutureCallbackRegistry$State.class
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/util/concurrent/ListenableFutureCallbackRegistry$State.class
+END
+ListenableFutureCallbackRegistry.class
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/util/concurrent/ListenableFutureCallbackRegistry.class
+END
+ListenableFutureTask.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/util/concurrent/ListenableFutureTask.class
+END
+CompletableToListenableFutureAdapter.class
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/util/concurrent/CompletableToListenableFutureAdapter.class
+END
+ListenableFuture.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/util/concurrent/ListenableFuture.class
+END

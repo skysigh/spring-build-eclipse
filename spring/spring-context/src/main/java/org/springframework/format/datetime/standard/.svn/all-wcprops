@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/format/datetime/standard
+END
+DateTimeFormatterFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/format/datetime/standard/DateTimeFormatterFactoryBean.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/format/datetime/standard/package-info.java
+END
+TemporalAccessorParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/format/datetime/standard/TemporalAccessorParser.java
+END
+TemporalAccessorPrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/format/datetime/standard/TemporalAccessorPrinter.java
+END
+MonthFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/format/datetime/standard/MonthFormatter.java
+END
+DateTimeFormatterRegistrar.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/format/datetime/standard/DateTimeFormatterRegistrar.java
+END
+DateTimeConverters.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/format/datetime/standard/DateTimeConverters.java
+END
+DateTimeContextHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/format/datetime/standard/DateTimeContextHolder.java
+END
+MonthDayFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/format/datetime/standard/MonthDayFormatter.java
+END
+InstantFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/format/datetime/standard/InstantFormatter.java
+END
+DateTimeFormatterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/format/datetime/standard/DateTimeFormatterFactory.java
+END
+PeriodFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/format/datetime/standard/PeriodFormatter.java
+END
+YearMonthFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/format/datetime/standard/YearMonthFormatter.java
+END
+DateTimeContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/format/datetime/standard/DateTimeContext.java
+END
+Jsr310DateTimeFormatAnnotationFormatterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/format/datetime/standard/Jsr310DateTimeFormatAnnotationFormatterFactory.java
+END
+DurationFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/format/datetime/standard/DurationFormatter.java
+END
+YearFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/format/datetime/standard/YearFormatter.java
+END

@@ -1,0 +1,52 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-jms/src/main/java/org/springframework/jms/core/support
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+JmsGatewaySupport.java
+file
+
+
+
+
+2020-03-06T03:50:41.010000Z
+5a20ce56af68a48113d598612432fc32
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+package-info.java
+file
+
+
+
+
+2020-03-06T03:50:41.030000Z
+2714eb864e4b6d630fd96f105c382089
+2020-03-06T03:35:38.538472Z
+1
+wck
+

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/jca/endpoint
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/jca/endpoint/package-info.java
+END
+GenericMessageEndpointFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/jca/endpoint/GenericMessageEndpointFactory.java
+END
+GenericMessageEndpointManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/jca/endpoint/GenericMessageEndpointManager.java
+END
+AbstractMessageEndpointFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-tx/src/main/java/org/springframework/jca/endpoint/AbstractMessageEndpointFactory.java
+END

@@ -1,0 +1,58 @@
+8
+
+dir
+2
+https://desktop-q9p12j7:444/svn/springcode/spring-framework/spring-web/src/test/java/org/springframework/web/method
+https://desktop-q9p12j7:444/svn/springcode
+
+
+
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+934a4928-ce04-b648-b624-eec8cf4c63e4
+
+ControllerAdviceBeanTests.java
+file
+
+
+
+
+2020-03-06T03:54:05.576000Z
+70310b0949e11004ecba947331989594
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+HandlerTypePredicateTests.java
+file
+
+
+
+
+2020-03-06T03:54:05.592000Z
+4718ae59f23fd5c9d24b9be6f1fda4f5
+2020-03-06T03:35:38.538472Z
+1
+wck
+
+annotation
+dir
+
+support
+dir
+

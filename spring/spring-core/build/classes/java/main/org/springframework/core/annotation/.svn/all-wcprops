@@ -1,0 +1,377 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation
+END
+IntrospectionFailureLogger$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation/IntrospectionFailureLogger$1.class
+END
+TypeMappedAnnotations$AggregatesCollector.class
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation/TypeMappedAnnotations$AggregatesCollector.class
+END
+AnnotationFilter$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation/AnnotationFilter$1.class
+END
+ValueExtractor.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation/ValueExtractor.class
+END
+MergedAnnotations.class
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation/MergedAnnotations.class
+END
+AnnotationFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation/AnnotationFilter.class
+END
+TypeMappedAnnotations$AggregatesSpliterator.class
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation/TypeMappedAnnotations$AggregatesSpliterator.class
+END
+package-info.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation/package-info.class
+END
+AnnotationsScanner$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation/AnnotationsScanner$1.class
+END
+MergedAnnotationsCollection.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation/MergedAnnotationsCollection.class
+END
+PackagesAnnotationFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation/PackagesAnnotationFilter.class
+END
+AnnotationTypeMapping$MirrorSets.class
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation/AnnotationTypeMapping$MirrorSets.class
+END
+MergedAnnotationSelectors$Nearest.class
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation/MergedAnnotationSelectors$Nearest.class
+END
+AnnotationTypeMappings$Cache.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation/AnnotationTypeMappings$Cache.class
+END
+RepeatableContainers$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation/RepeatableContainers$1.class
+END
+MergedAnnotationSelectors$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation/MergedAnnotationSelectors$1.class
+END
+AnnotatedElementUtils.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation/AnnotatedElementUtils.class
+END
+RepeatableContainers.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation/RepeatableContainers.class
+END
+MergedAnnotationPredicates$UniquePredicate.class
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation/MergedAnnotationPredicates$UniquePredicate.class
+END
+TypeMappedAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation/TypeMappedAnnotation.class
+END
+AttributeMethods.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation/AttributeMethods.class
+END
+MergedAnnotations$SearchStrategy.class
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation/MergedAnnotations$SearchStrategy.class
+END
+TypeMappedAnnotations$IsPresent.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation/TypeMappedAnnotations$IsPresent.class
+END
+AnnotationsProcessor.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation/AnnotationsProcessor.class
+END
+Order.class
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation/Order.class
+END
+SynthesizedAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation/SynthesizedAnnotation.class
+END
+AnnotationAttributes.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation/AnnotationAttributes.class
+END
+TypeMappedAnnotations.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation/TypeMappedAnnotations.class
+END
+TypeMappedAnnotations$MergedAnnotationFinder.class
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation/TypeMappedAnnotations$MergedAnnotationFinder.class
+END
+IntrospectionFailureLogger.class
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation/IntrospectionFailureLogger.class
+END
+MergedAnnotationPredicates.class
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation/MergedAnnotationPredicates.class
+END
+MergedAnnotationSelectors.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation/MergedAnnotationSelectors.class
+END
+MergedAnnotationSelector.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation/MergedAnnotationSelector.class
+END
+AnnotationTypeMapping$MirrorSets$MirrorSet.class
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation/AnnotationTypeMapping$MirrorSets$MirrorSet.class
+END
+MergedAnnotation$Adapt.class
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation/MergedAnnotation$Adapt.class
+END
+SynthesizingMethodParameter.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation/SynthesizingMethodParameter.class
+END
+AnnotationConfigurationException.class
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation/AnnotationConfigurationException.class
+END
+MissingMergedAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation/MissingMergedAnnotation.class
+END
+MergedAnnotationCollectors.class
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation/MergedAnnotationCollectors.class
+END
+AnnotationTypeMappings$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation/AnnotationTypeMappings$1.class
+END
+AnnotationUtils$DefaultValueHolder.class
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation/AnnotationUtils$DefaultValueHolder.class
+END
+AbstractMergedAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation/AbstractMergedAnnotation.class
+END
+AnnotationTypeMapping.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation/AnnotationTypeMapping.class
+END
+AnnotatedElementUtils$AnnotatedElementForAnnotations.class
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation/AnnotatedElementUtils$AnnotatedElementForAnnotations.class
+END
+AnnotationUtils.class
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation/AnnotationUtils.class
+END
+MergedAnnotationSelectors$FirstDirectlyDeclared.class
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation/MergedAnnotationSelectors$FirstDirectlyDeclared.class
+END
+TypeMappedAnnotations$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation/TypeMappedAnnotations$1.class
+END
+RepeatableContainers$StandardRepeatableContainers.class
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation/RepeatableContainers$StandardRepeatableContainers.class
+END
+AliasFor.class
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation/AliasFor.class
+END
+MergedAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation/MergedAnnotation.class
+END
+TypeMappedAnnotations$Aggregate.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation/TypeMappedAnnotations$Aggregate.class
+END
+AnnotationAwareOrderComparator.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation/AnnotationAwareOrderComparator.class
+END
+AnnotationFilter$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation/AnnotationFilter$2.class
+END
+SynthesizedMergedAnnotationInvocationHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation/SynthesizedMergedAnnotationInvocationHandler.class
+END
+IntrospectionFailureLogger$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation/IntrospectionFailureLogger$2.class
+END
+OrderUtils.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation/OrderUtils.class
+END
+RepeatableContainers$NoRepeatableContainers.class
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation/RepeatableContainers$NoRepeatableContainers.class
+END
+RepeatableContainers$ExplicitRepeatableContainer.class
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation/RepeatableContainers$ExplicitRepeatableContainer.class
+END
+AnnotationTypeMappings.class
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation/AnnotationTypeMappings.class
+END
+MergedAnnotationPredicates$FirstRunOfPredicate.class
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation/MergedAnnotationPredicates$FirstRunOfPredicate.class
+END
+AnnotationsScanner.class
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation/AnnotationsScanner.class
+END
+MergedAnnotationsCollection$AnnotationsSpliterator.class
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/springcode/!svn/ver/1/spring-framework/spring-core/build/classes/java/main/org/springframework/core/annotation/MergedAnnotationsCollection$AnnotationsSpliterator.class
+END

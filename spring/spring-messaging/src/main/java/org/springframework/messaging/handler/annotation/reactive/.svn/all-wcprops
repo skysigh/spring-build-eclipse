@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/handler/annotation/reactive
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/handler/annotation/reactive/package-info.java
+END
+AbstractNamedValueMethodArgumentResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/handler/annotation/reactive/AbstractNamedValueMethodArgumentResolver.java
+END
+PayloadMethodArgumentResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/handler/annotation/reactive/PayloadMethodArgumentResolver.java
+END
+DestinationVariableMethodArgumentResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/handler/annotation/reactive/DestinationVariableMethodArgumentResolver.java
+END
+HeaderMethodArgumentResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/handler/annotation/reactive/HeaderMethodArgumentResolver.java
+END
+HeadersMethodArgumentResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/handler/annotation/reactive/HeadersMethodArgumentResolver.java
+END
+ContinuationHandlerMethodArgumentResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/handler/annotation/reactive/ContinuationHandlerMethodArgumentResolver.java
+END
+MessageMappingMessageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/springcode/!svn/ver/1/spring-framework/spring-messaging/src/main/java/org/springframework/messaging/handler/annotation/reactive/MessageMappingMessageHandler.java
+END

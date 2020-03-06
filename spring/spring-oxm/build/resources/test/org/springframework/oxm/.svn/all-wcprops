@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/springcode/!svn/ver/1/spring-framework/spring-oxm/build/resources/test/org/springframework/oxm
+END
+flight.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/springcode/!svn/ver/1/spring-framework/spring-oxm/build/resources/test/org/springframework/oxm/flight.xsd
+END
+order.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/springcode/!svn/ver/1/spring-framework/spring-oxm/build/resources/test/org/springframework/oxm/order.xsd
+END

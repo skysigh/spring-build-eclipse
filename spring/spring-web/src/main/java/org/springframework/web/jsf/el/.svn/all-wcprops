@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/jsf/el
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/jsf/el/package-info.java
+END
+WebApplicationContextFacesELResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/jsf/el/WebApplicationContextFacesELResolver.java
+END
+SpringBeanFacesELResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/springcode/!svn/ver/1/spring-framework/spring-web/src/main/java/org/springframework/web/jsf/el/SpringBeanFacesELResolver.java
+END

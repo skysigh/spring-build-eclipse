@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/scheduling/concurrent
+END
+DefaultManagedAwareThreadFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/scheduling/concurrent/DefaultManagedAwareThreadFactory.java
+END
+DefaultManagedTaskScheduler.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/scheduling/concurrent/DefaultManagedTaskScheduler.java
+END
+ThreadPoolTaskExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/scheduling/concurrent/ThreadPoolTaskExecutor.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/scheduling/concurrent/package-info.java
+END
+DefaultManagedTaskExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/scheduling/concurrent/DefaultManagedTaskExecutor.java
+END
+ThreadPoolExecutorFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/scheduling/concurrent/ThreadPoolExecutorFactoryBean.java
+END
+ConcurrentTaskScheduler.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/scheduling/concurrent/ConcurrentTaskScheduler.java
+END
+CustomizableThreadFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/scheduling/concurrent/CustomizableThreadFactory.java
+END
+ConcurrentTaskExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/scheduling/concurrent/ConcurrentTaskExecutor.java
+END
+ForkJoinPoolFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/scheduling/concurrent/ForkJoinPoolFactoryBean.java
+END
+ReschedulingRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/scheduling/concurrent/ReschedulingRunnable.java
+END
+ScheduledExecutorTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/scheduling/concurrent/ScheduledExecutorTask.java
+END
+ScheduledExecutorFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/scheduling/concurrent/ScheduledExecutorFactoryBean.java
+END
+ExecutorConfigurationSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/scheduling/concurrent/ExecutorConfigurationSupport.java
+END
+ThreadPoolTaskScheduler.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/springcode/!svn/ver/1/spring-framework/spring-context/src/main/java/org/springframework/scheduling/concurrent/ThreadPoolTaskScheduler.java
+END
